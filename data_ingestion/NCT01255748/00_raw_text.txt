@@ -1,0 +1,350 @@
+Registry Study for Radiation Therapy Outcomes
+ClinicalTrials.gov ID NCT01255748
+Sponsor Proton Collaborative Group
+Information provided by Proton Collaborative Group (Responsible Party)
+Last Update Posted 2025-09-09
+
+Study Overview
+Brief Summary
+The purpose of this research study is to collect and analyze information from patients being treated with various forms of radiation therapy.
+Official Title
+Evaluation Tracking Project: A Prospective Chart Review of Patients Treated With Radiation Therapy
+Conditions 
+Neoplasms
+Intervention / Treatment 
+Radiation: Proton Therapy, Photon Therapy, SRS, Brachytherapy
+Other Study ID Numbers 
+REG001-09
+Study Start 
+2009-06
+Primary Completion (Estimated) 
+2039-06
+Enrollment (Estimated) 
+40000
+Study Type 
+Observational [Patient Registry]
+Resource links provided by the National Library of Medicine NIH National Library of Medicine, National Center for Biotechnology Information
+MedlinePlus related topics:  Cancer  Cancer Immunotherapy  Cancer in Children  Tumors and Pregnancy 
+FDA Drug and Device Resources
+Contacts and Locations
+This section provides contact details for people who can answer questions about joining this study, and information on where this study is taking place.
+
+To learn more, please see the Contacts and Locations section in How to Read a Study Record.
+
+This study has 29 locations
+United States
+Arizona Locations
+Scottsdale, Arizona, United States, 85259-5499
+RecruitingMayo Clinic
+Contact :
+Clinical Trials Office - All Mayo Clinic Locations
+855-776-0015 (toll free)
+Arkansas Locations
+Little Rock, Arkansas, United States, 72205
+RecruitingProton Center of Arkansas
+Contact :
+Monica Coleman
+501-686-8274  mmcoleman@uams.edu
+Principal Investigator :
+Leslie Harrell, MD
+California Locations
+San Diego, California, United States, 92121
+RecruitingCalifornia Protons Cancer Therapy Center
+Contact :
+Alexandra Crawford, MPH
+858-549-7431  alexandra.crawford@californiaprotons.com
+Principal Investigator :
+James Urbanic, MD
+Florida Locations
+Delray Beach, Florida, United States, 33484
+RecruitingSouth Florida Proton Therapy Institute
+Contact :
+Salina Ramirez
+561-323-6360  sramirez@sfpti.com
+Principal Investigator :
+James Snider, MD
+Jacksonville, Florida, United States, 32223
+RecruitingAckerman Cancer Center
+Contact :
+Mitchell Urmann
+904-880-5522  mitchellu@ackermancancer.com
+Principal Investigator :
+Ryan Perkins, MD
+Miami, Florida, United States, 33125
+RecruitingDwoskin Proton Therapy Center
+Contact :
+Felisa Flores
+305-243-4370  fflores2@med.miami.edu
+Principal Investigator :
+Matthew Abramowitz, MD
+Miami, Florida, United States, 33176
+RecruitingMiami Cancer Institute
+Contact :
+Alex Kudryashev
+786-596-2000  alexku@baptisthealth.net
+Principal Investigator :
+Michael Chuong, MD
+Orlando, Florida, United States, 32806
+RecruitingOrlando Health Cancer Institute
+Contact :
+Leila IP, BSN, RN
+321-843-3762  leila.ip@orlandohealth.com
+Principal Investigator :
+Naren Ramakrishna, MD, Ph. D
+Georgia Locations
+Atlanta, Georgia, United States, 30308
+RecruitingEmory Proton Therapy Center
+Contact :
+Leann Schilling, MPH, CCRP
+404-686-0286  leann.schilling@emory.edu
+Principal Investigator :
+Mark McDonald, MD
+Illinois Locations
+Peoria, Illinois, United States, 61603
+RecruitingOSF HealthCare Cancer Institute
+Contact :
+Peyton Swearingen
+309-624-5013  peyton.o.swearingen@osfhealthcare.org
+Principal Investigator :
+Timothy Smile, MD
+Warrenville, Illinois, United States, 60555
+RecruitingNorthwestern Medicine Chicago Proton Center
+Contact :
+Don Smith, MS, CCRC
+630-933-7820  donald.smith3@nm.org
+Principal Investigator :
+Arpi Thukral, MD
+Kansas Locations
+Kansas City, Kansas, United States, 66160
+RecruitingUniversity of Kansas Proton Therapy Center
+Contact :
+Amanda Schroeder
+913-588-1617  aschroeder3@kumc.edu
+Principal Investigator :
+Ronny Rotondo, MD
+Overland Park, Kansas, United States, 66207
+RecruitingKansas City Proton Institute
+Contact :
+Judy Searcy
+913-647-4173  jsearcy@kcuc.com
+Principal Investigator :
+James Coster, MD
+Louisiana Locations
+Shreveport, Louisiana, United States, 71103
+RecruitingWillis-Knighton Cancer and Proton Therapy Center
+Contact :
+Briana Barrow, CCRC
+318-212-8671  bbarrow@wkhs.com
+Principal Investigator :
+Lane Rosen, MD
+Maryland Locations
+Baltimore, Maryland, United States, 21201
+RecruitingMaryland Proton Treatment Center
+Contact :
+Caitlin Eggleston
+410-328-7586  caitlineggleston@umm.edu
+Principal Investigator :
+Mark Mishra, MD
+Michigan Locations
+Flint, Michigan, United States, 48532
+RecruitingMcLaren Proton Therapy Center
+Contact :
+Drita Nuculovic
+810-342-5674  drita.nuculovic@mclaren.org
+Principal Investigator :
+Brian Yeh, MD
+Missouri Locations
+St Louis, Missouri, United States, 63110
+RecruitingWashington University in St. Louis
+Contact :
+Lindsey Mayer, CCRP
+314-286-2006  lindseymayer@wustl.edu
+Principal Investigator :
+Stephanie Perkins, MD
+St Louis, Missouri, United States, 63141
+RecruitingMercy David C. Pratt Cancer Center
+Contact :
+Nancy Umbeck
+314-251-7066  nancy.umbeck@mercy.net
+Principal Investigator :
+Amit Roy, MD
+New Jersey Locations
+Somerset, New Jersey, United States, 08873
+RecruitingProCure Proton Therapy Center
+Contact :
+Heba Darwish
+732-357-2676  heba.darwish@nj.procure.com
+Principal Investigator :
+Henry Tsai, MD
+New York Locations
+New York, New York, United States, 10035
+RecruitingNew York Proton Center
+Contact :
+Ryan Holder
+646-968-9055 ext 387  rholder@nyproton.com
+Principal Investigator :
+Charles Simone, MD, FACRO
+North Carolina Locations
+Charlotte, North Carolina, United States, 28204
+RecruitingAtrium Health Levine Cancer Proton & Advanced Radiation Center
+Contact :
+Maggie Dzhanumova
+980-515-5300  margarita.dzhanumova@atriumhealth.org
+Principal Investigator :
+Roshan Prabhu, MD
+Ohio Locations
+Cincinnati, Ohio, United States, 45044
+RecruitingUniversity of Cincinnati Medical Center
+Contact :
+Christine Vollmer, MBA
+513-213-3203  mccordce@ucmail.uc.edu
+Principal Investigator :
+Luke Pater, MD
+Oklahoma Locations
+Oklahoma City, Oklahoma, United States, 73142
+RecruitingOklahoma Proton Center
+Contact :
+Angela Beebe
+405-773-6708  angela.beebe@okcproton.com
+Principal Investigator :
+John Chang, MD
+Tennessee Locations
+Franklin, Tennessee, United States, 37067
+RecruitingTennessee Oncology Proton Center
+Contact :
+Erick Vides
+615-716-4736  evides@tnonc.com
+Principal Investigator :
+James Gray, MD
+Knoxville, Tennessee, United States, 37909
+RecruitingThompson Proton Center
+Contact :
+Kristi Simcox
+865-331-4985  esimcox@covhlth.com
+Principal Investigator :
+Ryan Grover, MD
+Texas Locations
+Irving, Texas, United States, 75063
+RecruitingTexas Center for Proton Therapy
+Contact :
+Vanetta Zollicoffer
+469-513-5531  vanetta.zollicoffer@usoncology.com
+Principal Investigator :
+Andrew Lee, MD
+Virginia Locations
+Fairfax, Virginia, United States, 22031
+RecruitingInova Schar Cancer Institute
+Contact :
+Sangeetha Moturi
+571-472-0343  sangeetha.moturi@inova.org
+Principal Investigator :
+Gopal Bajaj, MD
+Hampton, Virginia, United States, 23666
+RecruitingHampton University Proton Therapy Institute
+Contact :
+Donna Sternberg, RN, BSN, OCN
+757-251-6839  donna.sternberg@hamptonproton.org
+Principal Investigator :
+Christopher Sinesi, MD
+Washington Locations
+Seattle, Washington, United States, 98195-6043
+RecruitingUniversity of Washington
+Contact :
+Erica Peters, CCRC, CPM
+206-598-7188  etucker@uw.edu
+Principal Investigator :
+Annemarie Shepherd, MD
+Click to view interactive map
+Participation Criteria
+Researchers look for people who fit a certain description, called eligibility criteria. Some examples of these criteria are a person's general health condition or prior treatments.
+
+For general information about clinical research, read Learn About Studies.
+Eligibility Criteria
+Description
+Inclusion Criteria:
+
+Planned treatment with radiation therapy
+Ability to understand and sign IRB approved consent
+Study Population
+Radiation Oncology patients
+Ages Eligible for Study 
+(Child,  Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No
+Sampling Method
+Non-Probability Sample
+Study Plan
+This section provides details of the study plan, including how the study is designed and what the study is measuring.
+
+Expand all / Collapse all
+How is the study designed?
+Design Details
+Observational Model  : Cohort
+Time Perspective: Prospective
+Target Follow-up Duration: 30 Years
+Groups and Interventions
+
+Groups/Cohorts 	Intervention/Treatment 
+Treatment with Radiation Therapy
+Includes 16 different arms to capture patient data by disease site
+Radiation: Proton Therapy, Photon Therapy, SRS, Brachytherapy
+Outcomes Tracking
+
+What is the study measuring?
+Primary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Define outcomes for patients treated at participating institutions	 	PRN
+Secondary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Determine strategies necessary to improve patients outcome and decrease toxicities related to treatments and procedures	 	Annually PRN
+Improve patient care by an adequate understanding of the results and patient population at participating institutions	 	Reviewed Annually PRN
+Collaborators and Investigators
+This is where you will find people and organizations involved with this study.
+Sponsor 
+Proton Collaborative Group
+Investigators 
+Study Chair:Carlos Vargas, MD,Proton Collaborative Group
+Publications
+From PubMed
+These publications come from PubMed, a public database of scientific and medical articles. This list is automatically created by ClinicalTrials.gov Identifier (NCT Number), and these articles may or may not be about the study.
+
+Lee HJ Jr, Macomber MW, Spraker MB, Bowen SR, Hippe DS, Fung A, Russell KJ, Laramore GE, Rengan R, Liao J, Apisarnthanarax S, Zeng J. Early toxicity and patient reported quality-of-life in patients receiving proton therapy for localized prostate cancer: a single institutional review of prospectively recorded outcomes. Radiat Oncol. 2018 Sep 17;13(1):179. doi: 10.1186/s13014-018-1127-6.
+Study Record Dates
+These dates track the progress of study record and summary results submissions to ClinicalTrials.gov. Study records and reported results are reviewed by the National Library of Medicine (NLM) to make sure they meet specific quality control standards before being posted on the public website.
+Study Registration Dates
+First Submitted 
+2010-12-06
+First Submitted that Met QC Criteria 
+2010-12-06
+First Posted (Estimated) 
+2010-12-07
+Study Record Updates
+Last Update Submitted that met QC Criteria 
+2025-09-02
+Last Update Posted (Estimated) 
+2025-09-09
+Last Verified 
+2025-09
+More Information
+Record History
+Expand all / Collapse all
+Terms related to this study
+Keywords Provided by Proton Collaborative Group
+cancer, proton, radiation
+Additional Relevant MeSH Terms
+Neoplasms
+Heavy Ion Radiotherapy
+Radiotherapy
+Therapeutics
+Alkyl and Aryl Transferases
+Transferases
+Enzymes
+Enzymes and Coenzymes
+Proton Therapy
+Spermine Synthase
+Brachytherapy
+Drug and device information, study documents, and helpful links
+Helpful Links Provided by Proton Collaborative Group
+Sponsor's website

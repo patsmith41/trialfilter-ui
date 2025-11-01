@@ -1,0 +1,514 @@
+Radiation Therapy With Protons or Photons in Treating Patients With Liver Cancer
+ClinicalTrials.gov ID NCT03186898
+Sponsor NRG Oncology
+Information provided by NRG Oncology (Responsible Party)
+Last Update Posted 2025-09-08
+
+
+
+Study Overview
+Brief Summary
+This phase III trial studies how well radiation therapy with protons works compared with photons in treating patients with liver cancer. Radiation therapy, such as photon therapy, uses high energy x-rays to send the radiation inside the body to the tumor while proton therapy uses a beam of proton particles. Proton therapy can stop shortly after penetrating through the tumor and may cause less damage to the surrounding healthy organs and result in better survival in patients with liver cancer.
+Detailed Description
+PRIMARY OBJECTIVE:
+
+I. To determine if overall survival (OS) is different for hepatocellular carcinoma patients treated with protons compared to photons.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the difference in progression-free-survival (PFS) in patients with hepatocellular carcinoma (HCC) treated with protons compared to patients with HCC treated with photons.
+
+II. To determine the difference in local progression (LP) in patients with HCC treated with protons compared to patients with HCC treated with photons.
+
+III. To determine differences in toxicity in patients with HCC treated with protons versus photons.
+
+IV. To determine differences in fatigue, as measured by Patient-Reported Outcomes Measurement Information System (PROMIS) fatigue in patients with HCC treated with protons, versus photons; as well as quality-adjusted survival, if the primary endpoint is met.
+
+V. To determine if there are correlations between the baseline values of hepatocyte growth factor (HGF) and outcomes (OS/PFS/fatigue).
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine differences in overall quality of life, measured by Functional Assessment of Cancer Therapy-Hepatobiliary Cancer (FACT-Hep) in patients with HCC treated with protons.
+
+II. Biospecimen collection for future correlative science projects.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients undergo proton therapy over 15-24 days for 5 or 15 fractions.
+
+ARM II: Patients undergo photon therapy over 15-24 days for 5 or 15 fractions.
+
+Patients undergo computed tomography (CT) scan, magnetic resonance imaging (MRI) and blood sample collection throughout the study.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years, every 6 months for 3 years, and then yearly for up to 5 years.
+
+Official Title
+A Phase III Randomized Trial of Protons Versus Photons for Hepatocellular Carcinoma
+Conditions 
+Recurrent Hepatocellular Carcinoma
+Stage III Hepatocellular Carcinoma AJCC v7
+Unresectable Hepatocellular Carcinoma
+Intervention / Treatment 
+Procedure: Biospecimen Collection
+Procedure: Computed Tomography
+Other: Laboratory Biomarker Analysis
+Procedure: Magnetic Resonance Imaging
+Other: Quality-of-Life Assessment
+Radiation: Radiation Therapy
+Radiation: Radiation Therapy
+Other Study ID Numbers 
+NRG-GI003
+NCI-2016-02009 ( Registry Identifier ) (REGISTRY: CTRP (Clinical Trial Reporting Program))
+NRG-GI003 ( Other Identifier ) (OTHER: NRG Oncology)
+NRG-GI003 ( Other Identifier ) (OTHER: CTEP)
+U10CA180868 ( U.S. NIH Grant/Contract )
+Study Start (Actual) 
+2018-01-26
+Primary Completion (Estimated) 
+2027-06-30
+Study Completion (Estimated) 
+2027-06-30
+Enrollment (Estimated) 
+186
+Study Type 
+Interventional
+Phase 
+Phase 3
+Resource links provided by the National Library of Medicine NIH National Library of Medicine, National Center for Biotechnology Information
+MedlinePlus related topics:  Radiation Exposure  Radiation Therapy 
+FDA Drug and Device Resources
+Contacts and Locations
+This section provides contact details for people who can answer questions about joining this study, and information on where this study is taking place.
+
+To learn more, please see the Contacts and Locations section in How to Read a Study Record.
+
+This study has 27 locations
+United States
+Georgia Locations
+Atlanta, Georgia, United States, 30308
+RecruitingEmory Proton Therapy Center
+Contact :
+Site Public Contact
+404-251-2854  allyson.anderson@emory.edu
+Principal Investigator :
+Pretesh R. Patel
+Atlanta, Georgia, United States, 30308
+RecruitingEmory University Hospital Midtown
+Contact :
+Site Public Contact
+888-946-7447
+Principal Investigator :
+Pretesh R. Patel
+Atlanta, Georgia, United States, 30322
+RecruitingEmory University Hospital/Winship Cancer Institute
+Contact :
+Site Public Contact
+404-778-1868
+Principal Investigator :
+Pretesh R. Patel
+Atlanta, Georgia, United States, 30342
+RecruitingEmory Saint Joseph's Hospital
+Contact :
+Site Public Contact
+404-851-7115
+Principal Investigator :
+Pretesh R. Patel
+Illinois Locations
+Warrenville, Illinois, United States, 60555
+Active, not recruitingNorthwestern Medicine Cancer Center Warrenville
+Maryland Locations
+Baltimore, Maryland, United States, 21201
+RecruitingMaryland Proton Treatment Center
+Contact :
+Site Public Contact
+410-369-5226  info@mdproton.com
+Principal Investigator :
+Jason K. Molitoris
+Baltimore, Maryland, United States, 21201
+RecruitingUniversity of Maryland/Greenebaum Cancer Center
+Contact :
+Site Public Contact
+800-888-8823
+Principal Investigator :
+Jason K. Molitoris
+Massachusetts Locations
+Boston, Massachusetts, United States, 02114
+RecruitingMassachusetts General Hospital Cancer Center
+Contact :
+Site Public Contact
+877-726-5130
+Principal Investigator :
+Theodore S. Hong
+Michigan Locations
+Dearborn, Michigan, United States, 48124
+RecruitingCorewell Health Dearborn Hospital
+Contact :
+Site Public Contact
+248-551-7695
+Principal Investigator :
+John M. Robertson
+Royal Oak, Michigan, United States, 48073
+RecruitingCorewell Health William Beaumont University Hospital
+Contact :
+Site Public Contact
+248-551-7695
+Principal Investigator :
+John M. Robertson
+Troy, Michigan, United States, 48085
+RecruitingCorewell Health Beaumont Troy Hospital
+Contact :
+Site Public Contact
+248-551-7695
+Principal Investigator :
+John M. Robertson
+Missouri Locations
+St Louis, Missouri, United States, 63110
+RecruitingWashington University School of Medicine
+Contact :
+Site Public Contact
+800-600-3606  info@siteman.wustl.edu
+Principal Investigator :
+Hyun Kim
+New Jersey Locations
+Basking Ridge, New Jersey, United States, 07920
+Active, not recruitingMemorial Sloan Kettering Basking Ridge
+Middletown, New Jersey, United States, 07748
+Active, not recruitingMemorial Sloan Kettering Monmouth
+Montvale, New Jersey, United States, 07645
+Active, not recruitingMemorial Sloan Kettering Bergen
+New York Locations
+Commack, New York, United States, 11725
+Active, not recruitingMemorial Sloan Kettering Commack
+Harrison, New York, United States, 10604
+Active, not recruitingMemorial Sloan Kettering Westchester
+New York, New York, United States, 10035
+RecruitingNew York Proton Center
+Contact :
+Site Public Contact
+646-968-9031  ichoi@nyproton.com
+Principal Investigator :
+Arpit M. Chhabra
+New York, New York, United States, 10065
+Active, not recruitingMemorial Sloan Kettering Cancer Center
+Uniondale, New York, United States, 11553
+Active, not recruitingMemorial Sloan Kettering Nassau
+Ohio Locations
+Cincinnati, Ohio, United States, 45219
+RecruitingUniversity of Cincinnati Cancer Center-UC Medical Center
+Contact :
+Site Public Contact
+513-584-7698  cancer@uchealth.com
+Principal Investigator :
+Jordan Kharofa
+Cleveland, Ohio, United States, 44106
+RecruitingCase Western Reserve University
+Contact :
+Site Public Contact
+800-641-2422  CTUReferral@UHhospitals.org
+Principal Investigator :
+Lauren E. Henke
+Columbus, Ohio, United States, 43210
+RecruitingOhio State University Comprehensive Cancer Center
+Contact :
+Site Public Contact
+800-293-5066  Jamesline@osumc.edu
+Principal Investigator :
+Kenneth Pitter
+West Chester, Ohio, United States, 45069
+RecruitingUniversity of Cincinnati Cancer Center-West Chester
+Contact :
+Site Public Contact
+513-584-7698  cancer@uchealth.com
+Principal Investigator :
+Jordan Kharofa
+Texas Locations
+Houston, Texas, United States, 77030
+RecruitingM D Anderson Cancer Center
+Contact :
+Site Public Contact
+877-632-6789  askmdanderson@mdanderson.org
+Principal Investigator :
+Eugene J. Koay
+Washington Locations
+Seattle, Washington, United States, 98109
+RecruitingFred Hutchinson Cancer Center
+Contact :
+Site Public Contact
+800-804-8824
+Principal Investigator :
+Smith Apisarnthanarax
+Seattle, Washington, United States, 98195
+RecruitingUniversity of Washington Medical Center - Montlake
+Contact :
+Site Public Contact
+800-804-8824
+Principal Investigator :
+Smith Apisarnthanarax
+Click to view interactive map
+Participation Criteria
+Researchers look for people who fit a certain description, called eligibility criteria. Some examples of these criteria are a person's general health condition or prior treatments.
+
+For general information about clinical research, read Learn About Studies.
+Eligibility Criteria
+Description
+Inclusion Criteria:
+
+Pathologically (histologically or cytologically) or radiographically-proven (based on the American Association for the Study of Liver Diseases [AALSD] criteria) unresectable or locally recurrent hepatocellular cancer prior to registration
+Appropriate stage for study entry based on the following diagnostic workup:
+
+All patients must have computed tomography (CT) scan chest/abdomen/pelvis with multiphasic liver CT scan prior to registration; if CT contrast is contraindicated, CT chest without contrast and magnetic resonance imaging (MRI) of abdomen is permitted
+Participants must have measurable disease at study entry, defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded) as > 2 cm with conventional techniques or as > 1 cm with spiral CT scan
+Patient must have 3 or fewer single or multinodular tumors; for patients with a single lesion, lesion must be 15 cm or less in greatest dimension; for patients with two lesions, no lesion may be greater than 10 cm in greatest dimension; for patients with three lesions, no lesion may be greater than 6 cm in greatest dimension; portal vein involvement or thrombosis combined with a single lesion that is >= 1 cm and =< 15 cm in greatest dimension is allowed
+Age >= 18
+Zubrod performance status 0-1 within 30 days prior to registration
+Negative urine or serum pregnancy test for women of childbearing potential within 7 days prior to study entry
+Absolute neutrophil count (ANC) >= 1,000 cells/mm^3
+Platelets >= 50,000 cells/mm^3
+Hemoglobin >= 9.0 g/dl; (Note: The use of transfusion or other intervention to achieve hemoglobin [Hgb] >= 9.0 g/dl is acceptable)
+Total bilirubin < 4 x institutional upper limit of normal (ULN)
+Transaminases (aspartate aminotransferase [AST] and alanine aminotransferase [ALT]) < 6 x institutional ULN
+Albumin >= 2.5 g/dl
+Creatinine < 2 mg/dl
+Prior chemotherapy, targeted biological therapy (e.g. sorafenib), surgery, transarterial chemoembolization (TACE), ablation for present disease is acceptable
+Must have Child-Turcotte-Pugh (CTP) A or B7
+The patient or a legally authorized representative must provide study-specific informed consent prior to study registration
+Exclusion Criteria:
+
+PRIOR TO STEP ONE REGISTRATION:
+Definitive clinical or radiologic documentation of extrahepatic tumor, defined as extrahepatic metastases or malignant nodes (that enhance with typical features of HCC) > 3.0 cm, in sum of maximal diameters (e.g. presence of one 3.4 cm metastatic lymph node or two 2 cm lung lesions); note that benign non-enhancing periportal lymphadenopathy is not unusual in the presence of hepatitis and is permitted, even if the sum of enlarged nodes is > 2.0 cm
+Uncontrolled prior invasive malignancy, excluding the current diagnosis
+Systemic chemotherapy for the study cancer < 2 weeks prior to registration
+Pregnancy or women of childbearing potential and men who are sexually active and not willing/able to use medically acceptable forms of contraception; this exclusion is necessary because the treatment involved in this study may be significantly teratogenic
+HIV positive with CD4 count < 200 cells/microliter; note that patients who are human immunodeficiency virus (HIV) positive are eligible, provided they are under treatment with highly active antiretroviral therapy (HAART) and have a CD4 count >= 200 cells/microliter prior to registration; note also that HIV testing is not required for eligibility for this protocol; this exclusion criterion is necessary because the treatments involved in this protocol may be significantly immunosuppressive
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields (to include Y90)
+Prior liver transplant
+PRIOR TO STEP TWO RANDOMIZATION:
+Unable to obtain confirmation of payment coverage (insurance or other) for either possible treatment
+Ages Eligible for Study 
+18 Years and older (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No
+Study Plan
+This section provides details of the study plan, including how the study is designed and what the study is measuring.
+
+Expand all / Collapse all
+How is the study designed?
+Design Details
+Primary Purpose  : Treatment
+Allocation  : Randomized
+Interventional Model  : Parallel Assignment
+Masking  : None (Open Label)
+Arms and Interventions
+
+Participant Group/Arm 	Intervention/Treatment 
+Experimental: Arm I (proton therapy)
+Patients undergo proton therapy over 15-24 days for 5 or 15 fractions. Patients undergo CT scan, MRI and blood sample collection throughout the study.
+Procedure: Biospecimen Collection
+Undergo blood sample collection
+
+Other Names:
+Biological Sample Collection
+Biospecimen Collected
+Specimen Collection
+Procedure: Computed Tomography
+Undergo CT scan
+
+Other Names:
+CAT
+CAT Scan
+Computed Axial Tomography
+Computerized Axial Tomography
+Computerized axial tomography (procedure)
+Computerized Tomography
+Computerized Tomography (CT) scan
+CT
+CT Scan
+tomography
+Other: Laboratory Biomarker Analysis
+Correlative studies
+
+Procedure: Magnetic Resonance Imaging
+Undergo MRI
+
+Other Names:
+Magnetic Resonance
+Magnetic Resonance Imaging (MRI)
+Magnetic resonance imaging (procedure)
+Magnetic Resonance Imaging Scan
+Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance
+MR
+MR Imaging
+MRI
+MRI Scan
+MRIs
+NMR Imaging
+NMRI
+Nuclear Magnetic Resonance Imaging
+sMRI
+Structural MRI
+Other: Quality-of-Life Assessment
+Ancillary studies
+
+Other Names:
+Quality of Life Assessment
+Radiation: Radiation Therapy
+Undergo proton therapy
+
+Other Names:
+Cancer Radiotherapy
+Energy Type
+ENERGY_TYPE
+Irradiate
+Irradiated
+Irradiation
+Radiation
+Radiation Therapy, NOS
+Radiotherapeutics
+Radiotherapy
+RT
+Therapy, Radiation
+Experimental: Arm II (photon therapy)
+Patients undergo photon therapy over 15-24 days for 5 or 15 fractions. Patients undergo CT scan, MRI and blood sample collection throughout the study.
+Procedure: Biospecimen Collection
+Undergo blood sample collection
+
+Other Names:
+Biological Sample Collection
+Biospecimen Collected
+Specimen Collection
+Procedure: Computed Tomography
+Undergo CT scan
+
+Other Names:
+CAT
+CAT Scan
+Computed Axial Tomography
+Computerized Axial Tomography
+Computerized axial tomography (procedure)
+Computerized Tomography
+Computerized Tomography (CT) scan
+CT
+CT Scan
+tomography
+Other: Laboratory Biomarker Analysis
+Correlative studies
+
+Procedure: Magnetic Resonance Imaging
+Undergo MRI
+
+Other Names:
+Magnetic Resonance
+Magnetic Resonance Imaging (MRI)
+Magnetic resonance imaging (procedure)
+Magnetic Resonance Imaging Scan
+Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance
+MR
+MR Imaging
+MRI
+MRI Scan
+MRIs
+NMR Imaging
+NMRI
+Nuclear Magnetic Resonance Imaging
+sMRI
+Structural MRI
+Other: Quality-of-Life Assessment
+Ancillary studies
+
+Other Names:
+Quality of Life Assessment
+Radiation: Radiation Therapy
+Undergo photon therapy
+
+Other Names:
+Cancer Radiotherapy
+Energy Type
+ENERGY_TYPE
+Irradiate
+Irradiated
+Irradiation
+Radiation
+Radiation Therapy, NOS
+Radiotherapeutics
+Radiotherapy
+RT
+Therapy, Radiation
+What is the study measuring?
+Primary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Overall survival (OS)	Will be estimated by the Kaplan-Meier method. The distributions of OS between treatment arms will be compared using the log rank test. The final analysis will occur after at least 125 deaths have occurred and will include: tabulation of all cases entered and those excluded from the analyses with the reasons for exclusion, distributions of important prognostic baseline variables, the frequencies and severity of adverse events by treatment arm, treatment delivery compliance, observed results with respect to the primary endpoint of OS. Will be tested with a 2-sided significance level of 0.049.	From the date of randomization to the date of death due to any cause assessed up to 4 years
+Treatment effect	Will be performed using the Cox proportional hazard regression model.	Up to 4 years
+Secondary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Progression-free survival (PFS)	Will be estimated by the Kaplan-Meier method and compared using the log rank test. The Cox proportional hazard regression model will be used.	From the date of randomization to the date of first PFS failure or last follow-up for patients without a reported PFS event assessed up to 4 years
+Local progression (LP)	Will be estimated by the cumulative incidence method and compared using Gray's test. The Fine-Gray regression model will be used to analyze.	From the date of randomization to the date of first LP or date of last follow-up for patients without an LP event reported assessed up to 4 years
+Incidence of adverse events	Will be assessed by Common Terminology Criteria for Adverse Events version 4. A Chi-square test will be used to compare the number of patients with at least 1 grade 3 or higher adverse events between the treatment arms.	Up to 4 years
+Fatigue	Will be measured by the Patient-Reported Outcomes Measurement Information System (PROMIS) fatigue short form version 1.0 8a.	Baseline up to 6 months
+Change in fatigue	Will be compared between treatment arms using a t-test. If the data do not satisfy the normality assumption, a Wilcoxon test may be used instead.	Baseline up to 1 month
+Quality-adjusted survival	Will be evaluated and compared using European Quality of Life Five Dimension Three Level Questionnaire (EuroQol 5D).	Baseline up to 12 months
+Plasma hepatocyte growth factor (HGF) levels	Will be dichotomized at the median value and evaluated for prognostic significance using Cox regression model at a 2-sided significance level of 0.05. Additionally, predictive analyses will be done by treatment arm and an exploratory test of HGF by treatment interaction, with the understanding that there will be reduced power for the predictive analyses under the same effect size assumptions. However, there may be sufficient power if there is large interaction.	At baseline
+Other Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Overall quality of life by Functional Assessment of Cancer Therapy-Hepatobiliary (FACT-Hep) version 4	Differences between treatment arms in the overall score, the four domains (physical, social, emotional, and functional well-being), and the additional concerns subscale will also be analyzed.	Baseline up to 12 months
+Collaborators and Investigators
+This is where you will find people and organizations involved with this study.
+Sponsor 
+NRG Oncology
+Collaborators 
+National Cancer Institute (NCI)
+Investigators 
+Principal Investigator:Theodore S Hong,NRG Oncology
+Publications
+From PubMed
+These publications come from PubMed, a public database of scientific and medical articles. This list is automatically created by ClinicalTrials.gov Identifier (NCT Number), and these articles may or may not be about the study.
+
+Duda DG. Targeting Tumor Microenvironment in Liver Cancers: Rationale, Current Progress, and Future Perspective. Keio J Med. 2022;71(3):71. doi: 10.2302/kjm.71-004-ABST.
+Study Record Dates
+These dates track the progress of study record and summary results submissions to ClinicalTrials.gov. Study records and reported results are reviewed by the National Library of Medicine (NLM) to make sure they meet specific quality control standards before being posted on the public website.
+Study Registration Dates
+First Submitted 
+2017-06-12
+First Submitted that Met QC Criteria 
+2017-06-12
+First Posted 
+2017-06-14
+Study Record Updates
+Last Update Submitted that met QC Criteria 
+2025-09-04
+Last Update Posted (Estimated) 
+2025-09-08
+Last Verified 
+2025-09
+More Information
+Record History
+Expand all / Collapse all
+Terms related to this study
+Additional Relevant MeSH Terms
+Adenocarcinoma
+Carcinoma
+Neoplasms, Glandular and Epithelial
+Neoplasms by Histologic Type
+Neoplasms
+Liver Neoplasms
+Digestive System Neoplasms
+Neoplasms by Site
+Digestive System Diseases
+Liver Diseases
+Carcinoma, Hepatocellular
+Clinical Laboratory Techniques
+Diagnostic Techniques and Procedures
+Diagnosis
+Investigative Techniques
+Spectrum Analysis
+Chemistry Techniques, Analytical
+Therapeutics
+Physical Phenomena
+Specimen Handling
+Magnetic Resonance Spectroscopy
+Radiotherapy
+Radiation
+Drug and device information, study documents, and helpful links
+Studies a U.S. FDA-Regulated Drug Product
+No

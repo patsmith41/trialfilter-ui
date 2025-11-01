@@ -1,0 +1,57 @@
+{
+    "nct_id": "NCT04725903",
+    "official_title": "Extended-Field Lymph Node Proton Irradiation for High Risk Prostate Cancer",
+    "brief_title": "Proton Radiation Therapy for the Treatment of Patients with High Risk Prostate Cancer",
+    "cancer_type_display": "Stage III Prostate Cancer AJCC V8",
+    "cancer_tags": [
+      "Stage III Prostate Cancer AJCC V8",
+      "Stage IIIA Prostate Cancer AJCC V8",
+      "Stage IIIB Prostate Cancer AJCC V8",
+      "Stage IIIC Prostate Cancer AJCC V8"
+    ],
+    "phase": "Not Applicable",
+    "min_age": 18,
+    "max_age": null,
+    "sex": "Male",
+    "is_metastatic_allowed": false,
+    "performance_status_scale": "Zubrod",
+    "performance_status_values": [
+      0,
+      1,
+      2
+    ],
+    "min_prior_lines": null,
+    "max_prior_lines": null,
+    "prior_treatments_required": null,
+    "prior_treatments_excluded": [
+      "Previous radical surgery (prostatectomy) or cryosurgery for prostate cancer",
+      "Prior radiotherapy, including brachytherapy, to the region of the study cancer that would result in overlap of radiation therapy fields"
+    ],
+    "key_inclusion_summary": [
+      "Pathologically confirmed high-risk prostate cancer fulfilling any one of the following criteria:",
+      "Gleason grade 8 or higher",
+      "cT3b (seminal vesicle involvement) or cT4",
+      "Prostate specific antigen [PSA] > 20 (or PSA >10 if on finasteride)",
+      "Clinically or pathologically positive regional lymph nodes within the inguinal, external iliac, internal iliac, obturator, peri-rectal, pre-sacral, common iliac, or lower para-oaortc (inferior to the L2-L3 interspace) basins",
+      "Zubrod performance status 0-2",
+      "Complete blood cell (CBC)/differential obtained within 90 days prior to registration on study",
+      "Absolute neutrophil count (ANC) >= 1,500 cells/mm^3",
+      "Platelets >= 100,000 cells/mm^3",
+      "Hemoglobin >= 8.0 g/dl (Note: The use of transfusion or other intervention to achieve hemoglobin [Hgb] >= 8.0 g/dl is acceptable)",
+      "Patient must be able to provide study specific informed consent"
+    ],
+    "key_exclusion_summary": [
+      "Absence of bone metastasis by bone scan or metabolic imaging (e.g. NaF PET, FACBC PET, PSMA PET, etc.) before the start of therapy.",
+      "Absence of distant lymph node metastasis by CT and/or MRI before the start of therapy.",
+      "Previous radical surgery (prostatectomy) or cryosurgery for prostate cancer",
+      "Prior radiotherapy, including brachytherapy, to the region of the study cancer that would result in overlap of radiation therapy fields",
+      "Uncontrolled intercurrent illness including, but not limited to, inflammatory bowel disease, human immunodeficiency virus infection, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements"
+    ],
+    "recruitment_status": "Recruiting",
+    "last_update_date": "2024-11-14",
+    "site_name": "Emory University Hospital/Winship Cancer Institute",
+    "principal_investigator": "Pretesh R Patel",
+    "contact_email": "pretesh.patel@emory.edu",
+    "contact_phone": "404-778-3473",
+    "link_to_trial": "https://clinicaltrials.gov/study/NCT04725903"
+  }

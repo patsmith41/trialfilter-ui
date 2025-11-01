@@ -1,0 +1,51 @@
+[
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "Diffuse Midline Glioma",
+      "biomarkers": "H3K27 altered",
+      "clinical_state_descriptors": "Newly Diagnosed",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Spinal Cord Cancer",
+      "subtype_histology": "Diffuse Midline Glioma",
+      "biomarkers": "H3K27 altered",
+      "clinical_state_descriptors": "Newly Diagnosed",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "Diffuse Midline Glioma",
+      "biomarkers": "H3K27 altered",
+      "clinical_state_descriptors": "N/A",
+      "stage_category": "Recurrent"
+    },
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "Glioblastoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "N/A",
+      "stage_category": "Recurrent"
+    },
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "Ependymoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "N/A",
+      "stage_category": "Recurrent"
+    },
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "Grade III Glioma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "N/A",
+      "stage_category": "Recurrent"
+    },
+    {
+      "base_cancer": "Spinal Cord Cancer",
+      "subtype_histology": "Glioma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "N/A",
+      "stage_category": "Recurrent"
+    }
+  ]

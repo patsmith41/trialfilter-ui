@@ -1,0 +1,32 @@
+{
+    "nct_id": "NCT01255748",
+    "official_title": "Evaluation Tracking Project: A Prospective Chart Review of Patients Treated With Radiation Therapy",
+    "brief_title": "Registry Study for Radiation Therapy Outcomes",
+    "cancer_type_display": "Neoplasms",
+    "cancer_tags": [
+      "Neoplasms"
+    ],
+    "phase": null,
+    "min_age": null,
+    "max_age": null,
+    "sex": "All",
+    "is_metastatic_allowed": null,
+    "performance_status_scale": null,
+    "performance_status_values": null,
+    "min_prior_lines": null,
+    "max_prior_lines": null,
+    "prior_treatments_required": null,
+    "prior_treatments_excluded": null,
+    "key_inclusion_summary": [
+      "Planned treatment with radiation therapy",
+      "Ability to understand and sign IRB approved consent"
+    ],
+    "key_exclusion_summary": null,
+    "recruitment_status": "Recruiting",
+    "last_update_date": "2025-09-09",
+    "site_name": "Emory Proton Therapy Center",
+    "principal_investigator": "Mark McDonald, MD",
+    "contact_email": "leann.schilling@emory.edu",
+    "contact_phone": "404-686-0286",
+    "link_to_trial": "https://clinicaltrials.gov/study/NCT01255748"
+  }

@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Prostate Cancer",
+      "subtype_histology": "Adenocarcinoma",
+      "biomarkers": "PSMA Positive",
+      "clinical_state_descriptors": "Biochemically Recurrent, Post-Prostatectomy, Detectable PSA",
+      "stage_category": "Recurrent"
+    }
+  ]

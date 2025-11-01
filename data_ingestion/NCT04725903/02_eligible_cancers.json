@@ -1,0 +1,10 @@
+[
+    {
+      "base_cancer": "Prostate Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "PSA > 20",
+      "clinical_state_descriptors": "High Risk, Stage III, Stage IIIA, Stage IIIB, Stage IIIC, Gleason Grade 8 or higher, cT3b, cT4, Clinically or pathologically positive regional lymph nodes",
+      "stage_category": "Non-Metastatic"
+    }
+  ]
+  

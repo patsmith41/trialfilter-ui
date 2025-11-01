@@ -13,10 +13,20 @@ const InfoPill = ({ children }: { children: React.ReactNode }) => (
 );
 
 export default function TrialCard({ trial }: TrialCardProps) {
+  // Logic to determine if the phase should be shown
+  const showPhase = trial.phase && trial.phase !== 'Not Applicable';
+  
+  // Logic to select the best title for display
+  const displayTitle = trial.brief_title || trial.official_title;
+
   return (
     <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200 transition-shadow hover:shadow-lg">
+      
+      {/* Header section with pills */}
       <div className="flex justify-between items-start mb-2">
-        {trial.phase && <InfoPill>{trial.phase}</InfoPill>}
+        <div>
+          {showPhase && <InfoPill>{trial.phase}</InfoPill>}
+        </div>
         <span className={`text-sm font-medium px-3 py-1 rounded-full ${
           trial.recruitment_status === 'Recruiting' 
             ? 'bg-green-100 text-green-800' 
@@ -26,27 +36,31 @@ export default function TrialCard({ trial }: TrialCardProps) {
         </span>
       </div>
 
+      {/* Clickable Title */}
       <a
         href={trial.link_to_trial || '#'}
         target="_blank"
         rel="noopener noreferrer"
         className="text-lg font-bold text-blue-800 hover:text-blue-600 hover:underline"
       >
-        {trial.title}
+        {displayTitle}
       </a>
       
       <p className="text-sm text-gray-500 mt-1 mb-4">{trial.nct_id}</p>
       <p className="font-semibold text-gray-800">{trial.cancer_type_display}</p>
       
+      {/* --- THIS IS THE SECTION WHERE THE ERROR WAS LIKELY HIDING --- */}
       <div className="mt-4 flex flex-wrap gap-2 border-t pt-4">
-        {/* --- FIX APPLIED HERE --- */}
-        {trial.min_age && <InfoPill>{`Age: ${trial.min_age}+`}</InfoPill>}
+        {/* CORRECTED: Uses a single template string */}
+        {trial.min_age && <InfoPill>{`Age: ${trial.min_age}${trial.max_age ? `-${trial.max_age}` : '+'}`}</InfoPill>}
+        
+        {/* CORRECTED: Uses a React Fragment <>...</> to group the children */}
         {trial.performance_status_values && (
           <InfoPill>
-            {/* And the main fix is here, wrapping the two children in a fragment */}
             <>ECOG {trial.performance_status_values.join('-')}</>
           </InfoPill>
         )}
+
         {trial.is_metastatic_allowed !== null && (
           <InfoPill>
             {trial.is_metastatic_allowed ? 'Metastatic Allowed' : 'Non-Metastatic Only'}
@@ -54,6 +68,7 @@ export default function TrialCard({ trial }: TrialCardProps) {
         )}
       </div>
 
+      {/* Key Inclusion Criteria */}
       {trial.key_inclusion_summary && (
         <div className="mt-4 text-sm text-gray-600">
           <h4 className="font-semibold text-gray-800">Key Inclusion Criteria:</h4>
@@ -65,6 +80,7 @@ export default function TrialCard({ trial }: TrialCardProps) {
         </div>
       )}
 
+      {/* Footer */}
       <div className="mt-4 border-t pt-3 flex justify-between items-center text-xs text-gray-500">
         <span>Last Updated: {trial.last_update_date}</span>
         <a

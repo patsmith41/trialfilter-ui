@@ -3,12 +3,14 @@ import { EligibleCancer } from './eligibleCancer';
 
 export type Trial = {
   nct_id: string;
-  title: string | null;
+  official_title: string | null;
+  brief_title: string | null;
   cancer_type_display: string | null;
   phase: string | null;
   is_metastatic_allowed: boolean | null;
   performance_status_values: number[] | null;
   min_age: number | null;
+  max_age: number | null;
   
   eligible_cancers: EligibleCancer[] | null; 
 

@@ -1,0 +1,339 @@
+Comparing an Investigational Scan (F-18 NaF PET/​CT) to Standard of Care Imaging (F-18 FDG PET/​CT) for Evaluating Vascular Complications in Patients Receiving Radiation Therapy for Head and Neck Cancer
+ClinicalTrials.gov ID NCT06914999
+
+
+Sponsor Emory University
+Information provided by Amol Takalkar, Emory University (Responsible Party)
+Last Update Posted 2025-10-22
+file created 10/31
+
+
+Study Overview
+Brief Summary
+This early phase I trial compares sodium fluoride F-18 (F-18 NaF) positron emission tomography (PET)/computed tomography (CT) to the standard of care imaging scan (and fludeoxyglucose F-18 [F-18 FDG] PET/CT) for assessing the effects radiation therapy has on the blood vessels in the neck in patients with head and neck cancers. For people with cancers in the head and neck, doctors often use radiation to target both the tumor and nearby glands. Radiation therapy to this region can affect the blood vessels in the neck that supply blood to the brain. F-18 NaF and F-18 FDG are contrast agents that can be used together with PET/CT imaging to visualize areas inside the body. A PET scan is a procedure in which a small amount of radioactive glucose (sugar) is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is taken up. A CT scan is a procedure that uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-dimensional views of tissues and organs. Combining a PET scan with a CT scan can help make the image easier to interpret. PET/CT scans are hybrid scanners that combine both modalities into a single scan during the same examination. Imaging with F-18 NaF PET/CT may be as effective or more effective than the standard F-18 FDG PET/CT for assessing the effects radiation therapy has on blood vessels in the neck in patients with head and neck cancers.
+Detailed Description
+PRIMARY OBJECTIVES:
+
+I. To determine the role of FDG- and NaF-PET in assessing radiation-induced vascular complications by comparing baseline and follow-up scans in patients with head and neck cancer.
+
+II. To assess the presence and extent of radiation-induced vascular inflammation following proton versus (vs) photon radiation therapy (RT) in patients with head and neck cancer.
+
+III. To determine the correlation between inflammation and actual radiation dose received to the vasculature to assess the effects of dose response.
+
+SECONDARY OBJECTIVE:
+
+I. To determine the effect of radiation-induced vascular inflammation (possibly atherosclerosis) on global brain function as measured by FDG-PET.
+
+OUTLINE: Patients are assigned to 1 of 2 arms.
+
+ARM I: Patients receive F-18 NaF intravenously (IV) and undergo PET/CT within 28 days of each standard of care (SOC) F-18 FDG PET/CT on study, once prior to initiation of SOC intensity-modulated radiation therapy (IMRT) and once 12 weeks after completion of SOC IMRT.
+
+ARM II: Patients receive F-18 NaF IV and undergo PET/CT within 28 days of each SOC F-18 FDG PET/CT on study, once prior to initiation of SOC intensity-modulated proton therapy (IMPT) and once 12 weeks after completion of SOC IMPT.
+
+After completion of study intervention, patients are followed up within one to five business days.
+
+Official Title
+Assessment of Radiation-Induced Vascular Complications in Patients With Head and Neck Cancers With PET/CT Imaging
+Conditions 
+Clinical Stage I HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8
+Clinical Stage II HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8
+Clinical Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8
+Head and Neck Squamous Cell Carcinoma
+Hypopharyngeal Squamous Cell Carcinoma
+Laryngeal Squamous Cell Carcinoma
+Oropharyngeal Squamous Cell Carcinoma
+Stage III Hypopharyngeal Carcinoma AJCC v8
+Stage III Laryngeal Cancer AJCC v8
+Stage III Oropharyngeal (p16-Negative) Carcinoma AJCC v8
+Stage IVA Hypopharyngeal Carcinoma AJCC v8
+Stage IVA Laryngeal Cancer AJCC v8
+Stage IVA Oropharyngeal (p16-Negative) Carcinoma AJCC v8
+Stage IVB Hypopharyngeal Carcinoma AJCC v8
+Stage IVB Laryngeal Cancer AJCC v8
+Stage IVB Oropharyngeal (p16-Negative) Carcinoma AJCC v8
+Intervention / Treatment 
+Procedure: Computed Tomography
+Other: Fludeoxyglucose F-18
+Procedure: Intensity-Modulated Proton Therapy
+Radiation: Intensity-Modulated Radiation Therapy
+Procedure: Positron Emission Tomography
+Drug: Sodium Fluoride F-18
+Other Study ID Numbers 
+STUDY00008261
+NCI-2025-00404 ( Registry Identifier ) (REGISTRY: CTRP (Clinical Trial Reporting Program))
+STUDY00008261 ( Other Identifier ) (OTHER: Emory University Hospital/Winship Cancer Institute)
+H-N Ca Patients ( Other Identifier ) (OTHER: Emory University Hospital/Winship Cancer Institute)
+P30CA138292 ( U.S. NIH Grant/Contract )
+Study Start (Actual) 
+2024-12-03
+Primary Completion (Estimated) 
+2026-08-31
+Study Completion (Estimated) 
+2027-08-31
+Enrollment (Estimated) 
+20
+Study Type 
+Interventional
+Phase 
+Early Phase 1
+Resource links provided by the National Library of Medicine NIH National Library of Medicine, National Center for Biotechnology Information
+Drug Information available for:  Fludeoxyglucose F-18  Sodium Fluoride F-18 
+FDA Drug and Device Resources
+Contacts and Locations
+This section provides contact details for people who can answer questions about joining this study, and information on where this study is taking place.
+
+To learn more, please see the Contacts and Locations section in How to Read a Study Record.
+
+Study Contact 
+Name: Amol M. Takalkar, MD, MS, MBA, FACNM
+
+Phone Number: 404-712-4843
+
+Email: amol.madan.takalkar@emory.edu
+
+This study has 1 location
+United States
+Georgia Locations
+Atlanta, Georgia, United States, 30308
+RecruitingEmory University Hospital Midtown
+Contact :
+Nashwa M. Jarkas
+404-727-2193  nashwa.jarkas@emory.edu
+Principal Investigator :
+Amol M. Takalkar, MD, MS, MBA, FACNM
+Click to view interactive map
+Participation Criteria
+Researchers look for people who fit a certain description, called eligibility criteria. Some examples of these criteria are a person's general health condition or prior treatments.
+
+For general information about clinical research, read Learn About Studies.
+Eligibility Criteria
+Description
+Inclusion Criteria:
+
+Males and females 18 years of age and older
+Diagnosis of clinical stage III-IVb (American Joint Committee on Cancer [AJCC] 8th edition) squamous cell carcinoma of the oropharynx (human papillomavirus [HPV]-negative), larynx, or hypopharynx, or clinical stage I-III (AJCC 8th edition) HPV-associated squamous cell carcinoma of the oropharynx receiving curative-intent, organ preservation (non-surgical)
+Treatment with concurrent chemoradiotherapy per institutional standard of care at the discretion of Medical Oncology. RT is delivered per institutional standard of care at the discretion of Radiation Oncology
+Patients must give protocol-specific consent on an Institutional Review Board (IRB)-approved consent form prior to completion of protocol-specific testing/procedures
+Women are eligible to participate in the study if they meet one of the following criteria:
+
+Females of childbearing potential (FCBP) must have a negative pregnancy test at baseline and follow-up visit. Women of childbearing potential must undergo pregnancy testing during each study visit and agree to use at least one of the following methods of contraception throughout the study duration:
+
+Oral contraceptives, transdermal contraceptives, injectable or implantable methods, intrauterine devices, and/or vaginal ring
+Women who are postmenopausal (for at least one year), sterile, or hysterectomized;
+Women who have undergone tubal ligation will be required to undergo pregnancy testing during each study visit
+Exclusion Criteria:
+
+Adults who are unable to consent
+Pregnant women
+Prisoners
+Patients who have had chemotherapy or radiotherapy within 4 weeks prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier (i.e., have residual toxicities > grade 1)
+Patients who are receiving any other investigational agents or an investigational device within 21 days before administration of the F-18 NaF for the pre-RT PET/CT imaging
+Patients planned to receive any immunotherapy agent during their radiotherapy or in the interval between radiotherapy and post-RT PET/CT imaging
+History of allergic reactions attributed to compounds of similar chemical or biological composition to F-18 NaF or other agents used in the study
+Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements
+Significant cardiovascular disease (eg, myocardial infarction, arterial thromboembolism, cerebrovascular thromboembolism) within 3 months prior to study entry; angina requiring therapy; symptomatic peripheral vascular disease; New York Heart Association class 3 or 4 congestive heart failure; or uncontrolled grade >= 3 hypertension (diastolic blood pressure >= 100 mmHg or systolic blood pressure >= 160 mmHg) despite antihypertensive therapy
+Ages Eligible for Study 
+18 Years and older (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No
+Study Plan
+This section provides details of the study plan, including how the study is designed and what the study is measuring.
+
+Expand all / Collapse all
+How is the study designed?
+Design Details
+Primary Purpose  : Diagnostic
+Allocation  : Non-Randomized
+Interventional Model  : Parallel Assignment
+Masking  : Single (Care Provider)
+Masking Description: For the purposes of this study, will contour the ascending aorta, arch of the aorta, carotid arteries, and descending aorta but these structures will not be a part of the treatment planning process and will be blinded to the treating physician.
+Arms and Interventions
+
+Participant Group/Arm 	Intervention/Treatment 
+Experimental: Arm I (F-18 NaF PET/CT)
+Patients receive F-18 NaF IV and undergo PET/CT within 28 days of each SOC F-18 FDG PET/CT on study, once prior to initiation of SOC IMRT and once 12 weeks after completion of SOC IMRT.
+Procedure: Computed Tomography
+Undergo PET/CT
+
+Other Names:
+CAT
+CAT Scan
+Computed Axial Tomography
+Computerized Axial Tomography
+Computerized axial tomography (procedure)
+Computerized Tomography
+Computerized Tomography (CT) scan
+CT
+CT Scan
+tomography
+Other: Fludeoxyglucose F-18
+Given F-18 FDG
+
+Other Names:
+18FDG
+FDG
+Fludeoxyglucose (18F)
+fludeoxyglucose F 18
+Fludeoxyglucose F18
+Fluorine-18 2-Fluoro-2-deoxy-D-Glucose
+Fluorodeoxyglucose F18
+Radiation: Intensity-Modulated Radiation Therapy
+Undergo IMRT
+
+Other Names:
+IMRT
+Intensity modulated radiation therapy (procedure)
+Intensity Modulated RT
+Intensity-Modulated Radiotherapy
+Radiation, Intensity-Modulated Radiotherapy
+Procedure: Positron Emission Tomography
+Undergo PET/CT
+
+Other Names:
+Medical Imaging, Positron Emission Tomography
+PET
+PET Scan
+Positron emission tomography (procedure)
+Positron Emission Tomography Scan
+Positron-Emission Tomography
+PT
+Drug: Sodium Fluoride F-18
+Given IV
+
+Other Names:
+18 F-NaF
+F-18 NaF
+Fluorine F 18 Sodium Fluoride
+NaF F18
+Sodium Fluoride F18
+Experimental: Arm II (F-18 NaF PET/CT)
+Patients receive F-18 NaF IV and undergo PET/CT within 28 days of each SOC F-18 FDG PET/CT on study, once prior to initiation of SOC IMPT and once 12 weeks after completion of SOC IMPT.
+Procedure: Computed Tomography
+Undergo PET/CT
+
+Other Names:
+CAT
+CAT Scan
+Computed Axial Tomography
+Computerized Axial Tomography
+Computerized axial tomography (procedure)
+Computerized Tomography
+Computerized Tomography (CT) scan
+CT
+CT Scan
+tomography
+Other: Fludeoxyglucose F-18
+Given F-18 FDG
+
+Other Names:
+18FDG
+FDG
+Fludeoxyglucose (18F)
+fludeoxyglucose F 18
+Fludeoxyglucose F18
+Fluorine-18 2-Fluoro-2-deoxy-D-Glucose
+Fluorodeoxyglucose F18
+Procedure: Intensity-Modulated Proton Therapy
+Undergo IMPT
+
+Other Names:
+IMPT
+Procedure: Positron Emission Tomography
+Undergo PET/CT
+
+Other Names:
+Medical Imaging, Positron Emission Tomography
+PET
+PET Scan
+Positron emission tomography (procedure)
+Positron Emission Tomography Scan
+Positron-Emission Tomography
+PT
+Drug: Sodium Fluoride F-18
+Given IV
+
+Other Names:
+18 F-NaF
+F-18 NaF
+Fluorine F 18 Sodium Fluoride
+NaF F18
+Sodium Fluoride F18
+What is the study measuring?
+Primary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Radiation-induced vascular complications	Will compare the presence and extent of radiation therapy (RT)-induced vascular complications between the two treatment modalities. The average standardized uptake volume (SUV) max and mean of fludeoxyglucose F-18 (FDG)- and sodium fluoride F-18 (NaF)-positron emission tomography (PET)/computed tomography (CT) scans pre- and post RT will be computed. Will assess the change in average SUVmax and SUVmean of FDG- and NaF-PET/CT scans pre- and post-RT. Will also assess the difference in average SUV mean between proton and photon RT. Will assess the difference in change in SUV mean between intensity-modulated radiation therapy (IMRT) and intensity-modulated photon therapy (IMPT) using a two-sample independent t-test or the Wilcoxon rank sum test for each SUVmean/max. A multivariable linear regression model with a backward elimination approach will be used to test the effect of clinicopathological variables on the change in SUVmax.	Prior to and after undergoing radiation therapy, up to 6 months
+Radiation-induced vascular inflammation following IMRT or IMPT	Will evaluate the presence and extent of radiation-induced vascular inflammation following IMRT versus IMPT. Will determine the correlation between the actual radiation dose and radiation-induced vascular inflammation, measured by the average SUVmax/mean, and will be done using Pearson's correlation or Spearman's correlation analysis, as appropriate.	Baseline up to 6 months
+Percentage volumetric dose	The percentage volumetric dose will be recorded to determine the correlation between the actual radiation dose and the radiation-induced vascular inflammation, measured by the average SUVmax/mean, and will be done using Pearson's correlation or Spearman's correlation analysis, as appropriate.	Baseline up to 6 months
+Secondary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Total brain FDG uptake	Will assess the association of total brain FDG uptake between the two scanning methods (FDG and NaF PET/CT). The total brain FDG uptake pre- and post-RT will be measured. Will assess the association between the average SUVmax/mean difference of FDG- and NaF-PET/CT scans and the total brain FDG uptake. Will be performed using Pearson's correlation or Spearman's correlation analysis, as appropriate.	Baseline up to 6 months
+Collaborators and Investigators
+This is where you will find people and organizations involved with this study.
+Sponsor 
+Emory University
+Collaborators 
+National Cancer Institute (NCI)
+Investigators 
+Principal Investigator:Amol M Takalkar, MD, MS, MBA, FACNM,Emory University
+Study Record Dates
+These dates track the progress of study record and summary results submissions to ClinicalTrials.gov. Study records and reported results are reviewed by the National Library of Medicine (NLM) to make sure they meet specific quality control standards before being posted on the public website.
+Study Registration Dates
+First Submitted 
+2025-04-01
+First Submitted that Met QC Criteria 
+2025-04-01
+First Posted 
+2025-04-07
+Study Record Updates
+Last Update Submitted that met QC Criteria 
+2025-10-20
+Last Update Posted (Estimated) 
+2025-10-22
+Last Verified 
+2025-10
+More Information
+Record History
+Expand all / Collapse all
+Terms related to this study
+Additional Relevant MeSH Terms
+Pharyngeal Neoplasms
+Otorhinolaryngologic Neoplasms
+Head and Neck Neoplasms
+Neoplasms by Site
+Neoplasms
+Pharyngeal Diseases
+Stomatognathic Diseases
+Otorhinolaryngologic Diseases
+Carcinoma, Squamous Cell
+Neoplasms, Glandular and Epithelial
+Neoplasms by Histologic Type
+Laryngeal Diseases
+Respiratory Tract Diseases
+Respiratory Tract Neoplasms
+Oropharyngeal Neoplasms
+Squamous Cell Carcinoma of Head and Neck
+Hypopharyngeal Neoplasms
+Laryngeal Neoplasms
+Carcinoma
+Deoxyglucose
+Deoxy Sugars
+Carbohydrates
+Radiotherapy, Conformal
+Radiotherapy, Computer-Assisted
+Radiotherapy
+Therapeutics
+Spectrum Analysis
+Chemistry Techniques, Analytical
+Investigative Techniques
+Fluorodeoxyglucose F18
+Radiotherapy, Intensity-Modulated
+Magnetic Resonance Spectroscopy
+Drug and device information, study documents, and helpful links
+Studies a U.S. FDA-Regulated Drug Product
+Yes
+Studies a U.S. FDA-Regulated Device Product
+No
+Product Manufactured in and Exported from the U.S.
+No

@@ -106,7 +106,11 @@ export default function TrialSearch({ initialTrials, baseCancers }: TrialSearchP
       // Static Foundational Filters
       if (filters.age) {
         const ageNum = parseInt(filters.age, 10);
-        filtered = filtered.filter(trial => trial.min_age === null || ageNum >= trial.min_age);
+        filtered = filtered.filter(trial => {
+          const minAgeOk = trial.min_age === null || ageNum >= trial.min_age;
+          const maxAgeOk = trial.max_age === null || ageNum <= trial.max_age; // <-- NEW LOGIC
+          return minAgeOk && maxAgeOk; // Patient must meet both min and max age criteria
+        });
       }
       if (filters.performanceValue) {
         const perfNum = parseInt(filters.performanceValue, 10);

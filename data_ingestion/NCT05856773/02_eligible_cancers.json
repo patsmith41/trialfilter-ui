@@ -1,0 +1,51 @@
+[
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Invasive Mammary Carcinoma",
+      "biomarkers": "BRCA1 Negative, BRCA2 Negative",
+      "clinical_state_descriptors": "Stage I-III, Post-Mastectomy, Post-Lumpectomy, Recommended for Postoperative Radiation",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Invasive Ductal Carcinoma",
+      "biomarkers": "BRCA1 Negative, BRCA2 Negative",
+      "clinical_state_descriptors": "Stage I-III, Post-Mastectomy, Post-Lumpectomy, Recommended for Postoperative Radiation",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Medullary Carcinoma",
+      "biomarkers": "BRCA1 Negative, BRCA2 Negative",
+      "clinical_state_descriptors": "Stage I-III, Post-Mastectomy, Post-Lumpectomy, Recommended for Postoperative Radiation",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Tubular Carcinoma",
+      "biomarkers": "BRCA1 Negative, BRCA2 Negative",
+      "clinical_state_descriptors": "Stage I-III, Post-Mastectomy, Post-Lumpectomy, Recommended for Postoperative Radiation",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Mucinous Carcinoma",
+      "biomarkers": "BRCA1 Negative, BRCA2 Negative",
+      "clinical_state_descriptors": "Stage I-III, Post-Mastectomy, Post-Lumpectomy, Recommended for Postoperative Radiation",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Invasive Lobular Carcinoma",
+      "biomarkers": "BRCA1 Negative, BRCA2 Negative",
+      "clinical_state_descriptors": "Stage I-III, Post-Mastectomy, Post-Lumpectomy, Recommended for Postoperative Radiation",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Ductal Carcinoma in Situ",
+      "biomarkers": "BRCA1 Negative, BRCA2 Negative",
+      "clinical_state_descriptors": "Stage I-III, Post-Mastectomy, Post-Lumpectomy, Recommended for Postoperative Radiation",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

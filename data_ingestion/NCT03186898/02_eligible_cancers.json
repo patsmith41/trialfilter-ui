@@ -1,0 +1,16 @@
+[
+    {
+      "base_cancer": "Hepatocellular Carcinoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Unresectable, Stage III",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Hepatocellular Carcinoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "N/A",
+      "stage_category": "Recurrent"
+    }
+  ]
