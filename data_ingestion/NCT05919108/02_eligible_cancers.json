@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Invasive Lobular Carcinoma",
+      "biomarkers": "HR Positive, HER2 Mutated, HER2 Negative (Not Amplified)",
+      "clinical_state_descriptors": "Stage I, Stage II, Stage III, Neoadjuvant",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

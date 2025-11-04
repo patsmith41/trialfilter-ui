@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Prostate Cancer",
+      "subtype_histology": "Adenocarcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "High Risk, cT3a, cT3b, PSA > 20, Gleason Score 8-10, Stage III, Stage IVA",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

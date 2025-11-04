@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Lung Cancer",
+      "subtype_histology": "Small Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases, Stage IV, Recurrent",
+      "stage_category": "Metastatic"
+    }
+  ]

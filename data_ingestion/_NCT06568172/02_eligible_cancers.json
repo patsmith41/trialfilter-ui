@@ -1,0 +1,86 @@
+[
+    {
+      "base_cancer": "Eyelid Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable, Stage III, Stage IV",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Eyelid Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable",
+      "stage_category": "Recurrent"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Acantholytic Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable, Stage III, Stage IV",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Acantholytic Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable",
+      "stage_category": "Recurrent"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Clear Cell Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable, Stage III, Stage IV",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Clear Cell Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable",
+      "stage_category": "Recurrent"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Lymphoepithelial Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable, Stage III, Stage IV",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Lymphoepithelial Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable",
+      "stage_category": "Recurrent"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Spindle Cell Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable, Stage III, Stage IV",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Spindle Cell Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable",
+      "stage_category": "Recurrent"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Squamous Cell Carcinoma With Sarcomatoid Differentiation",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable, Stage III, Stage IV",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "Squamous Cell Carcinoma With Sarcomatoid Differentiation",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable",
+      "stage_category": "Recurrent"
+    }
+  ]

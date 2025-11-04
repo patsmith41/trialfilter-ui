@@ -1,0 +1,177 @@
+[
+    {
+      "base_cancer": "Anal Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Bladder Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Cervical Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Colorectal Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Endometrial Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Esophageal Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Head and Neck Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Kidney Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Lung Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Melanoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Meningioma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Ovarian Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Pancreatic Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Pituitary Adenoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Prostate Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Rectal Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Sarcoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Schwannoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Stomach Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Uterine Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Vaginal Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Vulvar Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brain Metastases",
+      "stage_category": "Metastatic"
+    }
+  ]

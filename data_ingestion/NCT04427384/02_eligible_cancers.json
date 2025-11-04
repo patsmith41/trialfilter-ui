@@ -1,0 +1,37 @@
+[
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "Glioblastoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Post-Resection",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Meningioma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Post-Resection",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Brain Metastases",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Post-Resection",
+      "stage_category": "Metastatic"
+    },
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Primary, Post-Resection",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Post-Resection",
+      "stage_category": "Recurrent"
+    }
+  ]

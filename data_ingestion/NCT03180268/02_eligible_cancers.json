@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Meningioma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "WHO Grade II, Newly Diagnosed, Unifocal, Gross Totally Resected, Intracranial",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

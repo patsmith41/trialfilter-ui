@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Lung Cancer",
+      "subtype_histology": "Non-Small Cell Lung Cancer",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Stage I, T1, T2a, N0, M0, Eligible for Surgery and SBRT",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Oropharyngeal Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Lateralized, T1-3, M0, Planned definitive radiotherapy or chemoradiotherapy",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

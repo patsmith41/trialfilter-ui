@@ -1,0 +1,16 @@
+[
+    {
+      "base_cancer": "Nasal Cavity Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable, T3, T4a, Stage III, Stage IVA",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Paranasal Sinus Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Resectable, T3, T4a, Stage III, Stage IVA",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

@@ -1,0 +1,30 @@
+[
+  {
+    "base_cancer": "Hypopharyngeal Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "PD-L1 CPS >= 1",
+    "clinical_state_descriptors": "Second Primary, Post-Surgery, High-Risk Features, Positive Margins, Extranodal Extension",
+    "stage_category": "Recurrent"
+  },
+  {
+    "base_cancer": "Laryngeal Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "PD-L1 CPS >= 1",
+    "clinical_state_descriptors": "Second Primary, Post-Surgery, High-Risk Features, Positive Margins, Extranodal Extension",
+    "stage_category": "Recurrent"
+  },
+  {
+    "base_cancer": "Oral Cavity Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "PD-L1 CPS >= 1",
+    "clinical_state_descriptors": "Second Primary, Post-Surgery, High-Risk Features, Positive Margins, Extranodal Extension",
+    "stage_category": "Recurrent"
+  },
+  {
+    "base_cancer": "Oropharyngeal Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "PD-L1 CPS >= 1",
+    "clinical_state_descriptors": "Second Primary, Post-Surgery, High-Risk Features, Positive Margins, Extranodal Extension",
+    "stage_category": "Recurrent"
+  }
+]

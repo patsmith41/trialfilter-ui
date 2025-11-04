@@ -1,0 +1,16 @@
+[
+    {
+      "base_cancer": "Lung Cancer",
+      "subtype_histology": "Small Cell Lung Cancer",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Limited Stage, Responded to first-line therapy, No brain metastases",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Lung Cancer",
+      "subtype_histology": "Small Cell Lung Cancer",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Extensive Stage, Responded to first-line therapy, No brain metastases",
+      "stage_category": "Metastatic"
+    }
+  ]

@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "High-Grade Glioma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "WHO Grade 3, WHO Grade 4, Supratentorial",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

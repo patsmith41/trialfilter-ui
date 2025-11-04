@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Lung Cancer",
+      "subtype_histology": "Small Cell Lung Cancer",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Extensive Stage, Partial Response or Stable Disease after Chemoimmunotherapy, Treated Stable Brain Metastases",
+      "stage_category": "Metastatic"
+    }
+  ]

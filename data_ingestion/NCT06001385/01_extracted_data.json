@@ -1,0 +1,803 @@
+{
+    "nct_id": "NCT06001385",
+    "official_title": "A Phase II Study of Reduced Dose Post Transplantation Cyclophosphamide as GvHD Prophylaxis in Adult Patients With Hematologic Malignancies Receiving HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+    "brief_title": "HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation With Reduced Dose Post Transplantation Cyclophosphamide GvHD Prophylaxis",
+    "cancer_type_display": "A study for adult patients with various hematologic malignancies, including leukemia, lymphoma, and myelodysplastic syndromes, undergoing a specific type of stem cell transplant.",
+    "cancer_tags": [
+      "Acute Lymphoblastic Leukemia",
+      "Acute Myeloid Leukemia",
+      "Acute Leukemia",
+      "Myelodysplastic Syndromes",
+      "Chronic Myeloid Leukemia",
+      "Chronic Lymphocytic Leukemia",
+      "Myeloproliferative Neoplasm",
+      "Lymphoma",
+      "Chronic Myelomonocytic Leukemia",
+      "Pro-Lymphocytic Leukemia",
+      "Myelofibrosis"
+    ],
+    "link_to_trial": "https://clinicaltrials.gov/study/NCT06001385",
+    "phase": "Phase 2",
+    "recruitment_status": "RECRUITING",
+    "last_update_date": "2025-05-29",
+    "enrollment": 313,
+    "min_age": 18,
+    "max_age": null,
+    "sex": "ALL",
+    "is_metastatic_allowed": true,
+    "performance_status_scale": "KPS",
+    "performance_status_values": null,
+    "min_prior_lines": null,
+    "max_prior_lines": null,
+    "prior_treatments_required": null,
+    "prior_treatments_excluded": [
+      "Prior allogeneic transplant",
+      "Autologous transplant within the past 3 months",
+      "Concurrent enrollment on a preventative GvHD and/or infectious disease prevention clinical trial",
+      "Desensitization to reduce anti-donor HLA antibody levels prior to transplant"
+    ],
+    "principal_investigator": "Steven Devine, MD",
+    "site_name": "Mayo Clinic Arizona",
+    "contact_email": "chhabra.saurabh@mayo.edu",
+    "contact_phone": "763-406-3280",
+    "locations": [
+      {
+        "facility": "Mayo Clinic Arizona",
+        "status": "RECRUITING",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "zip": "85054",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Saurabh Chhabra, MD",
+            "role": "CONTACT",
+            "email": "chhabra.saurabh@mayo.edu"
+          },
+          {
+            "name": "Saurabh Chhabra, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 33.44838,
+          "lon": -112.07404
+        }
+      },
+      {
+        "facility": "Honor Health",
+        "status": "RECRUITING",
+        "city": "Scottsdale",
+        "state": "Arizona",
+        "zip": "85258",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Adrienne Briggs, MD",
+            "role": "CONTACT",
+            "email": "adrienne.briggs@honorhealth.com"
+          },
+          {
+            "name": "Adrienne Briggs, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 33.50921,
+          "lon": -111.89903
+        }
+      },
+      {
+        "facility": "University of Arkansas for Medical Sciences",
+        "status": "RECRUITING",
+        "city": "Little Rock",
+        "state": "Arkansas",
+        "zip": "72205",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Cesar Gentille Sanchez, MD",
+            "role": "CONTACT",
+            "email": "CGentille@uams.edu"
+          },
+          {
+            "name": "Cesar Gentille Sanchez, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 34.74648,
+          "lon": -92.28959
+        }
+      },
+      {
+        "facility": "City of Hope",
+        "status": "RECRUITING",
+        "city": "Duarte",
+        "state": "California",
+        "zip": "91010",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Monzr AlMalki, MD",
+            "role": "CONTACT",
+            "email": "malmalki@coh.org"
+          },
+          {
+            "name": "Monzr AlMalki, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 34.13945,
+          "lon": -117.97729
+        }
+      },
+      {
+        "facility": "University of California San Francisco",
+        "status": "RECRUITING",
+        "city": "San Francisco",
+        "state": "California",
+        "zip": "94158",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Aaron Logan, MD",
+            "role": "CONTACT",
+            "phone": "(415) 353-2051",
+            "email": "aaron.logan@ucsf.edu"
+          },
+          {
+            "name": "Aaron Logan, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 37.77493,
+          "lon": -122.41942
+        }
+      },
+      {
+        "facility": "Stanford University",
+        "status": "RECRUITING",
+        "city": "Stanford",
+        "state": "California",
+        "zip": "94305",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Sally Arai, MD",
+            "role": "CONTACT",
+            "email": "sara1@stanford.edu"
+          },
+          {
+            "name": "Sally Arai, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 37.42411,
+          "lon": -122.16608
+        }
+      },
+      {
+        "facility": "Colorado Blood Cancer Institute at Presbyterian St. Luke's",
+        "status": "RECRUITING",
+        "city": "Denver",
+        "state": "Colorado",
+        "zip": "80218",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Marcello Rotta, MD",
+            "role": "CONTACT",
+            "email": "Marcello.Rotta@HCAHealthone.com"
+          },
+          {
+            "name": "Marcello Rotta, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 39.73915,
+          "lon": -104.9847
+        }
+      },
+      {
+        "facility": "Mayo Clinic Jacksonville",
+        "status": "RECRUITING",
+        "city": "Jacksonville",
+        "state": "Florida",
+        "zip": "32224",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Hemant Murthy, MD",
+            "role": "CONTACT",
+            "email": "Murthy.Hemant@mayo.edu"
+          },
+          {
+            "name": "Hemant Murthy, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 30.33218,
+          "lon": -81.65565
+        }
+      },
+      {
+        "facility": "University of Miami Sylvester Cancer Center",
+        "status": "RECRUITING",
+        "city": "Miami",
+        "state": "Florida",
+        "zip": "33136",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Antonio M Jimenez Jimenez, MD",
+            "role": "CONTACT",
+            "email": "amjimenez@miami.edu"
+          },
+          {
+            "name": "Antonio M Jimenez Jimenez, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 25.77427,
+          "lon": -80.19366
+        }
+      },
+      {
+        "facility": "Moffitt Cancer Center",
+        "status": "RECRUITING",
+        "city": "Tampa",
+        "state": "Florida",
+        "zip": "33612",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Farhad Khimani, MD",
+            "role": "CONTACT",
+            "email": "Farhad.Khimani@moffitt.org"
+          },
+          {
+            "name": "Farhad Khimani, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 27.94752,
+          "lon": -82.45843
+        }
+      },
+      {
+        "facility": "Emory University",
+        "status": "RECRUITING",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30322",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Joseph Rimando, MD",
+            "role": "CONTACT",
+            "phone": "404-778-1900",
+            "email": "joseph.cataquiz.rimando@emory.edu"
+          },
+          {
+            "name": "Joseph Rimando, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 33.749,
+          "lon": -84.38798
+        }
+      },
+      {
+        "facility": "Greenbaum Cancer Center University of Maryland",
+        "status": "RECRUITING",
+        "city": "Baltimore",
+        "state": "Maryland",
+        "zip": "21201",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Nancy Hardy, MD",
+            "role": "CONTACT",
+            "phone": "410-328-1230",
+            "email": "nhardy1@umm.edu"
+          },
+          {
+            "name": "Nancy Hardy, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 39.29038,
+          "lon": -76.61219
+        }
+      },
+      {
+        "facility": "Tufts University",
+        "status": "RECRUITING",
+        "city": "Boston",
+        "state": "Massachusetts",
+        "zip": "02155",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Andreas Klein, MD",
+            "role": "CONTACT",
+            "email": "aklein2@tuftsmedicalcenter.org"
+          },
+          {
+            "name": "Andreas Klein, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 42.35843,
+          "lon": -71.05977
+        }
+      },
+      {
+        "facility": "Dana Farber Cancer Institute",
+        "status": "RECRUITING",
+        "city": "Boston",
+        "state": "Massachusetts",
+        "zip": "02215",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Mahasweta Gooptu, MD",
+            "role": "CONTACT",
+            "email": "Mahasweta_Gooptu@DFCI.HARVARD.EDU"
+          },
+          {
+            "name": "Mahasweta Gooptu, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 42.35843,
+          "lon": -71.05977
+        }
+      },
+      {
+        "facility": "Karmanos Cancer Institute",
+        "status": "RECRUITING",
+        "city": "Detroit",
+        "state": "Michigan",
+        "zip": "48201",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Dipenkumar Modi, MD",
+            "role": "CONTACT",
+            "email": "modid@karmanos.org"
+          },
+          {
+            "name": "Dipenkumar Modi, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 42.33143,
+          "lon": -83.04575
+        }
+      },
+      {
+        "facility": "University of Minnesota",
+        "status": "RECRUITING",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "zip": "55455",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Mark Juckett, MD",
+            "role": "CONTACT",
+            "email": "juck0001@umn.edu"
+          },
+          {
+            "name": "Mark Juckett, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 44.97997,
+          "lon": -93.26384
+        }
+      },
+      {
+        "facility": "Mayo Clinic",
+        "status": "RECRUITING",
+        "city": "Rochester",
+        "state": "Minnesota",
+        "zip": "55902",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Hassan Alkhateeb, MD",
+            "role": "CONTACT",
+            "email": "alkhateeb.hassan@mayo.edu"
+          },
+          {
+            "name": "Hassan Alkhateeb, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 44.02163,
+          "lon": -92.4699
+        }
+      },
+      {
+        "facility": "Barnes Jewish Hospital / Washington University",
+        "status": "RECRUITING",
+        "city": "St Louis",
+        "state": "Missouri",
+        "zip": "63110",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Ramzi Abboud, MD",
+            "role": "CONTACT",
+            "email": "rabboud@wustl.edu"
+          },
+          {
+            "name": "Ramzi Abboud, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 38.62727,
+          "lon": -90.19789
+        }
+      },
+      {
+        "facility": "Memorial Sloan Kettering Cancer Center - Adults",
+        "status": "RECRUITING",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10065",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Brian Shaffer, MD",
+            "role": "CONTACT",
+            "email": "shaffeb1@mskcc.org"
+          },
+          {
+            "name": "Brian Shaffer, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 40.71427,
+          "lon": -74.00597
+        }
+      },
+      {
+        "facility": "University of North Carolina",
+        "status": "RECRUITING",
+        "city": "Chapel Hill",
+        "state": "North Carolina",
+        "zip": "27599",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Katarzyna Jamieson, MD",
+            "role": "CONTACT",
+            "email": "katarzyna_jamieson@med.unc.edu"
+          },
+          {
+            "name": "Katarzyna Jamieson, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 35.9132,
+          "lon": -79.05584
+        }
+      },
+      {
+        "facility": "Ohio State Medical Center",
+        "status": "RECRUITING",
+        "city": "Columbus",
+        "state": "Ohio",
+        "zip": "43210",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Gabriela Sanchez Petitto, MD",
+            "role": "CONTACT",
+            "email": "gabriela.sanchezpetitto@osumc.edu"
+          },
+          {
+            "name": "Gabriela Sanchez Petitto, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 39.96118,
+          "lon": -82.99879
+        }
+      },
+      {
+        "facility": "Oregon Health & Science University",
+        "status": "RECRUITING",
+        "city": "Portland",
+        "state": "Oregon",
+        "zip": "97239",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Rachel J Cook, M.D.",
+            "role": "CONTACT",
+            "email": "coora@ohsu.edu"
+          },
+          {
+            "name": "Rachel J Cook, M.D.",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 45.52345,
+          "lon": -122.67621
+        }
+      },
+      {
+        "facility": "The Center for Bone Marrow Transplantation at Geisinger",
+        "status": "RECRUITING",
+        "city": "Danville",
+        "state": "Pennsylvania",
+        "zip": "17822",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Joseph Lynch, MD",
+            "role": "CONTACT",
+            "phone": "800-275-6401",
+            "email": "jlynch2@geisinger.edu"
+          },
+          {
+            "name": "Joseph Lynch, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 40.96342,
+          "lon": -76.61273
+        }
+      },
+      {
+        "facility": "Abramson Cancer Center",
+        "status": "RECRUITING",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "zip": "19104",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Shannon McCurdy, MD",
+            "role": "CONTACT",
+            "email": "Shannon.Mccurdy@pennmedicine.upenn.edu"
+          },
+          {
+            "name": "Shannon McCurdy, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 39.95238,
+          "lon": -75.16362
+        }
+      },
+      {
+        "facility": "University of Pittsburgh Medical Center",
+        "status": "RECRUITING",
+        "city": "Pittsburgh",
+        "state": "Pennsylvania",
+        "zip": "15232",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Annie Im, MD",
+            "role": "CONTACT",
+            "email": "imap@upmc.edu"
+          },
+          {
+            "name": "Annie Im, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 40.44062,
+          "lon": -79.99589
+        }
+      },
+      {
+        "facility": "TriStar Centennial",
+        "status": "RECRUITING",
+        "city": "Nashville",
+        "state": "Tennessee",
+        "zip": "37203",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Jeremy Pantin, MD",
+            "role": "CONTACT",
+            "email": "Jeremy.Pantin@hcahealthcare.com"
+          },
+          {
+            "name": "Jeremy Pantin, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 36.16589,
+          "lon": -86.78444
+        }
+      },
+      {
+        "facility": "St. David's South Austin Medical Center",
+        "status": "RECRUITING",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78704",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Uttam Rao, MD",
+            "role": "CONTACT",
+            "email": "Uttam.Rao@hcahealthcare.com"
+          },
+          {
+            "name": "Uttam Rao, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 30.26715,
+          "lon": -97.74306
+        }
+      },
+      {
+        "facility": "MD Anderson Cancer Center",
+        "status": "RECRUITING",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77030",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Betul Oran, MD",
+            "role": "CONTACT",
+            "email": "BOran@mdanderson.org"
+          },
+          {
+            "name": "Betul Oran, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 29.76328,
+          "lon": -95.36327
+        }
+      },
+      {
+        "facility": "Methodist Hospital San Antonio",
+        "status": "RECRUITING",
+        "city": "San Antonio",
+        "state": "Texas",
+        "zip": "78229",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Nosha Farhadfar, MD",
+            "role": "CONTACT",
+            "email": "Nosha.Farhadfar@hcahealthcare.com"
+          },
+          {
+            "name": "Nosha Farhadfar, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 29.42412,
+          "lon": -98.49363
+        }
+      },
+      {
+        "facility": "University of Virginia Health System",
+        "status": "RECRUITING",
+        "city": "Charlottesville",
+        "state": "Virginia",
+        "zip": "22908",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Karen Ballen, M.D.",
+            "role": "CONTACT"
+          },
+          {
+            "name": "Karen Ballen, MD",
+            "role": "CONTACT",
+            "email": "kb3tc@virginia.edu"
+          },
+          {
+            "name": "Karen Ballen, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 38.02931,
+          "lon": -78.47668
+        }
+      },
+      {
+        "facility": "Fred Hutchinson Cancer Center",
+        "status": "RECRUITING",
+        "city": "Seattle",
+        "state": "Washington",
+        "zip": "98109",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Masumi Ueda Oshima, MD",
+            "role": "CONTACT",
+            "email": "mueda@fredhutch.org"
+          },
+          {
+            "name": "Masumi Ueda Oshima, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 47.60621,
+          "lon": -122.33207
+        }
+      },
+      {
+        "facility": "Froedtert & the Medical College of Wisconsin",
+        "status": "RECRUITING",
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "zip": "53226",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Sameem Abedin, MD",
+            "role": "CONTACT"
+          },
+          {
+            "name": "Sameem Abedin, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 43.0389,
+          "lon": -87.90647
+        }
+      }
+    ],
+    "key_inclusion_summary": [
+      "Age 18 years or older.",
+      "Diagnosed with a hematologic malignancy such as Acute Myeloid Leukemia (AML), Acute Lymphoblastic Leukemia (ALL), Myelodysplastic Syndromes (MDS), or Lymphoma.",
+      "Requires a Mismatched Unrelated Donor (MMUD) for peripheral blood stem cell transplantation.",
+      "Karnofsky Performance Status (KPS) of at least 60% or 70%, depending on the treatment regimen.",
+      "Adequate heart, kidney, lung, and liver function."
+    ],
+    "key_exclusion_summary": [
+      "A suitable HLA-matched related or 8/8 matched unrelated donor is available.",
+      "History of a prior allogeneic transplant.",
+      "Received an autologous transplant within the last 3 months.",
+      "Has an uncontrolled bacterial, viral, or fungal infection.",
+      "Patient is pregnant or breast-feeding.",
+      "Presence of donor-specific HLA antibodies (DSA) with a median fluorescence intensity (MFI) greater than 3000."
+    ]
+  }

@@ -1,0 +1,101 @@
+{
+    "nct_id": "NCT06500455",
+    "official_title": "Phase III Trial of Single Fraction Stereotactic Radiosurgery (SRS) Versus Fractionated SRS (FSRS) for Intact Brain Metastases",
+    "brief_title": "Testing Longer Duration Radiation Therapy Versus the Usual Radiation Therapy in Patients With Cancer That Has Spread to the Brain",
+    "cancer_type_display": "A study comparing fractionated stereotactic radiosurgery (FSRS) to single-fraction stereotactic radiosurgery (SRS) for patients whose cancer has spread to the brain from primary sites such as lung, breast, melanoma, or kidney.",
+    "cancer_tags": [
+      "Anatomic Stage IV Breast Cancer AJCC v8",
+      "Metastatic Breast Carcinoma",
+      "Metastatic Digestive System Carcinoma",
+      "Metastatic Lung Non-Small Cell Carcinoma",
+      "Metastatic Malignant Neoplasm in the Brain",
+      "Metastatic Malignant Solid Neoplasm",
+      "Metastatic Melanoma",
+      "Metastatic Renal Cell Carcinoma",
+      "Stage IV Lung Cancer AJCC v8",
+      "Stage IV Renal Cell Cancer AJCC v8"
+    ],
+    "link_to_trial": "https://clinicaltrials.gov/study/NCT06500455",
+    "phase": "Phase 3",
+    "recruitment_status": "RECRUITING",
+    "last_update_date": "2025-09-08",
+    "enrollment": 269,
+    "min_age": 18,
+    "max_age": null,
+    "sex": "ALL",
+    "is_metastatic_allowed": true,
+    "performance_status_scale": "KPS",
+    "performance_status_values": null,
+    "min_prior_lines": null,
+    "max_prior_lines": null,
+    "prior_treatments_required": null,
+    "prior_treatments_excluded": [
+      "Prior radiotherapy to the brain (partial or whole brain irradiation, SRS, FSRS, or prophylactic cranial irradiation [PCI])"
+    ],
+    "principal_investigator": "Rupesh R Kotecha",
+    "site_name": "Banner University Medical Center - Tucson",
+    "contact_email": "UACC-IIT@uacc.arizona.edu",
+    "contact_phone": null,
+    "locations": [
+      {
+        "facility": "Banner University Medical Center - Tucson",
+        "status": "RECRUITING",
+        "city": "Tucson",
+        "state": "Arizona",
+        "zip": "85719",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "email": "UACC-IIT@uacc.arizona.edu"
+          },
+          {
+            "name": "Baldassarre Stea",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 32.22174,
+          "lon": -110.92648
+        }
+      },
+      {
+        "facility": "University of Arizona Cancer Center-North Campus",
+        "status": "RECRUITING",
+        "city": "Tucson",
+        "state": "Arizona",
+        "zip": "85719",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "email": "UACC-IIT@uacc.arizona.edu"
+          },
+          {
+            "name": "Baldassarre Stea",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 32.22174,
+          "lon": -110.92648
+        }
+      }
+    ],
+    "key_inclusion_summary": [
+      "Pathologically proven diagnosis of a solid tumor malignancy (NSCLC, melanoma, breast, renal cell, or GI cancer).",
+      "Must have 1 to 8 total intact brain metastases.",
+      "At least one lesion must have a maximum diameter of ≥ 1.0 cm and ≤ 3.0 cm.",
+      "Karnofsky performance status (KPS) ≥ 60.",
+      "Age ≥ 18 years."
+    ],
+    "key_exclusion_summary": [
+      "Prior radiotherapy to the brain.",
+      "Known leptomeningeal disease (LMD).",
+      "Metastases located in the brainstem or less than 5 mm from the optic nerves or chiasm.",
+      "More than 8 total brain metastases.",
+      "Karnofsky performance status (KPS) < 60."
+    ]
+  }

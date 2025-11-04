@@ -1,0 +1,65 @@
+[
+    {
+      "base_cancer": "Oropharyngeal Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "p16-Positive",
+      "clinical_state_descriptors": "Untreated, Recurrent, Metastatic, Receiving Cisplatin and/or Radiation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Oropharyngeal Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "p16-Negative",
+      "clinical_state_descriptors": "Untreated, Recurrent, Metastatic, Receiving Cisplatin and/or Radiation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Cutaneous Squamous Cell Carcinoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Head and Neck Location, Untreated, Recurrent, Metastatic, Receiving Cisplatin and/or Radiation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Head and Neck Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Unknown Primary, Untreated, Recurrent, Metastatic, Receiving Cisplatin and/or Radiation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Hypopharyngeal Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Untreated, Recurrent, Metastatic, Receiving Cisplatin and/or Radiation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Laryngeal Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Untreated, Recurrent, Metastatic, Receiving Cisplatin and/or Radiation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Nasopharyngeal Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Untreated, Recurrent, Metastatic, Receiving Cisplatin and/or Radiation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Oral Cavity Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Untreated, Recurrent, Metastatic, Receiving Cisplatin and/or Radiation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Paranasal Sinus Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Untreated, Recurrent, Metastatic, Receiving Cisplatin and/or Radiation",
+      "stage_category": "Any"
+    }
+  ]

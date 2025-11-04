@@ -1,0 +1,79 @@
+[
+    {
+      "base_cancer": "Acute Lymphoblastic Leukemia",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Acute Myeloid Leukemia",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Acute Leukemia",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Myelodysplastic Syndromes",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Chronic Myeloid Leukemia",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Chronic Lymphocytic Leukemia",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Myeloproliferative Neoplasm",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Lymphoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Chronic Myelomonocytic Leukemia",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Pro-Lymphocytic Leukemia",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    },
+    {
+      "base_cancer": "Myelofibrosis",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Undergoing HLA-Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+      "stage_category": "Any"
+    }
+  ]

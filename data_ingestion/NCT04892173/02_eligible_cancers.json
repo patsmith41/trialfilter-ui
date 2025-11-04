@@ -1,0 +1,30 @@
+[
+    {
+      "base_cancer": "Oral Cavity Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Locally Advanced, Platinum-ineligible, Elderly, Treatment-naïve, T3-4 NX, T2 N2-3",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Oropharyngeal Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Locally Advanced, Platinum-ineligible, Elderly, Treatment-naïve, T3-4 NX, T2 N2-3",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Hypopharyngeal Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Locally Advanced, Platinum-ineligible, Elderly, Treatment-naïve, T3-4 NX, T2 N2-3",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Laryngeal Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Locally Advanced, Platinum-ineligible, Elderly, Treatment-naïve, Supraglottic, T3-4 NX, T2 N2-3",
+      "stage_category": "Non-Metastatic"
+    }
+  ]
