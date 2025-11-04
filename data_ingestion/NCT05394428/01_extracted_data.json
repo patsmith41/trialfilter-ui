@@ -1,0 +1,113 @@
+{
+  "nct_id": "NCT05394428",
+  "official_title": "Novel Functional Anatomic and Biomarker Indices of Radiation-Induced Female Sexual Toxicities in a Multi-Center Cohort",
+  "brief_title": "A Multi Center Study of Sexual Toxicities After Radiotherapy",
+  "cancer_type_display": "An observational study for female patients with primary anal, rectal, cervical, uterine, vaginal, or vulvar cancer who are planned to receive pelvic radiotherapy.",
+  "cancer_tags": [
+    "Malignant Neoplasms"
+  ],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT05394428",
+  "phase": null,
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2024-11-22",
+  "enrollment": 300,
+  "min_age": 18,
+  "max_age": null,
+  "sex": "FEMALE",
+  "is_metastatic_allowed": false,
+  "performance_status_scale": "ECOG",
+  "performance_status_values": [
+    0,
+    1,
+    2
+  ],
+  "min_prior_lines": null,
+  "max_prior_lines": null,
+  "prior_treatments_required": null,
+  "prior_treatments_excluded": [
+    "Extensive pelvic surgery (e.g. pelvic exenteration)",
+    "Prior pelvic radiotherapy"
+  ],
+  "principal_investigator": "Deborah C Marshall, MD MAS",
+  "site_name": "Emory University",
+  "contact_email": "star.consortium@mssm.edu",
+  "contact_phone": "201-500-5522",
+  "locations": [
+    {
+      "facility": "Emory University",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30322",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Mylin Torres, MD, BA",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "Icahn School of Medicine at Mount Sinai",
+      "status": "RECRUITING",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10029",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Deborah C Marshall, MD",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Natasha A Gironimi",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Deborah C Marshall, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 40.71427,
+        "lon": -74.00597
+      }
+    },
+    {
+      "facility": "M.D. Anderson Cancer Center",
+      "status": "RECRUITING",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77030",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Anuja Jhingran, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 29.76328,
+        "lon": -95.36327
+      }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Patients with female sexual organs, ages 18 and older.",
+    "Must have been sexually active in the 36 months prior to cancer treatment or intend to be in the 24 months following treatment.",
+    "Primary diagnosis of anal, rectal, cervical, uterine, vaginal, or vulvar cancer.",
+    "Planned to receive pelvic radiotherapy.",
+    "Eastern Cooperative Oncology Group (ECOG) performance status of 2 or less."
+  ],
+  "key_exclusion_summary": [
+    "Planned for or have undergone extensive pelvic surgery.",
+    "Clinically or radiologically detectable widespread metastasis.",
+    "Limited life expectancy due to comorbid disease.",
+    "History of prior pelvic radiotherapy.",
+    "Personal history of cancer (other than non-melanoma skin cancer) in the last 5 years."
+  ]
+}

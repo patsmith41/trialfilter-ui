@@ -1,0 +1,310 @@
+{
+    "nct_id": "NCT06667908",
+    "official_title": "A Phase 2, Randomized, Open-Label, Active-Controlled Study of JNJ-90301900 in Combination With Chemoradiation Followed by Durvalumab in Locally Advanced and Unresectable Stage III NSCLC",
+    "brief_title": "A Study of JNJ-90301900 in Combination With Chemoradiation Followed by Consolidation Immunotherapy for Non-Small Cell Lung Cancer (NSCLC)",
+    "cancer_type_display": "A study for patients with locally advanced, unresectable Stage III non-small cell lung cancer (NSCLC).",
+    "cancer_tags": [
+      "Carcinoma, Non-Small-Cell Lung"
+    ],
+    "link_to_trial": "https://clinicaltrials.gov/study/NCT06667908",
+    "phase": "Phase 2",
+    "recruitment_status": "RECRUITING",
+    "last_update_date": "2025-10-10",
+    "enrollment": 130,
+    "min_age": 18,
+    "max_age": null,
+    "sex": "ALL",
+    "is_metastatic_allowed": false,
+    "performance_status_scale": "ECOG",
+    "performance_status_values": [
+      0,
+      1
+    ],
+    "min_prior_lines": null,
+    "max_prior_lines": null,
+    "prior_treatments_required": null,
+    "prior_treatments_excluded": [
+      "Prior primary malignancy within the last 36 months"
+    ],
+    "principal_investigator": "Johnson & Johnson Enterprise Innovation Inc. Clinical Trial",
+    "site_name": "University of Connecticut Health Center",
+    "contact_email": "Participate-In-This-Study1@its.jnj.com",
+    "contact_phone": "844-434-4210",
+    "locations": [
+      {
+        "facility": "University of Connecticut Health Center",
+        "status": "RECRUITING",
+        "city": "Farmington",
+        "state": "Connecticut",
+        "zip": "06030",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 41.71982,
+          "lon": -72.83204
+        }
+      },
+      {
+        "facility": "Orlando Health Cancer Institute",
+        "status": "RECRUITING",
+        "city": "Orlando",
+        "state": "Florida",
+        "zip": "32806",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 28.53834,
+          "lon": -81.37924
+        }
+      },
+      {
+        "facility": "Emory University Winship Cancer Institute",
+        "status": "RECRUITING",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30306",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 33.749,
+          "lon": -84.38798
+        }
+      },
+      {
+        "facility": "NYU Langone Health",
+        "status": "RECRUITING",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10016",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 40.71427,
+          "lon": -74.00597
+        }
+      },
+      {
+        "facility": "Memorial Sloan Kettering Cancer Center",
+        "status": "RECRUITING",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10065",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 40.71427,
+          "lon": -74.00597
+        }
+      },
+      {
+        "facility": "University of North Carolina at Chapel Hill",
+        "status": "RECRUITING",
+        "city": "Chapel Hill",
+        "state": "North Carolina",
+        "zip": "27514",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 35.9132,
+          "lon": -79.05584
+        }
+      },
+      {
+        "facility": "FirstHealth of the Carolinas",
+        "status": "RECRUITING",
+        "city": "Pinehurst",
+        "state": "North Carolina",
+        "zip": "28374",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 35.19543,
+          "lon": -79.46948
+        }
+      },
+      {
+        "facility": "University of Pennsylvania",
+        "status": "RECRUITING",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "zip": "19104",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 39.95238,
+          "lon": -75.16362
+        }
+      },
+      {
+        "facility": "MD Anderson Cancer Center",
+        "status": "RECRUITING",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77030",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 29.76328,
+          "lon": -95.36327
+        }
+      },
+      {
+        "facility": "University of Vermont Medical Center",
+        "status": "RECRUITING",
+        "city": "Burlington",
+        "state": "Vermont",
+        "zip": "05401",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 44.47588,
+          "lon": -73.21207
+        }
+      },
+      {
+        "facility": "Macquarie University",
+        "status": "RECRUITING",
+        "city": "North Ryde",
+        "zip": "2109",
+        "country": "Australia",
+        "geoPoint": {
+          "lat": -33.79677,
+          "lon": 151.12436
+        }
+      },
+      {
+        "facility": "Royal Melbourne Hospital",
+        "status": "RECRUITING",
+        "city": "Parkville",
+        "zip": "3050",
+        "country": "Australia",
+        "geoPoint": {
+          "lat": -37.78333,
+          "lon": 144.95
+        }
+      },
+      {
+        "facility": "Sociedade Beneficente Israelita Brasileira Hospital Albert Einstein",
+        "status": "RECRUITING",
+        "city": "São Paulo",
+        "zip": "05651 901",
+        "country": "Brazil",
+        "geoPoint": {
+          "lat": -23.5475,
+          "lon": -46.63611
+        }
+      },
+      {
+        "facility": "Hopital De La Cavale Blanche",
+        "status": "RECRUITING",
+        "city": "Brest",
+        "zip": "29200",
+        "country": "France",
+        "geoPoint": {
+          "lat": 48.39029,
+          "lon": -4.48628
+        }
+      },
+      {
+        "facility": "Hopital Nord Marseille",
+        "status": "RECRUITING",
+        "city": "Marseille",
+        "zip": "13015",
+        "country": "France",
+        "geoPoint": {
+          "lat": 43.29695,
+          "lon": 5.38107
+        }
+      },
+      {
+        "facility": "Hopital Tenon",
+        "status": "RECRUITING",
+        "city": "Paris",
+        "zip": "75020",
+        "country": "France",
+        "geoPoint": {
+          "lat": 48.85341,
+          "lon": 2.3488
+        }
+      },
+      {
+        "facility": "Prince of Wales Hospital",
+        "status": "RECRUITING",
+        "city": "Shatin",
+        "country": "Hong Kong",
+        "geoPoint": {
+          "lat": 22.38333,
+          "lon": 114.18333
+        }
+      },
+      {
+        "facility": "Radboud Umcn",
+        "status": "RECRUITING",
+        "city": "Nijmegen",
+        "zip": "6525 GA",
+        "country": "Netherlands",
+        "geoPoint": {
+          "lat": 51.8425,
+          "lon": 5.85278
+        }
+      },
+      {
+        "facility": "Hosp. Univ. 12 de Octubre",
+        "status": "RECRUITING",
+        "city": "Madrid",
+        "zip": "28041",
+        "country": "Spain",
+        "geoPoint": {
+          "lat": 40.4165,
+          "lon": -3.70256
+        }
+      },
+      {
+        "facility": "Clinica Univ. de Navarra",
+        "status": "RECRUITING",
+        "city": "Pamplona",
+        "zip": "31008",
+        "country": "Spain",
+        "geoPoint": {
+          "lat": 42.81687,
+          "lon": -1.64323
+        }
+      },
+      {
+        "facility": "Hosp. Clinico Univ. de Santiago",
+        "status": "RECRUITING",
+        "city": "Santiago de Compostela",
+        "zip": "15706",
+        "country": "Spain",
+        "geoPoint": {
+          "lat": 42.88052,
+          "lon": -8.54569
+        }
+      },
+      {
+        "facility": "Hosp. Univ. I Politecni La Fe",
+        "status": "RECRUITING",
+        "city": "Valencia",
+        "zip": "46026",
+        "country": "Spain",
+        "geoPoint": {
+          "lat": 39.47391,
+          "lon": -0.37966
+        }
+      },
+      {
+        "facility": "Sakarya University Training and Research Hospital",
+        "status": "RECRUITING",
+        "city": "Sakarya",
+        "zip": "54100",
+        "country": "Turkey (Türkiye)",
+        "geoPoint": {
+          "lat": 39.50333,
+          "lon": 32.07583
+        }
+      }
+    ],
+    "key_inclusion_summary": [
+      "Must be a candidate for standard of care concurrent chemoradiation followed by consolidation durvalumab.",
+      "Pathologically proven diagnosis of locally advanced, unresectable stage III NSCLC.",
+      "Have at least one target lesion amenable to intratumoral and/or intranodal injection.",
+      "ECOG performance status of 0 to 1."
+    ],
+    "key_exclusion_summary": [
+      "Medical history of primary immunodeficiency or organ transplant requiring therapeutic immunosuppression.",
+      "Another concurrent or prior primary malignancy within the last 3 years.",
+      "Known allergies to study drugs (JNJ-90301900, platinum-based chemotherapy, or durvalumab).",
+      "History of coagulation disorders or major thromboembolic events within 3 months.",
+      "Severe or unstable cardiac conditions within the last 3 months."
+    ]
+  }

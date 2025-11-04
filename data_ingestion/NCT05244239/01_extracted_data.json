@@ -1,0 +1,142 @@
+{
+  "nct_id": "NCT05244239",
+  "official_title": "A Phase I Study of Palliative Radiotherapy With Lurbinectedin in Patients With Extensive Stage Small Cell Lung Cancer",
+  "brief_title": "Palliative Radiotherapy With Lurbinectedin in Patients With Extensive Stage Small Cell Lung Cancer",
+  "cancer_type_display": "A study for patients with extensive-stage small cell lung cancer (ES-SCLC) that has progressed after first-line chemotherapy, who require palliative radiation for metastatic disease.",
+  "cancer_tags": [
+    "Extensive Stage Lung Small Cell Carcinoma",
+    "Stage IV Lung Cancer AJCC v8"
+  ],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT05244239",
+  "phase": "Phase 1",
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-10-31",
+  "enrollment": 22,
+  "min_age": 18,
+  "max_age": null,
+  "sex": "ALL",
+  "is_metastatic_allowed": true,
+  "performance_status_scale": "ECOG",
+  "performance_status_values": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "min_prior_lines": 1,
+  "max_prior_lines": 1,
+  "prior_treatments_required": [
+    "Progression on first-line systemic therapy (platinum etoposide chemotherapy or chemoimmunotherapy)"
+  ],
+  "prior_treatments_excluded": [
+    "Prior radiotherapy to a site that would overlap with the current palliative radiation target"
+  ],
+  "principal_investigator": "Kristin Higgins, MD",
+  "site_name": "Emory University Hospital Midtown",
+  "contact_email": "Kristin.higgins@emory.edu",
+  "contact_phone": "404.778.3473",
+  "locations": [
+    {
+      "facility": "Emory University Hospital Midtown",
+      "status": "NOT_YET_RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Allyson Anderson",
+          "role": "CONTACT",
+          "phone": "404-251-2854",
+          "email": "allyson.anderson@emory.edu"
+        },
+        {
+          "name": "Hillary Gaines",
+          "role": "CONTACT",
+          "phone": "404-251-3480",
+          "email": "hillary.gaines@emoryhealthcare.org"
+        },
+        {
+          "name": "Kristin Higgins, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "Emory University",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30322",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Allyson Anderson",
+          "role": "CONTACT",
+          "phone": "404-251-2854",
+          "email": "allyson.anderson@emory.edu"
+        },
+        {
+          "name": "Hillary Gaines",
+          "role": "CONTACT",
+          "phone": "404-251-2854",
+          "email": "hillary.gaines@emoryhealthcare.org"
+        },
+        {
+          "name": "Kristin Higgins, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "Emory Saint Joseph's Hospital",
+      "status": "NOT_YET_RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30342",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Allyson Anderson",
+          "role": "CONTACT",
+          "phone": "404-251-2854",
+          "email": "allyson.anderson@emory.edu"
+        },
+        {
+          "name": "Hillary Gaines",
+          "role": "CONTACT",
+          "phone": "404-251-3480",
+          "email": "hillary.gaines@emoryhealthcare.org"
+        },
+        {
+          "name": "Kristin Higgins, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Pathologically confirmed extensive-stage small cell lung cancer (ES-SCLC).",
+    "Must have progressed on first-line systemic therapy (chemotherapy or chemoimmunotherapy).",
+    "Candidate for lurbinectedin therapy.",
+    "Metastatic bone or visceral/lung disease requiring palliative radiotherapy.",
+    "ECOG performance status of 3 or better."
+  ],
+  "key_exclusion_summary": [
+    "Pregnancy or breastfeeding.",
+    "Prior radiotherapy that would result in overlapping fields with critical structures like the spinal cord, brachial plexus, or bowel.",
+    "Patients may not enroll in both safety cohorts."
+  ]
+}

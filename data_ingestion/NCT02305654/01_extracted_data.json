@@ -1,0 +1,324 @@
+{
+    "nct_id": "NCT02305654",
+    "official_title": "International Penile Advanced Cancer Trial (International Rare Cancers Initiative Study)",
+    "brief_title": "International Penile Advanced Cancer Trial (International Rare Cancers Initiative Study)",
+    "cancer_type_display": "An international study for patients with advanced squamous cell carcinoma of the penis that has spread to the inguinal lymph nodes.",
+    "cancer_tags": [
+      "Squamous Cell Carcinoma of the Penis, Usual Type"
+    ],
+    "link_to_trial": "https://clinicaltrials.gov/study/NCT02305654",
+    "phase": "Phase 3",
+    "recruitment_status": "RECRUITING",
+    "last_update_date": "2025-04-02",
+    "enrollment": 200,
+    "min_age": 18,
+    "max_age": null,
+    "sex": "MALE",
+    "is_metastatic_allowed": false,
+    "performance_status_scale": "ECOG",
+    "performance_status_values": [
+      0,
+      1,
+      2
+    ],
+    "min_prior_lines": 0,
+    "max_prior_lines": 0,
+    "prior_treatments_required": null,
+    "prior_treatments_excluded": [
+      "Previous chemotherapy or chemoradiotherapy"
+    ],
+    "principal_investigator": "Steve Nicholson",
+    "site_name": "Los Angeles County-USC Medical Center",
+    "contact_email": "anne.schuckman@med.usc.edu",
+    "contact_phone": "(323)865-3700",
+    "locations": [
+      {
+        "facility": "Los Angeles County-USC Medical Center",
+        "status": "RECRUITING",
+        "city": "Los Angeles",
+        "state": "California",
+        "zip": "90033",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Anne Schuckman",
+            "role": "CONTACT",
+            "phone": "(323)865-3700",
+            "email": "anne.schuckman@med.usc.edu"
+          }
+        ],
+        "geoPoint": {
+          "lat": 34.05223,
+          "lon": -118.24368
+        }
+      },
+      {
+        "facility": "USC / Norris Comprehensive Cancer Center",
+        "status": "RECRUITING",
+        "city": "Los Angeles",
+        "state": "California",
+        "zip": "90033",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Sia Daneshmand",
+            "role": "CONTACT",
+            "phone": "(323)865-3700",
+            "email": "daneshma@usc.edu"
+          }
+        ],
+        "geoPoint": {
+          "lat": 34.05223,
+          "lon": -118.24368
+        }
+      },
+      {
+        "facility": "Moffitt Cancer Center",
+        "status": "RECRUITING",
+        "city": "Tampa",
+        "state": "Florida",
+        "zip": "33612",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Phil Spiess",
+            "role": "CONTACT",
+            "phone": "(813)745-8343",
+            "email": "Philippe.spiess@moffitt.org"
+          }
+        ],
+        "geoPoint": {
+          "lat": 27.94752,
+          "lon": -82.45843
+        }
+      },
+      {
+        "facility": "Grady Health System",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30303",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 33.749,
+          "lon": -84.38798
+        }
+      },
+      {
+        "facility": "Emory University Hospital/Winship Cancer Institute",
+        "status": "RECRUITING",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30322",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Viraj Master",
+            "role": "CONTACT",
+            "phone": "(404)778-4898",
+            "email": "vmaster@emory.edu"
+          }
+        ],
+        "geoPoint": {
+          "lat": 33.749,
+          "lon": -84.38798
+        }
+      },
+      {
+        "facility": "University of Chicago Comprehensive Cancer Center",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Chicago",
+        "state": "Illinois",
+        "zip": "60637",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 41.85003,
+          "lon": -87.65005
+        }
+      },
+      {
+        "facility": "Mayo Clinic",
+        "status": "RECRUITING",
+        "city": "Rochester",
+        "state": "Minnesota",
+        "zip": "55905",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Lance Pagliaro",
+            "role": "CONTACT",
+            "email": "pagliaro.lance@mayo.edu"
+          },
+          {
+            "name": "Stephen Boorjian /Jeffrey Karnes (karnes.r@mayo.edu)",
+            "role": "CONTACT",
+            "phone": "(507)284-4015 / (507)266-9968",
+            "email": "boorjian.stephen@mayo.edu"
+          }
+        ],
+        "geoPoint": {
+          "lat": 44.02163,
+          "lon": -92.4699
+        }
+      },
+      {
+        "facility": "Ohio State University Comprehensive Cancer Center",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Columbus",
+        "state": "Ohio",
+        "zip": "43210",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 39.96118,
+          "lon": -82.99879
+        }
+      },
+      {
+        "facility": "University of Oklahoma Health Sciences Center",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "zip": "73104",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 35.46756,
+          "lon": -97.51643
+        }
+      },
+      {
+        "facility": "Fox Chase Cancer Center",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "zip": "19111",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 39.95238,
+          "lon": -75.16362
+        }
+      },
+      {
+        "facility": "University of Texas M.D. Anderson Cancer Center",
+        "status": "RECRUITING",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77030",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Curtis Pettaway",
+            "role": "CONTACT",
+            "phone": "(713)792-3250",
+            "email": "cpettawa@mdanderson.org"
+          }
+        ],
+        "geoPoint": {
+          "lat": 29.76328,
+          "lon": -95.36327
+        }
+      },
+      {
+        "facility": "Velindre NHS Trust",
+        "status": "RECRUITING",
+        "city": "Cardiff",
+        "zip": "CF14 2TL",
+        "country": "United Kingdom",
+        "contacts": [
+          {
+            "name": "Dr James Barber",
+            "role": "CONTACT"
+          }
+        ],
+        "geoPoint": {
+          "lat": 51.48,
+          "lon": -3.18
+        }
+      },
+      {
+        "facility": "University Hospitals of Leicester NHS Trust",
+        "status": "RECRUITING",
+        "city": "Leicester",
+        "zip": "LE1 5WW",
+        "country": "United Kingdom",
+        "contacts": [
+          {
+            "name": "Dr Christopher Kent",
+            "role": "CONTACT"
+          }
+        ],
+        "geoPoint": {
+          "lat": 52.6386,
+          "lon": -1.13169
+        }
+      },
+      {
+        "facility": "The Royal Marsden NHS Foundation Trust",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "London",
+        "zip": "SM2 5PT",
+        "country": "United Kingdom",
+        "geoPoint": {
+          "lat": 51.50853,
+          "lon": -0.12574
+        }
+      },
+      {
+        "facility": "St George's Hospital NHS Foundation Trust",
+        "status": "RECRUITING",
+        "city": "London",
+        "zip": "SW17 0QT",
+        "country": "United Kingdom",
+        "contacts": [
+          {
+            "name": "Mr Nick Watkin",
+            "role": "CONTACT"
+          }
+        ],
+        "geoPoint": {
+          "lat": 51.50853,
+          "lon": -0.12574
+        }
+      },
+      {
+        "facility": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
+        "status": "RECRUITING",
+        "city": "Norwich",
+        "zip": "NR4 7UY",
+        "country": "United Kingdom",
+        "contacts": [
+          {
+            "name": "Mr Vivekanandan Kumar",
+            "role": "CONTACT"
+          }
+        ],
+        "geoPoint": {
+          "lat": 52.62783,
+          "lon": 1.29834
+        }
+      },
+      {
+        "facility": "Swansea Bay University Health Board",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Swansea",
+        "zip": "SA6 6NL",
+        "country": "United Kingdom",
+        "geoPoint": {
+          "lat": 51.62079,
+          "lon": -3.94323
+        }
+      }
+    ],
+    "key_inclusion_summary": [
+      "Histologically-proven squamous cell carcinoma of the penis.",
+      "Stage N1, N2, or N3 with no distant metastasis (M0).",
+      "ECOG Performance Status of 0, 1, or 2.",
+      "Measurable disease as determined by RECIST version 1.1 criteria."
+    ],
+    "key_exclusion_summary": [
+      "Distant metastasis (Stage M1).",
+      "Previous chemotherapy or chemoradiotherapy.",
+      "Pure verrucous carcinoma or non-squamous malignancy of the penis.",
+      "Concurrent malignancy that has required treatment in the last 3 years."
+    ]
+  }
+  

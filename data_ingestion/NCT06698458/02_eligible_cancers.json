@@ -1,0 +1,16 @@
+[
+    {
+      "base_cancer": "Pancreatic Cancer",
+      "subtype_histology": "Adenocarcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Newly Diagnosed, Locally Advanced, Inoperable",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Pancreatic Cancer",
+      "subtype_histology": "Adenocarcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Newly Diagnosed",
+      "stage_category": "Metastatic"
+    }
+  ]

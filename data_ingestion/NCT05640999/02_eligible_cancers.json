@@ -1,0 +1,16 @@
+[
+    {
+      "base_cancer": "Endometrial Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "POLE-mutated",
+      "clinical_state_descriptors": "Stage I, Stage II, Stage III, Post-Hysterectomy, Post-Salpingo-Oophorectomy",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Endometrial Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "p53-wildtype, NSMP",
+      "clinical_state_descriptors": "Stage I, Stage II, Stage III, Post-Hysterectomy, Post-Salpingo-Oophorectomy",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

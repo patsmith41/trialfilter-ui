@@ -1,0 +1,16 @@
+[
+    {
+      "base_cancer": "Prostate Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Curative-intent pelvic radiation therapy",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Prostate Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Biochemically Recurrent, Curative-intent pelvic radiation therapy",
+      "stage_category": "Recurrent"
+    }
+  ]

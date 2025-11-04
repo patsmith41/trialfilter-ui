@@ -1,0 +1,16 @@
+[
+    {
+      "base_cancer": "Cervical Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Adjuvant, Post-Operative, Recommended for whole pelvic radiotherapy",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Uterine Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Adjuvant, Post-Operative, Recommended for whole pelvic radiotherapy",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

@@ -1,0 +1,30 @@
+[
+    {
+      "base_cancer": "Esophageal Cancer",
+      "subtype_histology": "Adenocarcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Stage I, Stage II, Stage III, Stage IVA, Thoracic Esophagus",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Esophageal Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Stage I, Stage II, Stage III, Stage IVA, Thoracic Esophagus",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Gastroesophageal Junction Cancer",
+      "subtype_histology": "Adenocarcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Stage I, Stage II, Stage III, Stage IVA",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Gastroesophageal Junction Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Stage I, Stage II, Stage III, Stage IVA",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Prostate Cancer",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Castrate-Resistant, Skeletal Metastases, Progressive Disease, Post-Novel Hormonal Therapy, Post-Taxane Chemotherapy",
+      "stage_category": "Metastatic"
+    }
+  ]

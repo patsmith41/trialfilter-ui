@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Lung Cancer",
+      "subtype_histology": "Non-Small Cell Lung Cancer",
+      "biomarkers": "EGFR Negative, ALK Negative",
+      "clinical_state_descriptors": "Resected, N2 Disease",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

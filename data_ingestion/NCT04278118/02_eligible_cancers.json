@@ -1,0 +1,30 @@
+[
+    {
+      "base_cancer": "Meningioma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Benign, WHO Grade 1",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Meningioma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "WHO Grade 2, WHO Grade 3",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Pituitary Adenoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Benign",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Schwannoma",
+      "subtype_histology": "N/A",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Benign",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

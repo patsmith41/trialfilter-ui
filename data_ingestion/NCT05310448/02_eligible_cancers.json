@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Brain Cancer",
+      "subtype_histology": "Glioma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Brainstem Involvement, Adjuvant",
+      "stage_category": "Any"
+    }
+  ]

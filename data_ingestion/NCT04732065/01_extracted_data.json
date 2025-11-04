@@ -1,88 +1,178 @@
 {
-    "nct_id": "NCT04732065",
-    "official_title": "Open Label Phase 1 and Target Validation Study of ONC206 in Children and Young Adults With Newly Diagnosed or Recurrent Diffuse Midline Glioma (DMG), and Other Recurrent Primary Malignant Central Nervous System (CNS) Tumors",
-    "brief_title": "ONC206 for Treatment of Newly Diagnosed, Recurrent Diffuse Midline Gliomas, and Other Recurrent Malignant CNS Tumors",
-    "cancer_type_display": "Diffuse Midline Glioma (DMG)",
-    "cancer_tags": [
-      "Diffuse Midline Glioma (DMG)",
-      "Glioblastoma",
-      "Recurrent Ependymoma",
-      "Recurrent Malignant Central Nervous System Neoplasm",
-      "Spinal Cord Glioma",
-      "World Health Organization (WHO) Grade III Glioma",
-      "CNS Tumor",
-      "Central Nervous System Tumor"
-    ],
-    "phase": "Phase 1",
-    "min_age": 2,
-    "max_age": 21,
-    "sex": "All",
-    "is_metastatic_allowed": null,
-    "performance_status_scale": "Karnofsky, Lansky",
-    "performance_status_values": null,
-    "min_prior_lines": 0,
-    "max_prior_lines": null,
-    "prior_treatments_required": [
-      "focal radiation therapy"
-    ],
-    "prior_treatments_excluded": [
-      "another investigational drug",
-      "other anti-cancer agents",
-      "strong inhibitors or inducers of CYP3A4, 2D6, 1A2, 2C9 and 2C19",
-      "ONC201 in the upfront setting"
-    ],
-    "key_inclusion_summary": [
-      "ARM A: Children and young adults with DMG, H3K27 altered (Dose escalation: 2-21 years of age; Dose expansion: 2 years of age and above) who completed at least one line of prior therapy. Prior treatment must have included focal radiation therapy and patients must be within 4-14 weeks from completion of radiation therapy to registration (patients must start treatment within 1 week from registration), have not started any other therapies post-radiation, and have no evidence of disease progression.",
-      "ARM A: Tumor tissue confirmation of DMG, H3K27 altered is mandatory and pathology must be consistent with a DMG, H3K27 altered.",
-      "ARM A: Participants must have recovered from all acute side effects of prior therapy.",
-      "ARM A: From the projected start of scheduled study treatment, the following time periods must have elapsed: 5 half-lives from any investigational agent, 4 weeks from cytotoxic therapy (except 23 days for temozolomide and 6 weeks from nitrosoureas), 4 weeks from antibodies and must be at least 7 days since the completion of therapy with a biologic or small molecule agent. For any biologic or small molecule agent with known adverse events that can occur beyond 7 days after administration, the period prior to enrollment must be beyond the time during which adverse events are known to occur (these should be discussed with the study team)",
-      "ARM B: Newly diagnosed children and young adults (Dose escalation: 2-21 years of age; Dose expansion: 2 years of age and above) with a diagnosis of DMG, H3K27 altered are eligible, including spinal cord DMGs.",
-      "ARM B: Tumor tissue confirmation of DMG is mandatory and pathology must be consistent with a DMG, H3K27 altered.",
-      "ARM C: Children and young adults with DMGs (Dose escalation: 2-21 years of age; Dose expansion: 2 years of age and above) who have evidence of progression but have not been treated for this progression and are recommended to get re-irradiation.",
-      "ARM C: Patients must have undergone prior focal radiation therapy as part of their initial therapy and should be at least 6 months from prior radiation therapy. If timing is less than 6 months from prior focal radiation, these patients need to be discussed with the study chair(s).",
-      "ARM C: Tumor tissue confirmation is mandatory and pathology must be consistent with a DMG, H3K27 altered.",
-      "ARM C: Participants must have recovered from all acute side effects of prior therapy",
-      "ARM C: From the projected start of scheduled study treatment, the following time periods must have elapsed: 5 half-lives from any investigational agent, 4 weeks from cytotoxic therapy (except 23 days for temozolomide and 6 weeks from nitrosoureas), 4 weeks from antibodies and must be at least 7 days since the completion of therapy with a biologic or small molecule agent. For any biologic or small molecule agent with known adverse events that can occur beyond 7 days after administration, the period prior to enrollment must be beyond the time during which adverse events are known to occur (these should be discussed with the study team)",
-      "ARM D: Children and young adults with recurrent primary malignant CNS tumors excluding DMGs (Dose escalation: 2-21 years of age; Dose expansion: 2 years of age and above) who have evidence of progression but have not been treated for this progression. Participants who received a surgical resection for that progression are eligible if surgery has no curative intent. These patients need to be discussed with the study team.",
-      "ARM D: Prior tumor tissue confirmation is mandatory and pathology from the primary tumor must be consistent with malignant CNS tumor (diagnosis of ependymoma is allowed).Tissue at the time of progression is not required.",
-      "ARM D: Participants must have recovered from all acute side effects of prior therapy",
-      "ARM D: From the projected start of scheduled study treatment, the following time periods must have elapsed: 5 half-lives from any investigational agent, 4 weeks from cytotoxic therapy (except 23 days for temozolomide and 6 weeks from nitrosoureas), 4 weeks from antibodies and must be at least 7 days since the completion of therapy with a biologic or small molecule agent. For any biologic or small molecule agent with known adverse events that can occur beyond 7 days after administration, the period prior to enrollment must be beyond the time during which adverse events are known to occur (these should be discussed with the study team). Bevacizumab used for pseudoprogression does not require a wash out period.",
-      "TARGET VALIDATION: Newly diagnosed children and adults (2 years of age and above) with imaging consistent with a DMG, H3K27 altered are eligible.",
-      "TARGET VALIDATION: Children and young adults with recurrent primary malignant CNS tumors, including recurrent DMG, (2 years of age and above) who have evidence of progression but have not been treated for this progression.",
-      "TARGET VALIDATION: Participants must undergo tumor tissue collection as part of their standard of care",
-      "Participants who are receiving steroids must be on a stable or decreasing dose for at least 3 days prior to registration.",
-      "Peripheral absolute neutrophil count (ANC) >= neutrophil 1.0 g/l.",
-      "Platelet count >= 100 x 10^9/L (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment).",
-      "Serum creatinine < 1.5 Upper Limit normal (ULN) based on age and gender.",
-      "Total bilirubin <= 1.5 x upper limit of normal (ULN) for age; in presence of Gilbert's syndrome, total bilirubin < 3 x ULN or direct bilirubin < 1.5 x ULN.",
-      "Alanine aminotransferase (ALT) <= 3 x ULN.",
-      "Aspartate aminotransferase (AST) <= 3 x ULN.",
-      "Patients with seizure disorder may be enrolled if seizure disorder is well controlled",
-      "The effects of ONC206 on the developing human fetus is unknown. For this reason, females of child-bearing potential and males must agree to use adequate contraception. Adequate methods include: hormonal or barrier method of birth control; or abstinence prior to study entry and for the duration of study participation. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately. Males treated or enrolled on this protocol must also agree to use adequate contraception prior to the study and for the duration of study participation",
-      "Karnofsky >= 50 for participants > 16 years of age and Lansky >= 50 for participants =< 16 years of age. Participants who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score",
-      "Participants must be willing to provide adequate tissue. A minimum of 10-20 paraffin embedded unstained slides OR 1 block with tumor content of 40% or greater is required. Frozen tissue is also acceptable. Participants who previously enrolled on PNOC022 and provided adequate tissue, may not need to submit additional tissue - confirm with Study Chairs. Participants who do not meet this criterion may be discussed on a case-by-case basis with the Study Chairs.",
-      "A legal parent/guardian or participant must be able to understand, and willing to sign, a written informed consent and assent document, as appropriate",
-      "Patients must be enrolled on PNOC COMP if PNOC COMP is open to accrual at the enrolling institution"
-    ],
-    "key_exclusion_summary": [
-      "Arm A & B: For tumors that do not have a pontine or spinal cord epicenter the following specific exclusion criteria apply: Thalamic DMG and cerebellar, H3K27 altered that has undergone standard radiation without concurrent therapy (other than temozolomide).",
-      "Arm C & D: Patients who participated in trials investigating ONC201 in the upfront setting will not be eligible. Prior ONC201 exposure as part of PNOC022 or expanded access programs will be allowed.",
-      "Participants who are currently receiving another investigational drug are not eligible.",
-      "Participants who are currently receiving other anti-cancer agents are not eligible.",
-      "Participants with a known disorder that affects their immune system, such as human immunodeficiency virus (HIV) or hepatitis B or C, or an auto-immune disorder requiring systemic cytotoxic or immunosuppressive therapy are not eligible. Note: Participants that are currently using inhaled, intranasal, ocular, topical or other non-oral or non-intravenous (IV) steroids are not necessarily excluded from the study but need to be discussed with the study chair.",
-      "Participants with uncontrolled infection.",
-      "Female participants of childbearing potential must not be pregnant or breast-feeding. Female participants of childbearing potential must have a negative serum or urine pregnancy test prior to the start of therapy.",
-      "Active illicit drug use or diagnosis of alcoholism.",
-      "History of allergic reactions attributed to compounds of similar chemical or biologic composition to ONC206.",
-      "Inability to follow the procedures of the study, e.g. due to language problems, psychological disorders, dementia, etc. of the participant or family.",
-      "Any participants with illnesses that may affect absorption of ONC206.",
-      "Any participants on strong inhibitors or inducers of CYP3A4, 2D6, 1A2, 2C9 and 2C19 at least 14 days prior and throughout the study."
-    ],
-    "recruitment_status": "Recruiting",
-    "last_update_date": "2025-07-14",
-    "site_name": "Emory University",
-    "principal_investigator": "Tobey MacDonald, MD",
-    "contact_email": "tobey.macdonald@emory.edu",
-    "contact_phone": null,
-    "link_to_trial": "https://clinicaltrials.gov/study/NCT04732065"
-  }
+  "nct_id": "NCT04732065",
+  "official_title": "Open Label Phase 1 and Target Validation Study of ONC206 in Children and Young Adults With Newly Diagnosed or Recurrent Diffuse Midline Glioma (DMG), and Other Recurrent Primary Malignant Central Nervous System (CNS) Tumors",
+  "brief_title": "ONC206 for Treatment of Newly Diagnosed, Recurrent Diffuse Midline Gliomas, and Other Recurrent Malignant CNS Tumors",
+  "cancer_type_display": "A study for children and young adults with newly diagnosed or recurrent diffuse midline gliomas (DMG) and other recurrent malignant central nervous system (CNS) tumors like glioblastoma and ependymoma.",
+  "cancer_tags": [
+    "Diffuse Midline Glioma (DMG)",
+    "Glioblastoma",
+    "Recurrent Ependymoma",
+    "Recurrent Malignant Central Nervous System Neoplasm",
+    "Spinal Cord Glioma",
+    "World Health Organization (WHO) Grade III Glioma",
+    "CNS Tumor",
+    "Central Nervous System Tumor"
+  ],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT04732065",
+  "phase": "Phase 1",
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-07-14",
+  "enrollment": 208,
+  "min_age": 2,
+  "max_age": 21,
+  "sex": "ALL",
+  "is_metastatic_allowed": null,
+  "performance_status_scale": null,
+  "performance_status_values": null,
+  "min_prior_lines": 0,
+  "max_prior_lines": null,
+  "prior_treatments_required": [
+    "Focal radiation therapy (for specific arms)"
+  ],
+  "prior_treatments_excluded": [
+    "Current treatment with other investigational drugs",
+    "Current treatment with other anti-cancer agents",
+    "Strong inhibitors or inducers of CYP3A4, 2D6, 1A2, 2C9 and 2C19",
+    "Prior ONC201 in the upfront setting (for specific arms)"
+  ],
+  "principal_investigator": "Sabine Mueller, MD, PhD",
+  "site_name": "University of California, San Francisco",
+  "contact_email": "PNOC023@ucsf.edu",
+  "contact_phone": "(415) 502-1600",
+  "locations": [
+    {
+      "facility": "University of California, San Francisco",
+      "status": "RECRUITING",
+      "city": "San Francisco",
+      "state": "California",
+      "zip": "94143",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "PNOC Operations",
+          "role": "CONTACT",
+          "phone": "415-502-1600",
+          "email": "PNOC023@ucsf.edu"
+        },
+        {
+          "role": "CONTACT",
+          "email": "PNOC023@ucsf.edu"
+        },
+        {
+          "name": "Sabine Mueller, MD, PhD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 37.77493,
+        "lon": -122.41942
+      }
+    },
+    {
+      "facility": "Emory University",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30322",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Tobey MacDonald, MD",
+          "role": "CONTACT",
+          "email": "tobey.macdonald@emory.edu"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "University of Michigan",
+      "status": "RECRUITING",
+      "city": "Ann Arbor",
+      "state": "Michigan",
+      "zip": "48109",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Carl Koschmann, MD",
+          "role": "CONTACT",
+          "email": "CCPBTC-CRA@med.umich.edu"
+        },
+        {
+          "name": "Andrea Franson, MD",
+          "role": "CONTACT"
+        }
+      ],
+      "geoPoint": {
+        "lat": 42.27756,
+        "lon": -83.74088
+      }
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "status": "RECRUITING",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Cassie Kline, MD",
+          "role": "CONTACT",
+          "phone": "215-590-2299",
+          "email": "klinec@chop.edu"
+        },
+        {
+          "name": "Cassie Kline, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 39.95238,
+        "lon": -75.16362
+      }
+    },
+    {
+      "facility": "The University Children's Hospital in Zurich",
+      "status": "RECRUITING",
+      "city": "Zurich",
+      "state": "Canton of Zurich",
+      "zip": "8032",
+      "country": "Switzerland",
+      "contacts": [
+        {
+          "name": "Nicolas Gerber, MD",
+          "role": "CONTACT",
+          "phone": "+41 44 266 3117",
+          "email": "glioma@kispi.uzh.ch"
+        },
+        {
+          "name": "Stephanie Matthes, PhD",
+          "role": "CONTACT",
+          "phone": "+41 44 266 3726",
+          "email": "glioma@kispi.uzh.ch"
+        }
+      ],
+      "geoPoint": {
+        "lat": 47.36667,
+        "lon": 8.55
+      }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Diagnosis of newly diagnosed or recurrent H3K27-altered diffuse midline glioma (DMG), or other recurrent primary malignant CNS tumors.",
+    "Age between 2 and 21 years for dose escalation cohorts.",
+    "Karnofsky performance status >= 50 (for age > 16) or Lansky >= 50 (for age <= 16).",
+    "Adequate bone marrow and organ function.",
+    "Willingness to provide adequate tumor tissue sample."
+  ],
+  "key_exclusion_summary": [
+    "Currently receiving other investigational drugs or anti-cancer agents.",
+    "Known immunodeficiency disorders like HIV or Hepatitis B/C, or autoimmune disorders requiring systemic immunosuppressive therapy.",
+    "Uncontrolled infection.",
+    "Female participants who are pregnant or breastfeeding.",
+    "Use of strong inhibitors or inducers of CYP3A4, 2D6, 1A2, 2C9 and 2C19 enzymes within 14 days of starting the study drug."
+  ]
+}

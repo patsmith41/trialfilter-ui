@@ -1,67 +1,595 @@
 {
-    "nct_id": "NCT03186898",
-    "official_title": "A Phase III Randomized Trial of Protons Versus Photons for Hepatocellular Carcinoma",
-    "brief_title": "Radiation Therapy With Protons or Photons in Treating Patients With Liver Cancer",
-    "cancer_type_display": "Recurrent Hepatocellular Carcinoma",
-    "cancer_tags": [
-      "Recurrent Hepatocellular Carcinoma",
-      "Stage III Hepatocellular Carcinoma AJCC v7",
-      "Unresectable Hepatocellular Carcinoma"
-    ],
-    "phase": "Phase 3",
-    "min_age": 18,
-    "max_age": null,
-    "sex": "All",
-    "is_metastatic_allowed": false,
-    "performance_status_scale": "Zubrod",
-    "performance_status_values": [
-      0,
-      1
-    ],
-    "min_prior_lines": null,
-    "max_prior_lines": null,
-    "prior_treatments_required": null,
-    "prior_treatments_excluded": [
-      "Systemic chemotherapy for the study cancer < 2 weeks prior to registration",
-      "Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields (to include Y90)"
-    ],
-    "key_inclusion_summary": [
-      "Pathologically (histologically or cytologically) or radiographically-proven (based on the American Association for the Study of Liver Diseases [AALSD] criteria) unresectable or locally recurrent hepatocellular cancer prior to registration",
-      "Appropriate stage for study entry based on the following diagnostic workup:",
-      "All patients must have computed tomography (CT) scan chest/abdomen/pelvis with multiphasic liver CT scan prior to registration; if CT contrast is contraindicated, CT chest without contrast and magnetic resonance imaging (MRI) of abdomen is permitted",
-      "Participants must have measurable disease at study entry, defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded) as > 2 cm with conventional techniques or as > 1 cm with spiral CT scan",
-      "Patient must have 3 or fewer single or multinodular tumors; for patients with a single lesion, lesion must be 15 cm or less in greatest dimension; for patients with two lesions, no lesion may be greater than 10 cm in greatest dimension; for patients with three lesions, no lesion may be greater than 6 cm in greatest dimension; portal vein involvement or thrombosis combined with a single lesion that is >= 1 cm and =< 15 cm in greatest dimension is allowed",
-      "Age >= 18",
-      "Zubrod performance status 0-1 within 30 days prior to registration",
-      "Negative urine or serum pregnancy test for women of childbearing potential within 7 days prior to study entry",
-      "Absolute neutrophil count (ANC) >= 1,000 cells/mm^3",
-      "Platelets >= 50,000 cells/mm^3",
-      "Hemoglobin >= 9.0 g/dl; (Note: The use of transfusion or other intervention to achieve hemoglobin [Hgb] >= 9.0 g/dl is acceptable)",
-      "Total bilirubin < 4 x institutional upper limit of normal (ULN)",
-      "Transaminases (aspartate aminotransferase [AST] and alanine aminotransferase [ALT]) < 6 x institutional ULN",
-      "Albumin >= 2.5 g/dl",
-      "Creatinine < 2 mg/dl",
-      "Prior chemotherapy, targeted biological therapy (e.g. sorafenib), surgery, transarterial chemoembolization (TACE), ablation for present disease is acceptable",
-      "Must have Child-Turcotte-Pugh (CTP) A or B7",
-      "The patient or a legally authorized representative must provide study-specific informed consent prior to study registration"
-    ],
-    "key_exclusion_summary": [
-      "PRIOR TO STEP ONE REGISTRATION:",
-      "Definitive clinical or radiologic documentation of extrahepatic tumor, defined as extrahepatic metastases or malignant nodes (that enhance with typical features of HCC) > 3.0 cm, in sum of maximal diameters (e.g. presence of one 3.4 cm metastatic lymph node or two 2 cm lung lesions); note that benign non-enhancing periportal lymphadenopathy is not unusual in the presence of hepatitis and is permitted, even if the sum of enlarged nodes is > 2.0 cm",
-      "Uncontrolled prior invasive malignancy, excluding the current diagnosis",
-      "Systemic chemotherapy for the study cancer < 2 weeks prior to registration",
-      "Pregnancy or women of childbearing potential and men who are sexually active and not willing/able to use medically acceptable forms of contraception; this exclusion is necessary because the treatment involved in this study may be significantly teratogenic",
-      "HIV positive with CD4 count < 200 cells/microliter; note that patients who are human immunodeficiency virus (HIV) positive are eligible, provided they are under treatment with highly active antiretroviral therapy (HAART) and have a CD4 count >= 200 cells/microliter prior to registration; note also that HIV testing is not required for eligibility for this protocol; this exclusion criterion is necessary because the treatments involved in this protocol may be significantly immunosuppressive",
-      "Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields (to include Y90)",
-      "Prior liver transplant",
-      "PRIOR TO STEP TWO RANDOMIZATION:",
-      "Unable to obtain confirmation of payment coverage (insurance or other) for either possible treatment"
-    ],
-    "recruitment_status": "Recruiting",
-    "last_update_date": "2025-09-08",
-    "site_name": "Emory Proton Therapy Center",
-    "principal_investigator": "Pretesh R. Patel",
-    "contact_email": "allyson.anderson@emory.edu",
-    "contact_phone": "404-251-2854",
-    "link_to_trial": "https://clinicaltrials.gov/study/NCT03186898"
-  }
+  "nct_id": "NCT03186898",
+  "official_title": "A Phase III Randomized Trial of Protons Versus Photons for Hepatocellular Carcinoma",
+  "brief_title": "Radiation Therapy With Protons or Photons in Treating Patients With Liver Cancer",
+  "cancer_type_display": "A study for patients with unresectable or recurrent hepatocellular carcinoma (liver cancer).",
+  "cancer_tags": [
+    "Recurrent Hepatocellular Carcinoma",
+    "Stage III Hepatocellular Carcinoma AJCC v7",
+    "Unresectable Hepatocellular Carcinoma"
+  ],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT03186898",
+  "phase": "Phase 3",
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-09-08",
+  "enrollment": 186,
+  "min_age": 18,
+  "max_age": null,
+  "sex": "ALL",
+  "is_metastatic_allowed": false,
+  "performance_status_scale": "Zubrod",
+  "performance_status_values": [
+    0,
+    1
+  ],
+  "min_prior_lines": null,
+  "max_prior_lines": null,
+  "prior_treatments_required": null,
+  "prior_treatments_excluded": [
+    "Systemic chemotherapy within 2 weeks prior to registration",
+    "Prior radiotherapy to the liver region",
+    "Prior liver transplant"
+  ],
+  "principal_investigator": "Theodore S Hong",
+  "site_name": "Emory Proton Therapy Center",
+  "contact_email": "allyson.anderson@emory.edu",
+  "contact_phone": "404-251-2854",
+  "locations": [
+    {
+      "facility": "Emory Proton Therapy Center",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "404-251-2854",
+          "email": "allyson.anderson@emory.edu"
+        },
+        {
+          "name": "Pretesh R. Patel",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "Emory University Hospital Midtown",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "888-946-7447"
+        },
+        {
+          "name": "Pretesh R. Patel",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "Emory University Hospital/Winship Cancer Institute",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30322",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "404-778-1868"
+        },
+        {
+          "name": "Pretesh R. Patel",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "Emory Saint Joseph's Hospital",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30342",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "404-851-7115"
+        },
+        {
+          "name": "Pretesh R. Patel",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "Northwestern Medicine Cancer Center Warrenville",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "Warrenville",
+      "state": "Illinois",
+      "zip": "60555",
+      "country": "United States",
+      "geoPoint": {
+        "lat": 41.81781,
+        "lon": -88.1734
+      }
+    },
+    {
+      "facility": "Maryland Proton Treatment Center",
+      "status": "RECRUITING",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "410-369-5226",
+          "email": "info@mdproton.com"
+        },
+        {
+          "name": "Jason K. Molitoris",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 39.29038,
+        "lon": -76.61219
+      }
+    },
+    {
+      "facility": "University of Maryland/Greenebaum Cancer Center",
+      "status": "RECRUITING",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-888-8823"
+        },
+        {
+          "name": "Jason K. Molitoris",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 39.29038,
+        "lon": -76.61219
+      }
+    },
+    {
+      "facility": "Massachusetts General Hospital Cancer Center",
+      "status": "RECRUITING",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zip": "02114",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "877-726-5130"
+        },
+        {
+          "name": "Theodore S. Hong",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 42.35843,
+        "lon": -71.05977
+      }
+    },
+    {
+      "facility": "Corewell Health Dearborn Hospital",
+      "status": "RECRUITING",
+      "city": "Dearborn",
+      "state": "Michigan",
+      "zip": "48124",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "248-551-7695"
+        },
+        {
+          "name": "John M. Robertson",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 42.32226,
+        "lon": -83.17631
+      }
+    },
+    {
+      "facility": "Corewell Health William Beaumont University Hospital",
+      "status": "RECRUITING",
+      "city": "Royal Oak",
+      "state": "Michigan",
+      "zip": "48073",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "248-551-7695"
+        },
+        {
+          "name": "John M. Robertson",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 42.48948,
+        "lon": -83.14465
+      }
+    },
+    {
+      "facility": "Corewell Health Beaumont Troy Hospital",
+      "status": "RECRUITING",
+      "city": "Troy",
+      "state": "Michigan",
+      "zip": "48085",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "248-551-7695"
+        },
+        {
+          "name": "John M. Robertson",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 42.60559,
+        "lon": -83.14993
+      }
+    },
+    {
+      "facility": "Washington University School of Medicine",
+      "status": "RECRUITING",
+      "city": "St Louis",
+      "state": "Missouri",
+      "zip": "63110",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-600-3606",
+          "email": "info@siteman.wustl.edu"
+        },
+        {
+          "name": "Hyun Kim",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 38.62727,
+        "lon": -90.19789
+      }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Basking Ridge",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "country": "United States",
+      "geoPoint": {
+        "lat": 40.70621,
+        "lon": -74.54932
+      }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Monmouth",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "country": "United States",
+      "geoPoint": {
+        "lat": 40.39428,
+        "lon": -74.11709
+      }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Bergen",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "country": "United States",
+      "geoPoint": {
+        "lat": 41.04676,
+        "lon": -74.02292
+      }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Commack",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "Commack",
+      "state": "New York",
+      "zip": "11725",
+      "country": "United States",
+      "geoPoint": {
+        "lat": 40.84288,
+        "lon": -73.29289
+      }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Westchester",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "Harrison",
+      "state": "New York",
+      "zip": "10604",
+      "country": "United States",
+      "geoPoint": {
+        "lat": 40.96899,
+        "lon": -73.71263
+      }
+    },
+    {
+      "facility": "New York Proton Center",
+      "status": "RECRUITING",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10035",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "646-968-9031",
+          "email": "ichoi@nyproton.com"
+        },
+        {
+          "name": "Arpit M. Chhabra",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 40.71427,
+        "lon": -74.00597
+      }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Cancer Center",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10065",
+      "country": "United States",
+      "geoPoint": {
+        "lat": 40.71427,
+        "lon": -74.00597
+      }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Nassau",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "Uniondale",
+      "state": "New York",
+      "zip": "11553",
+      "country": "United States",
+      "geoPoint": {
+        "lat": 40.70038,
+        "lon": -73.59291
+      }
+    },
+    {
+      "facility": "University of Cincinnati Cancer Center-UC Medical Center",
+      "status": "RECRUITING",
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "zip": "45219",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "513-584-7698",
+          "email": "cancer@uchealth.com"
+        },
+        {
+          "name": "Jordan Kharofa",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 39.12711,
+        "lon": -84.51439
+      }
+    },
+    {
+      "facility": "Case Western Reserve University",
+      "status": "RECRUITING",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "zip": "44106",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-641-2422",
+          "email": "CTUReferral@UHhospitals.org"
+        },
+        {
+          "name": "Lauren E. Henke",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 41.4995,
+        "lon": -81.69541
+      }
+    },
+    {
+      "facility": "Ohio State University Comprehensive Cancer Center",
+      "status": "RECRUITING",
+      "city": "Columbus",
+      "state": "Ohio",
+      "zip": "43210",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-293-5066",
+          "email": "Jamesline@osumc.edu"
+        },
+        {
+          "name": "Kenneth Pitter",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 39.96118,
+        "lon": -82.99879
+      }
+    },
+    {
+      "facility": "University of Cincinnati Cancer Center-West Chester",
+      "status": "RECRUITING",
+      "city": "West Chester",
+      "state": "Ohio",
+      "zip": "45069",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "513-584-7698",
+          "email": "cancer@uchealth.com"
+        },
+        {
+          "name": "Jordan Kharofa",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 39.33172,
+        "lon": -84.40716
+      }
+    },
+    {
+      "facility": "M D Anderson Cancer Center",
+      "status": "RECRUITING",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77030",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "877-632-6789",
+          "email": "askmdanderson@mdanderson.org"
+        },
+        {
+          "name": "Eugene J. Koay",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 29.76328,
+        "lon": -95.36327
+      }
+    },
+    {
+      "facility": "Fred Hutchinson Cancer Center",
+      "status": "RECRUITING",
+      "city": "Seattle",
+      "state": "Washington",
+      "zip": "98109",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-804-8824"
+        },
+        {
+          "name": "Smith Apisarnthanarax",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 47.60621,
+        "lon": -122.33207
+      }
+    },
+    {
+      "facility": "University of Washington Medical Center - Montlake",
+      "status": "RECRUITING",
+      "city": "Seattle",
+      "state": "Washington",
+      "zip": "98195",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-804-8824"
+        },
+        {
+          "name": "Smith Apisarnthanarax",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 47.60621,
+        "lon": -122.33207
+      }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Proven unresectable or locally recurrent hepatocellular cancer.",
+    "Must have 3 or fewer tumors, with specific size limitations based on the number of lesions.",
+    "Zubrod performance status of 0-1.",
+    "Child-Turcotte-Pugh (CTP) score of A or B7.",
+    "Adequate hematologic and organ function, including platelets >= 50,000 cells/mm^3 and albumin >= 2.5 g/dl."
+  ],
+  "key_exclusion_summary": [
+    "Definitive clinical or radiologic documentation of extrahepatic tumor (metastases).",
+    "Prior radiotherapy to the region of the study cancer that would result in overlap of radiation fields.",
+    "Prior liver transplant.",
+    "Systemic chemotherapy for the study cancer less than 2 weeks prior to registration.",
+    "HIV positive with CD4 count < 200 cells/microliter."
+  ]
+}

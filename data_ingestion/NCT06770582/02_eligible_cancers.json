@@ -1,0 +1,16 @@
+[
+    {
+      "base_cancer": "Bladder Cancer",
+      "subtype_histology": "Urothelial Carcinoma",
+      "biomarkers": "PD-1 Naive, PD-L1 Naive, PD-L2 Naive, CTLA-4 Naive",
+      "clinical_state_descriptors": "High-Grade, T1, Non-Muscle Invasive, High-Risk, Lymphovascular Invasion, Variant Histology, Persistent T1 Disease",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Bladder Cancer",
+      "subtype_histology": "Urothelial Carcinoma",
+      "biomarkers": "PD-1 Naive, PD-L1 Naive, PD-L2 Naive, CTLA-4 Naive",
+      "clinical_state_descriptors": "High-Grade, T1, Non-Muscle Invasive, High-Risk, Recurrence after BCG",
+      "stage_category": "Recurrent"
+    }
+  ]

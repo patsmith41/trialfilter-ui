@@ -1,60 +1,221 @@
 {
-    "nct_id": "NCT05856773",
-    "official_title": "Phase III Randomized Trial of Conventionally Fractionated vs. Hypofractionated COMprehensive Nodal Irradiation for Breast Cancer Using Pencil Beam Scanning PROton Therapy (COMPRO)",
-    "brief_title": "Conventionally Fractionated vs. Hypofractionated Comprehensive Nodal Irradiation for Breast Cancer Using Pencil Beam Scanning Proton Therapy",
-    "cancer_type_display": "Breast Cancer",
-    "cancer_tags": [
-      "Breast Cancer"
-    ],
-    "phase": "Phase 3",
-    "min_age": 19,
-    "max_age": null,
-    "sex": "Female",
-    "is_metastatic_allowed": false,
-    "performance_status_scale": "ECOG",
-    "performance_status_values": [
-      0,
-      1,
-      2
-    ],
-    "min_prior_lines": null,
-    "max_prior_lines": null,
-    "prior_treatments_required": null,
-    "prior_treatments_excluded": [
-      "Prior history of radiation therapy overlapping with current target volume (including intraoperative brachytherapy, interstitial catheter brachytherapy, balloon brachytherapy, external beam radiation therapy)",
-      "Prior history of explant surgery or implant removal due to infection or wound healing issues without subsequent implant or flap reconstruction",
-      "Prior invasive non-study malignancy unless disease free for ≥ 3 years"
-    ],
-    "key_inclusion_summary": [
-      "Patients with Stage I-III breast cancer who have undergone breast conserving surgery or mastectomy and have been recommended to receive postoperative radiation therapy to the breast or chest wall and regional draining lymph nodes (axilla levels I-III, SCV, IMN)",
-      "Histologically documented breast cancer (invasive mammary, ductal, medullary, tubular, mucinous, lobular, or ductal carcinoma in situ) for which treatment with radiation therapy to the breast/chest wall and comprehensive regional lymph nodes including the internal mammary chain is recommended",
-      "Documentation of negative metastatic workup by whole body Positron Emission Tomography - Computed Tomography (PET/CT) or by combined CT of the chest, abdomen, pelvis and Bone scan",
-      "History and physical exam within 90 days prior to study registration",
-      "Eastern Cooperative Oncology Group (ECOG) performance status 0, 1, or 2",
-      "Negative pregnancy test for women of child-bearing potential",
-      "Able to begin radiation treatment within 12 weeks of last surgery or last day of chemotherapy",
-      "Presence of breast implants, breast expanders, tissue flap, or other breast reconstruction are allowed",
-      "Bilateral breast cancer is allowed if at least one side will be treated with comprehensive nodal irradiation per protocol treatment and will be recorded as the laterality receiving comprehensive nodal irradiation. If both sides will be treated comprehensively, it will be documented as such"
-    ],
-    "key_exclusion_summary": [
-      "Presence of skin ulceration and / or ipsilateral satellite nodules and/or edema (including peau d'orange) (T4b or T4c disease) or diagnosis of inflammatory breast cancer (T4d disease)",
-      "Residual gross disease detected by imaging or clinical exam with the exception of <2cm internal mammary lymph node or supraclavicular lymph node amenable to sequential boost",
-      "Prior history of radiation therapy overlapping with current target volume (including intraoperative brachytherapy, interstitial catheter brachytherapy, balloon brachytherapy, external beam radiation therapy)",
-      "Prior history of explant surgery or implant removal due to infection or wound healing issues without subsequent implant or flap reconstruction",
-      "Presence of double/dual port tissue expander",
-      "Clinical or radiographic evidence of distant metastatic disease",
-      "Pregnant or breast-feeding females",
-      "Non-malignant systemic disease that would preclude the patient from receiving study treatment or would prevent required follow-up",
-      "History of connective tissue disorder (i.e., systemic lupus erythematosus, scleroderma), dermatomyositis, xeroderma pigmentosum",
-      "Known BRCA 1 or BRCA 2 mutation",
-      "Presence of an active skin rash",
-      "Prior invasive non-study malignancy unless disease free for ≥ 3 years. Non-melanoma skin cancer, well-differentiated thyroid cancers, in situ carcinomas of the oral cavity, cervix, and other organs, and tumors that are not thought to impact the life expectancy of the patient are permissible."
-    ],
-    "recruitment_status": "Recruiting",
-    "last_update_date": "2025-09-09",
-    "site_name": "Emory Proton Therapy Center",
-    "principal_investigator": "Sunil Dutta, MD",
-    "contact_email": "leann.schilling@emory.edu",
-    "contact_phone": "404-686-0286",
-    "link_to_trial": "https://clinicaltrials.gov/study/NCT05856773"
-  }
+  "nct_id": "NCT05856773",
+  "official_title": "Phase III Randomized Trial of Conventionally Fractionated vs. Hypofractionated COMprehensive Nodal Irradiation for Breast Cancer Using Pencil Beam Scanning PROton Therapy (COMPRO)",
+  "brief_title": "Conventionally Fractionated vs. Hypofractionated Comprehensive Nodal Irradiation for Breast Cancer Using Pencil Beam Scanning Proton Therapy",
+  "cancer_type_display": "A study for women with Stage I-III breast cancer who require radiation therapy to the breast/chest wall and regional lymph nodes after surgery.",
+  "cancer_tags": [
+    "Breast Cancer"
+  ],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT05856773",
+  "phase": "Phase 3",
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-09-09",
+  "enrollment": 276,
+  "min_age": 19,
+  "max_age": null,
+  "sex": "FEMALE",
+  "is_metastatic_allowed": false,
+  "performance_status_scale": "ECOG",
+  "performance_status_values": [
+    0,
+    1,
+    2
+  ],
+  "min_prior_lines": null,
+  "max_prior_lines": null,
+  "prior_treatments_required": [
+    "Breast conserving surgery or mastectomy"
+  ],
+  "prior_treatments_excluded": [
+    "Prior history of radiation therapy overlapping with current target volume"
+  ],
+  "principal_investigator": "Isabelle Choi, MD",
+  "site_name": "Mayo Clinic",
+  "contact_email": "leonard.june@mayo.edu",
+  "contact_phone": "855-776-0015 (toll free)",
+  "locations": [
+    {
+      "facility": "Mayo Clinic",
+      "status": "RECRUITING",
+      "city": "Scottsdale",
+      "state": "Arizona",
+      "zip": "85259",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "June Leonard",
+          "role": "CONTACT",
+          "phone": "855-776-0015 (toll free)",
+          "email": "leonard.june@mayo.edu"
+        },
+        {
+          "name": "Carlos Vargas, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.50921,
+        "lon": -111.89903
+      }
+    },
+    {
+      "facility": "California Protons Cancer Therapy Center",
+      "status": "RECRUITING",
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92121",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Alexandra Crawford, MPH",
+          "role": "CONTACT",
+          "phone": "858-549-7431",
+          "email": "alexandra.crawford@californiaprotons.com"
+        },
+        {
+          "name": "Iain MacEwan, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 32.71571,
+        "lon": -117.16472
+      }
+    },
+    {
+      "facility": "University of Florida Proton Therapy Institute",
+      "status": "RECRUITING",
+      "city": "Jacksonville",
+      "state": "Florida",
+      "zip": "32206",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Robin Cacchio",
+          "role": "CONTACT",
+          "phone": "904-588-1460",
+          "email": "rcacchio@floridaproton.org"
+        },
+        {
+          "name": "Julie Bradley, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 30.33218,
+        "lon": -81.65565
+      }
+    },
+    {
+      "facility": "Miami Cancer Institute",
+      "status": "RECRUITING",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33176",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Alex Kudryashev",
+          "role": "CONTACT",
+          "phone": "786-596-2000",
+          "email": "alexku@baptisthealth.net"
+        },
+        {
+          "name": "Joseph Panoff, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 25.77427,
+        "lon": -80.19366
+      }
+    },
+    {
+      "facility": "Emory Proton Therapy Center",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Leann Schilling, MPH, CCRP",
+          "role": "CONTACT",
+          "phone": "404-686-0286",
+          "email": "leann.schilling@emory.edu"
+        },
+        {
+          "name": "Sunil Dutta, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "New York Proton Center",
+      "status": "RECRUITING",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10035",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Ryan Holder",
+          "role": "CONTACT",
+          "phone": "646-968-9055",
+          "phoneExt": "387",
+          "email": "rholder@nyproton.com"
+        },
+        {
+          "name": "Isabelle Choi, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 40.71427,
+        "lon": -74.00597
+      }
+    },
+    {
+      "facility": "Inova Schar Cancer Institute",
+      "status": "RECRUITING",
+      "city": "Fairfax",
+      "state": "Virginia",
+      "zip": "22031",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Sangeetha Moturi",
+          "role": "CONTACT",
+          "phone": "571-472-0343",
+          "email": "sangeetha.moturi@inova.org"
+        },
+        {
+          "name": "Ashish Chawla, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 38.84622,
+        "lon": -77.30637
+      }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Female patients with Stage I-III breast cancer who have undergone breast conserving surgery or mastectomy.",
+    "Recommended to receive postoperative radiation therapy to the breast or chest wall and comprehensive regional lymph nodes.",
+    "Histologically documented breast cancer.",
+    "Negative metastatic workup.",
+    "ECOG performance status 0, 1, or 2."
+  ],
+  "key_exclusion_summary": [
+    "Inflammatory breast cancer or T4b/T4c disease.",
+    "Clinical or radiographic evidence of distant metastatic disease.",
+    "Prior history of radiation therapy overlapping with the current target volume.",
+    "History of connective tissue disorder (e.g., lupus, scleroderma).",
+    "Known BRCA 1 or BRCA 2 mutation."
+  ]
+}

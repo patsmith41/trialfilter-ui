@@ -1,0 +1,613 @@
+{
+    "nct_id": "NCT04071236",
+    "official_title": "A Phase I and Randomized Phase II Trial of Radium-223 Dichloride, M3814, & Avelumab in Advanced Metastatic Castrate-Resistant Prostate Cancer (mCRPC)",
+    "brief_title": "Radiation Medication (Radium-223 Dichloride) Versus Radium-223 Dichloride Plus Radiation Enhancing Medication (M3814) Versus Radium-223 Dichloride Plus M3814 Plus Avelumab (a Type of Immunotherapy) for Advanced Prostate Cancer Not Responsive to Hormonal Therapy",
+    "cancer_type_display": "A study for patients with advanced metastatic castration-resistant prostate cancer (mCRPC) with bone metastases.",
+    "cancer_tags": [
+      "Metastatic Castration-Resistant Prostate Carcinoma",
+      "Metastatic Malignant Neoplasm in the Bone",
+      "Metastatic Malignant Neoplasm in the Lymph Nodes",
+      "Stage IVB Prostate Cancer AJCC v8"
+    ],
+    "link_to_trial": "https://clinicaltrials.gov/study/NCT04071236",
+    "phase": "Phase 1/2",
+    "recruitment_status": "RECRUITING",
+    "last_update_date": "2025-10-02",
+    "enrollment": 90,
+    "min_age": 18,
+    "max_age": null,
+    "sex": "MALE",
+    "is_metastatic_allowed": true,
+    "performance_status_scale": "ECOG",
+    "performance_status_values": [
+      0,
+      1,
+      2
+    ],
+    "min_prior_lines": 1,
+    "max_prior_lines": null,
+    "prior_treatments_required": [
+      "Progression after at least one of the following: abiraterone, enzalutamide, apalutamide, darolutamide, or taxane chemotherapy (docetaxel, cabazitaxel)"
+    ],
+    "prior_treatments_excluded": [
+      "Chemotherapy or radiotherapy within 4 weeks prior to entering the study",
+      "Previous hemibody external radiation",
+      "Concurrent abiraterone plus prednisone/prednisolone"
+    ],
+    "principal_investigator": "Hiram Gay",
+    "site_name": "City of Hope Comprehensive Cancer Center",
+    "contact_email": "becomingapatient@coh.org",
+    "contact_phone": "800-826-4673",
+    "locations": [
+      {
+        "facility": "City of Hope Comprehensive Cancer Center",
+        "status": "RECRUITING",
+        "city": "Duarte",
+        "state": "California",
+        "zip": "91010",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "800-826-4673",
+            "email": "becomingapatient@coh.org"
+          },
+          {
+            "name": "Savita V. Dandapani",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 34.13945,
+          "lon": -117.97729
+        }
+      },
+      {
+        "facility": "Los Angeles General Medical Center",
+        "status": "RECRUITING",
+        "city": "Los Angeles",
+        "state": "California",
+        "zip": "90033",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "323-865-0451",
+            "email": "uscnorrisinfo@med.usc.edu"
+          },
+          {
+            "name": "Anishka D'Souza",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 34.05223,
+          "lon": -118.24368
+        }
+      },
+      {
+        "facility": "USC / Norris Comprehensive Cancer Center",
+        "status": "RECRUITING",
+        "city": "Los Angeles",
+        "state": "California",
+        "zip": "90033",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "323-865-0451"
+          },
+          {
+            "name": "Anishka D'Souza",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 34.05223,
+          "lon": -118.24368
+        }
+      },
+      {
+        "facility": "UC Irvine Health/Chao Family Comprehensive Cancer Center",
+        "status": "RECRUITING",
+        "city": "Orange",
+        "state": "California",
+        "zip": "92868",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "877-827-8839",
+            "email": "ucstudy@uci.edu"
+          },
+          {
+            "name": "Nataliya Mar",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 33.78779,
+          "lon": -117.85311
+        }
+      },
+      {
+        "facility": "University of California Davis Comprehensive Cancer Center",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Sacramento",
+        "state": "California",
+        "zip": "95817",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 38.58157,
+          "lon": -121.4944
+        }
+      },
+      {
+        "facility": "UM Sylvester Comprehensive Cancer Center at Aventura",
+        "status": "RECRUITING",
+        "city": "Aventura",
+        "state": "Florida",
+        "zip": "33180",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "954-461-2180"
+          },
+          {
+            "name": "Russ A. Kuker",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 25.95648,
+          "lon": -80.13921
+        }
+      },
+      {
+        "facility": "UM Sylvester Comprehensive Cancer Center at Coral Gables",
+        "status": "RECRUITING",
+        "city": "Coral Gables",
+        "state": "Florida",
+        "zip": "33146",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "305-243-2647"
+          },
+          {
+            "name": "Russ A. Kuker",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 25.72149,
+          "lon": -80.26838
+        }
+      },
+      {
+        "facility": "UM Sylvester Comprehensive Cancer Center at Deerfield Beach",
+        "status": "RECRUITING",
+        "city": "Deerfield Beach",
+        "state": "Florida",
+        "zip": "33442",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "305-243-2647"
+          },
+          {
+            "name": "Russ A. Kuker",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 26.31841,
+          "lon": -80.09977
+        }
+      },
+      {
+        "facility": "University of Miami Miller School of Medicine-Sylvester Cancer Center",
+        "status": "RECRUITING",
+        "city": "Miami",
+        "state": "Florida",
+        "zip": "33136",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "305-243-2647"
+          },
+          {
+            "name": "Russ A. Kuker",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 25.77427,
+          "lon": -80.19366
+        }
+      },
+      {
+        "facility": "UM Sylvester Comprehensive Cancer Center at Kendall",
+        "status": "RECRUITING",
+        "city": "Miami",
+        "state": "Florida",
+        "zip": "33176",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "305-243-2647"
+          },
+          {
+            "name": "Russ A. Kuker",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 25.77427,
+          "lon": -80.19366
+        }
+      },
+      {
+        "facility": "UM Sylvester Comprehensive Cancer Center at Plantation",
+        "status": "RECRUITING",
+        "city": "Plantation",
+        "state": "Florida",
+        "zip": "33324",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "305-243-2647"
+          },
+          {
+            "name": "Russ A. Kuker",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 26.13421,
+          "lon": -80.23184
+        }
+      },
+      {
+        "facility": "Emory University Hospital Midtown",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30308",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 33.749,
+          "lon": -84.38798
+        }
+      },
+      {
+        "facility": "Emory University Hospital/Winship Cancer Institute",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30322",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 33.749,
+          "lon": -84.38798
+        }
+      },
+      {
+        "facility": "Emory Saint Joseph's Hospital",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30342",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 33.749,
+          "lon": -84.38798
+        }
+      },
+      {
+        "facility": "University of Kansas Clinical Research Center",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Fairway",
+        "state": "Kansas",
+        "zip": "66205",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 39.02223,
+          "lon": -94.6319
+        }
+      },
+      {
+        "facility": "University of Kansas Cancer Center",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Kansas City",
+        "state": "Kansas",
+        "zip": "66160",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 39.11417,
+          "lon": -94.62746
+        }
+      },
+      {
+        "facility": "University of Kansas Cancer Center-Overland Park",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Overland Park",
+        "state": "Kansas",
+        "zip": "66210",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 38.98223,
+          "lon": -94.67079
+        }
+      },
+      {
+        "facility": "University of Kansas Hospital-Westwood Cancer Center",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Westwood",
+        "state": "Kansas",
+        "zip": "66205",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 39.04056,
+          "lon": -94.6169
+        }
+      },
+      {
+        "facility": "University of Kentucky/Markey Cancer Center",
+        "status": "RECRUITING",
+        "city": "Lexington",
+        "state": "Kentucky",
+        "zip": "40536",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "859-257-3379"
+          },
+          {
+            "name": "Zin W. Myint",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 37.98869,
+          "lon": -84.47772
+        }
+      },
+      {
+        "facility": "Wayne State University/Karmanos Cancer Institute",
+        "status": "SUSPENDED",
+        "city": "Detroit",
+        "state": "Michigan",
+        "zip": "48201",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 42.33143,
+          "lon": -83.04575
+        }
+      },
+      {
+        "facility": "Siteman Cancer Center at Saint Peters Hospital",
+        "status": "RECRUITING",
+        "city": "City of Saint Peters",
+        "state": "Missouri",
+        "zip": "63376",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "800-600-3606",
+            "email": "info@siteman.wustl.edu"
+          },
+          {
+            "name": "Hiram A. Gay",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 38.80033,
+          "lon": -90.62651
+        }
+      },
+      {
+        "facility": "Siteman Cancer Center at West County Hospital",
+        "status": "RECRUITING",
+        "city": "Creve Coeur",
+        "state": "Missouri",
+        "zip": "63141",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "800-600-3606",
+            "email": "info@siteman.wustl.edu"
+          },
+          {
+            "name": "Hiram A. Gay",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 38.66089,
+          "lon": -90.42262
+        }
+      },
+      {
+        "facility": "University of Kansas Cancer Center at North Kansas City Hospital",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "North Kansas City",
+        "state": "Missouri",
+        "zip": "64116",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 39.13,
+          "lon": -94.56218
+        }
+      },
+      {
+        "facility": "Washington University School of Medicine",
+        "status": "RECRUITING",
+        "city": "St Louis",
+        "state": "Missouri",
+        "zip": "63110",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "800-600-3606",
+            "email": "info@siteman.wustl.edu"
+          },
+          {
+            "name": "Hiram A. Gay",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 38.62727,
+          "lon": -90.19789
+        }
+      },
+      {
+        "facility": "Siteman Cancer Center-South County",
+        "status": "RECRUITING",
+        "city": "St Louis",
+        "state": "Missouri",
+        "zip": "63129",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "800-600-3606",
+            "email": "info@siteman.wustl.edu"
+          },
+          {
+            "name": "Hiram A. Gay",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 38.62727,
+          "lon": -90.19789
+        }
+      },
+      {
+        "facility": "Dartmouth Hitchcock Medical Center/Dartmouth Cancer Center",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Lebanon",
+        "state": "New Hampshire",
+        "zip": "03756",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 43.64229,
+          "lon": -72.25176
+        }
+      },
+      {
+        "facility": "Laura and Isaac Perlmutter Cancer Center at NYU Langone",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10016",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 40.71427,
+          "lon": -74.00597
+        }
+      },
+      {
+        "facility": "Ohio State University Comprehensive Cancer Center",
+        "status": "RECRUITING",
+        "city": "Columbus",
+        "state": "Ohio",
+        "zip": "43210",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "800-293-5066",
+            "email": "Jamesline@osumc.edu"
+          },
+          {
+            "name": "Edmund Folefac",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 39.96118,
+          "lon": -82.99879
+        }
+      },
+      {
+        "facility": "Thomas Jefferson University Hospital",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "zip": "19107",
+        "country": "United States",
+        "geoPoint": {
+          "lat": 39.95238,
+          "lon": -75.16362
+        }
+      },
+      {
+        "facility": "UT Southwestern/Simmons Cancer Center-Dallas",
+        "status": "RECRUITING",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75390",
+        "country": "United States",
+        "contacts": [
+          {
+            "name": "Site Public Contact",
+            "role": "CONTACT",
+            "phone": "214-648-7097",
+            "email": "canceranswerline@UTSouthwestern.edu"
+          },
+          {
+            "name": "Kevin D. Courtney",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "geoPoint": {
+          "lat": 32.78306,
+          "lon": -96.80667
+        }
+      }
+    ],
+    "key_inclusion_summary": [
+      "Histologically confirmed metastatic castration-resistant prostate cancer with two or more skeletal metastases.",
+      "Progressive disease after at least one novel hormonal therapy (e.g., abiraterone, enzalutamide) or taxane chemotherapy.",
+      "ECOG performance status of 0-2.",
+      "Testosterone level should be consistently lower than 50 ng/dL.",
+      "Adequate organ and marrow function (hemoglobin > 9 g/dL, ANC >= 1,500/mcL, platelets >= 100,000/mcL)."
+    ],
+    "key_exclusion_summary": [
+      "Visible visceral organ metastases.",
+      "Patients who have had chemotherapy or radiotherapy within 4 weeks prior to entering the study.",
+      "Patients who have had previous hemibody external radiation.",
+      "Patients who have imminent/established spinal cord compression or pathological fracture in weight bearing bones.",
+      "Active autoimmune conditions or patients on chronic immunosuppression."
+    ]
+  }

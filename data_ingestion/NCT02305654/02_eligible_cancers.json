@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Penile Cancer",
+      "subtype_histology": "Squamous Cell Carcinoma",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "N1 Disease, N2 Disease, N3 Disease",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

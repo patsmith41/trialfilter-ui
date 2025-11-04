@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Invasive Breast Carcinoma",
+      "biomarkers": "ER Negative, PR Negative, HER2 Negative",
+      "clinical_state_descriptors": "Triple Negative, Unifocal lesion <= 3cm, Clinically Node Negative",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

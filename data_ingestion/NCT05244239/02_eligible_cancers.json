@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Lung Cancer",
+      "subtype_histology": "Small Cell Lung Cancer",
+      "biomarkers": "N/A",
+      "clinical_state_descriptors": "Extensive Stage, Progression after first-line therapy, Stage IV",
+      "stage_category": "Metastatic"
+    }
+  ]

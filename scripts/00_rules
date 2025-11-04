@@ -1,36 +1,103 @@
-You are a meticulous data extraction bot. Your task is to read the provided text from a ClinicalTrials.gov page and extract the specified fields into a single, clean JSON object.
-Rules:
-Extract the data for the fields listed below exactly as they appear in the text.
-Do not interpret, summarize, or change the data unless specified (e.g., for data types).
-If a field is not found, its value should be null.
-For fields that are arrays of numbers (like performance_status_values), ensure the output is a JSON array of integers, not strings.
-For key_inclusion_summary and key_exclusion_summary, format the output as a JSON array of strings, where each string is a bullet point.
-Fields to Extract:
-nct_id (string)
-official_title (string)
-brief_title (string)
-cancer_type_display (string)
-cancer_tags (array of strings)
-phase (string, e.g., "Phase 1", "Phase 2", "Not Applicable")
-min_age (integer)
-max_age (integer)
-sex (string, e.g., "All", "Male", "Female")
-is_metastatic_allowed (boolean, true or false)
-performance_status_scale (string, e.g., "ECOG", "KPS")
-performance_status_values (array of integers, e.g., [0, 1])
-min_prior_lines (integer)
-max_prior_lines (integer)
-prior_treatments_required (array of strings)
-prior_treatments_excluded (array of strings)
-key_inclusion_summary (JSON array of strings)
-key_exclusion_summary (JSON array of strings)
-recruitment_status (string)
-last_update_date (string, in "YYYY-MM-DD" format)
-site_name (string)
-principal_investigator (string)
-contact_email (string)
-contact_phone (string)
-link_to_trial (string, the full URL)
+You are a meticulous Clinical Trial Data Transformer. Your task is to read the provided attached source JSON file from ClinicalTrials.gov and create a new, clean JSON object that perfectly matches our database schema.
+General Rules:
+You will be given a large JSON file as an attachment. You must use it as your single source of truth.
+Extract data for every field listed below.
+If a path does not exist or its value is empty/null, the corresponding field in your output JSON must be null.
+Pay close attention to the required data types (integer, boolean, arrays) and format your output accordingly.
+Field Extraction Mapping:
+Top-Level Identifiers:
+nct_id
+Path: protocolSection.identificationModule.nctId
+official_title
+Path: protocolSection.identificationModule.officialTitle
+brief_title
+Path: protocolSection.identificationModule.briefTitle
+cancer_type_display
+Instruction: Create a concise, one-sentence, human-readable summary of the eligible cancers. This can often be found or adapted from the brief_title or the conditionsModule.conditions list.
+cancer_tags
+Path: protocolSection.conditionsModule.conditions
+Instruction: Take the list of strings from this path and format it as a JSON array of strings.
+link_to_trial
+Instruction: Construct the full URL like this: https://clinicaltrials.gov/study/ followed by the nct_id.
+Study Details:
+phase
+Path: protocolSection.designModule.phases[0]
+Instruction: Format the value to be human-readable (e.g., "PHASE1" -> "Phase 1", "EARLY_PHASE1" -> "Early Phase 1").
+recruitment_status
+Path: protocolSection.statusModule.overallStatus
+last_update_date
+Path: protocolSection.statusModule.lastUpdatePostDateStruct.date
+enrollment
+Path: protocolSection.designModule.enrollmentInfo.count
+Patient Eligibility Criteria:
+min_age & max_age
+Paths: protocolSection.eligibilityModule.minimumAge and protocolSection.eligibilityModule.maximumAge
+Instruction: Parse the integer value from the string (e.g., "18 Years" -> 18). If a value is not specified, it must be null.
+sex
+Path: protocolSection.eligibilityModule.sex
+is_metastatic_allowed
+Instruction: Analyze the eligibilityCriteria text for phrases like "metastatic disease," "Stage IV," "widespread metastasis," or "non-metastatic." Set the value to true or false. If ambiguous, set to null.
+performance_status_scale & performance_status_values
+Instruction: Scan the eligibilityCriteria text for "ECOG" or "Karnofsky". Set performance_status_scale to that value. Extract the allowed integer values (e.g., "0, 1, or 2") and format performance_status_values as a JSON array of integers [0, 1, 2].
+min_prior_lines & max_prior_lines
+Instruction: Interpret the eligibilityCriteria text to find the minimum and maximum number of prior lines of therapy allowed. If not specified, the values must be null.
+prior_treatments_required & prior_treatments_excluded
+Instruction: Interpret the eligibilityCriteria text to find specific required or excluded prior treatments (e.g., "prior platinum therapy", "prior immunotherapy"). Format these as arrays of strings. If none, the value must be null.
+Contacts & Locations:
+principal_investigator
+Path: protocolSection.contactsLocationsModule.overallOfficials[0].name
+Instruction: Use the first official listed.
+site_name
+Path: protocolSection.contactsLocationsModule.locations[0].facility
+Instruction: Use the facility from the first location in the list.
+contact_email & contact_phone
+Path: protocolSection.contactsLocationsModule.locations[0].contacts[0].email and ...contacts[0].phone
+Instruction: Use the email and phone from the first contact at the first location.
+locations
+Path: protocolSection.contactsLocationsModule.locations
+Instruction: Extract the entire locations array of objects exactly as it is.
+Summaries:
+key_inclusion_summary & key_exclusion_summary
+Instruction: Read the full eligibilityCriteria text. Extract the most important, top 3-5 bullet points for each and format them as a JSON array of strings.
+Final Instruction: The output must be a single, clean JSON object. Do not include any fields that are not in the list above (e.g., eligible_cancers must not be in the output of this prompt).
+Input JSON:
+The input JSON is the file you have been provided as an attachment. Please begin processing.
+Output (a single, clean JSON object that matches our schema)
+
+Here is my table definition i will eventually be adding it to on supabase so that you understand. Obviously don't add a timestamp that is for supabase to do.
+
+create table public.trials (
+nct_id text not null,
+created_at timestamp with time zone not null default now(),
+official_title text null,
+brief_title text null,
+cancer_type_display text null,
+cancer_tags text[] null,
+phase text null,
+min_age integer null,
+sex text null,
+is_metastatic_allowed boolean null,
+performance_status_scale text null,
+performance_status_values integer[] null,
+min_prior_lines integer null,
+max_prior_lines integer null,
+prior_treatments_required text[] null,
+prior_treatments_excluded text[] null,
+eligible_cancers jsonb null,
+key_inclusion_summary jsonb null,
+key_exclusion_summary jsonb null,
+recruitment_status text null,
+last_update_date date null,
+site_name text null,
+principal_investigator text null,
+contact_email text null,
+contact_phone text null,
+link_to_trial text null,
+max_age integer null,
+enrollment smallint null,
+locations jsonb null,
+constraint trials_pkey1 primary key (nct_id)
+) TABLESPACE pg_default;
 
 You are an expert oncologist and clinical trial data modeler. Your task is to take a JSON object describing a clinical trial and generate a structured JSON array for the eligible_cancers field.
 The Golden Rule: Each unique cancer eligibility pathway gets its own object in the array.

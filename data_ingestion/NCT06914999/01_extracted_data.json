@@ -1,0 +1,86 @@
+{
+  "nct_id": "NCT06914999",
+  "official_title": "Assessment of Radiation-Induced Vascular Complications in Patients With Head and Neck Cancers With PET/CT Imaging",
+  "brief_title": "Comparing an Investigational Scan (F-18 NaF PET/CT) to Standard of Care Imaging (F-18 FDG PET/CT) for Evaluating Vascular Complications in Patients Receiving Radiation Therapy for Head and Neck Cancer",
+  "cancer_type_display": "A study for patients with various stages of head and neck cancers, including oropharyngeal, hypopharyngeal, and laryngeal squamous cell carcinoma.",
+  "cancer_tags": [
+    "Clinical Stage I HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8",
+    "Clinical Stage II HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8",
+    "Clinical Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8",
+    "Head and Neck Squamous Cell Carcinoma",
+    "Hypopharyngeal Squamous Cell Carcinoma",
+    "Laryngeal Squamous Cell Carcinoma",
+    "Oropharyngeal Squamous Cell Carcinoma",
+    "Stage III Hypopharyngeal Carcinoma AJCC v8",
+    "Stage III Laryngeal Cancer AJCC v8",
+    "Stage III Oropharyngeal (p16-Negative) Carcinoma AJCC v8",
+    "Stage IVA Hypopharyngeal Carcinoma AJCC v8",
+    "Stage IVA Laryngeal Cancer AJCC v8",
+    "Stage IVA Oropharyngeal (p16-Negative) Carcinoma AJCC v8",
+    "Stage IVB Hypopharyngeal Carcinoma AJCC v8",
+    "Stage IVB Laryngeal Cancer AJCC v8",
+    "Stage IVB Oropharyngeal (p16-Negative) Carcinoma AJCC v8"
+  ],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT06914999",
+  "phase": "Early Phase 1",
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-10-22",
+  "enrollment": 20,
+  "min_age": 18,
+  "max_age": null,
+  "sex": "ALL",
+  "is_metastatic_allowed": null,
+  "performance_status_scale": null,
+  "performance_status_values": null,
+  "min_prior_lines": null,
+  "max_prior_lines": null,
+  "prior_treatments_required": null,
+  "prior_treatments_excluded": [
+    "Chemotherapy or radiotherapy within 4 weeks prior to entering the study",
+    "Receiving any other investigational agents within 21 days",
+    "Planned to receive any immunotherapy agent during radiotherapy"
+  ],
+  "principal_investigator": "Amol M Takalkar, MD, MS, MBA, FACNM",
+  "site_name": "Emory University Hospital Midtown",
+  "contact_email": "nashwa.jarkas@emory.edu",
+  "contact_phone": "404-727-2193",
+  "locations": [
+    {
+      "facility": "Emory University Hospital Midtown",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Nashwa M. Jarkas",
+          "role": "CONTACT",
+          "phone": "404-727-2193",
+          "email": "nashwa.jarkas@emory.edu"
+        },
+        {
+          "name": "Amol M. Takalkar, MD, MS, MBA, FACNM",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Must be 18 years of age or older.",
+    "Diagnosis of specific stages of squamous cell carcinoma of the oropharynx (HPV-negative or HPV-associated), larynx, or hypopharynx.",
+    "Planned to receive curative-intent, organ preservation (non-surgical) treatment with concurrent chemoradiotherapy.",
+    "Females of childbearing potential must have a negative pregnancy test and agree to use effective contraception."
+  ],
+  "key_exclusion_summary": [
+    "Previous chemotherapy or radiotherapy within 4 weeks prior to study entry.",
+    "Currently receiving or planning to receive other investigational agents or immunotherapy.",
+    "History of significant cardiovascular disease within 3 months prior to study entry.",
+    "Uncontrolled intercurrent illness, such as ongoing infection, symptomatic congestive heart failure, or unstable angina.",
+    "Pregnant women, prisoners, or adults unable to consent."
+  ]
+}

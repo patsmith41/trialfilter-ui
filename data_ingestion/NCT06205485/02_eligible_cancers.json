@@ -1,0 +1,9 @@
+[
+    {
+      "base_cancer": "Rectal Cancer",
+      "subtype_histology": "Adenocarcinoma",
+      "biomarkers": "DYPD Non-Deficient",
+      "clinical_state_descriptors": "Well-moderately differentiated, cT1-T3a, cN0, M0, Mid to low-lying tumour",
+      "stage_category": "Non-Metastatic"
+    }
+  ]

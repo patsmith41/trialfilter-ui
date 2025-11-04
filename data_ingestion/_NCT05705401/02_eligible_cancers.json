@@ -1,0 +1,16 @@
+[
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Invasive Breast Carcinoma",
+      "biomarkers": "HER2-Positive",
+      "clinical_state_descriptors": "Low-Risk, Post-Lumpectomy, Adjuvant Setting, Tumor <= 2cm, pN0",
+      "stage_category": "Non-Metastatic"
+    },
+    {
+      "base_cancer": "Breast Cancer",
+      "subtype_histology": "Invasive Breast Carcinoma",
+      "biomarkers": "HER2-Positive",
+      "clinical_state_descriptors": "Low-Risk, Post-Lumpectomy, Neoadjuvant Setting, Pathologic Complete Response, ypT0N0, Pre-treatment Tumor < 3cm, cN0",
+      "stage_category": "Non-Metastatic"
+    }
+  ]
