@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Prostate Cancer",
+    "subtype_histology": "Adenocarcinoma",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Post-Prostatectomy, Node-Positive, Detectable PSA, Stage I, Stage II, Stage III, Stage IVA",
+    "stage_category": "Non-Metastatic"
+  }
+]

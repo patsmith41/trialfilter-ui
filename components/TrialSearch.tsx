@@ -37,7 +37,7 @@ export default function TrialSearch({ initialTrials, baseCancers }: TrialSearchP
     const allSubtypes = relevantTrials.flatMap(trial =>
       trial.eligible_cancers
         ?.filter(def => def.base_cancer === filters.baseCancer)
-        .map(def => def.subtype) || []
+        .map(def => def.subtype_histology) || []
     );
     return Array.from(new Set(allSubtypes)).filter(s => s !== 'N/A').sort();
   }, [filters.baseCancer, initialTrials]);
@@ -54,7 +54,7 @@ export default function TrialSearch({ initialTrials, baseCancers }: TrialSearchP
     // If a subtype is also selected, narrow the pool further
     if (filters.subtype) {
       relevantTrials = relevantTrials.filter(trial => 
-        trial.eligible_cancers?.some(def => def.subtype === filters.subtype)
+        trial.eligible_cancers?.some(def => def.subtype_histology === filters.subtype)
       );
     }
     const allBiomarkers = relevantTrials.flatMap(trial =>
@@ -72,7 +72,7 @@ export default function TrialSearch({ initialTrials, baseCancers }: TrialSearchP
     );
     if (filters.subtype) {
       relevantTrials = relevantTrials.filter(trial => 
-        trial.eligible_cancers?.some(def => def.subtype === filters.subtype)
+        trial.eligible_cancers?.some(def => def.subtype_histology === filters.subtype)
       );
     }
     const allStates = relevantTrials.flatMap(trial =>
@@ -97,7 +97,7 @@ export default function TrialSearch({ initialTrials, baseCancers }: TrialSearchP
       if (filters.subtype) {
         filtered = filtered.filter(trial =>
           trial.eligible_cancers?.some(def => 
-            def.base_cancer === filters.baseCancer && def.subtype === filters.subtype
+            def.base_cancer === filters.baseCancer && def.subtype_histology === filters.subtype
           )
         );
       }

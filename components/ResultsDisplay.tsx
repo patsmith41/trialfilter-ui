@@ -25,7 +25,7 @@ export default function ResultsDisplay({ trials, totalTrials }: ResultsDisplayPr
   return (
     <div>
       <div className="mb-4">
-        <h2 className="text-xl font-semibold">
+        <h2 className="text-xl text-gray-800 font-semibold">
           Showing {trials.length} of {totalTrials} trials
         </h2>
       </div>

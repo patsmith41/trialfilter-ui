@@ -1,0 +1,16 @@
+[
+  {
+    "base_cancer": "Glioblastoma",
+    "subtype_histology": "N/A",
+    "biomarkers": "MGMT Methylated, IDH Wildtype",
+    "clinical_state_descriptors": "Newly Diagnosed, Post-Resection",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Gliosarcoma",
+    "subtype_histology": "N/A",
+    "biomarkers": "MGMT Methylated, IDH Wildtype",
+    "clinical_state_descriptors": "Newly Diagnosed, Post-Resection",
+    "stage_category": "Non-Metastatic"
+  }
+]

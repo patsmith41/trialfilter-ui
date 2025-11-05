@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Lung Cancer",
+    "subtype_histology": "Non-Small Cell Lung Cancer",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Locally Advanced, Inoperable, Stage IIB, Stage III, Node Positive, Primary tumor <= 7 cm",
+    "stage_category": "Non-Metastatic"
+  }
+]

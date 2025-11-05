@@ -1,11 +1,19 @@
 // scripts/upload_batch.js
+
+require('dotenv').config({ path: './.env.local' });
+
+
 const { createClient } = require('@supabase/supabase-js');
 const fs = require('fs');
 const path = require('path');
 
 
-const supabaseUrl = "https://aulxdmvpxsjpzuyezxvt.supabase.co";
-const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF1bHhkbXZweHNqcHp1eWV6eHZ0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjE1Nzk5ODgsImV4cCI6MjA3NzE1NTk4OH0.ktbGCx4_wobTs1tQhcSNHSCHSbRHn_qn10x4W-1SGOs";
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY; // Using the new, secret variable
+
+if (!supabaseUrl || !supabaseKey) {
+  throw new Error("Supabase URL or Service Role Key is missing. Make sure it's in your .env.local file.");
+}
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 // The path to your master data folder
