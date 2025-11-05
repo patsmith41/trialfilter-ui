@@ -1,0 +1,51 @@
+[
+  {
+    "base_cancer": "Leukemia",
+    "subtype_histology": "N/A",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Childhood Cancer Survivor, Diagnosed before age 21, 5-year survivor",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Lymphoma",
+    "subtype_histology": "N/A",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Childhood Cancer Survivor, Diagnosed before age 21, 5-year survivor",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Brain Cancer",
+    "subtype_histology": "CNS Tumor",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Childhood Cancer Survivor, Diagnosed before age 21, 5-year survivor",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Sarcoma",
+    "subtype_histology": "Bone Tumor",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Childhood Cancer Survivor, Diagnosed before age 21, 5-year survivor",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Kidney Cancer",
+    "subtype_histology": "Wilms Tumor",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Childhood Cancer Survivor, Diagnosed before age 21, 5-year survivor",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Neuroblastoma",
+    "subtype_histology": "N/A",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Childhood Cancer Survivor, Diagnosed before age 21, 5-year survivor",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Sarcoma",
+    "subtype_histology": "Soft Tissue Sarcoma",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Childhood Cancer Survivor, Diagnosed before age 21, 5-year survivor",
+    "stage_category": "Any"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Oral Cavity Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Early-Stage, T1-2N0M0, Stage I, Stage II, Surgical Candidate",
+    "stage_category": "Non-Metastatic"
+  }
+]

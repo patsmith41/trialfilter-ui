@@ -1,0 +1,648 @@
+{
+  "nct_id": "NCT05323253",
+  "official_title": "A Prospective International Multicenter, Pivotal, Single Arm, Open Label Clinical Study to Assess the Efficacy and Safety of Intratumoral Alpha DaRT224 for the Treatment of Patients With Recurrent Cutaneous Squamous Cell Carcinoma",
+  "brief_title": "A Clinical Study to Assess the Efficacy and Safety of Alpha DaRT224 for the Treatment of Patients With Recurrent Cutaneous Squamous Cell Carcinoma",
+  "cancer_type_display": "A study for patients with recurrent cutaneous squamous cell carcinoma who have failed at least one prior standard therapy and are not candidates for surgery or standard radiation.",
+  "cancer_tags": ["Recurrent Squamous Cell Carcinoma"],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT05323253",
+  "phase": null,
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-09-04",
+  "enrollment": 86,
+  "min_age": 18,
+  "max_age": null,
+  "sex": "ALL",
+  "is_metastatic_allowed": false,
+  "performance_status_scale": "ECOG",
+  "performance_status_values": [0, 1, 2],
+  "min_prior_lines": 1,
+  "max_prior_lines": null,
+  "prior_treatments_required": ["Standard of care therapy"],
+  "prior_treatments_excluded": [
+    "Antineoplastic systemic chemotherapy or biological therapy within 4 weeks of enrollment",
+    "Immunotherapy within 4 weeks of enrollment",
+    "Investigational agents other than the study intervention within 4 weeks of enrollment",
+    "Radiation therapy within 4 weeks of enrollment"
+  ],
+  "principal_investigator": null,
+  "site_name": null,
+  "contact_email": "LironD@alphatau.com",
+  "contact_phone": "+972-2-3737-210",
+  "locations": [
+    {
+      "facility": "Banner Health MD Anderson Phoenix",
+      "status": "RECRUITING",
+      "city": "Gilbert",
+      "state": "Arizona",
+      "zip": "85234",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Michael Samuels, MD",
+          "role": "CONTACT",
+          "phone": "305-213-8550",
+          "email": "michael.samuels2@bannerhealth.com"
+        },
+        {
+          "name": "Pamela Urban",
+          "role": "CONTACT",
+          "email": "Pamela.Urban@bannerhealth.com"
+        }
+      ],
+      "geoPoint": { "lat": 33.35283, "lon": -111.78903 }
+    },
+    {
+      "facility": "Dignity Health Cancer Institute",
+      "status": "RECRUITING",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "zip": "85004",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Shyamal Patel, MD",
+          "role": "CONTACT",
+          "email": "shyamal.patel@commonspirit.org"
+        },
+        {
+          "name": "Rebecca Pena",
+          "role": "CONTACT",
+          "phone": "602-406-0354",
+          "email": "rebecca.pena900@commonspirit.org"
+        }
+      ],
+      "geoPoint": { "lat": 33.44838, "lon": -112.07404 }
+    },
+    {
+      "facility": "Alliance Dermatology",
+      "status": "RECRUITING",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "zip": "85032",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Sadra Sasha Jazayeri, MD",
+          "role": "CONTACT",
+          "phone": "602-971-0268",
+          "email": "drjaz99@yahoo.com"
+        },
+        {
+          "name": "Michelle Ogden",
+          "role": "CONTACT",
+          "phone": "602-971-0268",
+          "email": "michelle@alliancedermatology.com"
+        }
+      ],
+      "geoPoint": { "lat": 33.44838, "lon": -112.07404 }
+    },
+    {
+      "facility": "UCLA",
+      "status": "RECRUITING",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": "90095",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Albert Chang, MD",
+          "role": "CONTACT",
+          "phone": "617-935-9275",
+          "email": "ajchang@mednet.ucla.edu"
+        },
+        {
+          "name": "Jackie Hernandez",
+          "role": "CONTACT",
+          "phone": "310-267-8991",
+          "email": "JHernandez@mednet.ucla.edu"
+        }
+      ],
+      "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+    },
+    {
+      "facility": "Day Star Skin and Cancer Center",
+      "status": "RECRUITING",
+      "city": "DeLand",
+      "state": "Florida",
+      "zip": "32720",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Neil Sandhu, MD",
+          "role": "CONTACT",
+          "phone": "868-628-3376",
+          "email": "nsandhu@annexusderm.com"
+        },
+        {
+          "name": "Angie Galicia",
+          "role": "CONTACT",
+          "phone": "13866283376",
+          "email": "agalicia@annexusderm.com"
+        }
+      ],
+      "geoPoint": { "lat": 29.02832, "lon": -81.30312 }
+    },
+    {
+      "facility": "Integrity Research Clinical Associates",
+      "status": "RECRUITING",
+      "city": "Delray Beach",
+      "state": "Florida",
+      "zip": "33445",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "John Strasswimmer, MD",
+          "role": "CONTACT",
+          "email": "strasswimmer@gmail.com"
+        },
+        {
+          "name": "Puente Renzo",
+          "role": "CONTACT",
+          "phone": "(561)654-0462",
+          "email": "rpuente@integriresearch.com"
+        }
+      ],
+      "geoPoint": { "lat": 26.46146, "lon": -80.07282 }
+    },
+    {
+      "facility": "Palm beach Dermatology Group",
+      "status": "NOT_YET_RECRUITING",
+      "city": "Delray Beach",
+      "state": "Florida",
+      "zip": "33484",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Adam Plotkin, MD",
+          "role": "CONTACT",
+          "phone": "561-270-3928",
+          "email": "adam@adamplotkin.com"
+        },
+        {
+          "name": "Samantha Ayoub",
+          "role": "CONTACT",
+          "phone": "(561) 5591516",
+          "email": "sammy@adamplotkin.com"
+        }
+      ],
+      "geoPoint": { "lat": 26.46146, "lon": -80.07282 }
+    },
+    {
+      "facility": "Palm Beach Dermatology Group",
+      "status": "NOT_YET_RECRUITING",
+      "city": "Delray Beach",
+      "state": "Florida",
+      "zip": "33484",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Adam Plotkin, MD",
+          "role": "CONTACT",
+          "phone": "561-559-1516",
+          "email": "adam@adamplotkin.com"
+        },
+        {
+          "name": "Samantha Ayoub",
+          "role": "CONTACT",
+          "phone": "(561)5591516",
+          "email": "sammy@adamplotkin.com"
+        }
+      ],
+      "geoPoint": { "lat": 26.46146, "lon": -80.07282 }
+    },
+    {
+      "facility": "Hollywood Dermatology",
+      "status": "RECRUITING",
+      "city": "Hollywood",
+      "state": "Florida",
+      "zip": "33021",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Eduardo T Weiss, MD",
+          "role": "CONTACT",
+          "phone": "561-958-3116",
+          "email": "EWeissSCR@gmail.com"
+        },
+        {
+          "name": "Lori R Apteker",
+          "role": "CONTACT",
+          "phone": "561-948-3116",
+          "email": "laptekar@dermcaremgt.com"
+        }
+      ],
+      "geoPoint": { "lat": 26.0112, "lon": -80.14949 }
+    },
+    {
+      "facility": "University of Miami",
+      "status": "RECRUITING",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33101",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Matthew Abramowitz, MD",
+          "role": "CONTACT",
+          "phone": "305-781-6555",
+          "email": "mabramowitz@med.miami.edu"
+        },
+        {
+          "name": "Zuzel Rodrigues",
+          "role": "CONTACT",
+          "phone": "+13052430124",
+          "email": "z.rodriguez1@med.miami.edu"
+        }
+      ],
+      "geoPoint": { "lat": 25.77427, "lon": -80.19366 }
+    },
+    {
+      "facility": "Baptist Health South Florida MCI",
+      "status": "RECRUITING",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33176",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Noah S Kalman, MD",
+          "role": "CONTACT",
+          "phone": "203-645-0185",
+          "email": "noahk@baptisthealth.net"
+        }
+      ],
+      "geoPoint": { "lat": 25.77427, "lon": -80.19366 }
+    },
+    {
+      "facility": "Moffitt Cancer Center",
+      "status": "RECRUITING",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "33612",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Evan Wuthrick, MD",
+          "role": "CONTACT",
+          "phone": "631-807-4596",
+          "email": "evan.wuthrick@moffitt.org"
+        }
+      ],
+      "geoPoint": { "lat": 27.94752, "lon": -82.45843 }
+    },
+    {
+      "facility": "Beer Dermatology",
+      "status": "NOT_YET_RECRUITING",
+      "city": "West Palm Beach",
+      "state": "Florida",
+      "zip": "33401",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Beer Kenneth, MD",
+          "role": "CONTACT",
+          "phone": "561-655-9055",
+          "email": "kenbeer@aol.com"
+        },
+        {
+          "name": "Monica Dunn",
+          "role": "CONTACT",
+          "email": "mdunn@beerdermatology.com"
+        }
+      ],
+      "geoPoint": { "lat": 26.71534, "lon": -80.05337 }
+    },
+    {
+      "facility": "Emory University",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Zachary Buchwald, MD",
+          "role": "CONTACT",
+          "email": "Zbuchwa@emory.edu"
+        },
+        {
+          "name": "Stacie Hitchcook",
+          "role": "CONTACT",
+          "email": "stitch2@emory.edu"
+        }
+      ],
+      "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+    },
+    {
+      "facility": "Mayo Clinic Rochester",
+      "status": "RECRUITING",
+      "city": "Rochester",
+      "state": "Minnesota",
+      "zip": "55905",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Timothy Malouff, MD",
+          "role": "CONTACT",
+          "phone": "215-990-6189",
+          "email": "Malouff.Timothy@mayo.edu"
+        }
+      ],
+      "geoPoint": { "lat": 44.02163, "lon": -92.4699 }
+    },
+    {
+      "facility": "Schweiger Dermatology Group",
+      "status": "NOT_YET_RECRUITING",
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "zip": "07601",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "David Goldberg, MD",
+          "role": "CONTACT",
+          "phone": "609-219-5621",
+          "email": "david.goldberg@schweigerderm.com"
+        },
+        {
+          "name": "Diana Aranzazu",
+          "role": "CONTACT",
+          "phone": "201-951-0701",
+          "email": "Diana.Aranzazu@schweigerderm.com"
+        }
+      ],
+      "geoPoint": { "lat": 40.88593, "lon": -74.04347 }
+    },
+    {
+      "facility": "New Mexico Cancer Center",
+      "status": "RECRUITING",
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "zip": "87109",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Gregg E.Franklin, MD",
+          "role": "CONTACT",
+          "phone": "505-235-7245",
+          "email": "greggef@nmohc.com"
+        },
+        {
+          "name": "Sarah Tellez",
+          "role": "CONTACT",
+          "phone": "(505)8144923",
+          "email": "saraht@nmohc.com"
+        }
+      ],
+      "geoPoint": { "lat": 35.08449, "lon": -106.65114 }
+    },
+    {
+      "facility": "Bassett Healthcare Network",
+      "status": "RECRUITING",
+      "city": "Cooperstown",
+      "state": "New York",
+      "zip": "13326",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Timothy Korytko, MD",
+          "role": "CONTACT",
+          "phone": "646-401-2002",
+          "email": "timothy.korytko@bassett.org"
+        },
+        {
+          "name": "Katelyn Tessier",
+          "role": "CONTACT",
+          "email": "katelyn.tessier@bassett.org"
+        }
+      ],
+      "geoPoint": { "lat": 42.70048, "lon": -74.92426 }
+    },
+    {
+      "facility": "Northwell Health",
+      "status": "SUSPENDED",
+      "city": "Queens",
+      "state": "New York",
+      "zip": "11375",
+      "country": "United States",
+      "geoPoint": { "lat": 40.68149, "lon": -73.83652 }
+    },
+    {
+      "facility": "New York Medical Skin Solutions",
+      "status": "RECRUITING",
+      "city": "Rockaway Park",
+      "state": "New York",
+      "zip": "11694",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Ritu Saini, MD",
+          "role": "CONTACT",
+          "phone": "512-717-8610",
+          "email": "r.saini@gen1research.com"
+        }
+      ],
+      "geoPoint": { "lat": 40.58011, "lon": -73.83625 }
+    },
+    {
+      "facility": "MDCS Dermatology",
+      "status": "NOT_YET_RECRUITING",
+      "city": "Smithtown",
+      "state": "New York",
+      "zip": "11787",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Snehal Amin, MD",
+          "role": "CONTACT",
+          "email": "snehalmdcs@gmail.com"
+        }
+      ],
+      "geoPoint": { "lat": 40.85593, "lon": -73.20067 }
+    },
+    {
+      "facility": "West Cancer Center",
+      "status": "WITHDRAWN",
+      "city": "Germantown",
+      "state": "Tennessee",
+      "zip": "38138",
+      "country": "United States",
+      "geoPoint": { "lat": 35.08676, "lon": -89.81009 }
+    },
+    {
+      "facility": "Gulf Coast Cancer Center",
+      "status": "NOT_YET_RECRUITING",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77008",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Alpesh Desai, MD",
+          "role": "CONTACT",
+          "email": "drdesai911@yahoo.com"
+        },
+        {
+          "name": "Mary Brown",
+          "role": "CONTACT",
+          "phone": "7132560425",
+          "email": "MBrown@gulfcoastcc.com"
+        }
+      ],
+      "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+    },
+    {
+      "facility": "University Cancer & Diagnostic Center",
+      "status": "RECRUITING",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77089",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Mark D'Andrea, MD",
+          "role": "CONTACT",
+          "phone": "713-474-1414",
+          "email": "mmmeead@aol.com"
+        },
+        {
+          "name": "Jo Ann Ramirez",
+          "role": "CONTACT",
+          "phone": "713-474-1414",
+          "email": "jramirez@gulfcoastcc.com"
+        }
+      ],
+      "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+    },
+    {
+      "facility": "University of Virginia Health System",
+      "status": "WITHDRAWN",
+      "city": "Charlottesville",
+      "state": "Virginia",
+      "zip": "22908",
+      "country": "United States",
+      "geoPoint": { "lat": 38.02931, "lon": -78.47668 }
+    },
+    {
+      "facility": "Dermatology of Seattle and Bellevue",
+      "status": "RECRUITING",
+      "city": "Bellevue",
+      "state": "Washington",
+      "zip": "98004",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Elie Levy, MD",
+          "role": "CONTACT",
+          "phone": "425-455-5111",
+          "email": "elevy@dermatologyseattle.com"
+        }
+      ],
+      "geoPoint": { "lat": 47.61038, "lon": -122.20068 }
+    },
+    {
+      "facility": "Princess Margaret Cancer Center",
+      "status": "RECRUITING",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "contacts": [
+        {
+          "name": "Philip Wong, MD",
+          "role": "CONTACT",
+          "phone": "+14168898710",
+          "email": "philip.wong@rmp.uhn.ca"
+        },
+        {
+          "name": "Elizabeth Evans",
+          "role": "CONTACT",
+          "phone": "(613)403-2188",
+          "email": "elizabeth.evans@rmp.uhn.ca"
+        }
+      ],
+      "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+    },
+    {
+      "facility": "Rambam Medical Center",
+      "status": "RECRUITING",
+      "city": "Haifa",
+      "country": "Israel",
+      "contacts": [
+        {
+          "name": "Tomer Charas, MD",
+          "role": "CONTACT",
+          "phone": "+972502062073",
+          "email": "t_charas@rambam.health.gov.il"
+        }
+      ],
+      "geoPoint": { "lat": 32.81303, "lon": 34.99928 }
+    },
+    {
+      "facility": "Hadassah Medical Center",
+      "status": "RECRUITING",
+      "city": "Jerusalem",
+      "zip": "9777605",
+      "country": "Israel",
+      "contacts": [
+        {
+          "name": "Aron Popovtzer, MD",
+          "role": "CONTACT",
+          "phone": "972-2-6776709",
+          "email": "aron@hadassah.org.il"
+        }
+      ],
+      "geoPoint": { "lat": 31.76904, "lon": 35.21633 }
+    },
+    {
+      "facility": "Belinson-Rabin Medical Center",
+      "status": "RECRUITING",
+      "city": "Petah Tikva",
+      "country": "Israel",
+      "contacts": [
+        {
+          "name": "Elisha Fredman, MD",
+          "role": "CONTACT",
+          "phone": "+972-538299243",
+          "email": "elishafre@clalit.org.il"
+        }
+      ],
+      "geoPoint": { "lat": 32.08707, "lon": 34.88747 }
+    },
+    {
+      "facility": "Sheba Medical Center",
+      "status": "RECRUITING",
+      "city": "Ramat Gan",
+      "country": "Israel",
+      "contacts": [
+        {
+          "name": "Iris Gluck, MD",
+          "role": "CONTACT",
+          "phone": "+97252-6669142",
+          "email": "iris.gluck@sheba.health.gov.il"
+        },
+        {
+          "name": "Shlomit Shamir Druskin",
+          "role": "CONTACT",
+          "phone": "0507327830",
+          "email": "Shlomit.ShamirDruskin@sheba.health.gov.il"
+        }
+      ],
+      "geoPoint": { "lat": 32.08227, "lon": 34.81065 }
+    }
+  ],
+
+  "key_inclusion_summary": [
+    "Patients with histologically confirmed recurrent cutaneous SCC who have failed at least first-line standard of care therapy.",
+    "Not indicated for surgery and standard radiation therapy.",
+    "Measurable disease with a tumor size ≤7 cm.",
+    "Eastern Cooperative Oncology Group (ECOG) Performance Status of 0, 1, or 2.",
+    "Life expectancy of at least 12 months."
+  ],
+  "key_exclusion_summary": [
+    "Distant or nodal metastatic disease (N+ or M1).",
+    "T4 disease or perineural spread of disease.",
+    "Previously untreated cutaneous SCC indicated for surgery or radiation.",
+    "Patients undergoing systemic immunosuppressive therapy.",
+    "Received antineoplastic systemic therapy, immunotherapy, or radiation therapy within 4 weeks of enrollment."
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "base_cancer": "Endometrial Cancer",
+    "subtype_histology": "Serous Adenocarcinoma",
+    "biomarkers": "HER2 Positive, dMMR Proficient",
+    "clinical_state_descriptors": "Stage I-IVB, Post-Primary Surgery, Non-Recurrent",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Endometrial Cancer",
+    "subtype_histology": "Clear Cell Adenocarcinoma",
+    "biomarkers": "HER2 Positive, dMMR Proficient",
+    "clinical_state_descriptors": "Stage I-IVB, Post-Primary Surgery, Non-Recurrent",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Uterine Cancer",
+    "subtype_histology": "Carcinosarcoma",
+    "biomarkers": "HER2 Positive, dMMR Proficient",
+    "clinical_state_descriptors": "Stage I-IVB, Post-Primary Surgery, Non-Recurrent",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Endometrial Cancer",
+    "subtype_histology": "Dedifferentiated Carcinoma",
+    "biomarkers": "HER2 Positive, dMMR Proficient",
+    "clinical_state_descriptors": "Stage I-IVB, Post-Primary Surgery, Non-Recurrent",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Endometrial Cancer",
+    "subtype_histology": "Endometrioid Adenocarcinoma",
+    "biomarkers": "HER2 Positive, dMMR Proficient",
+    "clinical_state_descriptors": "Stage I-IVB, Post-Primary Surgery, Non-Recurrent",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Endometrial Cancer",
+    "subtype_histology": "Mixed Cell Adenocarcinoma",
+    "biomarkers": "HER2 Positive, dMMR Proficient",
+    "clinical_state_descriptors": "Stage I-IVB, Post-Primary Surgery, Non-Recurrent",
+    "stage_category": "Any"
+  },
+  {
+    "base_cancer": "Endometrial Cancer",
+    "subtype_histology": "Undifferentiated Carcinoma",
+    "biomarkers": "HER2 Positive, dMMR Proficient",
+    "clinical_state_descriptors": "Stage I-IVB, Post-Primary Surgery, Non-Recurrent",
+    "stage_category": "Any"
+  }
+]

@@ -1,0 +1,591 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01696721",
+      "orgStudyIdInfo": { "id": "12-103" },
+      "organization": {
+        "fullName": "Massachusetts General Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Proton and Photon Consortium Registry (PPCR): A Multi Center Registry of Pediatric Patients Treated With Radiation Therapy",
+      "officialTitle": "Proton and Photon Consortium Registry (PPCR): A Multi Center Registry of Pediatric Patients Treated With Radiation Therapy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": { "hasExpandedAccess": false },
+      "startDateStruct": { "date": "2012-07", "type": "ACTUAL" },
+      "primaryCompletionDateStruct": { "date": "2025-12", "type": "ESTIMATED" },
+      "completionDateStruct": { "date": "2025-12", "type": "ESTIMATED" },
+      "studyFirstSubmitDate": "2012-09-27",
+      "studyFirstSubmitQcDate": "2012-09-27",
+      "studyFirstPostDateStruct": { "date": "2012-10-01", "type": "ESTIMATED" },
+      "lastUpdateSubmitDate": "2025-08-12",
+      "lastUpdatePostDateStruct": { "date": "2025-08-15", "type": "ACTUAL" }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Torunn Yock, MD",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "Massachusetts General Hospital"
+      },
+      "leadSponsor": {
+        "name": "Massachusetts General Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": { "oversightHasDmc": false },
+    "descriptionModule": {
+      "briefSummary": "In previous studies, Proton Beam Radiation Therapy (PBRT) has been found to show better results in treating patients with cancer, both because there is better control of where in the body the radiation is directed and because it is associated with less severe long term side effects. However, there is limited published data demonstrating these results. The goal of the Proton and Photon Consortium Registry (PPCR) is to enroll children treated with radiation in order to describe the population that currently receives radiation and better compare the short-term and long-term benefits of different types of radiotherapy. The data collected from this study will help facilitate research on radiation therapy and allow for collaborative research. The PPCR will collect demographic and clinical data that many centers that deliver radiation therapy already collect in routine operations.",
+      "detailedDescription": "Once you are enrolled in the study, you will receive treatment, evaluations and follow up care for your type of cancer as determined by your treating physician according to clinical judgment and standard of care for your clinic. All treatments that you receive will be recorded, including all surgeries and chemotherapy given before or after PBRT. Treatment outcomes, like how you respond to treatment, side effects, and progression of your cancer will be collected as the information becomes available. A study coordinator or research nurse at your clinic will perform a chart review annually to update your status in the database. The study doctor will request any new data within the past year from you or your doctor.\n\nWe will be collecting the following data for the Registry:\n\nAt Screening: The following data will be collected from the time of diagnosis and initial staging:\n\n* Patient demographics, date of birth, gender, race, zip code and insurance status\n* Date of diagnosis\n* Histologic or clinical diagnosis and staging relevant to diagnosis\n* Imaging studies obtained and tumor measurements\n* Lab evaluations which include routine blood tests, hormone levels, and any relevant lab results needed to assess you and baseline and follow-up visits\n* Referring physician contact information\n\nTreatment Data Collection: The following data regarding treatment will be collected:\n\n* Treatments received before radiation therapy, including surgery, chemotherapy, dates and numbers of cycles, results of chemotherapy if available\n* Dates and doses of radiation treatment\n* Side effects observed\n* Any treatments you received at the same time as proton radiation therapy\n\nFollow-up Data Collection: The following data will be collected either as it comes in or annually following completion of your radiation therapy treatment:\n\n* Disease and survival status\n* Hospitalization, surgeries or other procedures\n* New diagnoses of medical conditions\n* Any lab results, including x-rays\n* Medications you are taking\n* Late side effects such as hearing loss, hormonal issues, any cardiac issues\n* Development of any new types of cancers\n* Dates of treatment after radiation therapy\n* If you discontinued radiation therapy\n* Laboratory/physician/dental or psychological evaluations\n* Use of special services in school (IEP, FM hearing system, one on one tutor, special education) We would like to keep track of your medical condition for the rest of your life. We would like to do this by contacting you or your doctor once a year to see how you are doing. Keeping in touch with you and checking on your condition helps determine the long-term outcomes of individuals treated with proton beam radiation therapy.\n\nIn addition to research personnel at MGH, there are others that may have access to the data collected. This includes:\n\n* Other research doctors and medical centers participating in this research, if applicable\n* Outside individuals or entities that have a need to access this information to perform functions relating to the conduct of this research. For instance copies of your imaging studies and treatment plan will be stored at MIMcloud. MIMcloud is a service offered through MIM Software Inc, a privately held company, that provides diagnostic imaging data management services."
+    },
+    "conditionsModule": {
+      "conditions": ["Pediatric Patients Treated With Radiation Therapy"],
+      "keywords": [
+        "Proton Therapy",
+        "Pediatrics",
+        "Radiation Oncology",
+        "Photon Therapy"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": { "count": 5000, "type": "ESTIMATED" }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Pediatric Patients Treated with Protons",
+          "description": "Proton Radiation Therapy",
+          "interventionNames": ["Other: No intervention"]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "No intervention",
+          "armGroupLabels": ["Pediatric Patients Treated with Protons"]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Establish Registry",
+          "description": "Establish a registry of pediatric patients treated with proton radiation therapy in the United States",
+          "timeFrame": "2 years"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Describe patterns of care",
+          "description": "Describe the patterns of care for pediatric patients receiving proton radiation therapy",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "Describe patterns of follow-up",
+          "description": "Describe the patterns of follow-up at proton facilities where patients are often referred from a significant distance and from centers of excellence",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "Describe acute and late effects",
+          "description": "Describe the acute and late effects in the children treated with proton radiotherapy",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "Establish a cohort of photon-treated patients",
+          "description": "Establish a control group of patients treated with photon radiotherapy",
+          "timeFrame": "2 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Eligibility Criteria:\n\n1. Patients treated with radiation therapy at one of the participating centers\n2. Age \\< 22 at time of treatment start.\n3. Patients may be enrolled regardless of previous local or systemic treatments received prior to enrollment in the PPCR.\n4. Patients may be enrolled regardless of other current local or systemic treatments or disease extent.\n5. Patients may be enrolled on the PPCR concurrently with another study or clinical trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "maximumAge": "21 Years",
+      "stdAges": ["CHILD", "ADULT"],
+      "studyPopulation": "Pediatric patients age \\<22 treated with radiation therapy",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Torunn I Yock, MD",
+          "role": "CONTACT",
+          "phone": "6177266876",
+          "email": "tyock@partners.org"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Torunn I Yock, MD",
+          "affiliation": "Massachusetts General Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Stanford University",
+          "status": "RECRUITING",
+          "city": "Palo Alto",
+          "state": "California",
+          "zip": "94304",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Susan Hiniker, MD",
+              "role": "CONTACT",
+              "email": "shiniker@stanford.edu"
+            },
+            { "name": "Susan Hiniker, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.44188, "lon": -122.14302 }
+        },
+        {
+          "facility": "California Protons Cancer Therapy Center",
+          "status": "RECRUITING",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92121",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Iain MacEwan, MD",
+              "role": "CONTACT",
+              "email": "iain.macewan@californiaprotons.com"
+            },
+            { "name": "Iain MacEwan, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.71571, "lon": -117.16472 }
+        },
+        {
+          "facility": "University of California San Francisco",
+          "status": "RECRUITING",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Steve Braunstein, MD",
+              "role": "CONTACT",
+              "email": "Steve.Braunstein@ucsf.edu"
+            },
+            { "name": "Steve Braunstein, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.77493, "lon": -122.41942 }
+        },
+        {
+          "facility": "University of Florida Health Proton Therapy Institute",
+          "status": "RECRUITING",
+          "city": "Jacksonville",
+          "state": "Florida",
+          "zip": "32206",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Daniel Indelicato, MD",
+              "role": "CONTACT",
+              "email": "dindelicato@floridaproton.org"
+            },
+            {
+              "name": "Daniel Indelicato, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 30.33218, "lon": -81.65565 }
+        },
+        {
+          "facility": "Emory University",
+          "status": "RECRUITING",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30308",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Bree Eaton, MD",
+              "role": "CONTACT",
+              "email": "brupper@emory.edu"
+            },
+            { "name": "Bree Eaton, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+        },
+        {
+          "facility": "Northwestern Medicine Chicago Proton Center",
+          "status": "RECRUITING",
+          "city": "Warrenville",
+          "state": "Illinois",
+          "zip": "60555",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Stephen Mihalcik, MD",
+              "role": "CONTACT",
+              "email": "stephen.mihalcik@nm.org"
+            },
+            { "name": "Stephen Mihalcik, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.81781, "lon": -88.1734 }
+        },
+        {
+          "facility": "Maryland Proton Treatment Center",
+          "status": "RECRUITING",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21201",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Young Kwok, MD",
+              "role": "CONTACT",
+              "email": "ykwok@umm.edu"
+            },
+            { "name": "Young Kwok, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.29038, "lon": -76.61219 }
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "status": "RECRUITING",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02114",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Torunn I Yock, MD",
+              "role": "CONTACT",
+              "phone": "617-726-6876",
+              "email": "tyock@partners.org"
+            },
+            { "name": "Torunn I Yock, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.35843, "lon": -71.05977 }
+        },
+        {
+          "facility": "Mayo Clinic",
+          "status": "RECRUITING",
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Nadia Laack, MD",
+              "role": "CONTACT",
+              "email": "Laack.nadia@mayo.edu"
+            },
+            { "name": "Nadia Laack, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 44.02163, "lon": -92.4699 }
+        },
+        {
+          "facility": "Washington University",
+          "status": "RECRUITING",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Stephanie Perkins, MD",
+              "role": "CONTACT",
+              "email": "sperkins@wustl.edu"
+            },
+            {
+              "name": "Stephanie Perkins, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 38.62727, "lon": -90.19789 }
+        },
+        {
+          "facility": "ProCure Proton Therapy Center- New Jersey",
+          "status": "RECRUITING",
+          "city": "Somerset",
+          "state": "New Jersey",
+          "zip": "08873",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Josephine Blume",
+              "role": "CONTACT",
+              "email": "Josephine.blume@nj.procure.com"
+            },
+            { "name": "Suzanne Wolden, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.4976, "lon": -74.48849 }
+        },
+        {
+          "facility": "New York Proton Center",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10035",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Suzanne Wolden, MD",
+              "role": "CONTACT",
+              "email": "woldens@MSKCC.ORG"
+            },
+            { "name": "Suzanne Wolden, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "State University of New York Upstate Medical Center",
+          "status": "RECRUITING",
+          "city": "Syracuse",
+          "state": "New York",
+          "zip": "13210",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Paul Aridgides, MD",
+              "role": "CONTACT",
+              "email": "AridgidP@upstate.edu"
+            },
+            { "name": "Paul Aridgides, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.04812, "lon": -76.14742 }
+        },
+        {
+          "facility": "University of North Carolina",
+          "status": "RECRUITING",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27514",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Dana Casey, MD",
+              "role": "CONTACT",
+              "email": "dana_casey@med.unc.edu"
+            },
+            { "name": "Dana Casey, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 35.9132, "lon": -79.05584 }
+        },
+        {
+          "facility": "The Ohio State University",
+          "status": "RECRUITING",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43210",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Joshua Palmer, MD",
+              "role": "CONTACT",
+              "email": "Joshua.Palmer@osumc.edu"
+            },
+            { "name": "Joshua Palmer, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.96118, "lon": -82.99879 }
+        },
+        {
+          "facility": "Cincinnati Children's Proton Therapy Center",
+          "status": "RECRUITING",
+          "city": "Liberty Township",
+          "state": "Ohio",
+          "zip": "45044",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "John Perentesis, MD",
+              "role": "CONTACT",
+              "email": "John.Perentesis@cchmc.org"
+            },
+            { "name": "John Perentesis, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.39861, "lon": -84.38278 }
+        },
+        {
+          "facility": "Oklahoma Proton Center",
+          "status": "RECRUITING",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73142",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "John H Chang, MD",
+              "role": "CONTACT",
+              "email": "John.Chang@OKCProton.com"
+            },
+            { "name": "John H Chang, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 35.46756, "lon": -97.51643 }
+        },
+        {
+          "facility": "ProCure Proton Therapy Center- Oklahoma",
+          "status": "RECRUITING",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73142",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jae Y Lee, MD, PhD",
+              "role": "CONTACT",
+              "email": "Jae.lee@procure.com"
+            },
+            { "name": "Jae Y Lee, MD, PhD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 35.46756, "lon": -97.51643 }
+        },
+        {
+          "facility": "University of Pennsylvania - Roberts Proton Therapy Center",
+          "status": "RECRUITING",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Christine Hill-Kayser, MD",
+              "role": "CONTACT",
+              "email": "hill@uphs.upenn.edu"
+            },
+            {
+              "name": "Christine Hill-Kayser, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+        },
+        {
+          "facility": "Provision Center for Proton Therapy",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Knoxville",
+          "state": "Tennessee",
+          "zip": "37909",
+          "country": "United States",
+          "geoPoint": { "lat": 35.96064, "lon": -83.92074 }
+        },
+        {
+          "facility": "MD Anderson Cancer Center",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Arnold Paulino, MD",
+              "role": "CONTACT",
+              "email": "APaulino@mdanderson.org"
+            },
+            { "name": "Arnold Paulino, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "Texas Center for Proton Therapy",
+          "status": "RECRUITING",
+          "city": "Irving",
+          "state": "Texas",
+          "zip": "75063",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Victor Mangona, MD",
+              "role": "CONTACT",
+              "email": "Victor.Mangona@usoncology.com"
+            },
+            { "name": "Victor Mangona, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.81402, "lon": -96.94889 }
+        },
+        {
+          "facility": "University of Utah",
+          "status": "RECRUITING",
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "zip": "84112",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Matthew Poppe, MD",
+              "role": "CONTACT",
+              "email": "Matthew.Poppe@hci.utah.edu"
+            },
+            { "name": "Matthew Poppe, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.76078, "lon": -111.89105 }
+        },
+        {
+          "facility": "University of Washington- Seattle Cancer Care Alliance",
+          "status": "RECRUITING",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98109",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Ralph Ermoian, MD",
+              "role": "CONTACT",
+              "email": "ralphpe@uw.edu"
+            },
+            { "name": "Ralph Ermoian, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 47.60621, "lon": -122.33207 }
+        },
+        {
+          "facility": "Royal Adelaide Hospital",
+          "status": "RECRUITING",
+          "city": "Adelaide",
+          "state": "South Australia",
+          "zip": "5000",
+          "country": "Australia",
+          "contacts": [
+            {
+              "name": "Hien Le, A/Prof",
+              "role": "CONTACT",
+              "email": "Hien.Le@sa.gov.au"
+            },
+            { "name": "Hien Le, A/Prof", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": -34.92866, "lon": 138.59863 }
+        },
+        {
+          "facility": "University Health Network - Princess Margaret Hospital",
+          "status": "RECRUITING",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 2C1",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Derek Tsang, MD",
+              "role": "CONTACT",
+              "email": "derek.tsang@uhn.ca"
+            },
+            { "name": "Derek Tsang, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40358803",
+          "type": "DERIVED",
+          "citation": "Krisch JM, Ermoian RP, Indelicato DJ, Lee JY, Perentesis JP, Perkins SM, Laack NN 2nd, Chang JH, MacEwan IJ, Wolden SL, Wang D, Yock TI, Aridgides PD. Outcomes following radiation therapy for embryonal tumor with multilayered rosettes (ETMR): results from the Pediatric Proton/Photon Consortium Registry (PPCR). J Neurooncol. 2025 Sep;174(2):369-380. doi: 10.1007/s11060-025-05065-2. Epub 2025 May 13."
+        }
+      ]
+    }
+  },
+  "derivedSection": { "miscInfoModule": { "versionHolder": "2025-11-04" } },
+  "hasResults": false
+}

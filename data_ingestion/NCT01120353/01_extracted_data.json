@@ -1,0 +1,590 @@
+{
+  "nct_id": "NCT01120353",
+  "official_title": "Childhood Cancer Survivor Study",
+  "brief_title": "Childhood Cancer Survivor Study",
+  "cancer_type_display": "A long-term follow-up study for survivors of various childhood cancers, including leukemia, lymphoma, and solid tumors, diagnosed before the age of 21.",
+  "cancer_tags": ["Cancer"],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT01120353",
+  "phase": null,
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-07-09",
+  "enrollment": 50000,
+  "min_age": null,
+  "max_age": null,
+  "sex": "ALL",
+  "is_metastatic_allowed": null,
+  "performance_status_scale": null,
+  "performance_status_values": null,
+  "min_prior_lines": null,
+  "max_prior_lines": null,
+  "prior_treatments_required": null,
+  "prior_treatments_excluded": null,
+  "principal_investigator": "Gregory T. Armstrong, MD, MSCE",
+  "site_name": null,
+  "contact_email": "referralinfo@stjude.org",
+  "contact_phone": "1-866-278-5833",
+  "locations": [
+    {
+      "facility": "University of Alabama at Birmingham/Children's of Alabama",
+      "status": "RECRUITING",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35294",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Kimberly Whelan, MD",
+          "role": "CONTACT",
+          "phone": "202-939-9285",
+          "email": "kwhelan@peds.uab.edu"
+        },
+        { "name": "Kimberly Whelan, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 33.52066, "lon": -86.80249 }
+    },
+    {
+      "facility": "City of Hope National Medical Center",
+      "status": "RECRUITING",
+      "city": "Duarte",
+      "state": "California",
+      "zip": "91010",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Saro Armenian, DO",
+          "role": "CONTACT",
+          "phone": "626-471-7205",
+          "email": "sarmenian@coh.org"
+        },
+        { "name": "Saro Armenian, DO", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 34.13945, "lon": -117.97729 }
+    },
+    {
+      "facility": "Children's Hospital Los Angeles",
+      "status": "RECRUITING",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": "90027",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "David Freyer, DO",
+          "role": "CONTACT",
+          "phone": "323-361-8953",
+          "email": "DFreyer@chla.usc.edu"
+        },
+        { "name": "David Freyer, DO", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+    },
+    {
+      "facility": "University of California-Los Angeles",
+      "status": "RECRUITING",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": "90095",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Jacqueline Casillas, MD",
+          "role": "CONTACT",
+          "phone": "310-794-2474",
+          "email": "jcasillas@mednet.ucla.edu"
+        },
+        {
+          "name": "Jacqueline Casillas, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+    },
+    {
+      "facility": "Children's Hospital of Orange County",
+      "status": "RECRUITING",
+      "city": "Orange",
+      "state": "California",
+      "zip": "92868",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Leonard Sender, MD",
+          "role": "CONTACT",
+          "phone": "714-509-8636",
+          "email": "lsender@uci.edu"
+        },
+        { "name": "Leonard Sender, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 33.78779, "lon": -117.85311 }
+    },
+    {
+      "facility": "University of California-San Francisco",
+      "status": "RECRUITING",
+      "city": "San Francisco",
+      "state": "California",
+      "zip": "94143",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Robert Goldsby, MD",
+          "role": "CONTACT",
+          "phone": "415-476-3831",
+          "email": "goldsbyr@peds.ucsf.edu"
+        },
+        { "name": "Robert Goldsby, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 37.77493, "lon": -122.41942 }
+    },
+    {
+      "facility": "Stanford University School of Medicine",
+      "status": "RECRUITING",
+      "city": "Stanford",
+      "state": "California",
+      "zip": "94305",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Sheri Spunt, MD",
+          "role": "CONTACT",
+          "phone": "650-723-5535",
+          "email": "sspunt@stanford.edu"
+        },
+        { "name": "Sheri Spunt, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 37.42411, "lon": -122.16608 }
+    },
+    {
+      "facility": "Children's Hospital Colorado",
+      "status": "RECRUITING",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80045",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Brian Greffe, MD",
+          "role": "CONTACT",
+          "phone": "720-777-6787",
+          "email": "greffe.brian@tchden.org"
+        },
+        { "name": "Robert Greffe, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.72943, "lon": -104.83192 }
+    },
+    {
+      "facility": "Children's National Medical Center",
+      "status": "RECRUITING",
+      "city": "Washington D.C.",
+      "state": "District of Columbia",
+      "zip": "20010",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Jennifer Dean, MD",
+          "role": "CONTACT",
+          "phone": "703-531-3627",
+          "email": "jdean@psvcare.org"
+        },
+        { "name": "Jennifer Dean, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 38.89511, "lon": -77.03637 }
+    },
+    {
+      "facility": "Emory University/Children's Health Care of Atlanta",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30322",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Lillian Meacham, MD",
+          "role": "CONTACT",
+          "phone": "404-727-0480",
+          "email": "lillian.meacham@oz.ped.emory.edu"
+        },
+        { "name": "Lillian Meacham, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+    },
+    {
+      "facility": "Ana & Robert H. Lurie Children's Hospital of Chicago",
+      "status": "RECRUITING",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60611-2605",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Jennifer Reichek, MD, MSW",
+          "role": "CONTACT",
+          "phone": "312-227-4777",
+          "email": "jreichek@luriechildrens.org"
+        },
+        {
+          "name": "Jennifer Reichek, MD, MSW",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+    },
+    {
+      "facility": "University of Chicago",
+      "status": "RECRUITING",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60637",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Tara Henderson, MD, MPH",
+          "role": "CONTACT",
+          "phone": "773-702-2501"
+        },
+        {
+          "name": "Tara Henderson, MD, MPH",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+    },
+    {
+      "facility": "Indiana University/Riley Hospital for Children",
+      "status": "RECRUITING",
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "zip": "46202",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Terry Vik, MD",
+          "role": "CONTACT",
+          "phone": "317-944-8784",
+          "email": "tvik@iupui.edu"
+        },
+        { "name": "Terry Vik, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.76838, "lon": -86.15804 }
+    },
+    {
+      "facility": "Dana-Farber Cancer Institute",
+      "status": "RECRUITING",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zip": "02215",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Lisa Diller, MD",
+          "role": "CONTACT",
+          "phone": "617-632-5642",
+          "email": "lisa_diller@dfci.harvard.efu"
+        },
+        { "name": "Lisa Diller, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 42.35843, "lon": -71.05977 }
+    },
+    {
+      "facility": "University of Michigan/Mott Children's Hospital",
+      "status": "RECRUITING",
+      "city": "Ann Arbor",
+      "state": "Michigan",
+      "zip": "48109",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Raymond Hutchinson, MD",
+          "role": "CONTACT",
+          "phone": "734-764-7126",
+          "email": "rhutchin@umich.edu"
+        },
+        {
+          "name": "Raymond Hutchinson, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 42.27756, "lon": -83.74088 }
+    },
+    {
+      "facility": "Children's Hospitals & Clinics of Minnesota",
+      "status": "RECRUITING",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "zip": "55404",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Katharine R. Lange, MD",
+          "role": "CONTACT",
+          "phone": "612-813-6560",
+          "email": "Katharine.Lange@childrensmn.org"
+        },
+        {
+          "name": "Katharine R. Lange, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 44.97997, "lon": -93.26384 }
+    },
+    {
+      "facility": "University of Minnesota",
+      "status": "COMPLETED",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "zip": "55455",
+      "country": "United States",
+      "geoPoint": { "lat": 44.97997, "lon": -93.26384 }
+    },
+    {
+      "facility": "Mayo Clinic",
+      "status": "COMPLETED",
+      "city": "Rochester",
+      "state": "Minnesota",
+      "zip": "55905",
+      "country": "United States",
+      "geoPoint": { "lat": 44.02163, "lon": -92.4699 }
+    },
+    {
+      "facility": "St. Louis Children's Hospital/The Washington University",
+      "status": "RECRUITING",
+      "city": "St Louis",
+      "state": "Missouri",
+      "zip": "63130",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Robert Hayashi, PhD",
+          "role": "CONTACT",
+          "phone": "314-454-4118",
+          "email": "hayashi_r@kids.wustl.edu"
+        },
+        { "name": "Mark Hayashi, PhD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 38.62727, "lon": -90.19789 }
+    },
+    {
+      "facility": "Roswell Park Cancer Institute",
+      "status": "RECRUITING",
+      "city": "Buffalo",
+      "state": "New York",
+      "zip": "14263",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Denise Rokitka, MD",
+          "role": "CONTACT",
+          "phone": "716-845-2333",
+          "email": "denise.rokitka@roswellpark.org"
+        },
+        { "name": "Denise Rokitka, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 42.88645, "lon": -78.87837 }
+    },
+    {
+      "facility": "Memorial-Sloan Kettering Cancer Center",
+      "status": "RECRUITING",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10065",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Danielle Friedman, MD",
+          "role": "CONTACT",
+          "phone": "212-639-8138",
+          "email": "friedmad@mskcc.org"
+        },
+        {
+          "name": "Danielle Friedman, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+    },
+    {
+      "facility": "Nationwide Children's Hospital",
+      "status": "RECRUITING",
+      "city": "Columbus",
+      "state": "Ohio",
+      "zip": "43205",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Randy Olshefski",
+          "role": "CONTACT",
+          "phone": "614-722-3553",
+          "email": "randal.olshefski@nationwidechildrens.org"
+        },
+        { "name": "Randy Olshefki", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.96118, "lon": -82.99879 }
+    },
+    {
+      "facility": "Children's Hospital of Philadelphia",
+      "status": "RECRUITING",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Jill Ginsberg, MD",
+          "role": "CONTACT",
+          "phone": "215-590-7399",
+          "email": "ginsbergji@email.chop.edu"
+        },
+        { "name": "Jill Ginsberg, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+    },
+    {
+      "facility": "Children's Hospital of Pittsburgh",
+      "status": "RECRUITING",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15213",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Jean Tersak, MD",
+          "role": "CONTACT",
+          "phone": "412-692-5963",
+          "email": "jean.tersak@chp.edu"
+        },
+        { "name": "Jean Tersak, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+    },
+    {
+      "facility": "St. Jude Children's Research Hospital",
+      "status": "RECRUITING",
+      "city": "Memphis",
+      "state": "Tennessee",
+      "zip": "38105",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Gregory T. Armstrong, MD, MSCE",
+          "role": "CONTACT",
+          "phone": "866-278-5833",
+          "email": "ccss@stjude.org"
+        },
+        {
+          "name": "Gregory T. Armstrong, MD, MSCE",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 35.14953, "lon": -90.04898 }
+    },
+    {
+      "facility": "University of Texas Southwestern Medical Center",
+      "status": "COMPLETED",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip": "75390",
+      "country": "United States",
+      "geoPoint": { "lat": 32.78306, "lon": -96.80667 }
+    },
+    {
+      "facility": "Cook Children's Medical Center",
+      "status": "RECRUITING",
+      "city": "Fort Worth",
+      "state": "Texas",
+      "zip": "76104",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Donald Beam, MD",
+          "role": "CONTACT",
+          "phone": "682-885-4007",
+          "email": "donald.beam@cookchildrens.org"
+        },
+        { "name": "Donald Beam, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 32.72541, "lon": -97.32085 }
+    },
+    {
+      "facility": "M.D. Anderson Cancer Center",
+      "status": "RECRUITING",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77030",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Louise Strong, MD",
+          "role": "CONTACT",
+          "phone": "713-792-2589",
+          "email": "lstrong@mdanderson.org"
+        },
+        { "name": "Louise Strong, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+    },
+    {
+      "facility": "Texas Children's Hospital",
+      "status": "RECRUITING",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77030",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "ZoAnn E. Dreyer, MD",
+          "role": "CONTACT",
+          "phone": "832-822-4209",
+          "email": "zdreyer@bcm.edu"
+        },
+        { "name": "ZoAnn E. Dreyer, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+    },
+    {
+      "facility": "Seattle Children's Hospital",
+      "status": "RECRUITING",
+      "city": "Seattle",
+      "state": "Washington",
+      "zip": "98105",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Scott Baker, MD",
+          "role": "CONTACT",
+          "phone": "206-884-1018",
+          "email": "ksbaker@fhcrc.org"
+        },
+        { "name": "Scott Baker, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 47.60621, "lon": -122.33207 }
+    },
+    {
+      "facility": "The Hospital for Sick Children",
+      "status": "RECRUITING",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "M5G-1XB",
+      "country": "Canada",
+      "contacts": [
+        {
+          "name": "Paul Nathan, MD",
+          "role": "CONTACT",
+          "phone": "416-813-8795",
+          "email": "paul.nathan@sickkids.ca"
+        },
+        { "name": "Paul Nathan, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Must be a five-year survivor of specific childhood cancers like leukemia, lymphoma, CNS tumor, bone tumor, Wilms tumor, neuroblastoma, or soft tissue sarcoma.",
+    "Diagnosed before the age of 21.",
+    "Initial diagnosis must have occurred between January 1, 1970 and December 31, 1999.",
+    "Must have been English- or Spanish-speaking and living in the U.S. or Canada at the time of diagnosis."
+  ],
+  "key_exclusion_summary": [
+    "Diagnosis of non-malignant tumors (e.g., Langerhans cell histiocytosis, meningioma).",
+    "Non-English speaking.",
+    "Residence outside the US or Canada at the time of diagnosis."
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Hepatocellular Carcinoma",
+    "subtype_histology": "N/A",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Unresectable, No extrahepatic disease, No macrovascular invasion",
+    "stage_category": "Non-Metastatic"
+  }
+]

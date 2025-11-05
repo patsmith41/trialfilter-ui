@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Colorectal Cancer",
+    "subtype_histology": "N/A",
+    "biomarkers": "MSI-H Negative",
+    "clinical_state_descriptors": "Unresectable, Liver-Confined Metastases, Stage IV, Previously Treated",
+    "stage_category": "Metastatic"
+  }
+]

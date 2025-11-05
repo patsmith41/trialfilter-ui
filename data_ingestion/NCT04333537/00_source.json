@@ -1,0 +1,2138 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04333537",
+      "orgStudyIdInfo": { "id": "NRG-HN006" },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2020-01542",
+          "type": "REGISTRY",
+          "domain": "CTRP (Clinical Trial Reporting Program)"
+        },
+        { "id": "NRG-HN006", "type": "OTHER", "domain": "NRG Oncology" },
+        { "id": "NRG-HN006", "type": "OTHER", "domain": "CTEP" },
+        {
+          "id": "U10CA180868",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/U10CA180868"
+        }
+      ],
+      "organization": { "fullName": "NRG Oncology", "class": "OTHER" },
+      "briefTitle": "Comparing Sentinel Lymph Node (SLN) Biopsy With Standard Neck Dissection for Patients With Early-Stage Oral Cavity Cancer",
+      "officialTitle": "Randomized Phase II/III Trial of Sentinel Lymph Node Biopsy Versus Elective Neck Dissection for Early-Stage Oral Cavity Cancer"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": { "hasExpandedAccess": false },
+      "startDateStruct": { "date": "2020-09-23", "type": "ACTUAL" },
+      "primaryCompletionDateStruct": {
+        "date": "2031-04-27",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": { "date": "2031-04-27", "type": "ESTIMATED" },
+      "studyFirstSubmitDate": "2020-03-26",
+      "studyFirstSubmitQcDate": "2020-04-02",
+      "studyFirstPostDateStruct": { "date": "2020-04-03", "type": "ACTUAL" },
+      "lastUpdateSubmitDate": "2025-10-23",
+      "lastUpdatePostDateStruct": { "date": "2025-10-27", "type": "ESTIMATED" }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": { "type": "SPONSOR" },
+      "leadSponsor": { "name": "NRG Oncology", "class": "OTHER" },
+      "collaborators": [
+        { "name": "National Cancer Institute (NCI)", "class": "NIH" }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This phase II/III trial studies how well sentinel lymph node biopsy works and compares sentinel lymph node biopsy surgery to standard neck dissection as part of the treatment for early-stage oral cavity cancer. Sentinel lymph node biopsy surgery is a procedure that removes a smaller number of lymph nodes from your neck because it uses an imaging agent to see which lymph nodes are most likely to have cancer. Standard neck dissection, such as elective neck dissection, removes many of the lymph nodes in your neck. Using sentinel lymph node biopsy surgery may work better in treating patients with early-stage oral cavity cancer compared to standard elective neck dissection.",
+      "detailedDescription": "PRIMARY OBJECTIVES:\n\nI. To determine if patient-reported neck and shoulder function and related quality of life (QOL) at 6 months after surgery using the Neck Dissection Impairment Index (NDII) is superior with sentinel lymph node (SLN) biopsy compared to elective neck dissection (END) for treatment of early-stage oral cavity squamous cell carcinoma (OCSCC) (cT1-2N0). (Phase II) II. To determine if disease-free survival (DFS) is non-inferior with SLN biopsy compared to END for treatment of early-stage OCSCC (cT1-2N0). (Phase III) III. To determine if patient-reported neck and shoulder function and related QOL at 6 months after surgery using NDII is superior with SLN biopsy compared to END for treatment of early-stage OCSCC (cT1-2N0). (Phase III)\n\nSECONDARY OBJECTIVES:\n\nI. To compare patterns of failure (local-regional relapse and distant metastasis) between surgical arms.\n\nII. To measure and compare overall survival (OS) between surgical arms. III. To measure and compare the toxicity of the two surgical arms.\n\nIV. To measure longitudinal patient-reported neck and shoulder function and related QOL between surgical arms using the following instruments:\n\nIVa. Neck Dissection Impairment Index (NDII); IVb. Abbreviated Disabilities of the Arm, Shoulder and Hand (QuickDASH); IVc. Functional Assessment of Cancer Therapy-Head and Neck (FACT-H\\&N). V. To assess the length of hospitalization, post-operative drain placement, and operative morbidity between arms.\n\nVI. To estimate the negative predictive rate of fludeoxyglucose F-18 (FDG)-positron emission tomography (PET)/computed tomography (CT) for N0 neck in patients with T1 and T1-2 oral cavity squamous cell cancer (OCSCC) patients in the END arm.\n\nVII. To assess nodal metastases rates between arms. VIII. To assess the pathologic false omission rate (FOR) in the SLN biopsy arm. IX. To determine if patient-reported neck and shoulder function using the NDII and related QOL at 6 months after surgery with SLN biopsy is superior to the END in low-risk patients.\n\nX. To compare the diagnostic performance of planar only versus (vs.) single photon emission computed tomography (SPECT)/CT plus planar for SLN mapping (phase II only).\n\nEXPLORATORY OBJECTIVES:\n\nI. To compare changes in patient-reported outcomes (European Quality of Life Five Dimension Five Level Scale Questionnaire \\[EQ-5D-5L\\]) between surgical arms.\n\nII. To collect biospecimens for future translational science studies. III. To assess the DFS between arms in low-risk patients.\n\nOUTLINE: Patients are randomized to 1 of 2 groups.\n\nGROUP I: Patients receive an imaging agent via injection and undergo planar imaging and SPECT/CT over 1-2 hours. Patients then undergo SLN biopsy. Patients also undergo FDG PET/CT, CT, and/or chest x-ray at screening and during follow up.\n\nGROUP II: Patients undergo standard END. Patients also undergo FDG PET/CT, CT, and/or chest x-ray at screening and during follow up.\n\nAfter completion of study treatment, patients are followed up 3 weeks after surgery, every 3 months for year 1, every 4 months for year 2, every 6 months for year 3, then yearly thereafter."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Buccal Mucosa Squamous Cell Carcinoma",
+        "Floor of Mouth Squamous Cell Carcinoma",
+        "Gingival Squamous Cell Carcinoma",
+        "Hard Palate Squamous Cell Carcinoma",
+        "Lip Squamous Cell Carcinoma",
+        "Lower Alveolar Ridge Squamous Cell Carcinoma",
+        "Oral Cavity Squamous Cell Carcinoma",
+        "Retromolar Trigone Squamous Cell Carcinoma",
+        "Stage I Lip and Oral Cavity Cancer AJCC v8",
+        "Stage II Lip and Oral Cavity Cancer AJCC v8",
+        "Tongue Squamous Cell Carcinoma",
+        "Upper Alveolar Ridge Squamous Cell Carcinoma"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": ["PHASE2", "PHASE3"],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": { "masking": "NONE" }
+      },
+      "enrollmentInfo": { "count": 686, "type": "ESTIMATED" }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group I (SLN biopsy)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients receive an imaging agent via injection and undergo planar imaging and SPECT/CT over 1-2 hours. Patients then undergo SLN biopsy. Patients also undergo FDG PET/CT, CT, and/or chest x-ray at screening and during follow up.",
+          "interventionNames": [
+            "Procedure: Chest Radiography",
+            "Procedure: Computed Tomography",
+            "Other: Fludeoxyglucose F-18",
+            "Drug: Imaging Agent",
+            "Procedure: Planar Imaging",
+            "Procedure: Positron Emission Tomography",
+            "Other: Questionnaire Administration",
+            "Procedure: Sentinel Lymph Node Biopsy",
+            "Procedure: Single Photon Emission Computed Tomography"
+          ]
+        },
+        {
+          "label": "Group II (END)",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Patients undergo standard END. Patients also undergo FDG PET/CT, CT, and/or chest x-ray at screening and during follow up.",
+          "interventionNames": [
+            "Procedure: Chest Radiography",
+            "Other: Fludeoxyglucose F-18",
+            "Procedure: Neck Dissection",
+            "Procedure: Positron Emission Tomography",
+            "Other: Questionnaire Administration"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Chest Radiography",
+          "description": "Undergo chest x-ray",
+          "armGroupLabels": ["Group I (SLN biopsy)", "Group II (END)"],
+          "otherNames": ["Chest X-ray"]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Computed Tomography",
+          "description": "Undergo SPECT/CT scan and FDG PET/CT or CT",
+          "armGroupLabels": ["Group I (SLN biopsy)"],
+          "otherNames": [
+            "CAT",
+            "CAT Scan",
+            "Computed Axial Tomography",
+            "Computerized Axial Tomography",
+            "Computerized axial tomography (procedure)",
+            "Computerized Tomography",
+            "Computerized Tomography (CT) scan",
+            "CT",
+            "CT Scan",
+            "tomography"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Fludeoxyglucose F-18",
+          "description": "Undergo FDG PET/CT",
+          "armGroupLabels": ["Group I (SLN biopsy)", "Group II (END)"],
+          "otherNames": [
+            "18FDG",
+            "FDG",
+            "Fludeoxyglucose (18F)",
+            "fludeoxyglucose F 18",
+            "Fludeoxyglucose F18",
+            "Fluorine-18 2-Fluoro-2-deoxy-D-Glucose",
+            "Fluorodeoxyglucose F18"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Imaging Agent",
+          "description": "Receive imaging agent via injection",
+          "armGroupLabels": ["Group I (SLN biopsy)"],
+          "otherNames": ["Image Enhancement Agent"]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Neck Dissection",
+          "description": "Undergo standard elective neck dissection",
+          "armGroupLabels": ["Group II (END)"]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Planar Imaging",
+          "description": "Undergo planar imaging",
+          "armGroupLabels": ["Group I (SLN biopsy)"]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Positron Emission Tomography",
+          "description": "Undergo FDG PET/CT",
+          "armGroupLabels": ["Group I (SLN biopsy)", "Group II (END)"],
+          "otherNames": [
+            "Medical Imaging, Positron Emission Tomography",
+            "PET",
+            "PET Scan",
+            "Positron emission tomography (procedure)",
+            "Positron Emission Tomography Scan",
+            "Positron-Emission Tomography",
+            "PT"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Questionnaire Administration",
+          "description": "Ancillary studies",
+          "armGroupLabels": ["Group I (SLN biopsy)", "Group II (END)"]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Sentinel Lymph Node Biopsy",
+          "description": "Undergo SLN biopsy",
+          "armGroupLabels": ["Group I (SLN biopsy)"],
+          "otherNames": [
+            "Sentinel Node Biopsy",
+            "Sentinel node biopsy alone",
+            "SLNB",
+            "SNB"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Single Photon Emission Computed Tomography",
+          "description": "Undergo SPECT/CT scan",
+          "armGroupLabels": ["Group I (SLN biopsy)"],
+          "otherNames": [
+            "Medical Imaging, Single Photon Emission Computed Tomography",
+            "Single Photon Emission Tomography",
+            "Single-Photon Emission Computed",
+            "single-photon emission computed tomography",
+            "SPECT",
+            "SPECT imaging",
+            "SPECT SCAN",
+            "SPET",
+            "ST",
+            "tomography, emission computed, single photon",
+            "Tomography, Emission-Computed, Single-Photon"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Patient-reported neck and shoulder function (Phase II/III)",
+          "description": "Will be evaluated and compared using the Neck Dissection Impairment Index (NDII), a 10-item tool between the two treatment arms. It is assumed that a 7.5-point between arm difference in the 6-month post-surgery NDII scores is clinically meaningful.",
+          "timeFrame": "Before surgery (Baseline), 3 weeks after surgery, 3, 6, 12 months after surgery"
+        },
+        {
+          "measure": "Patient reported quality of life (QOL) (Phase II)",
+          "description": "Will be measured using 3 questionnaires over 12-15 minutes.",
+          "timeFrame": "Before surgery (Baseline), 3 weeks after surgery, 3, 6, 12 months after surgery"
+        },
+        {
+          "measure": "Disease-free survival (DFS) (phase III)",
+          "description": "Measured using Cox proportional hazards model and the Kaplan-Meier method. Failure includes local/regional recurrence, distant metastasis, or death due to any cause.",
+          "timeFrame": "From randomization to local/regional recurrence, distant metastasis, or death due to any cause, whichever comes first, assessed up to 11 years"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Overall survival rate",
+          "description": "Will be estimated using the Kaplan-Meier method and between-arm differences compared using the log-rank test.",
+          "timeFrame": "From randomization to death due to any cause, assessed up to 11 years"
+        },
+        {
+          "measure": "Loco-regional failure",
+          "description": "The cumulative incidence estimator will be used to estimate time to event distributions with between arm differences using cause-specific log-rank test.",
+          "timeFrame": "From the time of randomization to the date of failure, date of precluding event, or last known follow-up date, assessed up to 11 years"
+        },
+        {
+          "measure": "Distant metastasis",
+          "description": "The cumulative incidence estimator will be used to estimate event distributions with between arm differences tested using cause-specific log-rank test.",
+          "timeFrame": "From the time of randomization to the date of distant metastasis, date of precluding event, or last known follow-up date, assessed up to 11 years"
+        },
+        {
+          "measure": "Toxicity",
+          "description": "Measured by the Common Terminology Criteria for Adverse Events version 5.0. The proportion of patients with at least 1 grade 3 or higher adverse event will be compared between treatment arms.",
+          "timeFrame": "Time of primary endpoint analysis"
+        },
+        {
+          "measure": "Patient-reported shoulder-related QOL, function impairment and disability",
+          "description": "Patient reported using Abbreviated Disabilities of the Arm, Shoulder, and Hand (QuickDASH) with scores of 0-100. A higher score indicates greater disability.",
+          "timeFrame": "Baseline, 3 weeks, 3, 6, 12 months post-surgery"
+        },
+        {
+          "measure": "General quality of life",
+          "description": "Will be measured using the Functional Assessment of Cancer Therapy-Head and Neck to measure Functional Assessment of Cancer Therapy-Head and Neck-Trial Outcome Index scores on a scale from 0-96. A higher score indicates better quality of life.",
+          "timeFrame": "Baseline, 3 weeks, 3, 6, 12 months post-surgery"
+        },
+        {
+          "measure": "Nodal metastasis detection rate",
+          "description": "Defined as the proportion of patients with pathologic positive nodes using the pathology results.",
+          "timeFrame": "At time of surgery"
+        },
+        {
+          "measure": "Pathologic false omission rate",
+          "description": "Measured within the sentinel lymph node biopsy (SLN) arm only. Defined as the proportion of patients with false negative results among negative SLN patients.",
+          "timeFrame": "At time of surgery"
+        },
+        {
+          "measure": "Length of hospital stay",
+          "description": "Length of hospital stay due to surgical procedure will be compared between arms using the Mann-Whitney test.",
+          "timeFrame": "Prior to surgery, at time of discharge from surgery"
+        },
+        {
+          "measure": "Post-surgery patient-reported outcome",
+          "description": "Measured by NDII in low-risk oral cavity squamous cell carcinoma patients using analysis of covariance comparison model.",
+          "timeFrame": "At 6 months post-surgery"
+        },
+        {
+          "measure": "Diagnostic performance (Phase II only)",
+          "description": "Descriptive statistics (minimum, maximum, mean, standard deviation, and coefficient of variation) of the number of detected SLNs will be calculated by modality and neck sublevel. The difference of the number of SLNs between single photon emission computed tomography/computed tomography plus planar and planar only will be computed and summarized by neck sublevel, reader, and overall. Pairwise absolute differences of the number of detected SLNs among readers will be computed and summarized by modality and neck sublevel.",
+          "timeFrame": "Up to 11 years"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Quality of life",
+          "description": "Measured by European Quality of Life Five Dimension Five Level Scale Questionnaire.",
+          "timeFrame": "Baseline, 3 weeks, and 3, 6, 12 months post-surgery"
+        },
+        {
+          "measure": "DFS for low-risk patients",
+          "description": "Exploratory analyses will be done using the Kaplan-Meier method to estimate the DFS distribution in both arms. Cox proportional hazards models with the treatment arm only and with treatment arms and relevant patient and tumor characteristics will be fitted. 95% confidence intervals (CIs) for the treatment effect from both models will be also reported.",
+          "timeFrame": "From randomization to local/regional recurrence, distant metastasis, or death due to any cause, whichever comes first, assessed up to 11 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* PRIOR TO STEP 1 REGISTRATION INCLUSION:\n* Pathologically (histologically or cytologically) proven diagnosis of squamous cell carcinoma (SCC) of the oral cavity, including the oral (mobile) tongue, floor of mouth (FOM), mucosal lip, buccal mucosa, lower alveolar ridge, upper alveolar ridge, retromolar gingiva (retromolar trigone; RMT), or hard palate prior to registration\n* Appropriate stage for study entry (T1-2N0M0; American Joint Committee on Cancer \\[AJCC\\] 8th edition \\[ed.\\]) based on the following diagnostic workup:\n\n  * History/physical examination within 42 days prior to registration\n  * Imaging of head and neck within 42 days prior to registration\n\n    * PET/CT scan or contrast neck CT scan, or gadolinium-enhanced neck magnetic resonance imaging (MRI) or lateral and central neck ultrasound; diagnostic quality CT is preferred and highly recommended as part of the PET/CT when possible\n  * Imaging of chest within 42 days prior to registration\n\n    * Chest x-ray, CT chest scan (with or without contrast), or PET/CT (with or without contrast)\n* Surgical assessment within 42 days prior to registration. Patient must be a candidate for surgical intervention with sentinel lymph node (SLN) biopsy and potential completion neck dissection (CND) or elective neck dissection (END)\n\n  * Surgical resection of the primary tumor will occur through a transoral approach with anticipation of resection free margins\n* Age \\>= 18\n* Zubrod performance status 0-2 within 42 days prior to registration\n* For women of child-bearing potential, negative serum or urine pregnancy test within 42 days prior to registration\n* The patient or a legally authorized representative must provide study-specific informed consent prior to study entry\n* Only patients who are able to read and understand English or French are eligible to participate as the mandatory patient reported NDII tool is only available in these languages\n* PRIOR TO STEP 2 RANDOMIZATION:\n* FDG PET/CT required prior to step 2. Note: FDG PET/CT done prior to step 1 can be submitted for central review\n\n  * PET/CT node negative patients, determined by central read, will proceed to randomization. PET/CT node positive patients will go off study, but will be entered in a registry and data will be collected to record the pathological outcome of neck nodes for diagnostic imaging assessment and future clinical trial development\n\n    * NOTE: All FDG PET/CT scans must be performed on an American College of Radiology (ACR) accredited scanner (or similar accrediting organization)\n* The patient must complete NDII prior to step 2 registration\n\nExclusion Criteria:\n\n* PRIOR TO STEP 1 REGISTRATION EXCLUSION:\n* Definitive clinical or radiologic evidence of regional (cervical) and/or distant metastatic disease\n* Prior non-head and neck invasive malignancy (except non-melanomatous skin cancer, including effectively treated basal cell or squamous cell skin cancer, or carcinoma in situ of the breast or cervix) unless disease free for ≥ 2 years\n* Diagnosis of head and neck SCC in the oropharynx, nasopharynx, hypopharynx, and larynx\n* Unable or unwilling to complete NDII (baseline only)\n* Prior systemic chemotherapy for the study cancer; note that prior chemotherapy for different cancer(s) is allowable\n* Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields\n* Severe, active co-morbidity that would preclude an elective or completion neck dissection\n* Pregnancy and breast-feeding mothers\n* Incomplete resection of oral cavity lesion with a positive margin; however, an excisional biopsy is permitted\n* Prior surgery involving the lateral neck, including neck dissection or gross injury to the neck that would preclude surgical dissection for this trial. Prior thyroid and central neck surgery is permissible; biopsy is permitted. Note: Borderline suspicious nodes that are \\>= 1 cm with radiographic finding suggestive of NOT malignant should be biopsied using ultrasound (U/S)-guided fine-needle aspiration (FNA) biopsy\n* Underlying or documented history of hematologic malignancy (e.g., chronic lymphocytic leukemia \\[CLL\\]) or other active disease capable of causing lymphadenopathy (e.g., sarcoidosis or untreated mycobacterial infection)\n* Actively receiving systemic cytotoxic chemotherapy, immunosuppressive, anti-monocyte or immunomodulatory therapy\n* Currently participating in another investigational therapeutic trial",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": ["ADULT", "OLDER_ADULT"]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Stephen Y Lai",
+          "affiliation": "NRG Oncology",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alabama at Birmingham Cancer Center",
+          "status": "RECRUITING",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35233",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "205-934-0220",
+              "email": "tmyrick@uab.edu"
+            },
+            { "name": "Andrew Fuson", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.52066, "lon": -86.80249 }
+        },
+        {
+          "facility": "Banner MD Anderson Cancer Center",
+          "status": "RECRUITING",
+          "city": "Gilbert",
+          "state": "Arizona",
+          "zip": "85234",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "602-747-9738"
+            },
+            {
+              "name": "Thomas D. Shellenberger",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 33.35283, "lon": -111.78903 }
+        },
+        {
+          "facility": "Mayo Clinic Hospital in Arizona",
+          "status": "RECRUITING",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85054",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "855-776-0015"
+            },
+            { "name": "Kyle S. Ettinger", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.44838, "lon": -112.07404 }
+        },
+        {
+          "facility": "Banner University Medical Center - Tucson",
+          "status": "RECRUITING",
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85719",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "email": "UACC-IIT@uacc.arizona.edu"
+            },
+            { "name": "Steven J. Wang", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.22174, "lon": -110.92648 }
+        },
+        {
+          "facility": "University of Arizona Cancer Center-North Campus",
+          "status": "RECRUITING",
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85719",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "email": "UACC-IIT@uacc.arizona.edu"
+            },
+            { "name": "Steven J. Wang", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.22174, "lon": -110.92648 }
+        },
+        {
+          "facility": "University of Arkansas for Medical Sciences",
+          "status": "RECRUITING",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "501-686-8274"
+            },
+            { "name": "Emre A. Vural", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 34.74648, "lon": -92.28959 }
+        },
+        {
+          "facility": "City of Hope Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Duarte",
+          "state": "California",
+          "zip": "91010",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-826-4673",
+              "email": "becomingapatient@coh.org"
+            },
+            { "name": "Ellie G. Maghami", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 34.13945, "lon": -117.97729 }
+        },
+        {
+          "facility": "UC San Diego Moores Cancer Center",
+          "status": "RECRUITING",
+          "city": "La Jolla",
+          "state": "California",
+          "zip": "92093",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "858-822-5354",
+              "email": "cancercto@ucsd.edu"
+            },
+            { "name": "Theresa Guo", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.84727, "lon": -117.2742 }
+        },
+        {
+          "facility": "Stanford Cancer Institute Palo Alto",
+          "status": "RECRUITING",
+          "city": "Palo Alto",
+          "state": "California",
+          "zip": "94304",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "650-498-7061",
+              "email": "ccto-office@stanford.edu"
+            },
+            { "name": "Fred Baik", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.44188, "lon": -122.14302 }
+        },
+        {
+          "facility": "University of California Davis Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Sacramento",
+          "state": "California",
+          "zip": "95817",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "916-734-3089"
+            },
+            { "name": "Andrew C. Birkeland", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.58157, "lon": -121.4944 }
+        },
+        {
+          "facility": "UCSF Medical Center-Mission Bay",
+          "status": "RECRUITING",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94158",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-827-3222",
+              "email": "cancertrials@ucsf.edu"
+            },
+            { "name": "Jason Chan", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.77493, "lon": -122.41942 }
+        },
+        {
+          "facility": "Stanford Cancer Center South Bay",
+          "status": "RECRUITING",
+          "city": "San Jose",
+          "state": "California",
+          "zip": "95124",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "650-498-7061",
+              "email": "ccto-office@stanford.edu"
+            },
+            { "name": "Fred Baik", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.33939, "lon": -121.89496 }
+        },
+        {
+          "facility": "Yale University",
+          "status": "RECRUITING",
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06520",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "203-785-5702",
+              "email": "canceranswers@yale.edu"
+            },
+            { "name": "Saral Mehra", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.30815, "lon": -72.92816 }
+        },
+        {
+          "facility": "Smilow Cancer Hospital Care Center-Trumbull",
+          "status": "RECRUITING",
+          "city": "Trumbull",
+          "state": "Connecticut",
+          "zip": "06611",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "203-785-5702",
+              "email": "canceranswers@yale.edu"
+            },
+            { "name": "Saral Mehra", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.24287, "lon": -73.20067 }
+        },
+        {
+          "facility": "UM Sylvester Comprehensive Cancer Center at Coral Gables",
+          "status": "RECRUITING",
+          "city": "Coral Gables",
+          "state": "Florida",
+          "zip": "33146",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "305-243-2647"
+            },
+            {
+              "name": "Francisco J. Civantos",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 25.72149, "lon": -80.26838 }
+        },
+        {
+          "facility": "UM Sylvester Comprehensive Cancer Center at Deerfield Beach",
+          "status": "RECRUITING",
+          "city": "Deerfield Beach",
+          "state": "Florida",
+          "zip": "33442",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "305-243-2647"
+            },
+            {
+              "name": "Francisco J. Civantos",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 26.31841, "lon": -80.09977 }
+        },
+        {
+          "facility": "University of Miami Miller School of Medicine-Sylvester Cancer Center",
+          "status": "RECRUITING",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "305-243-2647"
+            },
+            {
+              "name": "Francisco J. Civantos",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 25.77427, "lon": -80.19366 }
+        },
+        {
+          "facility": "Emory University Hospital Midtown",
+          "status": "RECRUITING",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30308",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "888-946-7447"
+            },
+            { "name": "Jennifer Gross", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+        },
+        {
+          "facility": "Emory University Hospital/Winship Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "404-778-1868"
+            },
+            { "name": "Jennifer Gross", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+        },
+        {
+          "facility": "Northwestern University",
+          "status": "RECRUITING",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "312-695-1301",
+              "email": "cancer@northwestern.edu"
+            },
+            { "name": "Sandeep Samant", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+        },
+        {
+          "facility": "Rush University Medical Center",
+          "status": "RECRUITING",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60612",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "312-942-5498",
+              "email": "clinical_trials@rush.edu"
+            },
+            { "name": "Mihir K. Bhayani", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+        },
+        {
+          "facility": "Southern Illinois University School of Medicine",
+          "status": "RECRUITING",
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62702",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "217-545-7929"
+            },
+            { "name": "Bryan A. Faller", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.80172, "lon": -89.64371 }
+        },
+        {
+          "facility": "Springfield Memorial Hospital",
+          "status": "RECRUITING",
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62781",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "217-528-7541",
+              "email": "pallante.beth@mhsil.com"
+            },
+            { "name": "Bryan A. Faller", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.80172, "lon": -89.64371 }
+        },
+        {
+          "facility": "University of Iowa/Holden Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Iowa City",
+          "state": "Iowa",
+          "zip": "52242",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-237-1225"
+            },
+            { "name": "Nitin A. Pagedar", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.66113, "lon": -91.53017 }
+        },
+        {
+          "facility": "University of Kansas Cancer Center",
+          "status": "RECRUITING",
+          "city": "Kansas City",
+          "state": "Kansas",
+          "zip": "66160",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "913-588-3671",
+              "email": "KUCC_Navigation@kumc.edu"
+            },
+            { "name": "Andres M. Bur", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.11417, "lon": -94.62746 }
+        },
+        {
+          "facility": "University of Kansas Hospital-Westwood Cancer Center",
+          "status": "RECRUITING",
+          "city": "Westwood",
+          "state": "Kansas",
+          "zip": "66205",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "913-588-3671",
+              "email": "KUCC_Navigation@kumc.edu"
+            },
+            { "name": "Andres M. Bur", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.04056, "lon": -94.6169 }
+        },
+        {
+          "facility": "University of Kentucky/Markey Cancer Center",
+          "status": "RECRUITING",
+          "city": "Lexington",
+          "state": "Kentucky",
+          "zip": "40536",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "859-257-3379"
+            },
+            { "name": "Eddy S. Yang", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.98869, "lon": -84.47772 }
+        },
+        {
+          "facility": "The James Graham Brown Cancer Center at University of Louisville",
+          "status": "RECRUITING",
+          "city": "Louisville",
+          "state": "Kentucky",
+          "zip": "40202",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "502-562-3429"
+            },
+            { "name": "Neal E. Dunlap", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.25424, "lon": -85.75941 }
+        },
+        {
+          "facility": "LSU Health Sciences Center at Shreveport",
+          "status": "RECRUITING",
+          "city": "Shreveport",
+          "state": "Louisiana",
+          "zip": "71103",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "318-813-1404",
+              "email": "LPost@lsuhsc.edu"
+            },
+            { "name": "Lindsay M. Olinde", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.52515, "lon": -93.75018 }
+        },
+        {
+          "facility": "Boston Medical Center",
+          "status": "RECRUITING",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02118",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "617-638-8265"
+            },
+            { "name": "Minh T. Truong", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.35843, "lon": -71.05977 }
+        },
+        {
+          "facility": "University of Michigan Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48109",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "email": "slusserb@med.umich.edu"
+            },
+            { "name": "Marisa R. Buchakjian", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.27756, "lon": -83.74088 }
+        },
+        {
+          "facility": "Wayne State University/Karmanos Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48201",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "313-576-9790",
+              "email": "ctoadmin@karmanos.org"
+            },
+            { "name": "John D. Cramer", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.33143, "lon": -83.04575 }
+        },
+        {
+          "facility": "Henry Ford Hospital",
+          "status": "RECRUITING",
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48202",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "313-916-3721",
+              "email": "CTOResearch@hfhs.org"
+            },
+            { "name": "Eleanor M. Walker", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.33143, "lon": -83.04575 }
+        },
+        {
+          "facility": "Weisberg Cancer Treatment Center",
+          "status": "RECRUITING",
+          "city": "Farmington Hills",
+          "state": "Michigan",
+          "zip": "48334",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "313-576-9790",
+              "email": "ctoadmin@karmanos.org"
+            },
+            { "name": "John D. Cramer", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.48531, "lon": -83.37716 }
+        },
+        {
+          "facility": "Henry Ford Medical Center-Columbus",
+          "status": "RECRUITING",
+          "city": "Novi",
+          "state": "Michigan",
+          "zip": "48377",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "313-916-3721",
+              "email": "CTOResearch@hfhs.org"
+            },
+            { "name": "Eleanor M. Walker", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.48059, "lon": -83.47549 }
+        },
+        {
+          "facility": "Henry Ford West Bloomfield Hospital",
+          "status": "RECRUITING",
+          "city": "West Bloomfield",
+          "state": "Michigan",
+          "zip": "48322",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "313-916-3721",
+              "email": "CTOResearch@hfhs.org"
+            },
+            { "name": "Eleanor M. Walker", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.56891, "lon": -83.38356 }
+        },
+        {
+          "facility": "Mayo Clinic in Rochester",
+          "status": "RECRUITING",
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "855-776-0015"
+            },
+            { "name": "Kyle S. Ettinger", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 44.02163, "lon": -92.4699 }
+        },
+        {
+          "facility": "SSM Health Saint Louis University Hospital",
+          "status": "RECRUITING",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "314-977-4440"
+            },
+            { "name": "Sean Massa", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.62727, "lon": -90.19789 }
+        },
+        {
+          "facility": "Nebraska Cancer Specialists/Oncology Hematology West PC - MECC",
+          "status": "RECRUITING",
+          "city": "Omaha",
+          "state": "Nebraska",
+          "zip": "68114",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "402-334-4773"
+            },
+            { "name": "Aru Panwar", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.25626, "lon": -95.94043 }
+        },
+        {
+          "facility": "Nebraska Methodist Hospital",
+          "status": "RECRUITING",
+          "city": "Omaha",
+          "state": "Nebraska",
+          "zip": "68114",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "402-354-5144"
+            },
+            { "name": "Aru Panwar", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.25626, "lon": -95.94043 }
+        },
+        {
+          "facility": "Oncology Associates PC",
+          "status": "RECRUITING",
+          "city": "Omaha",
+          "state": "Nebraska",
+          "zip": "68114",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "402-354-5860",
+              "email": "info@oa-oc.com"
+            },
+            { "name": "Aru Panwar", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.25626, "lon": -95.94043 }
+        },
+        {
+          "facility": "Dartmouth Hitchcock Medical Center/Dartmouth Cancer Center",
+          "status": "RECRUITING",
+          "city": "Lebanon",
+          "state": "New Hampshire",
+          "zip": "03756",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-639-6918",
+              "email": "cancer.research.nurse@dartmouth.edu"
+            },
+            { "name": "Joseph A. Paydarfar", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.64229, "lon": -72.25176 }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Basking Ridge",
+          "status": "RECRUITING",
+          "city": "Basking Ridge",
+          "state": "New Jersey",
+          "zip": "07920",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "212-639-7592"
+            },
+            {
+              "name": "Jennifer R. Cracchiolo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 40.70621, "lon": -74.54932 }
+        },
+        {
+          "facility": "Saint Barnabas Medical Center",
+          "status": "RECRUITING",
+          "city": "Livingston",
+          "state": "New Jersey",
+          "zip": "07039",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "973-322-2934",
+              "email": "joanne.loeb@rwjbh.org"
+            },
+            { "name": "Dylan F. Roden", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.79593, "lon": -74.31487 }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Monmouth",
+          "status": "RECRUITING",
+          "city": "Middletown",
+          "state": "New Jersey",
+          "zip": "07748",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "212-639-7592"
+            },
+            {
+              "name": "Jennifer R. Cracchiolo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 40.39428, "lon": -74.11709 }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Bergen",
+          "status": "RECRUITING",
+          "city": "Montvale",
+          "state": "New Jersey",
+          "zip": "07645",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "212-639-7592"
+            },
+            {
+              "name": "Jennifer R. Cracchiolo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 41.04676, "lon": -74.02292 }
+        },
+        {
+          "facility": "Rutgers Cancer Institute of New Jersey",
+          "status": "RECRUITING",
+          "city": "New Brunswick",
+          "state": "New Jersey",
+          "zip": "08903",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "732-235-7356"
+            },
+            { "name": "Dylan F. Roden", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.48622, "lon": -74.45182 }
+        },
+        {
+          "facility": "Roswell Park Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Buffalo",
+          "state": "New York",
+          "zip": "14263",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-767-9355",
+              "email": "askroswell@roswellpark.org"
+            },
+            { "name": "Ryan P. McSpadden", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.88645, "lon": -78.87837 }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Commack",
+          "status": "RECRUITING",
+          "city": "Commack",
+          "state": "New York",
+          "zip": "11725",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "212-639-7592"
+            },
+            {
+              "name": "Jennifer R. Cracchiolo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 40.84288, "lon": -73.29289 }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Westchester",
+          "status": "RECRUITING",
+          "city": "Harrison",
+          "state": "New York",
+          "zip": "10604",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "212-639-7592"
+            },
+            {
+              "name": "Jennifer R. Cracchiolo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 40.96899, "lon": -73.71263 }
+        },
+        {
+          "facility": "Northwell Health/Center for Advanced Medicine",
+          "status": "RECRUITING",
+          "city": "Lake Success",
+          "state": "New York",
+          "zip": "11042",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "516-734-8896"
+            },
+            { "name": "Douglas K. Frank", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.77066, "lon": -73.71763 }
+        },
+        {
+          "facility": "NYU Langone Hospital - Long Island",
+          "status": "RECRUITING",
+          "city": "Mineola",
+          "state": "New York",
+          "zip": "11501",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "212-263-4432",
+              "email": "cancertrials@nyulangone.org"
+            },
+            { "name": "Umamaheswar Duvvuri", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.74927, "lon": -73.64068 }
+        },
+        {
+          "facility": "Long Island Jewish Medical Center",
+          "status": "RECRUITING",
+          "city": "New Hyde Park",
+          "state": "New York",
+          "zip": "11040",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "516-734-8896"
+            },
+            { "name": "Douglas K. Frank", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.7351, "lon": -73.68791 }
+        },
+        {
+          "facility": "Laura and Isaac Perlmutter Cancer Center at NYU Langone",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10016",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "email": "CancerTrials@nyulangone.org"
+            },
+            { "name": "Umamaheswar Duvvuri", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Manhattan Eye Ear and Throat Hospital",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "212-434-4460"
+            },
+            { "name": "Douglas K. Frank", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Cancer Center",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "212-639-7592"
+            },
+            {
+              "name": "Jennifer R. Cracchiolo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Lenox Hill Hospital",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10075",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "516-734-8896"
+            },
+            { "name": "Douglas K. Frank", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Nassau",
+          "status": "RECRUITING",
+          "city": "Uniondale",
+          "state": "New York",
+          "zip": "11553",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "212-639-7592"
+            },
+            {
+              "name": "Jennifer R. Cracchiolo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 40.70038, "lon": -73.59291 }
+        },
+        {
+          "facility": "UNC Lineberger Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27599",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-668-0683",
+              "email": "cancerclinicaltrials@med.unc.edu"
+            },
+            { "name": "Trevor Hackman", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 35.9132, "lon": -79.05584 }
+        },
+        {
+          "facility": "Sanford Broadway Medical Center",
+          "status": "RECRUITING",
+          "city": "Fargo",
+          "state": "North Dakota",
+          "zip": "58122",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "701-323-5760",
+              "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 46.87719, "lon": -96.7898 }
+        },
+        {
+          "facility": "Sanford Roger Maris Cancer Center",
+          "status": "RECRUITING",
+          "city": "Fargo",
+          "state": "North Dakota",
+          "zip": "58122",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "701-234-6161",
+              "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 46.87719, "lon": -96.7898 }
+        },
+        {
+          "facility": "Cleveland Clinic Foundation",
+          "status": "RECRUITING",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "866-223-8100",
+              "email": "TaussigResearch@ccf.org"
+            },
+            { "name": "Jamie A. Ku", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.4995, "lon": -81.69541 }
+        },
+        {
+          "facility": "Ohio State University Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43210",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-293-5066",
+              "email": "Jamesline@osumc.edu"
+            },
+            { "name": "Amit Agrawal", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.96118, "lon": -82.99879 }
+        },
+        {
+          "facility": "University of Oklahoma Health Sciences Center",
+          "status": "RECRUITING",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "405-271-8777",
+              "email": "ou-clinical-trials@ouhsc.edu"
+            },
+            { "name": "Rusha J. Patel", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 35.46756, "lon": -97.51643 }
+        },
+        {
+          "facility": "Clackamas Radiation Oncology Center",
+          "status": "RECRUITING",
+          "city": "Clackamas",
+          "state": "Oregon",
+          "zip": "97015",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "503-215-2614",
+              "email": "CanRsrchStudies@providence.org"
+            },
+            { "name": "Dan S. Zuckerman", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.40762, "lon": -122.57037 }
+        },
+        {
+          "facility": "Providence Newberg Medical Center",
+          "status": "RECRUITING",
+          "city": "Newberg",
+          "state": "Oregon",
+          "zip": "97132",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "503-215-2614",
+              "email": "CanRsrchStudies@providence.org"
+            },
+            { "name": "Dan S. Zuckerman", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.30012, "lon": -122.97316 }
+        },
+        {
+          "facility": "Providence Portland Medical Center",
+          "status": "RECRUITING",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97213",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "503-215-2614",
+              "email": "CanRsrchStudies@providence.org"
+            },
+            { "name": "Dan S. Zuckerman", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.52345, "lon": -122.67621 }
+        },
+        {
+          "facility": "Providence Saint Vincent Medical Center",
+          "status": "RECRUITING",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97225",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "503-215-2614",
+              "email": "CanRsrchStudies@providence.org"
+            },
+            { "name": "Dan S. Zuckerman", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.52345, "lon": -122.67621 }
+        },
+        {
+          "facility": "Carlisle Regional Cancer Center",
+          "status": "RECRUITING",
+          "city": "Carlisle",
+          "state": "Pennsylvania",
+          "zip": "17015",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "412-339-5294",
+              "email": "Roster@nrgoncology.org"
+            },
+            { "name": "Kevin J. Contrera", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.20148, "lon": -77.18887 }
+        },
+        {
+          "facility": "Geisinger Medical Center",
+          "status": "RECRUITING",
+          "city": "Danville",
+          "state": "Pennsylvania",
+          "zip": "17822",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "570-271-5251",
+              "email": "HemonCCTrials@geisinger.edu"
+            },
+            { "name": "Nicholas Purdy", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.96342, "lon": -76.61273 }
+        },
+        {
+          "facility": "UPMC Pinnacle Cancer Center/Community Osteopathic Campus",
+          "status": "RECRUITING",
+          "city": "Harrisburg",
+          "state": "Pennsylvania",
+          "zip": "17109",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "717-724-6765",
+              "email": "klitchfield@PINNACLEHEALTH.org"
+            },
+            { "name": "Kevin J. Contrera", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.2737, "lon": -76.88442 }
+        },
+        {
+          "facility": "Penn State Milton S Hershey Medical Center",
+          "status": "RECRUITING",
+          "city": "Hershey",
+          "state": "Pennsylvania",
+          "zip": "17033-0850",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "717-531-3779",
+              "email": "CTO@hmc.psu.edu"
+            },
+            { "name": "Neerav Goyal", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.28592, "lon": -76.65025 }
+        },
+        {
+          "facility": "UPMC Hillman Cancer Center at Rocco And Nancy Ortenzio Cancer Pavilion",
+          "status": "RECRUITING",
+          "city": "Mechanicsburg",
+          "state": "Pennsylvania",
+          "zip": "17050",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "412-389-5208",
+              "email": "haneydl@upmc.edu"
+            },
+            { "name": "Kevin J. Contrera", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.21426, "lon": -77.00859 }
+        },
+        {
+          "facility": "Thomas Jefferson University Hospital",
+          "status": "RECRUITING",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19107",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "215-600-9151",
+              "email": "ONCTrialNow@jefferson.edu"
+            },
+            { "name": "David M. Cognetti", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+        },
+        {
+          "facility": "Fox Chase Cancer Center",
+          "status": "RECRUITING",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19111",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "215-728-4790"
+            },
+            { "name": "Jeffrey C. Liu", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+        },
+        {
+          "facility": "UPMC-Magee Womens Hospital",
+          "status": "RECRUITING",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15213",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "412-647-2811"
+            },
+            { "name": "Kevin J. Contrera", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+        },
+        {
+          "facility": "University of Pittsburgh Cancer Institute (UPCI)",
+          "status": "RECRUITING",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15232",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "412-647-8073"
+            },
+            { "name": "Kevin J. Contrera", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+        },
+        {
+          "facility": "UPMC-Shadyside Hospital",
+          "status": "RECRUITING",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15232",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "412-621-2334"
+            },
+            { "name": "Kevin J. Contrera", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+        },
+        {
+          "facility": "UPMC Memorial",
+          "status": "RECRUITING",
+          "city": "York",
+          "state": "Pennsylvania",
+          "zip": "17408",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "717-724-6760"
+            },
+            { "name": "Kevin J. Contrera", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.9626, "lon": -76.72774 }
+        },
+        {
+          "facility": "Medical University of South Carolina",
+          "status": "RECRUITING",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29425",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "843-792-9321",
+              "email": "hcc-clinical-trials@musc.edu"
+            },
+            { "name": "Evan M. Graboyes", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.77632, "lon": -79.93275 }
+        },
+        {
+          "facility": "Sanford Cancer Center Oncology Clinic",
+          "status": "RECRUITING",
+          "city": "Sioux Falls",
+          "state": "South Dakota",
+          "zip": "57104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "605-312-3320",
+              "email": "OncologyClinicTrialsSF@sanfordhealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.54369, "lon": -96.72796 }
+        },
+        {
+          "facility": "Avera Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Sioux Falls",
+          "state": "South Dakota",
+          "zip": "57105",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "605-322-3095",
+              "email": "OncRegulatory@avera.org"
+            },
+            { "name": "William C. Spanos", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.54369, "lon": -96.72796 }
+        },
+        {
+          "facility": "Sanford USD Medical Center - Sioux Falls",
+          "status": "RECRUITING",
+          "city": "Sioux Falls",
+          "state": "South Dakota",
+          "zip": "57117-5134",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "605-312-3320",
+              "email": "OncologyClinicalTrialsSF@SanfordHealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.54369, "lon": -96.72796 }
+        },
+        {
+          "facility": "Methodist Hospital",
+          "status": "RECRUITING",
+          "city": "Memphis",
+          "state": "Tennessee",
+          "zip": "38104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "901-516-2579"
+            },
+            { "name": "John P. Gleysteen", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 35.14953, "lon": -90.04898 }
+        },
+        {
+          "facility": "University of Tennessee Health Science Center",
+          "status": "RECRUITING",
+          "city": "Memphis",
+          "state": "Tennessee",
+          "zip": "38163",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "901-683-0055",
+              "email": "afletcher@westclinic.com"
+            },
+            { "name": "John P. Gleysteen", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 35.14953, "lon": -90.04898 }
+        },
+        {
+          "facility": "Vanderbilt University/Ingram Cancer Center",
+          "status": "RECRUITING",
+          "city": "Nashville",
+          "state": "Tennessee",
+          "zip": "37232",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-811-8480"
+            },
+            { "name": "Michael C. Topf", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 36.16589, "lon": -86.78444 }
+        },
+        {
+          "facility": "MD Anderson in The Woodlands",
+          "status": "RECRUITING",
+          "city": "Conroe",
+          "state": "Texas",
+          "zip": "77384",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "866-632-6789",
+              "email": "askmdanderson@mdanderson.org"
+            },
+            { "name": "Karen Y. Choi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 30.31188, "lon": -95.45605 }
+        },
+        {
+          "facility": "Baylor College of Medicine/Dan L Duncan Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "713-798-1354",
+              "email": "burton@bcm.edu"
+            },
+            { "name": "Vlad C. Sandulache", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "M D Anderson Cancer Center",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-632-6789",
+              "email": "askmdanderson@mdanderson.org"
+            },
+            { "name": "Karen Y. Choi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "Michael E DeBakey VA Medical Center",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-553-2278"
+            },
+            { "name": "Vlad C. Sandulache", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "MD Anderson West Houston",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77079",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-632-6789",
+              "email": "askmdanderson@mdanderson.org"
+            },
+            { "name": "Karen Y. Choi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "MD Anderson League City",
+          "status": "RECRUITING",
+          "city": "League City",
+          "state": "Texas",
+          "zip": "77573",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-632-6789",
+              "email": "askmdanderson@mdanderson.org"
+            },
+            { "name": "Karen Y. Choi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.50745, "lon": -95.09493 }
+        },
+        {
+          "facility": "MD Anderson in Sugar Land",
+          "status": "RECRUITING",
+          "city": "Sugar Land",
+          "state": "Texas",
+          "zip": "77478",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-632-6789",
+              "email": "askmdanderson@mdanderson.org"
+            },
+            { "name": "Karen Y. Choi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.61968, "lon": -95.63495 }
+        },
+        {
+          "facility": "Central Vermont Medical Center/National Life Cancer Treatment",
+          "status": "RECRUITING",
+          "city": "Berlin Corners",
+          "state": "Vermont",
+          "zip": "05602",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "802-225-5400"
+            },
+            { "name": "Mirabelle Sajisevi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 44.21006, "lon": -72.57594 }
+        },
+        {
+          "facility": "University of Vermont Medical Center",
+          "status": "RECRUITING",
+          "city": "Burlington",
+          "state": "Vermont",
+          "zip": "05401",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "802-656-4101",
+              "email": "rpo@uvm.edu"
+            },
+            { "name": "Mirabelle Sajisevi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 44.47588, "lon": -73.21207 }
+        },
+        {
+          "facility": "University of Vermont and State Agricultural College",
+          "status": "RECRUITING",
+          "city": "Burlington",
+          "state": "Vermont",
+          "zip": "05405",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "802-656-8990",
+              "email": "rpo@uvm.edu"
+            },
+            { "name": "Mirabelle Sajisevi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 44.47588, "lon": -73.21207 }
+        },
+        {
+          "facility": "University Health Network-Princess Margaret Hospital",
+          "status": "RECRUITING",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 2M9",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "416-946-4501",
+              "email": "clinical.trials@uhn.on.ca"
+            },
+            { "name": "John R. de Almeida", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": { "versionHolder": "2025-11-04" },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077195",
+          "term": "Squamous Cell Carcinoma of Head and Neck"
+        },
+        { "id": "D009062", "term": "Mouth Neoplasms" }
+      ],
+      "ancestors": [
+        { "id": "D002294", "term": "Carcinoma, Squamous Cell" },
+        { "id": "D002277", "term": "Carcinoma" },
+        { "id": "D009375", "term": "Neoplasms, Glandular and Epithelial" },
+        { "id": "D009370", "term": "Neoplasms by Histologic Type" },
+        { "id": "D009369", "term": "Neoplasms" },
+        { "id": "D006258", "term": "Head and Neck Neoplasms" },
+        { "id": "D009371", "term": "Neoplasms by Site" },
+        { "id": "D009059", "term": "Mouth Diseases" },
+        { "id": "D009057", "term": "Stomatognathic Diseases" }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        { "id": "D014965", "term": "X-Rays" },
+        { "id": "D019788", "term": "Fluorodeoxyglucose F18" },
+        {
+          "id": "C494793",
+          "term": "acetyl-glycyl-asparagyl-glutaminyl-glutamyl-glutaminyl-valyl-seryl-prolyl-leucyl-threonyl-leucyl-leucyl-lysyl-lysyl-tryptophyl-cysteinyl-Alexa Fluoro 680 C2C2-maleimide conjugate"
+        },
+        { "id": "D037981", "term": "Neck Dissection" },
+        { "id": "D009682", "term": "Magnetic Resonance Spectroscopy" },
+        { "id": "D021701", "term": "Sentinel Lymph Node Biopsy" },
+        { "id": "D017785", "term": "Photons" }
+      ],
+      "ancestors": [
+        { "id": "D060733", "term": "Electromagnetic Radiation" },
+        { "id": "D055590", "term": "Electromagnetic Phenomena" },
+        { "id": "D060328", "term": "Magnetic Phenomena" },
+        { "id": "D055585", "term": "Physical Phenomena" },
+        { "id": "D011827", "term": "Radiation" },
+        { "id": "D011839", "term": "Radiation, Ionizing" },
+        { "id": "D003847", "term": "Deoxyglucose" },
+        { "id": "D003837", "term": "Deoxy Sugars" },
+        { "id": "D002241", "term": "Carbohydrates" },
+        { "id": "D008197", "term": "Lymph Node Excision" },
+        { "id": "D013514", "term": "Surgical Procedures, Operative" },
+        { "id": "D013517", "term": "Otorhinolaryngologic Surgical Procedures" },
+        { "id": "D013057", "term": "Spectrum Analysis" },
+        { "id": "D002623", "term": "Chemistry Techniques, Analytical" },
+        { "id": "D008919", "term": "Investigative Techniques" },
+        { "id": "D001706", "term": "Biopsy" },
+        { "id": "D003581", "term": "Cytodiagnosis" },
+        { "id": "D003584", "term": "Cytological Techniques" },
+        { "id": "D019411", "term": "Clinical Laboratory Techniques" },
+        { "id": "D019937", "term": "Diagnostic Techniques and Procedures" },
+        { "id": "D003933", "term": "Diagnosis" },
+        { "id": "D013048", "term": "Specimen Handling" },
+        { "id": "D003949", "term": "Diagnostic Techniques, Surgical" },
+        { "id": "D004601", "term": "Elementary Particles" },
+        { "id": "D008027", "term": "Light" },
+        { "id": "D055620", "term": "Optical Phenomena" },
+        { "id": "D011840", "term": "Radiation, Nonionizing" }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,474 @@
+{
+  "nct_id": "NCT01696721",
+  "official_title": "Proton and Photon Consortium Registry (PPCR): A Multi Center Registry of Pediatric Patients Treated With Radiation Therapy",
+  "brief_title": "Proton and Photon Consortium Registry (PPCR): A Multi Center Registry of Pediatric Patients Treated With Radiation Therapy",
+  "cancer_type_display": "A registry for pediatric patients (under age 22) who are being treated with any form of radiation therapy for cancer.",
+  "cancer_tags": ["Pediatric Patients Treated With Radiation Therapy"],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT01696721",
+  "phase": null,
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-08-15",
+  "enrollment": 5000,
+  "min_age": null,
+  "max_age": 21,
+  "sex": "ALL",
+  "is_metastatic_allowed": true,
+  "performance_status_scale": null,
+  "performance_status_values": null,
+  "min_prior_lines": null,
+  "max_prior_lines": null,
+  "prior_treatments_required": null,
+  "prior_treatments_excluded": null,
+  "principal_investigator": "Torunn I Yock, MD",
+  "site_name": null,
+  "contact_email": "tyock@partners.org",
+  "contact_phone": "6177266876",
+  "locations": [
+    {
+      "facility": "Stanford University",
+      "status": "RECRUITING",
+      "city": "Palo Alto",
+      "state": "California",
+      "zip": "94304",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Susan Hiniker, MD",
+          "role": "CONTACT",
+          "email": "shiniker@stanford.edu"
+        },
+        { "name": "Susan Hiniker, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 37.44188, "lon": -122.14302 }
+    },
+    {
+      "facility": "California Protons Cancer Therapy Center",
+      "status": "RECRUITING",
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92121",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Iain MacEwan, MD",
+          "role": "CONTACT",
+          "email": "iain.macewan@californiaprotons.com"
+        },
+        { "name": "Iain MacEwan, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 32.71571, "lon": -117.16472 }
+    },
+    {
+      "facility": "University of California San Francisco",
+      "status": "RECRUITING",
+      "city": "San Francisco",
+      "state": "California",
+      "zip": "94143",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Steve Braunstein, MD",
+          "role": "CONTACT",
+          "email": "Steve.Braunstein@ucsf.edu"
+        },
+        { "name": "Steve Braunstein, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 37.77493, "lon": -122.41942 }
+    },
+    {
+      "facility": "University of Florida Health Proton Therapy Institute",
+      "status": "RECRUITING",
+      "city": "Jacksonville",
+      "state": "Florida",
+      "zip": "32206",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Daniel Indelicato, MD",
+          "role": "CONTACT",
+          "email": "dindelicato@floridaproton.org"
+        },
+        { "name": "Daniel Indelicato, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 30.33218, "lon": -81.65565 }
+    },
+    {
+      "facility": "Emory University",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Bree Eaton, MD",
+          "role": "CONTACT",
+          "email": "brupper@emory.edu"
+        },
+        { "name": "Bree Eaton, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+    },
+    {
+      "facility": "Northwestern Medicine Chicago Proton Center",
+      "status": "RECRUITING",
+      "city": "Warrenville",
+      "state": "Illinois",
+      "zip": "60555",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Stephen Mihalcik, MD",
+          "role": "CONTACT",
+          "email": "stephen.mihalcik@nm.org"
+        },
+        { "name": "Stephen Mihalcik, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 41.81781, "lon": -88.1734 }
+    },
+    {
+      "facility": "Maryland Proton Treatment Center",
+      "status": "RECRUITING",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21201",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Young Kwok, MD",
+          "role": "CONTACT",
+          "email": "ykwok@umm.edu"
+        },
+        { "name": "Young Kwok, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.29038, "lon": -76.61219 }
+    },
+    {
+      "facility": "Massachusetts General Hospital",
+      "status": "RECRUITING",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zip": "02114",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Torunn I Yock, MD",
+          "role": "CONTACT",
+          "phone": "617-726-6876",
+          "email": "tyock@partners.org"
+        },
+        { "name": "Torunn I Yock, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 42.35843, "lon": -71.05977 }
+    },
+    {
+      "facility": "Mayo Clinic",
+      "status": "RECRUITING",
+      "city": "Rochester",
+      "state": "Minnesota",
+      "zip": "55905",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Nadia Laack, MD",
+          "role": "CONTACT",
+          "email": "Laack.nadia@mayo.edu"
+        },
+        { "name": "Nadia Laack, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 44.02163, "lon": -92.4699 }
+    },
+    {
+      "facility": "Washington University",
+      "status": "RECRUITING",
+      "city": "St Louis",
+      "state": "Missouri",
+      "zip": "63110",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Stephanie Perkins, MD",
+          "role": "CONTACT",
+          "email": "sperkins@wustl.edu"
+        },
+        { "name": "Stephanie Perkins, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 38.62727, "lon": -90.19789 }
+    },
+    {
+      "facility": "ProCure Proton Therapy Center- New Jersey",
+      "status": "RECRUITING",
+      "city": "Somerset",
+      "state": "New Jersey",
+      "zip": "08873",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Josephine Blume",
+          "role": "CONTACT",
+          "email": "Josephine.blume@nj.procure.com"
+        },
+        { "name": "Suzanne Wolden, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.4976, "lon": -74.48849 }
+    },
+    {
+      "facility": "New York Proton Center",
+      "status": "RECRUITING",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10035",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Suzanne Wolden, MD",
+          "role": "CONTACT",
+          "email": "woldens@MSKCC.ORG"
+        },
+        { "name": "Suzanne Wolden, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+    },
+    {
+      "facility": "State University of New York Upstate Medical Center",
+      "status": "RECRUITING",
+      "city": "Syracuse",
+      "state": "New York",
+      "zip": "13210",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Paul Aridgides, MD",
+          "role": "CONTACT",
+          "email": "AridgidP@upstate.edu"
+        },
+        { "name": "Paul Aridgides, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.04812, "lon": -76.14742 }
+    },
+    {
+      "facility": "University of North Carolina",
+      "status": "RECRUITING",
+      "city": "Chapel Hill",
+      "state": "North Carolina",
+      "zip": "27514",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Dana Casey, MD",
+          "role": "CONTACT",
+          "email": "dana_casey@med.unc.edu"
+        },
+        { "name": "Dana Casey, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 35.9132, "lon": -79.05584 }
+    },
+    {
+      "facility": "The Ohio State University",
+      "status": "RECRUITING",
+      "city": "Columbus",
+      "state": "Ohio",
+      "zip": "43210",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Joshua Palmer, MD",
+          "role": "CONTACT",
+          "email": "Joshua.Palmer@osumc.edu"
+        },
+        { "name": "Joshua Palmer, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.96118, "lon": -82.99879 }
+    },
+    {
+      "facility": "Cincinnati Children's Proton Therapy Center",
+      "status": "RECRUITING",
+      "city": "Liberty Township",
+      "state": "Ohio",
+      "zip": "45044",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "John Perentesis, MD",
+          "role": "CONTACT",
+          "email": "John.Perentesis@cchmc.org"
+        },
+        { "name": "John Perentesis, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.39861, "lon": -84.38278 }
+    },
+    {
+      "facility": "Oklahoma Proton Center",
+      "status": "RECRUITING",
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "zip": "73142",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "John H Chang, MD",
+          "role": "CONTACT",
+          "email": "John.Chang@OKCProton.com"
+        },
+        { "name": "John H Chang, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 35.46756, "lon": -97.51643 }
+    },
+    {
+      "facility": "ProCure Proton Therapy Center- Oklahoma",
+      "status": "RECRUITING",
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "zip": "73142",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Jae Y Lee, MD, PhD",
+          "role": "CONTACT",
+          "email": "Jae.lee@procure.com"
+        },
+        { "name": "Jae Y Lee, MD, PhD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 35.46756, "lon": -97.51643 }
+    },
+    {
+      "facility": "University of Pennsylvania - Roberts Proton Therapy Center",
+      "status": "RECRUITING",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Christine Hill-Kayser, MD",
+          "role": "CONTACT",
+          "email": "hill@uphs.upenn.edu"
+        },
+        {
+          "name": "Christine Hill-Kayser, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+    },
+    {
+      "facility": "Provision Center for Proton Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "Knoxville",
+      "state": "Tennessee",
+      "zip": "37909",
+      "country": "United States",
+      "geoPoint": { "lat": 35.96064, "lon": -83.92074 }
+    },
+    {
+      "facility": "MD Anderson Cancer Center",
+      "status": "RECRUITING",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77030",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Arnold Paulino, MD",
+          "role": "CONTACT",
+          "email": "APaulino@mdanderson.org"
+        },
+        { "name": "Arnold Paulino, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+    },
+    {
+      "facility": "Texas Center for Proton Therapy",
+      "status": "RECRUITING",
+      "city": "Irving",
+      "state": "Texas",
+      "zip": "75063",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Victor Mangona, MD",
+          "role": "CONTACT",
+          "email": "Victor.Mangona@usoncology.com"
+        },
+        { "name": "Victor Mangona, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 32.81402, "lon": -96.94889 }
+    },
+    {
+      "facility": "University of Utah",
+      "status": "RECRUITING",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "zip": "84112",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Matthew Poppe, MD",
+          "role": "CONTACT",
+          "email": "Matthew.Poppe@hci.utah.edu"
+        },
+        { "name": "Matthew Poppe, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.76078, "lon": -111.89105 }
+    },
+    {
+      "facility": "University of Washington- Seattle Cancer Care Alliance",
+      "status": "RECRUITING",
+      "city": "Seattle",
+      "state": "Washington",
+      "zip": "98109",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Ralph Ermoian, MD",
+          "role": "CONTACT",
+          "email": "ralphpe@uw.edu"
+        },
+        { "name": "Ralph Ermoian, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 47.60621, "lon": -122.33207 }
+    },
+    {
+      "facility": "Royal Adelaide Hospital",
+      "status": "RECRUITING",
+      "city": "Adelaide",
+      "state": "South Australia",
+      "zip": "5000",
+      "country": "Australia",
+      "contacts": [
+        {
+          "name": "Hien Le, A/Prof",
+          "role": "CONTACT",
+          "email": "Hien.Le@sa.gov.au"
+        },
+        { "name": "Hien Le, A/Prof", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": -34.92866, "lon": 138.59863 }
+    },
+    {
+      "facility": "University Health Network - Princess Margaret Hospital",
+      "status": "RECRUITING",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "M5G 2C1",
+      "country": "Canada",
+      "contacts": [
+        {
+          "name": "Derek Tsang, MD",
+          "role": "CONTACT",
+          "email": "derek.tsang@uhn.ca"
+        },
+        { "name": "Derek Tsang, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Patients treated with radiation therapy at one of the participating centers.",
+    "Age < 22 at time of treatment start.",
+    "Patients may be enrolled regardless of previous local or systemic treatments received prior to enrollment.",
+    "Patients may be enrolled regardless of other current local or systemic treatments or disease extent.",
+    "Patients may be enrolled on the PPCR concurrently with another study or clinical trial."
+  ],
+  "key_exclusion_summary": null
+}

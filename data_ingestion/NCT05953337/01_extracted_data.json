@@ -1,0 +1,530 @@
+{
+  "nct_id": "NCT05953337",
+  "official_title": "Radioembolization Oncology Trial Utilizing Transarterial Eye90 (ROUTE 90) for the Treatment of Hepatocellular Carcinoma (HCC)",
+  "brief_title": "Radioembolization Trial Utilizing Eye90 Microspheres™ for the Treatment of Hepatocellular Carcinoma (HCC)",
+  "cancer_type_display": "A study evaluating the use of Eye90 microspheres for the treatment of patients with unresectable Hepatocellular Carcinoma (HCC).",
+  "cancer_tags": [
+    "Hepatocellular Carcinoma",
+    "Hepatocellular Carcinoma Non-resectable",
+    "Liver Cancer"
+  ],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT05953337",
+  "phase": null,
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-08-27",
+  "enrollment": 120,
+  "min_age": 18,
+  "max_age": 99,
+  "sex": "ALL",
+  "is_metastatic_allowed": false,
+  "performance_status_scale": null,
+  "performance_status_values": null,
+  "min_prior_lines": null,
+  "max_prior_lines": null,
+  "prior_treatments_required": null,
+  "prior_treatments_excluded": null,
+  "principal_investigator": "Andrew Kennedy, MD",
+  "site_name": "The University of Arizona Cancer Center",
+  "contact_email": "safety@abkbiomedical.com",
+  "contact_phone": "902.442.4009",
+  "locations": [
+    {
+      "facility": "The University of Arizona Cancer Center",
+      "status": "RECRUITING",
+      "city": "Tucson",
+      "state": "Arizona",
+      "zip": "85719",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Shamar Young, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 32.22174,
+        "lon": -110.92648
+      }
+    },
+    {
+      "facility": "University of California - Irvine",
+      "status": "RECRUITING",
+      "city": "Orange",
+      "state": "California",
+      "zip": "92867",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Nadine Abi-Jaoudeh, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.78779,
+        "lon": -117.85311
+      }
+    },
+    {
+      "facility": "AdventHealth Radiation Oncology at Altamonte Springs",
+      "status": "RECRUITING",
+      "city": "Altamonte Springs",
+      "state": "Florida",
+      "zip": "32701",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Ravi Shridhar, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 28.66111,
+        "lon": -81.36562
+      }
+    },
+    {
+      "facility": "Miami Cardiac and Vascular Institute at Baptist Hospital Miami",
+      "status": "RECRUITING",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33176",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Ripal Gandhi, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 25.77427,
+        "lon": -80.19366
+      }
+    },
+    {
+      "facility": "Emory University Hospital Midtown",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Zachary Bercu, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "Piedmont Hospital",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30309",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Rahul Maheshwari, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 33.749,
+        "lon": -84.38798
+      }
+    },
+    {
+      "facility": "Northwestern University Memorial Hospital",
+      "status": "RECRUITING",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60611",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Andrew Gordon, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 41.85003,
+        "lon": -87.65005
+      }
+    },
+    {
+      "facility": "University of Illinois Hospital and Health Sciences System",
+      "status": "RECRUITING",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60612",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Ron Gaba, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 41.85003,
+        "lon": -87.65005
+      }
+    },
+    {
+      "facility": "University of Iowa Health Care",
+      "status": "RECRUITING",
+      "city": "Iowa City",
+      "state": "Iowa",
+      "zip": "52242",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Michael Hummel, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 41.66113,
+        "lon": -91.53017
+      }
+    },
+    {
+      "facility": "University of Louisville",
+      "status": "RECRUITING",
+      "city": "Louisville",
+      "state": "Kentucky",
+      "zip": "40202",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Robert Martin, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 38.25424,
+        "lon": -85.75941
+      }
+    },
+    {
+      "facility": "Ochsner Clinic Foundation",
+      "status": "RECRUITING",
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": "70121",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator, MD",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Juan Gimenez, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 29.95465,
+        "lon": -90.07507
+      }
+    },
+    {
+      "facility": "Beth Israel Deaconess",
+      "status": "RECRUITING",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zip": "02215",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Ammar Sarwar, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 42.35843,
+        "lon": -71.05977
+      }
+    },
+    {
+      "facility": "University of Missouri - Ellis Fischel Cancer Center",
+      "status": "RECRUITING",
+      "city": "Columbia",
+      "state": "Missouri",
+      "zip": "65212",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Ryan Davis, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 38.95171,
+        "lon": -92.33407
+      }
+    },
+    {
+      "facility": "SSM Health Saint Louis University",
+      "status": "RECRUITING",
+      "city": "St Louis",
+      "state": "Missouri",
+      "zip": "63104",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Kirubahara Vaheesan, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 38.62727,
+        "lon": -90.19789
+      }
+    },
+    {
+      "facility": "Weill Cornell Medicine-New York Presbyterian Hospital",
+      "status": "RECRUITING",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10065",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Adam Talenfeld, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 40.71427,
+        "lon": -74.00597
+      }
+    },
+    {
+      "facility": "Charlotte Radiology",
+      "status": "RECRUITING",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28202",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Eric Wang, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 35.22709,
+        "lon": -80.84313
+      }
+    },
+    {
+      "facility": "Hospital of the University of Pennsylvania",
+      "status": "RECRUITING",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Gregory Nadolski, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 39.95238,
+        "lon": -75.16362
+      }
+    },
+    {
+      "facility": "HCA Healthcare Research Institute (Sarah Cannon)",
+      "status": "RECRUITING",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "37203",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Andrew Kennedy, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 36.16589,
+        "lon": -86.78444
+      }
+    },
+    {
+      "facility": "University of Utah",
+      "status": "RECRUITING",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "zip": "84112",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Ziga Cizman, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 40.76078,
+        "lon": -111.89105
+      }
+    },
+    {
+      "facility": "Inland Imaging",
+      "status": "RECRUITING",
+      "city": "Spokane",
+      "state": "Washington",
+      "zip": "99203",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Jayson Brower, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 47.65966,
+        "lon": -117.42908
+      }
+    },
+    {
+      "facility": "Froedtert Hospital/Medical College of Wisconsin",
+      "status": "RECRUITING",
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "zip": "53226",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "William Rilling, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 43.0389,
+        "lon": -87.90647
+      }
+    },
+    {
+      "facility": "Vancouver Coastal Health Research Institution (VCHRI)",
+      "status": "RECRUITING",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "zip": "V5Z 1M9",
+      "country": "Canada",
+      "contacts": [
+        {
+          "name": "Study Coordinator",
+          "role": "CONTACT"
+        },
+        {
+          "name": "Ravjot Dhatt, MD",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": {
+        "lat": 49.24966,
+        "lon": -123.11934
+      }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Confirmed diagnosis of Hepatocellular Carcinoma (HCC).",
+    "No extrahepatic disease.",
+    "Up to 3 lesions with at least one lesion ≥ 2 cm in diameter.",
+    "Life expectancy of ≥ 6 months.",
+    "≥ 18 years old."
+  ],
+  "key_exclusion_summary": [
+    "Platelet count <50,000/microliter.",
+    "Bilirubin ≥ 2.0 mg/dL.",
+    "Macrovascular invasion.",
+    "Incompetent biliary duct system, prior biliary intervention, or a compromised Ampulla of Vater.",
+    "Estimated lung dose > 30 Gy."
+  ]
+}

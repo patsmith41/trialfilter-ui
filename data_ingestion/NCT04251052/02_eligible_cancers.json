@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Ovarian Cancer",
+    "subtype_histology": "N/A",
+    "biomarkers": "BRCA1 Positive",
+    "clinical_state_descriptors": "Hereditary Cancer Susceptibility, Risk-Reducing Surgery Candidate",
+    "stage_category": "Any"
+  }
+]

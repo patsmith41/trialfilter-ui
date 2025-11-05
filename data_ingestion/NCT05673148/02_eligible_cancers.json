@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Colorectal Cancer",
+    "subtype_histology": "Adenocarcinoma",
+    "biomarkers": "MSI-Stable, BRAF V600E Negative",
+    "clinical_state_descriptors": "Oligometastatic, Four or fewer sites of metastatic disease, Primary tumor resected or resectable, Stage IV",
+    "stage_category": "Metastatic"
+  }
+]

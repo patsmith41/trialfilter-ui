@@ -1,0 +1,723 @@
+{
+  "nct_id": "NCT05863195",
+  "official_title": "A Randomized Phase III Study of Systemic Therapy With or Without Hepatic Arterial Infusion for Unresectable Colorectal Liver Metastases: The PUMP Trial",
+  "brief_title": "Testing Pump Chemotherapy in Addition to Standard of Care Chemotherapy Versus Standard of Care Chemotherapy Alone for Patients With Unresectable Colorectal Liver Metastases: The PUMP Trial",
+  "cancer_type_display": "A study for patients with colorectal cancer that has spread to the liver and cannot be removed by surgery (unresectable).",
+  "cancer_tags": [
+    "Metastatic Colorectal Carcinoma",
+    "Metastatic Malignant Neoplasm in the Liver",
+    "Stage IV Colorectal Cancer AJCC v8",
+    "Unresectable Colorectal Carcinoma"
+  ],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT05863195",
+  "phase": "Phase 3",
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-10-17",
+  "enrollment": 408,
+  "min_age": 18,
+  "max_age": null,
+  "sex": "ALL",
+  "is_metastatic_allowed": true,
+  "performance_status_scale": "ECOG",
+  "performance_status_values": [0, 1],
+  "min_prior_lines": 1,
+  "max_prior_lines": 1,
+  "prior_treatments_required": ["First-line chemotherapy"],
+  "prior_treatments_excluded": [
+    "Prior radiation to the liver",
+    "Prior trans-arterial bland embolization, chemoembolization (TACE) or radioembolization (TARE)",
+    "Prior treatment with HAI/floxuridine (FUDR)"
+  ],
+  "principal_investigator": "Michael Lidsky",
+  "site_name": null,
+  "contact_email": null,
+  "contact_phone": null,
+  "locations": [
+    {
+      "facility": "University of Alabama at Birmingham Cancer Center",
+      "status": "RECRUITING",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35233",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "205-934-0220",
+          "email": "tmyrick@uab.edu"
+        },
+        { "name": "Midhun Malla", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 33.52066, "lon": -86.80249 }
+    },
+    {
+      "facility": "UCHealth University of Colorado Hospital",
+      "status": "RECRUITING",
+      "city": "Aurora",
+      "state": "Colorado",
+      "zip": "80045",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "720-848-0650"
+        },
+        { "name": "Alexis D. Leal", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.72943, "lon": -104.83192 }
+    },
+    {
+      "facility": "UM Sylvester Comprehensive Cancer Center at Aventura",
+      "status": "RECRUITING",
+      "city": "Aventura",
+      "state": "Florida",
+      "zip": "33180",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "954-461-2180"
+        },
+        { "name": "Jashodeep Datta", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 25.95648, "lon": -80.13921 }
+    },
+    {
+      "facility": "UM Sylvester Comprehensive Cancer Center at Coral Gables",
+      "status": "RECRUITING",
+      "city": "Coral Gables",
+      "state": "Florida",
+      "zip": "33146",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "305-243-2647"
+        },
+        { "name": "Jashodeep Datta", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 25.72149, "lon": -80.26838 }
+    },
+    {
+      "facility": "UM Sylvester Comprehensive Cancer Center at Deerfield Beach",
+      "status": "RECRUITING",
+      "city": "Deerfield Beach",
+      "state": "Florida",
+      "zip": "33442",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "305-243-2647"
+        },
+        { "name": "Jashodeep Datta", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 26.31841, "lon": -80.09977 }
+    },
+    {
+      "facility": "UM Sylvester Comprehensive Cancer Center at Hollywood",
+      "status": "RECRUITING",
+      "city": "Hollywood",
+      "state": "Florida",
+      "zip": "33021",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "305-243-2647"
+        },
+        { "name": "Jashodeep Datta", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 26.0112, "lon": -80.14949 }
+    },
+    {
+      "facility": "University of Miami Miller School of Medicine-Sylvester Cancer Center",
+      "status": "RECRUITING",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33136",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "305-243-2647"
+        },
+        { "name": "Jashodeep Datta", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 25.77427, "lon": -80.19366 }
+    },
+    {
+      "facility": "UM Sylvester Comprehensive Cancer Center at Kendall",
+      "status": "RECRUITING",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33176",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "305-243-2647"
+        },
+        { "name": "Jashodeep Datta", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 25.77427, "lon": -80.19366 }
+    },
+    {
+      "facility": "UM Sylvester Comprehensive Cancer Center at Plantation",
+      "status": "RECRUITING",
+      "city": "Plantation",
+      "state": "Florida",
+      "zip": "33324",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "305-243-2647"
+        },
+        { "name": "Jashodeep Datta", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 26.13421, "lon": -80.23184 }
+    },
+    {
+      "facility": "Emory University Hospital/Winship Cancer Institute",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30322",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "404-778-1868"
+        },
+        { "name": "Olumide B. Gbolahan", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+    },
+    {
+      "facility": "University of Chicago Comprehensive Cancer Center",
+      "status": "RECRUITING",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60637",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "773-702-8222",
+          "email": "cancerclinicaltrials@bsd.uchicago.edu"
+        },
+        { "name": "Ryan Merkow", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+    },
+    {
+      "facility": "Memorial Hospital East",
+      "status": "RECRUITING",
+      "city": "Shiloh",
+      "state": "Illinois",
+      "zip": "62269",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "314-747-9912",
+          "email": "dschwab@wustl.edu"
+        },
+        { "name": "Patrick Grierson", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 38.56144, "lon": -89.89732 }
+    },
+    {
+      "facility": "IU Health North Hospital",
+      "status": "RECRUITING",
+      "city": "Carmel",
+      "state": "Indiana",
+      "zip": "46032",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "317-278-5632",
+          "email": "iutrials@iu.edu"
+        },
+        { "name": "Anita Turk", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.97837, "lon": -86.11804 }
+    },
+    {
+      "facility": "Indiana University/Melvin and Bren Simon Cancer Center",
+      "status": "RECRUITING",
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "zip": "46202",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "317-278-5632",
+          "email": "iutrials@iu.edu"
+        },
+        { "name": "Anita Turk", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.76838, "lon": -86.15804 }
+    },
+    {
+      "facility": "University of Kentucky/Markey Cancer Center",
+      "status": "RECRUITING",
+      "city": "Lexington",
+      "state": "Kentucky",
+      "zip": "40536",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "859-257-3379"
+        },
+        { "name": "Michael J. Cavnar", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 37.98869, "lon": -84.47772 }
+    },
+    {
+      "facility": "University of Michigan Comprehensive Cancer Center",
+      "status": "RECRUITING",
+      "city": "Ann Arbor",
+      "state": "Michigan",
+      "zip": "48109",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-865-1125"
+        },
+        { "name": "Benjamin D. Ferguson", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 42.27756, "lon": -83.74088 }
+    },
+    {
+      "facility": "Corewell Health Grand Rapids Hospitals - Butterworth Hospital",
+      "status": "RECRUITING",
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "zip": "49503",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "616-391-1230",
+          "email": "crcwm-regulatory@crcwm.org"
+        },
+        { "name": "Kathleen J. Yost", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 42.96336, "lon": -85.66809 }
+    },
+    {
+      "facility": "Mayo Clinic in Rochester",
+      "status": "RECRUITING",
+      "city": "Rochester",
+      "state": "Minnesota",
+      "zip": "55905",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "855-776-0015"
+        },
+        { "name": "Cornelius A. Thiels", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 44.02163, "lon": -92.4699 }
+    },
+    {
+      "facility": "Siteman Cancer Center at Saint Peters Hospital",
+      "status": "RECRUITING",
+      "city": "City of Saint Peters",
+      "state": "Missouri",
+      "zip": "63376",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-600-3606",
+          "email": "info@siteman.wustl.edu"
+        },
+        { "name": "Patrick Grierson", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 38.80033, "lon": -90.62651 }
+    },
+    {
+      "facility": "Siteman Cancer Center at West County Hospital",
+      "status": "RECRUITING",
+      "city": "Creve Coeur",
+      "state": "Missouri",
+      "zip": "63141",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-600-3606",
+          "email": "info@siteman.wustl.edu"
+        },
+        { "name": "Patrick Grierson", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 38.66089, "lon": -90.42262 }
+    },
+    {
+      "facility": "Washington University School of Medicine",
+      "status": "RECRUITING",
+      "city": "St Louis",
+      "state": "Missouri",
+      "zip": "63110",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-600-3606",
+          "email": "info@siteman.wustl.edu"
+        },
+        { "name": "Patrick Grierson", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 38.62727, "lon": -90.19789 }
+    },
+    {
+      "facility": "Siteman Cancer Center-South County",
+      "status": "RECRUITING",
+      "city": "St Louis",
+      "state": "Missouri",
+      "zip": "63129",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-600-3606",
+          "email": "info@siteman.wustl.edu"
+        },
+        { "name": "Patrick Grierson", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 38.62727, "lon": -90.19789 }
+    },
+    {
+      "facility": "Siteman Cancer Center at Christian Hospital",
+      "status": "RECRUITING",
+      "city": "St Louis",
+      "state": "Missouri",
+      "zip": "63136",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-600-3606",
+          "email": "info@siteman.wustl.edu"
+        },
+        { "name": "Patrick Grierson", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 38.62727, "lon": -90.19789 }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Basking Ridge",
+      "status": "RECRUITING",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "zip": "07920",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "212-639-7592"
+        },
+        { "name": "Andrea Cercek", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.70621, "lon": -74.54932 }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Monmouth",
+      "status": "RECRUITING",
+      "city": "Middletown",
+      "state": "New Jersey",
+      "zip": "07748",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "212-639-7592"
+        },
+        { "name": "Andrea Cercek", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.39428, "lon": -74.11709 }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Bergen",
+      "status": "RECRUITING",
+      "city": "Montvale",
+      "state": "New Jersey",
+      "zip": "07645",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "212-639-7592"
+        },
+        { "name": "Andrea Cercek", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 41.04676, "lon": -74.02292 }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Commack",
+      "status": "RECRUITING",
+      "city": "Commack",
+      "state": "New York",
+      "zip": "11725",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "212-639-7592"
+        },
+        { "name": "Andrea Cercek", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.84288, "lon": -73.29289 }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Westchester",
+      "status": "RECRUITING",
+      "city": "East White Plains",
+      "state": "New York",
+      "zip": "10604",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "212-639-7592"
+        },
+        { "name": "Andrea Cercek", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 41.03899, "lon": -73.74763 }
+    },
+    {
+      "facility": "Mount Sinai Hospital",
+      "status": "RECRUITING",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10029",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "212-824-7309",
+          "email": "CCTO@mssm.edu"
+        },
+        { "name": "Noah A. Cohen", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Cancer Center",
+      "status": "RECRUITING",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10065",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "212-639-7592"
+        },
+        { "name": "Andrea Cercek", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+    },
+    {
+      "facility": "Memorial Sloan Kettering Nassau",
+      "status": "RECRUITING",
+      "city": "Uniondale",
+      "state": "New York",
+      "zip": "11553",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "212-639-7592"
+        },
+        { "name": "Andrea Cercek", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.70038, "lon": -73.59291 }
+    },
+    {
+      "facility": "Duke University Medical Center",
+      "status": "RECRUITING",
+      "city": "Durham",
+      "state": "North Carolina",
+      "zip": "27710",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "888-275-3853"
+        },
+        { "name": "Hope E. Uronis", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 35.99403, "lon": -78.89862 }
+    },
+    {
+      "facility": "Case Western Reserve University",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "zip": "44106",
+      "country": "United States",
+      "geoPoint": { "lat": 41.4995, "lon": -81.69541 }
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "status": "RECRUITING",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "215-728-4790"
+        },
+        { "name": "Vanessa Wookey", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+    },
+    {
+      "facility": "Allegheny General Hospital",
+      "status": "RECRUITING",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15212",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "877-284-2000"
+        },
+        { "name": "Patrick L. Wagner", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+    },
+    {
+      "facility": "West Penn Hospital",
+      "status": "RECRUITING",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15224",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "412-578-5000"
+        },
+        { "name": "Patrick L. Wagner", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+    },
+    {
+      "facility": "Vanderbilt University/Ingram Cancer Center",
+      "status": "RECRUITING",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "37232",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-811-8480"
+        },
+        {
+          "name": "Chandrasekhar Padmanabhan",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 36.16589, "lon": -86.78444 }
+    },
+    {
+      "facility": "Parkland Memorial Hospital",
+      "status": "RECRUITING",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip": "75235",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "214-590-5582",
+          "email": "canceranswerline@UTSouthwestern.edu"
+        },
+        { "name": "Cecilia G. Ethun", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 32.78306, "lon": -96.80667 }
+    },
+    {
+      "facility": "UT Southwestern/Simmons Cancer Center-Dallas",
+      "status": "RECRUITING",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip": "75390",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "214-648-7097",
+          "email": "canceranswerline@UTSouthwestern.edu"
+        },
+        { "name": "Cecilia G. Ethun", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 32.78306, "lon": -96.80667 }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Must have confirmed unresectable liver-confined metastatic colorectal cancer (CRC).",
+    "Must have received 3-6 months of previous first-line chemotherapy with stable or responding disease.",
+    "Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1.",
+    "Must be clinically fit to undergo surgery as determined by the pre-operative evaluation.",
+    "Patient's primary tumor may be in place."
+  ],
+  "key_exclusion_summary": [
+    "Must not have a liver tumor burden exceeding 70% of total liver volume.",
+    "Must not have had prior radiation to the liver or prior trans-arterial embolization (bland, chemo, or radio).",
+    "Must not have had prior treatment with hepatic arterial infusion (HAI) or floxuridine (FUDR).",
+    "Must not have microsatellite instability-high (MSI-H) colorectal cancer.",
+    "Must not have cirrhosis and/or clinical or radiographic evidence of portal hypertension."
+  ]
+}

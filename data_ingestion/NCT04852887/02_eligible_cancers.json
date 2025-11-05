@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Breast Cancer",
+    "subtype_histology": "N/A",
+    "biomarkers": "ER Positive, PR Positive, HER2 Negative, Oncotype DX Recurrence Score <= 18",
+    "clinical_state_descriptors": "Stage I, pT1, pN0, Post-Lumpectomy",
+    "stage_category": "Non-Metastatic"
+  }
+]

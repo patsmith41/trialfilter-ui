@@ -1,0 +1,772 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01120353",
+      "orgStudyIdInfo": { "id": "CCSS" },
+      "secondaryIdInfos": [
+        {
+          "id": "U24CA055727",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/U24CA055727"
+        },
+        {
+          "id": "R03CA169150",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R03CA169150"
+        },
+        {
+          "id": "R01CA134722",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R01CA134722"
+        },
+        {
+          "id": "R01CA136783",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R01CA136783"
+        },
+        {
+          "id": "R01CA132899",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R01CA132899"
+        },
+        {
+          "id": "R01CA187397",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R01CA187397"
+        },
+        {
+          "id": "R01CA175231",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R01CA175231"
+        },
+        {
+          "id": "R21CA202210",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R21CA202210"
+        },
+        {
+          "id": "R21CA198641",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R21CA198641"
+        },
+        { "id": "NCI-2021-05717", "type": "REGISTRY", "domain": "NCI" }
+      ],
+      "organization": {
+        "fullName": "St. Jude Children's Research Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Childhood Cancer Survivor Study",
+      "officialTitle": "Childhood Cancer Survivor Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": { "hasExpandedAccess": false },
+      "startDateStruct": { "date": "1995-01-05", "type": "ACTUAL" },
+      "primaryCompletionDateStruct": { "date": "2026-11", "type": "ESTIMATED" },
+      "completionDateStruct": { "date": "2026-11", "type": "ESTIMATED" },
+      "studyFirstSubmitDate": "2010-05-06",
+      "studyFirstSubmitQcDate": "2010-05-07",
+      "studyFirstPostDateStruct": { "date": "2010-05-10", "type": "ESTIMATED" },
+      "lastUpdateSubmitDate": "2025-07-07",
+      "lastUpdatePostDateStruct": { "date": "2025-07-09", "type": "ACTUAL" }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": { "type": "SPONSOR" },
+      "leadSponsor": {
+        "name": "St. Jude Children's Research Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        { "name": "National Cancer Institute (NCI)", "class": "NIH" },
+        { "name": "Fred Hutchinson Cancer Center", "class": "OTHER" },
+        { "name": "Nationwide Children's Hospital", "class": "OTHER" },
+        { "name": "M.D. Anderson Cancer Center", "class": "OTHER" },
+        { "name": "University of Southern California", "class": "OTHER" },
+        {
+          "name": "Children's Hospital Medical Center, Cincinnati",
+          "class": "OTHER"
+        },
+        { "name": "University of California, San Francisco", "class": "OTHER" }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The Childhood Cancer Survivor Study (CCSS) will investigate the long-term effects of cancer and its associated therapies. A retrospective cohort study will be conducted through a multi-institutional collaboration, which will involve the identification and active follow-up of a cohort of approximately 50,000 survivors of cancer, diagnosed before 21 years of age, between 1970 and 1999 and 10,000 sibling controls. This project will study children and young adults exposed to specific therapeutic modalities, including radiation, chemotherapy, and/or surgery, who are at increased risk of late-occurring adverse health outcomes. A group of sibling controls will be identified and data collected for comparison purposes.",
+      "detailedDescription": "The study will focus on the following objectives:\n\n* Characterize survivors' health with respect to disease- and treatment-related factors.\n* Investigate the consequences of various intensities of exposure to chemotherapy and/or radiation on health outcomes (e.g., cardiovascular, reproductive, second cancers, etc…).\n* Compare the mortality experience of survivors with the general population.\n* Characterize the health-related behaviors, patterns of medical care, and medical follow-up needs of survivors.\n* Describe patterns of familial aggregation of cancer, including known (and variations of) cancer family syndromes.\n* Collect and store biologic samples (saliva, blood, second tumor tissue) to correlate with health outcomes and use for future research."
+    },
+    "conditionsModule": {
+      "conditions": ["Cancer"],
+      "keywords": ["Childhood cancer", "Young Children", "Adults"]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "RETROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "Blood, saliva and second tumor specimens"
+      },
+      "enrollmentInfo": { "count": 50000, "type": "ESTIMATED" }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Cancer survivors",
+          "description": "Survivors of cancer, diagnosed under 21 years of age, between 1970 and 1999 This project will study children and young adults exposed to specific therapeutic modalities, including radiation, chemotherapy, and/or surgery, for an increased risk of late-occurring events associated with excess mortality and morbidity."
+        },
+        {
+          "label": "Sibling Controls",
+          "description": "A group of sibling controls will be identified to provide: (1) the ability to make direct comparisons with the survivors, (2) data on outcomes in a non-cancer population, and (3) additional comparison group to determine consistency of findings between data sources."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "To characterize survivors' health outcomes with respect to disease-, treatment, and genetic-related factors.",
+          "timeFrame": "25 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nInitial Cohort:\n\n* Five-year survival following diagnosis of leukemia, lymphoma, CNS tumor, bone tumor, Wilms tumor, neuroblastoma, or soft tissue sarcoma before age 21 years between January 1, 1970 and December 31, 1986 at one of participating centers.\n\nExpanded cohort:\n\n* Five-year survival following diagnosis of leukemia, lymphoma, CNS tumor, bone tumor, kidney tumor, neuroblastoma, or rhabdomyosarcoma before age 21 years between January 1, 1987 and December 31, 1999 at one of participating centers.\n* English- or Spanish-speaking and living in the U.S. or Canada at the time of diagnosis.\n\nExclusion Criteria:\n\n* Diagnosis of non-malignant tumors (i.e., Langerhans cell histiocytosis, meningioma, craniopharyngioma, etc.) treated with radiation and/or chemotherapy.\n* Non-English speaking or residence outside the US or Canada.\n\nSibling Controls:\n\n* For comparison purposes, a group of sibling controls will be identified to represent a stratified random sample based on the distribution of survivors with regard to cancer diagnosis, age, sex, race, and geographic location.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "stdAges": ["CHILD", "ADULT", "OLDER_ADULT"],
+      "studyPopulation": "Newly diagnosed with cancer between January 1, 1970 and December 31, 1999 at one of the participating centers noted below or identified as sibling control.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Gregory T. Armstrong, MD, MSCE",
+          "role": "CONTACT",
+          "phone": "1-866-278-5833",
+          "email": "referralinfo@stjude.org"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Gregory T. Armstrong, MD, MSCE",
+          "affiliation": "St. Jude Children's Research Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alabama at Birmingham/Children's of Alabama",
+          "status": "RECRUITING",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35294",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Kimberly Whelan, MD",
+              "role": "CONTACT",
+              "phone": "202-939-9285",
+              "email": "kwhelan@peds.uab.edu"
+            },
+            { "name": "Kimberly Whelan, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.52066, "lon": -86.80249 }
+        },
+        {
+          "facility": "City of Hope National Medical Center",
+          "status": "RECRUITING",
+          "city": "Duarte",
+          "state": "California",
+          "zip": "91010",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Saro Armenian, DO",
+              "role": "CONTACT",
+              "phone": "626-471-7205",
+              "email": "sarmenian@coh.org"
+            },
+            { "name": "Saro Armenian, DO", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 34.13945, "lon": -117.97729 }
+        },
+        {
+          "facility": "Children's Hospital Los Angeles",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90027",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "David Freyer, DO",
+              "role": "CONTACT",
+              "phone": "323-361-8953",
+              "email": "DFreyer@chla.usc.edu"
+            },
+            { "name": "David Freyer, DO", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+        },
+        {
+          "facility": "University of California-Los Angeles",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jacqueline Casillas, MD",
+              "role": "CONTACT",
+              "phone": "310-794-2474",
+              "email": "jcasillas@mednet.ucla.edu"
+            },
+            {
+              "name": "Jacqueline Casillas, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+        },
+        {
+          "facility": "Children's Hospital of Orange County",
+          "status": "RECRUITING",
+          "city": "Orange",
+          "state": "California",
+          "zip": "92868",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Leonard Sender, MD",
+              "role": "CONTACT",
+              "phone": "714-509-8636",
+              "email": "lsender@uci.edu"
+            },
+            { "name": "Leonard Sender, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.78779, "lon": -117.85311 }
+        },
+        {
+          "facility": "University of California-San Francisco",
+          "status": "RECRUITING",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Robert Goldsby, MD",
+              "role": "CONTACT",
+              "phone": "415-476-3831",
+              "email": "goldsbyr@peds.ucsf.edu"
+            },
+            { "name": "Robert Goldsby, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.77493, "lon": -122.41942 }
+        },
+        {
+          "facility": "Stanford University School of Medicine",
+          "status": "RECRUITING",
+          "city": "Stanford",
+          "state": "California",
+          "zip": "94305",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Sheri Spunt, MD",
+              "role": "CONTACT",
+              "phone": "650-723-5535",
+              "email": "sspunt@stanford.edu"
+            },
+            { "name": "Sheri Spunt, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.42411, "lon": -122.16608 }
+        },
+        {
+          "facility": "Children's Hospital Colorado",
+          "status": "RECRUITING",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Brian Greffe, MD",
+              "role": "CONTACT",
+              "phone": "720-777-6787",
+              "email": "greffe.brian@tchden.org"
+            },
+            { "name": "Robert Greffe, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.72943, "lon": -104.83192 }
+        },
+        {
+          "facility": "Children's National Medical Center",
+          "status": "RECRUITING",
+          "city": "Washington D.C.",
+          "state": "District of Columbia",
+          "zip": "20010",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jennifer Dean, MD",
+              "role": "CONTACT",
+              "phone": "703-531-3627",
+              "email": "jdean@psvcare.org"
+            },
+            { "name": "Jennifer Dean, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.89511, "lon": -77.03637 }
+        },
+        {
+          "facility": "Emory University/Children's Health Care of Atlanta",
+          "status": "RECRUITING",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lillian Meacham, MD",
+              "role": "CONTACT",
+              "phone": "404-727-0480",
+              "email": "lillian.meacham@oz.ped.emory.edu"
+            },
+            { "name": "Lillian Meacham, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+        },
+        {
+          "facility": "Ana & Robert H. Lurie Children's Hospital of Chicago",
+          "status": "RECRUITING",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611-2605",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jennifer Reichek, MD, MSW",
+              "role": "CONTACT",
+              "phone": "312-227-4777",
+              "email": "jreichek@luriechildrens.org"
+            },
+            {
+              "name": "Jennifer Reichek, MD, MSW",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+        },
+        {
+          "facility": "University of Chicago",
+          "status": "RECRUITING",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60637",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Tara Henderson, MD, MPH",
+              "role": "CONTACT",
+              "phone": "773-702-2501"
+            },
+            {
+              "name": "Tara Henderson, MD, MPH",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+        },
+        {
+          "facility": "Indiana University/Riley Hospital for Children",
+          "status": "RECRUITING",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Terry Vik, MD",
+              "role": "CONTACT",
+              "phone": "317-944-8784",
+              "email": "tvik@iupui.edu"
+            },
+            { "name": "Terry Vik, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.76838, "lon": -86.15804 }
+        },
+        {
+          "facility": "Dana-Farber Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02215",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lisa Diller, MD",
+              "role": "CONTACT",
+              "phone": "617-632-5642",
+              "email": "lisa_diller@dfci.harvard.efu"
+            },
+            { "name": "Lisa Diller, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.35843, "lon": -71.05977 }
+        },
+        {
+          "facility": "University of Michigan/Mott Children's Hospital",
+          "status": "RECRUITING",
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48109",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Raymond Hutchinson, MD",
+              "role": "CONTACT",
+              "phone": "734-764-7126",
+              "email": "rhutchin@umich.edu"
+            },
+            {
+              "name": "Raymond Hutchinson, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 42.27756, "lon": -83.74088 }
+        },
+        {
+          "facility": "Children's Hospitals & Clinics of Minnesota",
+          "status": "RECRUITING",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "zip": "55404",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Katharine R. Lange, MD",
+              "role": "CONTACT",
+              "phone": "612-813-6560",
+              "email": "Katharine.Lange@childrensmn.org"
+            },
+            {
+              "name": "Katharine R. Lange, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 44.97997, "lon": -93.26384 }
+        },
+        {
+          "facility": "University of Minnesota",
+          "status": "COMPLETED",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "zip": "55455",
+          "country": "United States",
+          "geoPoint": { "lat": 44.97997, "lon": -93.26384 }
+        },
+        {
+          "facility": "Mayo Clinic",
+          "status": "COMPLETED",
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States",
+          "geoPoint": { "lat": 44.02163, "lon": -92.4699 }
+        },
+        {
+          "facility": "St. Louis Children's Hospital/The Washington University",
+          "status": "RECRUITING",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63130",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Robert Hayashi, PhD",
+              "role": "CONTACT",
+              "phone": "314-454-4118",
+              "email": "hayashi_r@kids.wustl.edu"
+            },
+            { "name": "Mark Hayashi, PhD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.62727, "lon": -90.19789 }
+        },
+        {
+          "facility": "Roswell Park Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Buffalo",
+          "state": "New York",
+          "zip": "14263",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Denise Rokitka, MD",
+              "role": "CONTACT",
+              "phone": "716-845-2333",
+              "email": "denise.rokitka@roswellpark.org"
+            },
+            { "name": "Denise Rokitka, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.88645, "lon": -78.87837 }
+        },
+        {
+          "facility": "Memorial-Sloan Kettering Cancer Center",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Danielle Friedman, MD",
+              "role": "CONTACT",
+              "phone": "212-639-8138",
+              "email": "friedmad@mskcc.org"
+            },
+            {
+              "name": "Danielle Friedman, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Nationwide Children's Hospital",
+          "status": "RECRUITING",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43205",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Randy Olshefski",
+              "role": "CONTACT",
+              "phone": "614-722-3553",
+              "email": "randal.olshefski@nationwidechildrens.org"
+            },
+            { "name": "Randy Olshefki", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.96118, "lon": -82.99879 }
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia",
+          "status": "RECRUITING",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jill Ginsberg, MD",
+              "role": "CONTACT",
+              "phone": "215-590-7399",
+              "email": "ginsbergji@email.chop.edu"
+            },
+            { "name": "Jill Ginsberg, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+        },
+        {
+          "facility": "Children's Hospital of Pittsburgh",
+          "status": "RECRUITING",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15213",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jean Tersak, MD",
+              "role": "CONTACT",
+              "phone": "412-692-5963",
+              "email": "jean.tersak@chp.edu"
+            },
+            { "name": "Jean Tersak, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+        },
+        {
+          "facility": "St. Jude Children's Research Hospital",
+          "status": "RECRUITING",
+          "city": "Memphis",
+          "state": "Tennessee",
+          "zip": "38105",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Gregory T. Armstrong, MD, MSCE",
+              "role": "CONTACT",
+              "phone": "866-278-5833",
+              "email": "ccss@stjude.org"
+            },
+            {
+              "name": "Gregory T. Armstrong, MD, MSCE",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 35.14953, "lon": -90.04898 }
+        },
+        {
+          "facility": "University of Texas Southwestern Medical Center",
+          "status": "COMPLETED",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75390",
+          "country": "United States",
+          "geoPoint": { "lat": 32.78306, "lon": -96.80667 }
+        },
+        {
+          "facility": "Cook Children's Medical Center",
+          "status": "RECRUITING",
+          "city": "Fort Worth",
+          "state": "Texas",
+          "zip": "76104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Donald Beam, MD",
+              "role": "CONTACT",
+              "phone": "682-885-4007",
+              "email": "donald.beam@cookchildrens.org"
+            },
+            { "name": "Donald Beam, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.72541, "lon": -97.32085 }
+        },
+        {
+          "facility": "M.D. Anderson Cancer Center",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Louise Strong, MD",
+              "role": "CONTACT",
+              "phone": "713-792-2589",
+              "email": "lstrong@mdanderson.org"
+            },
+            { "name": "Louise Strong, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "Texas Children's Hospital",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "ZoAnn E. Dreyer, MD",
+              "role": "CONTACT",
+              "phone": "832-822-4209",
+              "email": "zdreyer@bcm.edu"
+            },
+            { "name": "ZoAnn E. Dreyer, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "Seattle Children's Hospital",
+          "status": "RECRUITING",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98105",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Scott Baker, MD",
+              "role": "CONTACT",
+              "phone": "206-884-1018",
+              "email": "ksbaker@fhcrc.org"
+            },
+            { "name": "Scott Baker, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 47.60621, "lon": -122.33207 }
+        },
+        {
+          "facility": "The Hospital for Sick Children",
+          "status": "RECRUITING",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G-1XB",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Paul Nathan, MD",
+              "role": "CONTACT",
+              "phone": "416-813-8795",
+              "email": "paul.nathan@sickkids.ca"
+            },
+            { "name": "Paul Nathan, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38981063",
+          "type": "DERIVED",
+          "citation": "Alberts NM, Leisenring W, Whitton J, Stratton K, Jibb L, Flynn J, Pizzo A, Brinkman TM, Birnie K, Gibson TM, McDonald A, Ford J, Olgin JE, Nathan PC, Stinson JN, Armstrong GT. Characterization of chronic pain, pain interference, and daily pain experiences in adult survivors of childhood cancer: a report from the Childhood Cancer Survivor Study. Pain. 2024 Nov 1;165(11):2530-2543. doi: 10.1097/j.pain.0000000000003284. Epub 2024 Jul 9."
+        },
+        {
+          "pmid": "37938431",
+          "type": "DERIVED",
+          "citation": "Wilson CL, Bjornard KL, Partin RE, Kadan-Lottick NS, Nathan PC, Oeffinger KC, Hayashi RJ, Hyun G, Armstrong GT, Leisenring WM, Howell RM, Yasui Y, Dixon SB, Ehrhardt MJ, Robison LL, Ness KK. Trends in physical functioning in acute lymphoblastic leukemia and non-Hodgkin lymphoma survivors across three decades. J Cancer Surviv. 2025 Apr;19(2):496-506. doi: 10.1007/s11764-023-01483-1. Epub 2023 Nov 8."
+        },
+        {
+          "pmid": "37797633",
+          "type": "DERIVED",
+          "citation": "Chen C, Qin N, Wang M, Dong Q, Tithi SS, Hui Y, Chen W, Wu G, Kennetz D, Edmonson MN, Rusch MC, Thrasher A, Easton J, Mulder HL, Song N, Plonski NM, Shelton K, Im C, Ehrhardt MJ, Nichols KE, Leisenring WM, Stratton KL, Howell R, Yasui Y, Bhatia S, Armstrong GT, Ness KK, Hudson MM, Zhang J, Wang H, Srivastava DK, Robison LL, Wang Z. Cancer germline predisposing variants and late mortality from subsequent malignant neoplasms among long-term childhood cancer survivors: a report from the St Jude Lifetime Cohort and the Childhood Cancer Survivor Study. Lancet Oncol. 2023 Oct;24(10):1147-1156. doi: 10.1016/S1470-2045(23)00403-5."
+        },
+        {
+          "pmid": "31941657",
+          "type": "DERIVED",
+          "citation": "Mulrooney DA, Hyun G, Ness KK, Ehrhardt MJ, Yasui Y, Duprez D, Howell RM, Leisenring WM, Constine LS, Tonorezos E, Gibson TM, Robison LL, Oeffinger KC, Hudson MM, Armstrong GT. Major cardiac events for adult survivors of childhood cancer diagnosed between 1970 and 1999: report from the Childhood Cancer Survivor Study cohort. BMJ. 2020 Jan 15;368:l6794. doi: 10.1136/bmj.l6794."
+        },
+        {
+          "pmid": "27820947",
+          "type": "DERIVED",
+          "citation": "Ness KK, Hudson MM, Jones KE, Leisenring W, Yasui Y, Chen Y, Stovall M, Gibson TM, Green DM, Neglia JP, Henderson TO, Casillas J, Ford JS, Effinger KE, Krull KR, Armstrong GT, Robison LL, Oeffinger KC, Nathan PC. Effect of Temporal Changes in Therapeutic Exposure on Self-reported Health Status in Childhood Cancer Survivors. Ann Intern Med. 2017 Jan 17;166(2):89-98. doi: 10.7326/M16-0742. Epub 2016 Nov 8."
+        },
+        {
+          "pmid": "24606096",
+          "type": "DERIVED",
+          "citation": "Patterson BC, Chen Y, Sklar CA, Neglia J, Yasui Y, Mertens A, Armstrong GT, Meadows A, Stovall M, Robison LL, Meacham LR. Growth hormone exposure as a risk factor for the development of subsequent neoplasms of the central nervous system: a report from the childhood cancer survivor study. J Clin Endocrinol Metab. 2014 Jun;99(6):2030-7. doi: 10.1210/jc.2013-4159. Epub 2014 Feb 25."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "St. Jude Children's Research Hospital",
+          "url": "http://www.stjude.org"
+        },
+        {
+          "label": "Long-Term Follow-Up Study",
+          "url": "http://ltfu.stjude.org/"
+        },
+        {
+          "label": "Clinical Trials Open at St. Jude",
+          "url": "http://www.stjude.org/protocols"
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": { "versionHolder": "2025-11-04" },
+    "conditionBrowseModule": {
+      "meshes": [{ "id": "D009369", "term": "Neoplasms" }]
+    }
+  },
+  "hasResults": false
+}
