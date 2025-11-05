@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Hodgkin Lymphoma",
+    "subtype_histology": "Classic Hodgkin Lymphoma",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "Newly Diagnosed, Stage I, Stage II, Limited Stage",
+    "stage_category": "Non-Metastatic"
+  }
+]

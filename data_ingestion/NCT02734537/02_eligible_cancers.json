@@ -1,0 +1,44 @@
+[
+  {
+    "base_cancer": "Oral Cavity Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "p53 sequencing",
+    "clinical_state_descriptors": "Post-Resection, Stage III, Stage IVA, No Positive Margins, No Extracapsular Extension",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Oral Cavity Cancer",
+    "subtype_histology": "Verrucous Carcinoma",
+    "biomarkers": "p53 sequencing",
+    "clinical_state_descriptors": "Post-Resection, Stage III, Stage IVA, No Positive Margins, No Extracapsular Extension",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Oropharyngeal Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "p16-Negative, p53 sequencing",
+    "clinical_state_descriptors": "Post-Resection, Stage III, Stage IVA, No Positive Margins, No Extracapsular Extension",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Hypopharyngeal Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "p53 sequencing",
+    "clinical_state_descriptors": "Post-Resection, Stage III, Stage IVA, No Positive Margins, No Extracapsular Extension",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Laryngeal Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "p53 sequencing",
+    "clinical_state_descriptors": "Post-Resection, Stage III, Stage IVA, No Positive Margins, No Extracapsular Extension",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Laryngeal Cancer",
+    "subtype_histology": "Spindle Cell Carcinoma",
+    "biomarkers": "p53 sequencing",
+    "clinical_state_descriptors": "Post-Resection, Stage III, Stage IVA, No Positive Margins, No Extracapsular Extension",
+    "stage_category": "Non-Metastatic"
+  }
+]

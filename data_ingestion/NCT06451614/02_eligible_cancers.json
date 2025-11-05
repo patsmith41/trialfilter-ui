@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Prostate Cancer",
+    "subtype_histology": "Adenocarcinoma",
+    "biomarkers": "PSA <= 20 ng/ml",
+    "clinical_state_descriptors": "Low to Intermediate Risk, Clinical stage T1-T2c, Gleason Score <= 7, Undergoing EBRT",
+    "stage_category": "Non-Metastatic"
+  }
+]

@@ -1,0 +1,523 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06451614",
+      "orgStudyIdInfo": { "id": "U0755" },
+      "organization": {
+        "fullName": "Boston Scientific Corporation",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "SpaceIT Hydrogel System for Perirectal Spacing",
+      "officialTitle": "SpaceIT Hydrogel System for Perirectal Spacing in Subjects With Low to Intermediate Risk Prostate Cancer Undergoing External Beam Radiotherapy (EBRT)",
+      "acronym": "HYDROSPACE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": { "hasExpandedAccess": false },
+      "startDateStruct": { "date": "2024-10-30", "type": "ACTUAL" },
+      "primaryCompletionDateStruct": {
+        "date": "2026-03-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": { "date": "2028-03-31", "type": "ESTIMATED" },
+      "studyFirstSubmitDate": "2024-05-07",
+      "studyFirstSubmitQcDate": "2024-06-04",
+      "studyFirstPostDateStruct": { "date": "2024-06-11", "type": "ACTUAL" },
+      "lastUpdateSubmitDate": "2025-10-23",
+      "lastUpdatePostDateStruct": { "date": "2025-10-24", "type": "ESTIMATED" }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": { "type": "SPONSOR" },
+      "leadSponsor": {
+        "name": "Boston Scientific Corporation",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isUnapprovedDevice": true,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To evaluate the safety and effectiveness of the SpaceIT™ Hydrogel System in patients undergoing External Beam Radiotherapy (EBRT) for the treatment of prostate cancer.",
+      "detailedDescription": "HYDROSPACE study is a prospective, randomized, multicenter study to evaluate the safety and effectiveness of SpaceIT in patients undergoing External Beam Radiotherapy (EBRT) for the treatment of prostate cancer.\n\nSubjects randomized to the investigational arm will receive SpaceIT Hydrogel System\n\nSubjects randomized to the control arm will receive a commercially marketed Boston Scientific perirectal hydrogel spacer, SpaceOAR System or SpaceOAR Vue Hydrogel"
+    },
+    "conditionsModule": { "conditions": ["Prostate Cancer"] },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": ["NA"],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": { "masking": "NONE" }
+      },
+      "enrollmentInfo": { "count": 230, "type": "ESTIMATED" }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "SpaceIT Hydrogel System",
+          "type": "EXPERIMENTAL",
+          "description": "Subjects randomized to the investigational arm will undergo a hydrogel procedure with the SpaceIT investigational device.",
+          "interventionNames": ["Device: SpaceIT Hydrogel System"]
+        },
+        {
+          "label": "Commercially available Boston Scientific Spacer",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Subjects randomized to the control arm will undergo a hydrogel procedure with the Boston Scientific commercially available SpaceOAR or SpaceOAR VUE device.",
+          "interventionNames": [
+            "Device: Commercially available Boston Scientific Spacer"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "SpaceIT Hydrogel System",
+          "description": "SpaceIT Hydrogel System is intended to temporarily position the anterior rectal wall away from the prostate during radiotherapy for prostate cancer and in creating this space it is the intent of SpaceIT Hydrogel System to reduce the radiation dose delivered to the anterior rectum. The SpaceIT Hydrogel System is composed of a radiopaque, biodegradable material designed to maintain space for approximately 12 weeks and be absorbed in about 6 months, sufficient time to support the intended use.\n\nSpaceIT has an iodinated PEG powder making it radiopaque.",
+          "armGroupLabels": ["SpaceIT Hydrogel System"]
+        },
+        {
+          "type": "DEVICE",
+          "name": "Commercially available Boston Scientific Spacer",
+          "description": "Boston Scientific's commercially available SpaceOAR Hydrogel System or SpaceOAR Vue Hydrogel System is intended to temporarily position the anterior rectal wall away from the prostate during radiotherapy for prostate cancer and in creating this space it is the intent of SpaceOAR Hydrogel System or SpaceOAR Vue Hydrogel System to reduce the radiation dose delivered to the anterior rectum. SpaceOAR and SpaceOAR Vue are both perirectal spacers. SpaceOAR Vue specifically has an iodinated PEG powder making it radiopaque. SpaceOAR does not contain iodinated PEG powder and is not radiopaque. The SpaceOAR Hydrogel System or SpaceOAR Vue Hydrogel System maintains space during prostate radiotherapy treatment and is completely absorbed by the patient's body over time.",
+          "armGroupLabels": ["Commercially available Boston Scientific Spacer"]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Primary Safety Endpoint - Acute Grade 3 or greater adverse events.",
+          "description": "Acute Grade 3 or greater adverse events, inclusive of all adverse events listed on the existing SpaceOAR product labels, that arise within 90 days of index procedure.",
+          "timeFrame": "90 Days from hydrogel placement procedure"
+        },
+        {
+          "measure": "Primary Effectiveness Endpoint - 25% reduction in the volume of the rectum receiving 90% of the prescribed radiation dose",
+          "description": "Clinically relevant dose reduction defined as a 25% reduction in the volume of the rectum receiving 90% of the prescribed radiation dose in subjects receiving hydrogel.",
+          "timeFrame": "10 days post procedure"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Additional Safety Endpoint - Adverse Device Effects (ADEs) requiring additional procedures and/or medications",
+          "description": "Adverse Device Effects (ADEs) requiring additional procedures and/or medications",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Additional Safety Endpoint - Incidence of acute Grade 2 or greater gastrointestinal (GI) and genitourinary (GU) adverse events (AEs)",
+          "description": "Incidence of acute Grade 2 or greater gastrointestinal (GI) and genitourinary (GU) adverse events (AEs) from index procedure up to 3 months",
+          "timeFrame": "Up to 90 days"
+        },
+        {
+          "measure": "Additional Safety Endpoint - Incidence of late Grade 2 or greater GI and GU adverse events (AEs)",
+          "description": "Incidence of late Grade 2 or greater GI and GU adverse events (AEs) from 3 months up to the end of study follow-up",
+          "timeFrame": "91 days up to 24 Months"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Visualization of hydrogel",
+          "description": "Technical Success: visualization of hydrogel between the posterior prostatic capsule and the anterior rectal wall will be assessed as Yes/No using the MRI performed post hydrogel placement procedure",
+          "timeFrame": "10 days post procedure"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Space Creation",
+          "description": "Space Creation: Distance between the posterior prostatic capsule and anterior rectal wall will be measured mid gland in millimeters using MRI performed post hydrogel placement procedure",
+          "timeFrame": "10 days post procedure"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Absorption",
+          "description": "Absorption: Absence of hydrogel in the perirectal space assessed on MRI at 12 months post-hydrogel placement.",
+          "timeFrame": "12 Month post hydrogel placement"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Change in radiation dose distributions to the organs at risk",
+          "description": "Dose Distribution: Change in radiation dose distributions to the organs at risk (OARs) quantified by computing rectal Dose-Volume Histograms (DVHs) for the dose plans created pre-and post-hydrogel placement.",
+          "timeFrame": "10 days post procedure"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Mean and Maximum Rectal Radiation doses",
+          "description": "Mean and Maximum Rectal Radiation Doses (in Gy)",
+          "timeFrame": "10 days post procedure"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Quality of Life Questionnaire: EQ-5D-5L",
+          "description": "Changes from Baseline in EQ-5D-5L\n\nThe EQ-5D-5L is a generic questionnaire that assesses a subject's self-reported health status in terms of five dimensions of health: mobility, self-care, usual activities, pain and discomfort, and anxiety and depression. Each dimension has five response levels: no problems, slight problems, moderate problems, severe problems, unable to/extreme problems. Subject's overall current health on a vertical visual analogue scale of \"0-100\" is recorded, where the endpoints are labelled 'The best health you can imagine' at \"100\" and 'The worst health you can imagine' at \"0\".",
+          "timeFrame": "Baseline up to 24 months"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Ease of hydrogel administration",
+          "description": "Ease of hydrogel administration. Scored on a Likert scale from 1 to 5 where 1 is Very Difficult and 5 is Very Easy",
+          "timeFrame": "10 days post procedure"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Space Maintenance",
+          "description": "Space Maintenance: Distance between the posterior prostatic capsule and anterior rectal wall will be measured",
+          "timeFrame": "3 Months post hydrogel placement procedure"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Quality of Life Questionnaire: Expanded Prostate Cancer Index Composite (EPIC-26)",
+          "description": "Changes from Baseline in Expanded Prostate Cancer Index Composite (EPIC-26)\n\nEPIC-26 is a questionnaire designed to measure health related quality of life (HRQOL) in people with prostate cancer. Response options for each EPIC item form a Likert scale, and multi-item scale scores are transformed linearly to a 0-100 scale, with higher scores representing better HRQOL.",
+          "timeFrame": "Baseline up to 24 months"
+        },
+        {
+          "measure": "Additional Effectiveness Endpoint - Quality of Life Questionnaire, Work Productivity and Activity Impairment Questionnaire: General Health (WPAI:GH)",
+          "description": "Changes from Baseline in Work Productivity and Activity Impairment Questionnaire: General Health (WPAI:GH)\n\nThe Work Productivity and Activity Impairment Questionnaire: General Health (WPAI:GH) outcomes are expressed as impairment percentages, with higher numbers indicating greater impairment and less productivity.",
+          "timeFrame": "Baseline up to 24 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nSubjects must meet the following criteria to be eligible for participation in the study:\n\n1. Age ≥18 years old\n2. Subjects must have had pathologically confirmed (by routine hematoxylin and eosin \\[H\\&E\\] staining) invasive adenocarcinoma of the prostate and planning to undergo EBRT\n3. Subjects must meet ALL of the following:\n\n   1. Clinical stage T1-T2c (AJCC Ver. 8) tumor AND\n   2. Gleason Score 7 or less as determined from a biopsy taken within 12 months of the Baseline visit AND\n   3. Demonstrated blood prostate specific antigen (PSA) levels ≤20 ng/ml as measured within 6 months of the Baseline visit and prior to commencing androgen deprivation therapy (ADT)\n4. Subject is able to provide written informed consent, approved by the appropriate Institutional Review Board/Ethics Committee/Research Ethics Board (IRB/EC/REB) of the respective clinical site\n\nExclusion Criteria:\n\n1. Prostate \\> 80 cc\n2. Subjects who are planning to undergo brachytherapy or focal boost\n3. Subjects who have magnetic resonance imaging (MRI) evidence of gross posterior extracapsular extension (ECE) of the prostate cancer Note: MRI must be taken within 6 months prior to the Baseline visit\n4. Subjects who have metastatic disease, other ongoing cancers which are being treated during the study or subjects for whom pelvic lymph node radiotherapy is planned\n5. Subjects with any prior invasive solid tumor malignancy or hematologic malignancy (except non-melanomatous skin cancer) unless the subject has been disease free and treatment free for a minimum of 3 years\n6. History of radical prostatectomy, other ablative anti-prostate cancer therapy (e.g., cryotherapy, high intensity focused ultrasound, irreversible electroporation) or previous pelvic irradiation (including prior prostate brachytherapy) at any time prior to screening\n7. History of transurethral prostate surgery (e.g., Transurethral Needle Ablation (TUNA), Transurethral Microwave Therapy (TUMT), Transurethral Resection of the Prostate (TURP)) if performed within 1 year prior to screening\n8. History of prior pelvic surgery requiring low anterior or abdominoperineal resections or rectal surgery\n9. History of or current perirectal disease that may interfere with interpretation of study outcomes, including anal or perianal diseases such as fistula\n10. Bleeding hemorrhoids requiring medical intervention within the prior three months\n11. Diagnosed active bleeding disorder or a clinically significant coagulopathy, defined as PTT \\> 70s or aPTT\\>35s or INR \\> 1.4, or platelet count \\< 100,000 per mm3 Note: Subjects on anticoagulants may be included if the anticoagulant medication can be held for index procedure\n12. Active inflammatory or infectious process involving the perineum, GI or urinary tract based on positive diagnosis or suspected diagnosis in the presence of fever \\>38⁰ C, WBC \\> 12,000/uL\n13. Inability to undergo pelvic MRI or presence of implants causing severe artifact (e.g. bilateral arthroplasty) that interferes with imaging interpretation for this study at Investigator discretion\n14. If a subject was enrolled in another investigational drug or device trial that had not completed the primary endpoint or that clinically interfered with this study\n15. Unable to comply with the study requirements or follow-up schedule\n16. Any condition the Investigator believed would interfere with the intent of the study or would make participation not in the best interest of the patient\n17. Known PEG (polyethylene glycol) sensitivity or allergy\n18. Known iodine sensitivity or allergy\n19. ADT, if applicable, cannot or was not started 15-60 days prior to the pre-index procedure RT planning imaging and is planned to continue for a total planned duration greater than 6 months",
+      "healthyVolunteers": false,
+      "sex": "MALE",
+      "genderBased": true,
+      "minimumAge": "18 Years",
+      "stdAges": ["ADULT", "OLDER_ADULT"]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Kaitlyn Rainbow",
+          "role": "CONTACT",
+          "phone": "952-930-6000",
+          "email": "kat.rainbow@bsci.com"
+        },
+        {
+          "name": "Amara Balhorn",
+          "role": "CONTACT",
+          "phone": "952-930-6000",
+          "email": "amara.balhorn@bsci.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Brian Baumann, MD",
+          "affiliation": "Springfield Clinic",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Ronald Reagan UCLA Medical Center",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States",
+          "contacts": [{ "name": "Albert Chang, MD", "role": "CONTACT" }],
+          "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+        },
+        {
+          "facility": "Baptist Hospital of Miami",
+          "status": "RECRUITING",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33176",
+          "country": "United States",
+          "contacts": [
+            { "name": "Marcio Fagundes, MD", "role": "CONTACT" },
+            { "name": "Britney Rushton", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 25.77427, "lon": -80.19366 }
+        },
+        {
+          "facility": "Orlando Health Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32806",
+          "country": "United States",
+          "contacts": [
+            { "name": "Akash Nanda, MD", "role": "CONTACT" },
+            { "name": "Devonnae Sterling", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 28.53834, "lon": -81.37924 }
+        },
+        {
+          "facility": "Emory University Hospital",
+          "status": "RECRUITING",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30308",
+          "country": "United States",
+          "contacts": [
+            { "name": "Bill Zheng", "role": "CONTACT" },
+            { "name": "Sagar Patel, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+        },
+        {
+          "facility": "Associated Urological Specialists",
+          "status": "RECRUITING",
+          "city": "Chicago Ridge",
+          "state": "Illinois",
+          "zip": "60415",
+          "country": "United States",
+          "contacts": [
+            { "name": "Aaron Berger, MD", "role": "CONTACT" },
+            { "name": "Daniel Canning", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 41.70142, "lon": -87.77922 }
+        },
+        {
+          "facility": "UroPartners",
+          "status": "RECRUITING",
+          "city": "Glenview",
+          "state": "Illinois",
+          "zip": "60026",
+          "country": "United States",
+          "contacts": [
+            { "name": "Karolina Webb", "role": "CONTACT" },
+            { "name": "Pathriv Mehta, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.06975, "lon": -87.78784 }
+        },
+        {
+          "facility": "Springfield Clinic, LLC",
+          "status": "RECRUITING",
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62701",
+          "country": "United States",
+          "contacts": [
+            { "name": "Brian Baumann, MD", "role": "CONTACT" },
+            { "name": "Kylie Herman", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 39.80172, "lon": -89.64371 }
+        },
+        {
+          "facility": "University of Kansas Hospital",
+          "status": "RECRUITING",
+          "city": "Kansas City",
+          "state": "Kansas",
+          "zip": "66160",
+          "country": "United States",
+          "contacts": [
+            { "name": "Xinglei Shen", "role": "CONTACT" },
+            { "name": "Lauren Strider-Birkeness", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 39.11417, "lon": -94.62746 }
+        },
+        {
+          "facility": "Mary Bird Perkins Cancer Center",
+          "status": "RECRUITING",
+          "city": "Baton Rouge",
+          "state": "Louisiana",
+          "zip": "90809",
+          "country": "United States",
+          "contacts": [
+            { "name": "Charles Wood, MD", "role": "CONTACT" },
+            { "name": "Charles Wood, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 30.44332, "lon": -91.18747 }
+        },
+        {
+          "facility": "Integrated Medical Professionals",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10016",
+          "country": "United States",
+          "contacts": [
+            { "name": "Jed Kaminetsky, MD", "role": "CONTACT" },
+            { "name": "Michael Yang", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Perlmutter Cancer Center - NYU Langone",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10016",
+          "country": "United States",
+          "contacts": [{ "name": "Michael Zelefsky, MD", "role": "CONTACT" }],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Memorial Sloan Kettering",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "contacts": [
+            { "name": "Thomas Kole, MD", "role": "CONTACT" },
+            { "name": "Thomas Kole, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Northwell Health",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10075",
+          "country": "United States",
+          "contacts": [
+            { "name": "Louis Potters, MD", "role": "CONTACT" },
+            { "name": "Louis Potters, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "MidLantic Urology",
+          "status": "RECRUITING",
+          "city": "Bala-Cynwyd",
+          "state": "Pennsylvania",
+          "zip": "19004",
+          "country": "United States",
+          "contacts": [
+            { "name": "Laurence Belkoff, MD", "role": "CONTACT" },
+            { "name": "Cheryl Zinar", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 40.00761, "lon": -75.23407 }
+        },
+        {
+          "facility": "Perelman Center for Advanced Medicine",
+          "status": "RECRUITING",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "contacts": [{ "name": "Neil Taunk, MD", "role": "CONTACT" }],
+          "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+        },
+        {
+          "facility": "Gibbs Cancer Center and Research Institute",
+          "status": "RECRUITING",
+          "city": "Greer",
+          "state": "South Carolina",
+          "zip": "29650",
+          "country": "United States",
+          "contacts": [
+            { "name": "Daniel Fried, MD", "role": "CONTACT" },
+            { "name": "Tracy Ruppe", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 34.93873, "lon": -82.22706 }
+        },
+        {
+          "facility": "Midtown Urology Associates",
+          "status": "RECRUITING",
+          "city": "Austin",
+          "state": "Texas",
+          "zip": "78705",
+          "country": "United States",
+          "contacts": [
+            { "name": "Tyler McClintock, MD", "role": "CONTACT" },
+            { "name": "Andrew Barger", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 30.26715, "lon": -97.74306 }
+        },
+        {
+          "facility": "University of Texas, Southwestern Medical Center",
+          "status": "RECRUITING",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75390",
+          "country": "United States",
+          "contacts": [
+            { "name": "Neil Desai, MD", "role": "CONTACT" },
+            { "name": "Neil Desai, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.78306, "lon": -96.80667 }
+        },
+        {
+          "facility": "Rio Grande Urology",
+          "status": "RECRUITING",
+          "city": "El Paso",
+          "state": "Texas",
+          "zip": "79912",
+          "country": "United States",
+          "contacts": [{ "name": "Travis Mendel, MD", "role": "CONTACT" }],
+          "geoPoint": { "lat": 31.75872, "lon": -106.48693 }
+        },
+        {
+          "facility": "Houston Metro Urology",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77027",
+          "country": "United States",
+          "contacts": [
+            { "name": "Lawrence Baum, MD", "role": "CONTACT" },
+            { "name": "Lena Ellis", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "Evergreen Hospital Medical Center",
+          "status": "RECRUITING",
+          "city": "Kirkland",
+          "state": "Washington",
+          "zip": "98034",
+          "country": "United States",
+          "contacts": [
+            { "name": "Richard A Hsi, MD", "role": "CONTACT" },
+            { "name": "Joseph Bradlo", "role": "CONTACT" }
+          ],
+          "geoPoint": { "lat": 47.68149, "lon": -122.20874 }
+        },
+        {
+          "facility": "The Ottawa Hospital - General Campus",
+          "status": "RECRUITING",
+          "city": "Ottawa",
+          "state": "Ontario",
+          "zip": "K1H 8L6",
+          "country": "Canada",
+          "contacts": [
+            { "name": "Scott Grimes", "role": "CONTACT" },
+            { "name": "Mark Corkum, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.41117, "lon": -75.69812 }
+        },
+        {
+          "facility": "Sunnybrook Health Sciences Centre-Hospital",
+          "status": "RECRUITING",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M4N 3M5",
+          "country": "Canada",
+          "contacts": [{ "name": "Aman Taggar, MD", "role": "CONTACT" }],
+          "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+        },
+        {
+          "facility": "Princess Margaret Cancer Centre",
+          "status": "RECRUITING",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 2M9",
+          "country": "Canada",
+          "contacts": [
+            { "name": "Peter Chung, MD", "role": "CONTACT" },
+            { "name": "Peter Chung, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": { "ipdSharing": "NO" }
+  },
+  "derivedSection": {
+    "miscInfoModule": { "versionHolder": "2025-11-04" },
+    "conditionBrowseModule": {
+      "meshes": [{ "id": "D011471", "term": "Prostatic Neoplasms" }],
+      "ancestors": [
+        { "id": "D005834", "term": "Genital Neoplasms, Male" },
+        { "id": "D014565", "term": "Urogenital Neoplasms" },
+        { "id": "D009371", "term": "Neoplasms by Site" },
+        { "id": "D009369", "term": "Neoplasms" },
+        { "id": "D005832", "term": "Genital Diseases, Male" },
+        { "id": "D000091662", "term": "Genital Diseases" },
+        { "id": "D000091642", "term": "Urogenital Diseases" },
+        { "id": "D011469", "term": "Prostatic Diseases" },
+        { "id": "D052801", "term": "Male Urogenital Diseases" }
+      ]
+    }
+  },
+  "hasResults": false
+}

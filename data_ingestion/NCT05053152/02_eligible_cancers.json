@@ -1,0 +1,23 @@
+[
+  {
+    "base_cancer": "Prostate Cancer",
+    "subtype_histology": "Adenocarcinoma",
+    "biomarkers": "Testosterone >= 100 ng/dL",
+    "clinical_state_descriptors": "Oligometastatic, Castration-Sensitive, Recurrent",
+    "stage_category": "Metastatic"
+  },
+  {
+    "base_cancer": "Prostate Cancer",
+    "subtype_histology": "Ductal Adenocarcinoma",
+    "biomarkers": "Testosterone >= 100 ng/dL",
+    "clinical_state_descriptors": "Oligometastatic, Castration-Sensitive, Recurrent",
+    "stage_category": "Metastatic"
+  },
+  {
+    "base_cancer": "Prostate Cancer",
+    "subtype_histology": "Intraductal Carcinoma",
+    "biomarkers": "Testosterone >= 100 ng/dL",
+    "clinical_state_descriptors": "Oligometastatic, Castration-Sensitive, Recurrent",
+    "stage_category": "Metastatic"
+  }
+]

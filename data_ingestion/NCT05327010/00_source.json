@@ -1,0 +1,874 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05327010",
+      "orgStudyIdInfo": { "id": "NCI-2022-02915" },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2022-02915",
+          "type": "REGISTRY",
+          "domain": "CTRP (Clinical Trial Reporting Program)"
+        },
+        { "id": "NCI10486" },
+        {
+          "id": "10486",
+          "type": "OTHER",
+          "domain": "University of Texas MD Anderson Cancer Center LAO"
+        },
+        { "id": "10486", "type": "OTHER", "domain": "CTEP" },
+        {
+          "id": "UM1CA186688",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/UM1CA186688"
+        }
+      ],
+      "organization": {
+        "fullName": "National Cancer Institute (NCI)",
+        "class": "NIH"
+      },
+      "briefTitle": "Testing the Combination of the Anti-cancer Drugs ZEN003694 (ZEN-3694) and Talazoparib in Patients With Advanced Solid Tumors, The ComBET Trial",
+      "officialTitle": "Phase 2 Trial of the Combination of the BET Inhibitor, ZEN003694 (ZEN-3694), and the PARP Inhibitor Talazoparib, in Patients With Molecularly-Selected Solid Tumors (ComBET)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": { "hasExpandedAccess": false },
+      "startDateStruct": { "date": "2022-11-14", "type": "ACTUAL" },
+      "primaryCompletionDateStruct": {
+        "date": "2026-12-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": { "date": "2026-12-31", "type": "ESTIMATED" },
+      "studyFirstSubmitDate": "2022-04-13",
+      "studyFirstSubmitQcDate": "2022-04-13",
+      "studyFirstPostDateStruct": { "date": "2022-04-14", "type": "ACTUAL" },
+      "lastUpdateSubmitDate": "2025-11-01",
+      "lastUpdatePostDateStruct": { "date": "2025-11-04", "type": "ACTUAL" }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": { "type": "SPONSOR" },
+      "leadSponsor": {
+        "name": "National Cancer Institute (NCI)",
+        "class": "NIH"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This phase II trial tests whether ZEN003694 (ZEN-3694) in combination with talazoparib works to shrink tumors in patients with solid tumors that are unlikely to be cured or controlled with treatment and that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced). Another aim of this study is to find out if, and how, patients' genes influence their response to this specific drug combination. For this part of the study, investigators will run tests using samples of patients' tumor tissue and blood that will be collected during the study. ZEN-3694 is an inhibitor of a family of proteins called the bromodomain and extra-terminal (BET). It may prevent the growth of tumor cells that overproduce BET protein. Talazoparib is an inhibitor of PARP, an enzyme that helps repair deoxyribonucleic acid (DNA) when it becomes damaged. Blocking PARP may help keep cancer cells from repairing their damaged DNA, causing them to die. PARP inhibitors are a type of targeted therapy. Genes are pieces of the DNA code that individuals inherit from their parents. Some genes work to protect against cancer by correcting damage that can occur in the DNA when cells divide. BRCA1 and BRCA2 are two examples of these types of genes, and they are called tumor-suppressor genes. For example, if a person has a mutation in a BRCA1/2 gene they have a greatly increased risk of developing breast and ovarian cancer because their cells may no longer be able to completely repair damaged DNA. It is the accumulation of DNA damage which causes a cell to change into a cancerous cell. Other genes are also involved in this process, and these are called DNA damage repair genes. The KRAS mutation is a change in a protein in normal cells. Normally KRAS serves as an information hub for signals in the cell that lead to cell growth, but when there is a mutation in KRAS it signals too much and cells grow without being told to, which causes cancer. Combination therapy with ZEN-3694 and talazoparib may be effective at slowing or stopping tumor growth in patients with advanced cancer.",
+      "detailedDescription": "PRIMARY OBJECTIVE:\n\nI. To evaluate clinical response to the combination of BET bromodomain inhibitor ZEN-3694 (ZEN003694 \\[ZEN-3694\\]) and talazoparib using objective response rate (ORR) = (complete response \\[CR\\] + partial response \\[PR\\]).\n\nSECONDARY OBJECTIVES:\n\nI. To confirm the safety and toxicity profile of the combination of ZEN003694 (ZEN-3694) and talazoparib.\n\nII. To evaluate the clinical benefit rate (stable disease \\[SD\\] \\> 6 months \\[m\\]+CR+PR) and progression-free survival (PFS).\n\nIII. To assess the pharmacodynamics of the combination of ZEN003694 (ZEN-3694) and talazoparib using pre- and on-treatment tumor biopsies.\n\nIV. To characterize pharmacodynamic changes of exploratory biomarkers to the combination of ZEN003694 (ZEN-3694) and talazoparib in pre- and on-treatment tumor biopsies.\n\nV. To assess putative predictive biomarkers of response and resistance to the combination of ZEN003694 (ZEN-3694) and talazoparib.\n\nOUTLINE:\n\nPatients receive ZEN-3694 orally (PO) once daily (QD) and talazoparib PO QD on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo diagnostic imaging, blood sample collection, and tumor biopsy throughout the study.\n\nAfter completion of study treatment, patients are followed up 30 days after administration of the last dose of study drug and then every 3 months for up to 2 years."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Advanced Malignant Solid Neoplasm",
+        "Metastatic Malignant Solid Neoplasm",
+        "Unresectable Malignant Solid Neoplasm"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": ["PHASE2"],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": { "masking": "NONE" }
+      },
+      "enrollmentInfo": { "count": 88, "type": "ESTIMATED" }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment (ZEN-3694, talazoparib)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients receive ZEN-3694 PO QD and talazoparib PO QD on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo diagnostic imaging, blood sample collection, and tumor biopsy throughout the study.",
+          "interventionNames": [
+            "Drug: BET Bromodomain Inhibitor ZEN-3694",
+            "Procedure: Biopsy Procedure",
+            "Procedure: Biospecimen Collection",
+            "Procedure: Diagnostic Imaging Testing",
+            "Drug: Talazoparib"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "BET Bromodomain Inhibitor ZEN-3694",
+          "description": "Given PO",
+          "armGroupLabels": ["Treatment (ZEN-3694, talazoparib)"],
+          "otherNames": ["BETi ZEN-3694", "ZEN 3694", "ZEN-3694", "ZEN003694"]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Biopsy Procedure",
+          "description": "Undergo tumor biopsy",
+          "armGroupLabels": ["Treatment (ZEN-3694, talazoparib)"],
+          "otherNames": ["Biopsy", "BIOPSY_TYPE", "Bx"]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Biospecimen Collection",
+          "description": "Undergo blood sample collection",
+          "armGroupLabels": ["Treatment (ZEN-3694, talazoparib)"],
+          "otherNames": [
+            "Biological Sample Collection",
+            "Biospecimen Collected",
+            "Specimen Collection"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Diagnostic Imaging Testing",
+          "description": "Undergo diagnostic imaging",
+          "armGroupLabels": ["Treatment (ZEN-3694, talazoparib)"],
+          "otherNames": ["Diagnostic Imaging", "Medical Imaging"]
+        },
+        {
+          "type": "DRUG",
+          "name": "Talazoparib",
+          "description": "Given PO",
+          "armGroupLabels": ["Treatment (ZEN-3694, talazoparib)"],
+          "otherNames": ["BMN 673", "BMN-673", "BMN673"]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Objective response rate (ORR)",
+          "description": "Systemically assessed per Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1. ORR = complete response + partial response. Complete response is defined as the disappearance of all target or non-target lesions. Partial response is defined as at least a 30% decrease in the sum of the diameters of target or non-target lesions.",
+          "timeFrame": "From initiation of treatment to first response"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Duration of response",
+          "description": "Assessed using RECIST v1.1.",
+          "timeFrame": "Time from documentation of tumor response to disease progression, assessed up to 2 years"
+        },
+        {
+          "measure": "Clinical benefit rate (CBR)",
+          "description": "Assessed by radiographic disease assessments per RECIST v1.1. CBR = overall response + stable disease \\> 6 months. Stable disease is defined as neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for progressive disease.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Progression-free survival",
+          "description": "Assessed by radiographic disease assessments per RECIST v1.1.",
+          "timeFrame": "From start of treatment to time of progression or death, whichever occurs first, assessed up to 2 years"
+        },
+        {
+          "measure": "Overall survival",
+          "description": "Assessed by radiographic disease assessments per RECIST v1.1.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Incidence of adverse events",
+          "description": "Incidence and severity of adverse events and serious adverse events as graded by National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. Includes significant changes in laboratory parameters, electrocardiograms, and vital signs. Summarized by grade and type.",
+          "timeFrame": "Up to 2 years"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Treatment-induced changes in phospho-protein signaling",
+          "description": "Reverse phase proteomic array in pre- and on-treatment tumor biopsy samples conducted to assess treatment-induced changes in phospho-protein signaling, to correlate with treatment response and progression, and to assess changes in the levels of cytotoxic T lymphocyte precursor.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Correlation of single nucleotide variant (SNV) and copy number variant (CNV) profiles with treatment response",
+          "description": "Whole exome sequencing conducted on pre-treatment biopsy and at progression to correlate SNV and CNV profiles with treatment response.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Gene expression profiling",
+          "description": "Ribonucleic acid (RNA) sequencing conducted for gene expression profiling.",
+          "timeFrame": "At pre-treatment, on-treatment, and at progression"
+        },
+        {
+          "measure": "Correlate mutation profiles with tumor sequencing",
+          "description": "Using circulating tumor deoxyribonucleic acid (ctDNA) for correlation.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Correlate baseline mutations with treatment response",
+          "description": "Using ctDNA for correlation.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Correlate changes in ctDNA variant allele frequencies with response",
+          "description": "Using ctDNA for correlation.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Assess emergent resistant mutations",
+          "description": "Includes BRCA reversion.",
+          "timeFrame": "At progression"
+        },
+        {
+          "measure": "Analysis of formalin-fixed paraffin-embedded and blood and blood samples",
+          "description": "DNA, RNA, and protein analysis conducted.",
+          "timeFrame": "Up to 2 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed malignancy that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective\n* Patients must have a tumor lesion that can be biopsied with 'low' or 'minimal' risk and at least one measurable disease site, as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1\n\n  * Note: Tumor lesions that are situated in a previously irradiated area may or may not be considered measurable\n* Patients in cohorts 1, 2, and 4 should have at least one relevant mutation. Patients enrolled in cohorts 1-3 do not require that PARP inhibitor (i) be the immediate prior therapy to be eligible for the trial. Patients should sign a screening consent that will allow the review of local next generation sequencing (NGS) or equivalent Clinical Laboratory Improvement Act (CLIA)-certified assay results by MD Anderson's Precision Oncology Decision Support (PODS) team to ensure that the mutations are actionable. No variants of uncertain significance (VUS) will be allowed\n\n  * Patients in Cohort 1 must have (i) a germline or somatic mutation in BRCA1 or BRCA2; and (ii) must have received prior PARPi monotherapy or PARPi combination-therapy\n  * Patients in Cohort 2 must have: (i) a germline or somatic mutation in any of the following deoxyribonucleic acid (DNA) damage response (DDR) genes: BARD1; FANCA; BRIP1; PALB2; RAD51; RAD51C; RAD51D, with no evidence of mutations in BRCA1 or BRCA2; and (ii) must have received prior PARPi monotherapy or PARPi combination therapy\n  * Patients in Cohort 3 must be (i) patients who have had PR/CR on prior PARPi monotherapy or PARPi combination treatment; and (ii) patients with no evidence of BRCA1 or BRCA2 mutations or any of the relevant DDR aberrations listed in cohort 2. Patients with ovarian cancer should not have progressed on platinum-therapy within six months of therapy\n  * Patients in Cohort 4 must have KRAS mutated advanced solid tumors. Prior treatments with KRAS inhibitors are permitted. Patients with KRAS G12C mutations must have already had KRAS G12C targeted therapy (e.g., sotorasib) previously\n* Patients must have received at least one line of systemic therapy in the advanced/metastatic setting. Subjects with diseases without known effective options, and subjects who have declined standard of care therapy prior to study introduction, are also eligible. Patients with ovarian cancer in cohort 3 should not have progressed on platinum within six months of therapy\n* Age \\>= 18 years\n\n  * Because no dosing or adverse event data are currently available on the use of ZEN003694 (ZEN-3694) in combination with talazoparib in patients \\< 18 years of age, children are excluded from this study\n* Patients must be greater than 4 weeks (6 weeks for nitrosoureas or mitomycin C) beyond treatment with any chemotherapy or other investigational therapy including hormonal, biological, or targeted agents; or at least 5 half-lives from hormonal, biological, or targeted agents, whichever is shorter at the time of treatment initiation. Patients must have recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities =\\< grade 1) with the exception of alopecia or anorexia\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 (Karnofsky \\>= 60%)\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 150,000/mcL\n* Hemoglobin \\>= 10.0 g/dL (no blood transfusions in the preceding 28 days)\n* Total bilirubin 1.5 x =\\< institutional upper limit of normal (ULN) OR direct bilirubin = ULN for subjects with total bilirubin levels \\> 1.5 x ULN\n* Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 x institutional ULN\n* Creatinine 1.5 x institutional ULN OR glomerular filtration rate (GFR) \\>= 60 mL/min/1.73 m\\^2 for subjects with creatinine levels \\> 1.5 x institutional ULN, unless data exists supporting safe use at lower kidney function values, no lower than 30 mL/min/1.73 m\\^2\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n* Patients with evidence of chronic hepatitis B virus (HBV) infection must have an undetectable viral load while on suppressive therapy, if indicated\n* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Patients with previously diagnosed brain metastases are eligible if they have completed their treatment and have recovered from the acute effects of radiation therapy or surgery prior to study enrollment, have discontinued corticosteroid treatment for these metastases for at least 2 weeks, and are neurologically stable. Patients with known symptomatic brain metastases requiring steroids are excluded. Of note, patients who required a single dose of corticosteroids on days receiving radiation treatment do not require a 2-week washout. Follow-up brain imaging after central nervous system (CNS)-directed therapy must show no evidence of progression and patient should be clinically stable for at least 1 month. This exception does not include carcinomatous meningitis, which is excluded regardless of clinical stability\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial. However, patients with concurrent malignancy that is progressing or requiring active treatment are excluded\n* Patients with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function using the New York Heart Association Functional Classification. To be eligible for this trial, patients should be of class 2B or better\n* The effects of the combination ZEN003694 (ZEN-3694) and talazoparib on the developing human fetus are unknown. For this reason, and because BET inhibitor agents as well as other therapeutic agents used in this trial are known to be teratogenic, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and for 7 months after. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately\n* Men treated or enrolled on this protocol must also agree to use adequate contraception prior to the study, for the duration of study participation, and for 7 months after completion of study drug administration\n* Women of child-bearing potential MUST have a negative serum or urine human chorionic gonadotropin (HCG) test unless prior tubal ligation (\\>/= 1 year before screening), total hysterectomy, or menopause (defined as 12 consecutive months of amenorrhea)\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients who are receiving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to ZEN003694 (ZEN-3694) or talazoparib\n* Patients receiving any medications or substances that are strong inhibitors or inducers of CYP3A4 or P-gp, strong inhibitors of BCRP, sensitive substrates of CYP1A2, proton-pump-inhibitors (H2 antagonists are allowed), and herbal medications/preparations (vitamins are allowed) are ineligible. Strong inhibitors or inducers of CYP3A4 must be discontinued at least 7 days prior to the first dose of ZEN003694 (ZEN-3694). Because the lists of these agents are constantly changing, it is important to regularly consult a frequently-updated medical reference. As part of the enrollment/informed consent procedures, the patient will be counseled on the risk of interactions with other agents, and what to do if new medications need to be prescribed or if the patient is considering a new over-the-counter medicine or herbal product.\n* Patients with uncontrolled intercurrent illness\n* Patients with psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study because ZEN003694 (ZEN-3694) is a BET inhibiting agent with the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with ZEN003694 (ZEN-3694), breastfeeding should be discontinued prior to the first dose of study drug and women should refrain from nursing throughout the treatment period and for 1 month following the last dose of the study drug. These potential risks may also apply to other agents used in this study\n* Patients who are involved in the planning and/or conduct of the study\n* Patients who are unable or unwilling to swallow pills\n* Active infection requiring intravenous (IV) antibiotics, or other uncontrolled intercurrent illness requiring hospitalization\n* Patients receiving any medications or substances that are factor Xa inhibitors (i.e., rivaroxaban, apixaban, betrixaban, edoxaban otamixaban, letaxaban, eribaxaban) and factor IIa inhibitors (i.e., dabigatran). Low molecular weight heparin is allowed\n* Patients with radiation to \\> 25% of the bone marrow\n* Patients who have had a bone-targeted radionuclide within 6 weeks of the first dose of ZEN003694 (ZEN-3694) or talazoparib\n* Patients who have previously received ZEN003694 (ZEN-3694) or who have been treated with an investigational BET inhibitor\n* Patients with cerebrovascular accident (CVA), myocardial infarction, or unstable angina within 6 months prior to the first dose of ZEN003694 (ZEN-3694) or talazoparib\n* Patients with impairment of gastrointestinal function that may significantly alter the absorption of ZEN003694 (ZEN-3694) or talazoparib\n* Patients that have had major surgery other than diagnostic surgery, dental surgery, or stenting within 4 weeks prior to the first dose of ZEN003694 (ZEN-3694) or talazoparib",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": ["ADULT", "OLDER_ADULT"]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Timothy A Yap",
+          "affiliation": "University of Texas MD Anderson Cancer Center LAO",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "City of Hope Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Duarte",
+          "state": "California",
+          "zip": "91010",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-826-4673",
+              "email": "becomingapatient@coh.org"
+            },
+            { "name": "Jyoti Malhotra", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 34.13945, "lon": -117.97729 }
+        },
+        {
+          "facility": "City of Hope at Irvine Lennar",
+          "status": "RECRUITING",
+          "city": "Irvine",
+          "state": "California",
+          "zip": "92618",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-467-3411"
+            },
+            { "name": "Jyoti Malhotra", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.66946, "lon": -117.82311 }
+        },
+        {
+          "facility": "UC San Diego Moores Cancer Center",
+          "status": "RECRUITING",
+          "city": "La Jolla",
+          "state": "California",
+          "zip": "92093",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "858-822-5354",
+              "email": "cancercto@ucsd.edu"
+            },
+            { "name": "Rana R. McKay", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.84727, "lon": -117.2742 }
+        },
+        {
+          "facility": "Keck Medicine of USC Koreatown",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90020",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "213-388-0908"
+            },
+            { "name": "Diana Hanna", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+        },
+        {
+          "facility": "Los Angeles General Medical Center",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90033",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "323-865-0451",
+              "email": "uscnorrisinfo@med.usc.edu"
+            },
+            { "name": "Diana Hanna", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+        },
+        {
+          "facility": "USC / Norris Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90033",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "323-865-0451"
+            },
+            { "name": "Diana Hanna", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+        },
+        {
+          "facility": "USC Norris Oncology/Hematology-Newport Beach",
+          "status": "RECRUITING",
+          "city": "Newport Beach",
+          "state": "California",
+          "zip": "92663",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "323-865-0451"
+            },
+            { "name": "Diana Hanna", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.61891, "lon": -117.92895 }
+        },
+        {
+          "facility": "University of California Davis Comprehensive Cancer Center",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Sacramento",
+          "state": "California",
+          "zip": "95817",
+          "country": "United States",
+          "geoPoint": { "lat": 38.58157, "lon": -121.4944 }
+        },
+        {
+          "facility": "UC San Diego Medical Center - Hillcrest",
+          "status": "RECRUITING",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92103",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "email": "rhabbaba@health.ucsd.edu"
+            },
+            { "name": "Rana R. McKay", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.71571, "lon": -117.16472 }
+        },
+        {
+          "facility": "UCHealth University of Colorado Hospital",
+          "status": "RECRUITING",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "720-848-0650"
+            },
+            { "name": "Bradley R. Corr", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.72943, "lon": -104.83192 }
+        },
+        {
+          "facility": "Yale University",
+          "status": "RECRUITING",
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06520",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "203-785-5702",
+              "email": "canceranswers@yale.edu"
+            },
+            { "name": "Michael Cecchini", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.30815, "lon": -72.92816 }
+        },
+        {
+          "facility": "Smilow Cancer Hospital Care Center-Trumbull",
+          "status": "RECRUITING",
+          "city": "Trumbull",
+          "state": "Connecticut",
+          "zip": "06611",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "203-785-5702",
+              "email": "canceranswers@yale.edu"
+            },
+            { "name": "Michael Cecchini", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.24287, "lon": -73.20067 }
+        },
+        {
+          "facility": "University of Florida Health Science Center - Gainesville",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Gainesville",
+          "state": "Florida",
+          "zip": "32610",
+          "country": "United States",
+          "geoPoint": { "lat": 29.65163, "lon": -82.32483 }
+        },
+        {
+          "facility": "Emory University Hospital/Winship Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "404-778-1868"
+            },
+            { "name": "Ticiana A. Leal", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+        },
+        {
+          "facility": "Northwestern University",
+          "status": "RECRUITING",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "312-695-1301",
+              "email": "cancer@northwestern.edu"
+            },
+            { "name": "Aparna Kalyan", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+        },
+        {
+          "facility": "University of Kansas Clinical Research Center",
+          "status": "RECRUITING",
+          "city": "Fairway",
+          "state": "Kansas",
+          "zip": "66205",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "913-588-3671",
+              "email": "KUCC_Navigation@kumc.edu"
+            },
+            { "name": "Joaquina C. Baranda", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.02223, "lon": -94.6319 }
+        },
+        {
+          "facility": "University of Kansas Cancer Center",
+          "status": "RECRUITING",
+          "city": "Kansas City",
+          "state": "Kansas",
+          "zip": "66160",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "913-588-3671",
+              "email": "KUCC_Navigation@kumc.edu"
+            },
+            { "name": "Joaquina C. Baranda", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.11417, "lon": -94.62746 }
+        },
+        {
+          "facility": "University of Kansas Cancer Center-Overland Park",
+          "status": "RECRUITING",
+          "city": "Overland Park",
+          "state": "Kansas",
+          "zip": "66210",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "913-588-3671",
+              "email": "KUCC_Navigation@kumc.edu"
+            },
+            { "name": "Joaquina C. Baranda", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.98223, "lon": -94.67079 }
+        },
+        {
+          "facility": "University of Kansas Hospital-Indian Creek Campus",
+          "status": "RECRUITING",
+          "city": "Overland Park",
+          "state": "Kansas",
+          "zip": "66211",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "913-588-3671",
+              "email": "KUCC_Navigation@kumc.edu"
+            },
+            { "name": "Joaquina C. Baranda", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.98223, "lon": -94.67079 }
+        },
+        {
+          "facility": "University of Kansas Hospital-Westwood Cancer Center",
+          "status": "RECRUITING",
+          "city": "Westwood",
+          "state": "Kansas",
+          "zip": "66205",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "913-588-3671",
+              "email": "KUCC_Navigation@kumc.edu"
+            },
+            { "name": "Joaquina C. Baranda", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.04056, "lon": -94.6169 }
+        },
+        {
+          "facility": "University of Kentucky/Markey Cancer Center",
+          "status": "RECRUITING",
+          "city": "Lexington",
+          "state": "Kentucky",
+          "zip": "40536",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "859-257-3379"
+            },
+            { "name": "Rachel W. Miller", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.98869, "lon": -84.47772 }
+        },
+        {
+          "facility": "Ochsner Medical Center Jefferson",
+          "status": "RECRUITING",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "zip": "70121",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "504-842-8084",
+              "email": "Elisemarie.curry@ochsner.org"
+            },
+            { "name": "Daniel Johnson", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.95465, "lon": -90.07507 }
+        },
+        {
+          "facility": "National Cancer Institute Developmental Therapeutics Clinic",
+          "status": "RECRUITING",
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-411-1222"
+            },
+            { "name": "A P. Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.98067, "lon": -77.10026 }
+        },
+        {
+          "facility": "National Institutes of Health Clinical Center",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States",
+          "geoPoint": { "lat": 38.98067, "lon": -77.10026 }
+        },
+        {
+          "facility": "University of Kansas Cancer Center - North",
+          "status": "RECRUITING",
+          "city": "Kansas City",
+          "state": "Missouri",
+          "zip": "64154",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "913-588-3671",
+              "email": "KUCC_Navigation@kumc.edu"
+            },
+            { "name": "Joaquina C. Baranda", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.09973, "lon": -94.57857 }
+        },
+        {
+          "facility": "University of Kansas Cancer Center - Lee's Summit",
+          "status": "RECRUITING",
+          "city": "Lee's Summit",
+          "state": "Missouri",
+          "zip": "64064",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "913-588-3671",
+              "email": "KUCC_Navigation@kumc.edu"
+            },
+            { "name": "Joaquina C. Baranda", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.91084, "lon": -94.38217 }
+        },
+        {
+          "facility": "University of Kansas Cancer Center at North Kansas City Hospital",
+          "status": "SUSPENDED",
+          "city": "North Kansas City",
+          "state": "Missouri",
+          "zip": "64116",
+          "country": "United States",
+          "geoPoint": { "lat": 39.13, "lon": -94.56218 }
+        },
+        {
+          "facility": "UNC Lineberger Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27599",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-668-0683",
+              "email": "cancerclinicaltrials@med.unc.edu"
+            },
+            { "name": "Shetal Patel", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 35.9132, "lon": -79.05584 }
+        },
+        {
+          "facility": "University of Pittsburgh Cancer Institute (UPCI)",
+          "status": "RECRUITING",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15232",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "412-647-8073"
+            },
+            { "name": "Leonard J. Appleman", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+        },
+        {
+          "facility": "University of Texas at Austin",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Austin",
+          "state": "Texas",
+          "zip": "78712",
+          "country": "United States",
+          "geoPoint": { "lat": 30.26715, "lon": -97.74306 }
+        },
+        {
+          "facility": "University of Texas Medical Branch",
+          "status": "RECRUITING",
+          "city": "Galveston",
+          "state": "Texas",
+          "zip": "77555-0565",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "409-772-1950",
+              "email": "clinical.research@utmb.edu"
+            },
+            { "name": "Bagi R. Jana", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.30135, "lon": -94.7977 }
+        },
+        {
+          "facility": "M D Anderson Cancer Center",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-632-6789",
+              "email": "askmdanderson@mdanderson.org"
+            },
+            { "name": "Timothy A. Yap", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "University of Texas Health Science Center at San Antonio",
+          "status": "RECRUITING",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "John Sarantopoulos",
+              "role": "CONTACT",
+              "phone": "210-450-1785",
+              "email": "sarantopoulo@uthscsa.edu"
+            },
+            { "name": "John Sarantopoulos", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 29.42412, "lon": -98.49363 }
+        },
+        {
+          "facility": "Huntsman Cancer Institute/University of Utah",
+          "status": "RECRUITING",
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "zip": "84112",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "888-424-2100",
+              "email": "cancerinfo@hci.utah.edu"
+            },
+            { "name": "Vaia Florou", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.76078, "lon": -111.89105 }
+        },
+        {
+          "facility": "University of Virginia Cancer Center",
+          "status": "RECRUITING",
+          "city": "Charlottesville",
+          "state": "Virginia",
+          "zip": "22908",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "434-243-6303",
+              "email": "uvacancertrials@hscmail.mcc.virginia.edu"
+            },
+            { "name": "Linda R. Duska", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.02931, "lon": -78.47668 }
+        },
+        {
+          "facility": "VCU Massey Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Richmond",
+          "state": "Virginia",
+          "zip": "23298",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "804-628-6430",
+              "email": "CTOclinops@vcu.edu"
+            },
+            { "name": "Emily N. Kinsey", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.55376, "lon": -77.46026 }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "NCI is committed to sharing data in accordance with NIH policy. For more details on how clinical trial data is shared, access the link to the NIH data sharing policy page.",
+      "url": "https://grants.nih.gov/policy/sharing.htm"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": { "versionHolder": "2025-11-04" },
+    "conditionBrowseModule": {
+      "meshes": [{ "id": "D009362", "term": "Neoplasm Metastasis" }],
+      "ancestors": [
+        { "id": "D009385", "term": "Neoplastic Processes" },
+        { "id": "D009369", "term": "Neoplasms" },
+        { "id": "D010335", "term": "Pathologic Processes" },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        { "id": "D001706", "term": "Biopsy" },
+        { "id": "D013048", "term": "Specimen Handling" },
+        { "id": "D014965", "term": "X-Rays" },
+        { "id": "C586365", "term": "talazoparib" }
+      ],
+      "ancestors": [
+        { "id": "D003581", "term": "Cytodiagnosis" },
+        { "id": "D003584", "term": "Cytological Techniques" },
+        { "id": "D019411", "term": "Clinical Laboratory Techniques" },
+        { "id": "D019937", "term": "Diagnostic Techniques and Procedures" },
+        { "id": "D003933", "term": "Diagnosis" },
+        { "id": "D003949", "term": "Diagnostic Techniques, Surgical" },
+        { "id": "D013514", "term": "Surgical Procedures, Operative" },
+        { "id": "D008919", "term": "Investigative Techniques" },
+        { "id": "D060733", "term": "Electromagnetic Radiation" },
+        { "id": "D055590", "term": "Electromagnetic Phenomena" },
+        { "id": "D060328", "term": "Magnetic Phenomena" },
+        { "id": "D055585", "term": "Physical Phenomena" },
+        { "id": "D011827", "term": "Radiation" },
+        { "id": "D011839", "term": "Radiation, Ionizing" }
+      ]
+    }
+  },
+  "hasResults": false
+}

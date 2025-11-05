@@ -1,0 +1,1342 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03970447",
+      "orgStudyIdInfo": { "id": "GCAR-7213" },
+      "organization": {
+        "fullName": "Global Coalition for Adaptive Research",
+        "class": "OTHER"
+      },
+      "briefTitle": "A Trial to Evaluate Multiple Regimens in Newly Diagnosed and Recurrent Glioblastoma",
+      "officialTitle": "GBM AGILE: Global Adaptive Trial Master Protocol: An International, Seamless Phase II/III Response Adaptive Randomization Platform Trial Designed To Evaluate Multiple Regimens In Newly Diagnosed and Recurrent GBM",
+      "acronym": "GBM AGILE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": { "hasExpandedAccess": false },
+      "startDateStruct": { "date": "2019-07-30", "type": "ACTUAL" },
+      "primaryCompletionDateStruct": { "date": "2028-06", "type": "ESTIMATED" },
+      "completionDateStruct": { "date": "2030-06", "type": "ESTIMATED" },
+      "studyFirstSubmitDate": "2019-05-23",
+      "studyFirstSubmitQcDate": "2019-05-30",
+      "studyFirstPostDateStruct": { "date": "2019-05-31", "type": "ACTUAL" },
+      "lastUpdateSubmitDate": "2025-09-05",
+      "lastUpdatePostDateStruct": { "date": "2025-09-09", "type": "ESTIMATED" }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": { "type": "SPONSOR" },
+      "leadSponsor": {
+        "name": "Global Coalition for Adaptive Research",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        { "name": "Bayer", "class": "INDUSTRY" },
+        { "name": "Kazia Therapeutics Limited", "class": "INDUSTRY" },
+        { "name": "Kintara Therapeutics, Inc.", "class": "INDUSTRY" },
+        { "name": "Biohaven Pharmaceuticals, Inc.", "class": "INDUSTRY" },
+        { "name": "Vigeo Therapeutics, Inc.", "class": "INDUSTRY" },
+        { "name": "Polaris Group", "class": "INDUSTRY" },
+        { "name": "AstraZeneca", "class": "INDUSTRY" }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Glioblastoma (GBM) adaptive, global, innovative learning environment (GBM AGILE) is an international, seamless Phase II/III response adaptive randomization platform trial designed to evaluate multiple therapies in newly diagnosed (ND) and recurrent GBM.",
+      "detailedDescription": "Glioblastoma (GBM) adaptive, global, innovative learning environment (GBM AGILE) is an international, seamless Phase II/III response adaptive randomization platform trial designed to evaluate multiple therapies in newly diagnosed (ND) and recurrent GBM. Its goals are to identify effective therapies for glioblastoma and match effective therapies with patient subtypes. Bayesian response adaptive randomization is used within subtypes of the disease to assign participants to Arms based on their performance. The primary endpoint is overall survival (OS).\n\nGBM AGILE is designed to efficiently evaluate therapies. The trial will be conducted under a single Master Investigational New Drug Application/Clinical Trial Application and Master Protocol, allowing multiple drugs and drug combinations from different pharmaceutical companies to be evaluated simultaneously. The plan is to add experimental therapies as new information about promising new drugs are identified and remove therapies as they complete their evaluation."
+    },
+    "conditionsModule": {
+      "conditions": ["Glioblastoma"],
+      "keywords": [
+        "Glioblastoma",
+        "Newly diagnosed",
+        "recurrent",
+        "O6-methylguanine-DNA-methyltransferase (MGMT) methylated",
+        "MGMT unmethylated",
+        "isocitrate dehydrogenase (IDH) wild-type",
+        "Bayesian",
+        "adaptive randomization",
+        "Master Protocol",
+        "Platform Trial",
+        "Phase 2",
+        "Phase 3"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": ["PHASE2", "PHASE3"],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "interventionModelDescription": "GBM AGILE is a multi-arm, platform trial. The evaluation of each therapy in GBM AGILE proceeds in 2 possible stages. A therapy's Stage 1 is an adaptively randomized Screening stage for evaluating the therapy within patient signatures compared against a common control. A therapy in Stage 1 will stop accruing patients if it reaches its maximal sample size, drops for futility, or evinces inadequate safety. If a therapy reaches an efficacy threshold for graduation from Stage 1, it will move into Stage 2 within one of the prospectively defined signatures. The maximum sample size in Stage 1 is 200 patients.\n\nFor a therapy graduating to Stage 2 there is a fixed randomization, expansion cohort. The maximum sample size in Stage 2 is 50 experimental patients in the graduating signature. The primary analysis of a regimen's effect on OS uses all patients in both its stages and all control patients in the trial in the graduating signature, suitably adjusted for any possible time trends.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": { "masking": "NONE" }
+      },
+      "enrollmentInfo": { "count": 1280, "type": "ESTIMATED" }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Control Arm",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Newly Diagnosed GBM: Radiation therapy (XRT) 60 Gy for 6 weeks. Temozolomide 75 mg/m2 orally daily during radiation therapy. Rest Period 2-6 weeks from the last day of radiation, and the start of the first cycle of Maintenance Therapy 2-6 weeks after the last day of radiotherapy. The start of all subsequent maintenance therapy cycles (2-12) every 4 weeks + 7 days after the first daily dose of temozolomide of the preceding cycle. Total number of cycles should comply with institutional or country standards. During maintenance therapy, the first cycle of temozolomide will be at 150 mg/m2 for Days 1-5 of a 28-day cycle. Second and subsequent cycles of maintenance therapy will be at 200 mg/m2 for Days 1-5 of a 28-day cycle.\n\nRecurrent GBM: Lomustine started at 110 mg/m2/day on Day 1 of a 42-day cycle as per local standards. Treatment will continue for up to 6 total cycles.",
+          "interventionNames": [
+            "Drug: Temozolomide",
+            "Drug: Lomustine",
+            "Radiation: Radiation"
+          ]
+        },
+        {
+          "label": "Regorafenib Treatment Arm",
+          "type": "EXPERIMENTAL",
+          "description": "Newly Diagnosed MGMT Unmethylated GBM: XRT 60 Gy for 6 weeks. Temozolomide 75 mg/m2 orally daily during radiation therapy. Rest Period 4 weeks from the last day of radiation. Maintenance period: Regorafenib (Dosage Form: Tablet for oral administration; Strength: 40 mg) 160 mg orally (PO) every day (QD) for 3 weeks of every 4 week cycle (i.e., 3 weeks on, 1 week off).\n\nRecurrent GBM: Regorafenib (Dosage Form: Tablet for oral administration; Strength: 40 mg) 160 mg orally (PO) every day (QD) for 3 weeks of every 4 week cycle (i.e., 3 weeks on, 1 week off).",
+          "interventionNames": ["Drug: Regorafenib"]
+        },
+        {
+          "label": "Paxalisib Treatment Arm",
+          "type": "EXPERIMENTAL",
+          "description": "Newly Diagnosed MGMT Unmethylated GBM: XRT 60 Gy for 6 weeks. Temozolomide 75 mg/m2 orally daily during radiation therapy. Rest Period 4 weeks from the last day of radiation. Maintenance period: Paxalisib (Dosage Form: Tablet for oral administration; Strength: 15 mg per tablet) 45 mg orally (PO) every day for 28 days for the first cycle. If tolerated, increase dose to 60 mg orally (PO) every day for 28 days for all subsequent cycles.\n\nRecurrent GBM: Paxalisib (Dosage Form: Tablet for oral administration; Strength: 15 mg per tablet) 45 mg orally (PO) every day for 21 days for the first cycle. If tolerated, increase dose to 60 mg orally (PO) every day for 21 days for all subsequent cycles.",
+          "interventionNames": ["Drug: Paxalisib"]
+        },
+        {
+          "label": "VAL-083 Treatment Arm",
+          "type": "EXPERIMENTAL",
+          "description": "Newly Diagnosed MGMT Methylated and Unmethylated GBM: XRT 60 Gy for 6 weeks. Temozolomide 75 mg/m2 orally daily during radiation therapy. Rest Period 4 weeks from the last day of radiation. Maintenance period: VAL-083 (Dosage Form: Infusion for intravenous administration; Strength: 30 mg/m2) on Day 1, 2 and 3 of 21-day cycle.\n\nRecurrent GBM: VAL-083 (Dosage Form: Infusion for intravenous administration; Strength: 30 mg/m2) on Day 1, 2 and 3 of 21-day cycle.",
+          "interventionNames": ["Drug: VAL-083"]
+        },
+        {
+          "label": "VT1021 Treatment Arm - Dose Finding Phase",
+          "type": "EXPERIMENTAL",
+          "description": "Newly diagnosed MGMT Methylated and Unmethylated GBM: Rolling 6 design. Treatment as outlined in section \"Experimental: VT1021 Treatment Arm\" with the first 6 patients receiving VT1021 at 12 mg/kg twice weekly in combination with temozolomide and radiation therapy. If there are two dose limiting toxicities reported, the dose will be de-escalated to 9 mg/kg two times a week. 6 patients will then be receiving 9 mg/kg two times a week and observed for DLTs for 4 weeks.\n\nRecurrent GBM: Dose Finding Phase is not applicable for patients with Recurrent GBM in the VT1021 treatment arm.",
+          "interventionNames": ["Drug: VT1021"]
+        },
+        {
+          "label": "VT1021 Treatment Arm - Enhanced Safety Management (ESM)",
+          "type": "EXPERIMENTAL",
+          "description": "Experimental: VT1021 Treatment Arm - Enhanced Safety Management (ESM) Newly diagnosed MGMT Methylated and Unmethylated GBM: Supplemental safety assessments including bi-weekly collection of adverse events, dose modification profile, hematology, serum chemistry and coagulation panels. PK and PD assessments are done for patients as a part of ESM. ESM will continue until the Data Safety Monitoring Board (DSMB) suspends collection of additional data.\n\nRecurrent GBM: ESM is not applicable for patients with Recurrent GBM in the VT1021 treatment arm.",
+          "interventionNames": ["Drug: VT1021"]
+        },
+        {
+          "label": "VT1021 Treatment Arm",
+          "type": "EXPERIMENTAL",
+          "description": "Newly diagnosed MGMT Methylated and Unmethylated GBM: XRT 60 Gy for 6 weeks. Temozolomide 75 mg/m2 orally daily and VT1021 (Dosage Form: Infusion for intravenous administration; Strength: 10 mg/mL; Dose: As confirmed through the dose finding phase) twice weekly during radiation therapy. Rest period: 2-6 weeks from last day of radiation. VT1021 dosing will continue during the rest period. Maintenance period: The first cycle of temozolomide will be at 150 mg/m2 for days 1-5 of a 28-day cycle. Second and subsequent cycles of maintenance therapy will be at 200 mg/m2 for days 1-5 of a 28-day cycle. Temozolomide will be administered for up to 6 cycles in the maintenance phase in combination with VT1021. After 6 cycles, VT1021 only.\n\nRecurrent GBM: VT1021 (Dosage Form: Infusion for intravenous administration; Strength: 10 mg/mL; Dose: 12mg/kg) twice weekly.",
+          "interventionNames": ["Drug: VT1021"]
+        },
+        {
+          "label": "Troriluzole Treatment Arm - Dose Finding Phase",
+          "type": "EXPERIMENTAL",
+          "description": "Newly diagnosed MGMT Methylated and Unmethylated GBM: Rolling 6 design. The first 6 patients will receive troriluzole at 100 mg BID for the first two weeks followed by 200 mg BID for the next two weeks in combination with temozolomide and radiation therapy. If there are two dose limiting toxicities (DLTs) reported, the dose will be de-escalated to 100 mg in the morning and followed by 200 mg in the evening. 6 patients will receive this dose and observed for 4 weeks. If there are two DLTs reported, then this dose will be de-escalated to 100 mg BID. 6 patients will then be receiving this dose and observed for DLTs for 4 weeks.\n\nRecurrent GBM: Rolling 6 design. The first 6 patients receiving troriluzole 100 mg twice a day (BID) for the first two weeks followed by 200 mg BID for the next two weeks in combination with lomustine. The dose de-escalation is similar to that of newly diagnosed patients during the rolling 6 design.",
+          "interventionNames": ["Drug: Troriluzole"]
+        },
+        {
+          "label": "Troriluzole Treatment Arm - Enhanced Safety Management (ESM)",
+          "type": "EXPERIMENTAL",
+          "description": "Newly diagnosed MGMT Methylated and Unmethylated GBM and Recurrent GBM: Supplemental safety assessments including bi-weekly collection of adverse events, dose modification profile, hematology, serum chemistry and coagulation panels. ESM will continue until the Data Safety Monitoring Board (DSMB) suspends collection of additional data.",
+          "interventionNames": ["Drug: Troriluzole"]
+        },
+        {
+          "label": "Troriluzole Treatment Arm",
+          "type": "EXPERIMENTAL",
+          "description": "Newly diagnosed MGMT Methylated and Unmethylated GBM: XRT 60 Gy for 6 weeks. Temozolomide 75 mg/m2 orally daily and troriluzole (Dosage Form: Capsule for oral administration; Strength: 100 mg; Dose: As confirmed by dose finding phase) BID. Rest period: 2-6 weeks from last day of radiation. Troriluzole dosing will continue during the rest period. Maintenance period: The first cycle of temozolomide will be at 150 mg/m2 for days 1-5 of a 28-day cycle. Second and subsequent cycles of maintenance therapy will be at 200 mg/m2 for days 1-5 of a 28-day cycle. Temozolomide will be administered for up to 6 cycles in the maintenance phase in combination with troriluzole. After 6 cycles, troriluzole only.\n\nRecurrent GBM: Lomustine 100 mg/m2 orally on day 1 of a 42-day cycle in combination with troriluzole (Dosage Form: Capsule for oral administration; Strength: 100 mg; Dose: As confirmed by dose finding phase) BID. After 6 cycles, troriluzole only.",
+          "interventionNames": ["Drug: Troriluzole"]
+        },
+        {
+          "label": "ADI-PEG 20 Treatment Arm - Dose Finding Phase",
+          "type": "EXPERIMENTAL",
+          "description": "Newly diagnosed MGMT Methylated and Unmethylated GBM: Dose Finding Phase is not applicable for newly diagnosed patients on the ADI-PEG 20 treatment arm.\n\nRecurrent GBM: Rolling 6 design. The first 6 patients will receive ADI-PEG 20 at 36 mg/m2 once a week in combination with lomustine 100 mg/m2 orally on day 1 of a 42-day cycle. 6 patients will receive this dose and be observed for 4 weeks. If there are two dose limiting toxicities (DLTs) reported, the dose will be de-escalated to 18 mg/m2 once a week. 6 patients will receive this dose and be observed for 4 weeks.",
+          "interventionNames": ["Biological: ADI-PEG 20"]
+        },
+        {
+          "label": "ADI-PEG 20 Treatment Arm - Enhanced Safety Management (ESM)",
+          "type": "EXPERIMENTAL",
+          "description": "Newly diagnosed MGMT Methylated and Unmethylated GBM: ESM is not applicable for newly diagnosed patients on the ADI-PEG 20 treatment arm.\n\nRecurrent GBM: Supplemental safety assessments including bi-weekly collection of adverse events, dose modification profile, hematology, serum chemistry and coagulation panels. ESM will continue until the Data Safety Monitoring Board (DSMB) suspends collection of additional data.",
+          "interventionNames": ["Biological: ADI-PEG 20"]
+        },
+        {
+          "label": "ADI-PEG 20 Treatment Arm",
+          "type": "EXPERIMENTAL",
+          "description": "Newly diagnosed MGMT Methylated and Unmethylated GBM: XRT 60 Gy over 6 weeks. Temozolomide (75 mg/m2 orally daily and ADI-PEG 20 (Dosage Form: Solution for intramuscular injection; Strength: 11.5 ± 1.0 mg/ml; Dose: 36 mg/m2) once a week. Rest period: 2-6 weeks from last day of radiation. ADI-PEG 20 dosing will continue during rest period. Maintenance period: The first cycle of temozolomide will be at 150 mg/m2 for days 1-5 of a 28-day cycle. Subsequent cycles will be at 200 mg/m2 for days 1-5 of a 28-day cycle. Temozolomide will be administered for up to 6 cycles in the maintenance phase in combination with ADI-PEG 20. After 6 cycles, ADI-PEG 20 only for up to 104 weeks of total treatment.\n\nRecurrent GBM: Lomustine 100 mg/m2 orally on day 1 of a 42-day cycle in combination with ADI-PEG 20 (Dosage Form: Solution for IM injection; Strength: 11.5 ± 1.0 mg/ml; Dose: As confirmed by dose finding phase, once a week. After 6 cycles, ADI-PEG 20 only for up to 104 weeks of total treatment.",
+          "interventionNames": ["Biological: ADI-PEG 20"]
+        },
+        {
+          "label": "AZD1390 Treatment Arm",
+          "type": "EXPERIMENTAL",
+          "description": "Newly Diagnosed MGMT Methylated and Unmethylated GBM: XRT 60 Gy for 6 weeks in combination with AZD1390 given on days of radiation followed by 14 days with daily AZD1390. Rest Period 2-4 weeks from the last day of AZD1390. The first cycle of temozolomide will be at 150 mg/m2 for days 1-5 of a 28-day cycle. Second and subsequent cycles of maintenance therapy will be at 200 mg/m2 for days 1-5 of a 28-day cycle, if there is no toxicity. Temozolomide will be administered for up to 6 cycles in the maintenance phase.",
+          "interventionNames": ["Drug: AZD1390"]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Temozolomide",
+          "description": "Dosage Form: Capsule for oral administration Strengths: 5 mg, 20 mg, 100 mg, 140 mg, 180 mg, or 250 mg",
+          "armGroupLabels": ["Control Arm"],
+          "otherNames": ["Temodar", "Temodal", "Temcad"]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lomustine",
+          "description": "Dosage Form: Capsule for oral administration Strength: 5 mg, 10 mg, 40 mg, and 100 mg",
+          "armGroupLabels": ["Control Arm"],
+          "otherNames": ["CCNU", "CeeNU", "Gleostine"]
+        },
+        {
+          "type": "DRUG",
+          "name": "Regorafenib",
+          "description": "Dosage Form: Tablet for oral administration Strength: 40 mg Standard Regimen: 160 mg orally (PO) every day (QD) for 3 weeks of every 4 week cycle (i.e., 3 weeks on, 1 week off)",
+          "armGroupLabels": ["Regorafenib Treatment Arm"],
+          "otherNames": ["Stivarga", "BAY 73-4506"]
+        },
+        {
+          "type": "RADIATION",
+          "name": "Radiation",
+          "description": "60 Gy",
+          "armGroupLabels": ["Control Arm"]
+        },
+        {
+          "type": "DRUG",
+          "name": "Paxalisib",
+          "description": "Dosage Form: Tablet for oral administration Strength: 15 mg Standard Regimen: 45 mg orally (PO) every day for 28 days for the first cycle. If tolerated, increase dose to 60 mg orally (PO) every day for 28 days for all subsequent cycles",
+          "armGroupLabels": ["Paxalisib Treatment Arm"],
+          "otherNames": ["GDC-0084"]
+        },
+        {
+          "type": "DRUG",
+          "name": "VAL-083",
+          "description": "Dosage Form: Infusion for intravenous administration Strength: 40 mg per vial Standard Regimen: 30 mg/m2 on Day 1, 2 and 3 of 21-day cycle. The drug is available in powder form. It is reconstituted with 5 mL of 0.9% Sodium Chloride for Injection, USP. This will produce a solution of 40 mg VAL-083 in 5 mL. The required volume of reconstituted VAL-083 for the patient is then calculated at the rate of 30 mg/m2. The corresponding volume is further diluted into 250 mL of 0.9% Sodium Chloride for Injection, USP, prior to intravenous administration.",
+          "armGroupLabels": ["VAL-083 Treatment Arm"],
+          "otherNames": ["Dianhydrogalactitol"]
+        },
+        {
+          "type": "DRUG",
+          "name": "VT1021",
+          "description": "Dosage Form: Infusion for intravenous administration Strength: 10 mg/mL Standard Regimen Newly Diagnosed: Dose as confirmed through the dose finding phase, administered twice weekly (Mon and Thurs or Tues and Fri or Mon and Fri).\n\nStandard Regimen Recurrent: 12 mg/kg administered twice weekly (Mon and Thurs or Tues and Fri or Mon and Fri). The drug is available as a sterile solution of the acetate salt formulated with phosphate-buffered saline, mannitol, and 2.5% polysorbate 80. The required volume stock solution for the patient is calculated. The corresponding volume is diluted in 500 mL of either 0.9% saline or D5W, prior to intravenous administration.",
+          "armGroupLabels": [
+            "VT1021 Treatment Arm",
+            "VT1021 Treatment Arm - Dose Finding Phase",
+            "VT1021 Treatment Arm - Enhanced Safety Management (ESM)"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Troriluzole",
+          "description": "Dosage Form: Capsule for oral administration Strength: 100 mg Standard Regimen: Dose as confirmed through the dose finding phase orally BID.",
+          "armGroupLabels": [
+            "Troriluzole Treatment Arm",
+            "Troriluzole Treatment Arm - Dose Finding Phase",
+            "Troriluzole Treatment Arm - Enhanced Safety Management (ESM)"
+          ],
+          "otherNames": ["BHV-4157"]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "ADI-PEG 20",
+          "description": "Dosage Form: Solution for intramuscular injection Strength: 11.5 ± 1.0 mg/ml Standard Regimen: For newly diagnosed patients, 36mg/m2. For recurrent disease patients, dose as confirmed through the dose finding phase intramuscularly once a week",
+          "armGroupLabels": [
+            "ADI-PEG 20 Treatment Arm",
+            "ADI-PEG 20 Treatment Arm - Dose Finding Phase",
+            "ADI-PEG 20 Treatment Arm - Enhanced Safety Management (ESM)"
+          ],
+          "otherNames": ["Pegargiminase"]
+        },
+        {
+          "type": "DRUG",
+          "name": "AZD1390",
+          "description": "Standard Regimen Newly Diagnosed: Given once daily on days of radiation and once daily for 14 consecutive days after completion of radiation.",
+          "armGroupLabels": ["AZD1390 Treatment Arm"]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Overall Survival (OS)",
+          "description": "Overall survival is defined from the time of randomization to death from any cause. Patients still alive at the time of an analysis will be considered censored at their date of last contact.",
+          "timeFrame": "From date of randomization until the date of death from any cause, or until 12 months following last patient randomization (approximately 2 years), whichever comes first."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Progression-free survival (PFS)",
+          "description": "Progression-free survival is defined as the time from randomization to clinically determined progression or death from any cause. All participants will be included in the analysis of PFS.",
+          "timeFrame": "From date of randomization to date of clinically determined progression or date of death from any cause, or until 12 months following last patient randomization (approximately 2 years), whichever comes first."
+        },
+        {
+          "measure": "Tumor Response",
+          "description": "Tumor response is categorized by Complete Response (CR), Partial Response (PR), Stable Disease (SD), and Progressive Disease (PD). Response captured from initiation of study treatment until disease progression.",
+          "timeFrame": "From initiation of study treatment to date of disease progression, or until 12 months following last patient randomization (approximately 2 years), whichever comes first."
+        },
+        {
+          "measure": "Duration of Response (CR + PR)",
+          "description": "Duration of response (CR+PR) is defined as time from date of response to date of clinically determined disease progression or death from any cause.",
+          "timeFrame": "From date of response to date of clinically determined disease progression or date of death from any cause, or until 12 months following last patient randomization (approximately 2 years), whichever comes first."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Newly Diagnosed Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Histologically confirmed Grade IV GBM, inclusive of gliosarcoma (WHO criteria; IDH wild-type by immunohistochemistry \\[IHC\\] or sequencing for IDH) established following either a surgical resection or biopsy. An MRI scan with the required imaging sequences performed within 21 days prior to randomization preferably. The post-operative MRI scan performed within 96 hours of surgery or the MRI scan performed for radiation therapy planning may serve as the MRI scan performed during screening if all required imaging sequences were obtained.\n* Karnofsky performance status ≥ 60% performed within a 14-day window prior to randomization.\n* Availability of tumor tissue representative of GBM from definitive surgery or biopsy.\n\nRecurrent Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Histologically confirmed Grade IV GBM, inclusive of gliosarcoma (WHO criteria; IDH wild-type by immunohistochemistry \\[IHC\\] or sequencing for IDH) at first or second recurrence after initial standard, control or experimental therapy that includes at a minimum radiation therapy (RT).\n* Evidence of recurrent disease demonstrated by disease progression using slightly modified Response Assessment in Neuro-Oncology (RANO) criteria.\n* Two scans to confirm progression are required: at least 1 scan at the time of progression and 1 scan prior to the time of progression.\n* Karnofsky performance status ≥ 70% performed within a 14-day window prior to randomization.\n* Availability of tumor tissue representative of GBM from initial definitive surgery and/or, recurrent surgery, if performed.\n\nNewly Diagnosed Exclusion Criteria:\n\n* Received any prior treatment for glioma including: a. Prior prolifeprospan 20 with carmustine wafer. b. Prior intracerebral, intratumoral, or cerebral spinal fluid (CSF) agent. c. Prior radiation treatment for GBM or lower-grade glioma. d. Prior chemotherapy or immunotherapy for GBM or lower-grade glioma. Receiving additional, concurrent, active therapy for GBM outside of the trial.\n* Extensive leptomeningeal disease.\n* QTc \\> 450 msec if male and QTc \\> 470 msec if female.\n* History of another malignancy in the previous 2 years, with a disease-free interval of \\< 2 years. Patients with prior history of in situ cancer or basal or squamous cell skin cancer are eligible.\n\nRecurrent Exclusion Criteria:\n\n* Early disease progression prior to 3 months (12 weeks) from the completion of RT.\n* More than 2 prior lines for chemotherapy administration. (NOTE: In the 1st line adjuvant setting, combination of temozolomide (TMZ) with an experimental agent, is considered one line of chemotherapy.)\n* Received any prior treatment with lomustine, agents part of any of the experimental arms, and bevacizumab or other vascular endothelial growth factor (VEGF) or VEGF receptor-mediated targeted agent.\n* Any prior treatment with prolifeprospan 20 with carmustine wafer.\n* Any prior treatment with an intracerebral agent.\n* Receiving additional, concurrent, active therapy for GBM outside of the trial\n* Extensive leptomeningeal disease.\n* QTc \\> 450 msec if male and QTc \\> 470 msec if female.\n* History of another malignancy in the previous 2 years, with a disease-free interval of \\< 2 years. Patients with prior history of in situ cancer or basal or squamous cell skin cancer are eligible.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": ["ADULT", "OLDER_ADULT"]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Patient Information",
+          "role": "CONTACT",
+          "phone": "310-598-3199",
+          "email": "patientinfo@gcaresearch.org"
+        },
+        {
+          "name": "Rachel Rosenstein-Sisson",
+          "role": "CONTACT",
+          "email": "RRosenstein.Sisson@GCAResearch.org"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Tim Cloughesy, MD",
+          "affiliation": "GCAR CMO and GBM AGILE Global PI",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alabama at Birmingham",
+          "status": "RECRUITING",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35249",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Shirley Gibbs",
+              "role": "CONTACT",
+              "phone": "(205) 975-0447",
+              "email": "sgibbs@uab.edu"
+            },
+            { "name": "Louis B Nabors, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.52066, "lon": -86.80249 }
+        },
+        {
+          "facility": "University of California, San Diego",
+          "status": "RECRUITING",
+          "city": "La Jolla",
+          "state": "California",
+          "zip": "92093",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Sheila Medina-Torne",
+              "role": "CONTACT",
+              "phone": "858-822-1847",
+              "email": "s4medina@health.ucsd.edu"
+            },
+            {
+              "name": "David Piccioni, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 32.84727, "lon": -117.2742 }
+        },
+        {
+          "facility": "Cedars Sinai - Samuel Oschin Comprehensive Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90048",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Anna Rosen",
+              "role": "CONTACT",
+              "phone": "310-248-7640",
+              "email": "anna.rosen@cshs.org"
+            },
+            { "name": "Jethro Hu, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+        },
+        {
+          "facility": "University of California, Los Angeles",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Emy Filka",
+              "role": "CONTACT",
+              "phone": "310-794-3521",
+              "email": "efilka@mednet.ucla.edu"
+            },
+            {
+              "name": "Phioanh Nghiemphu, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 34.05223, "lon": -118.24368 }
+        },
+        {
+          "facility": "St. Joseph Hospital",
+          "status": "RECRUITING",
+          "city": "Orange",
+          "state": "California",
+          "zip": "92868",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Christine Lichti",
+              "role": "CONTACT",
+              "phone": "714-714-6220",
+              "email": "Christine.lichti@stjoe.org"
+            },
+            { "name": "Lars Anker, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.78779, "lon": -117.85311 }
+        },
+        {
+          "facility": "University of California, San Francisco",
+          "status": "RECRUITING",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "UCSF Neuro Onc New Patient Coordinator",
+              "role": "CONTACT",
+              "phone": "(415) 353-2193",
+              "email": "NeuroOncNewPatientCoord@ucsf.edu"
+            },
+            {
+              "name": "Nicholas Butowski, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 37.77493, "lon": -122.41942 }
+        },
+        {
+          "facility": "Stanford Cancer Center",
+          "status": "COMPLETED",
+          "city": "Stanford",
+          "state": "California",
+          "zip": "94305",
+          "country": "United States",
+          "geoPoint": { "lat": 37.42411, "lon": -122.16608 }
+        },
+        {
+          "facility": "University of Colorado Denver",
+          "status": "RECRUITING",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Meaghan Greb, MPH",
+              "role": "CONTACT",
+              "phone": "303-724-9690",
+              "email": "meaghan.greb@cuanschutz.edu"
+            },
+            { "name": "Denise Damek, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.72943, "lon": -104.83192 }
+        },
+        {
+          "facility": "Yale Cancer Center / Smilow Cancer Hospital",
+          "status": "RECRUITING",
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06511",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Phyllis Nortey",
+              "role": "CONTACT",
+              "phone": "203-737-1881",
+              "email": "phyllis.nortey@yale.edu"
+            },
+            { "name": "Nicholas Blondin, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.30815, "lon": -72.92816 }
+        },
+        {
+          "facility": "Mayo Clinic Cancer Center",
+          "status": "COMPLETED",
+          "city": "Jacksonville",
+          "state": "Florida",
+          "zip": "32224",
+          "country": "United States",
+          "geoPoint": { "lat": 30.33218, "lon": -81.65565 }
+        },
+        {
+          "facility": "Sylvester Comprehensive Cancer Center",
+          "status": "RECRUITING",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Yaima de la Fuente",
+              "role": "CONTACT",
+              "phone": "305-243-5189",
+              "email": "Yaima.delaFuente@med.miami.edu"
+            },
+            {
+              "name": "Macarena I De La Fuente, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 25.77427, "lon": -80.19366 }
+        },
+        {
+          "facility": "Moffitt Cancer Center",
+          "status": "RECRUITING",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33612",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Sebastian Matzza",
+              "role": "CONTACT",
+              "phone": "813-745-1158",
+              "email": "sebastian.matzza@moffitt.org"
+            },
+            { "name": "Patrick Grogan, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 27.94752, "lon": -82.45843 }
+        },
+        {
+          "facility": "Piedmont Atlanta Hospital",
+          "status": "RECRUITING",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30309",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Ali Arabnia",
+              "role": "CONTACT",
+              "phone": "404-425-7943",
+              "email": "Ali.arabnia@piedmont.org"
+            },
+            {
+              "name": "Dionne Jean",
+              "role": "CONTACT",
+              "phone": "404-425-7927",
+              "email": "dionne.jean@Piedmont.org"
+            },
+            { "name": "Erin Dunbar, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+        },
+        {
+          "facility": "Winship Cancer Institute of Emory University",
+          "status": "COMPLETED",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322",
+          "country": "United States",
+          "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+        },
+        {
+          "facility": "LSU Health Sciences Center - New Orleans",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "zip": "70112",
+          "country": "United States",
+          "geoPoint": { "lat": 29.95465, "lon": -90.07507 }
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "status": "RECRUITING",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02114",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lauren Hibyan",
+              "role": "CONTACT",
+              "phone": "617-643-8992",
+              "email": "lmhibyan@partners.org"
+            },
+            {
+              "name": "Marie Aste",
+              "role": "CONTACT",
+              "phone": "617-724-2262",
+              "email": "maste@partners.org"
+            },
+            { "name": "Patrick Wen, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.35843, "lon": -71.05977 }
+        },
+        {
+          "facility": "Dana Farber Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jennifer Borowka",
+              "role": "CONTACT",
+              "phone": "617-632-2166",
+              "email": "Jennifer_Borowka@DFCI.HARVARD.EDU"
+            },
+            { "name": "Patrick Wen, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.35843, "lon": -71.05977 }
+        },
+        {
+          "facility": "Henry Ford Health System",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48202",
+          "country": "United States",
+          "geoPoint": { "lat": 42.33143, "lon": -83.04575 }
+        },
+        {
+          "facility": "Abbott Northwestern Hospital",
+          "status": "RECRUITING",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "zip": "55407",
+          "country": "United States",
+          "contacts": [
+            {
+              "role": "CONTACT",
+              "phone": "612-863-3452",
+              "email": "neurooncologyresearch@allina.com"
+            },
+            {
+              "name": "Andrea Wasilewski, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 44.97997, "lon": -93.26384 }
+        },
+        {
+          "facility": "Mayo Clinic Cancer Center - Rochester",
+          "status": "COMPLETED",
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States",
+          "geoPoint": { "lat": 44.02163, "lon": -92.4699 }
+        },
+        {
+          "facility": "University of Mississippi Medical Center",
+          "status": "COMPLETED",
+          "city": "Jackson",
+          "state": "Mississippi",
+          "zip": "39213",
+          "country": "United States",
+          "geoPoint": { "lat": 32.29876, "lon": -90.18481 }
+        },
+        {
+          "facility": "Washington University School of Medicine - Siteman Cancer Center",
+          "status": "COMPLETED",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": { "lat": 38.62727, "lon": -90.19789 }
+        },
+        {
+          "facility": "Perlmutter Cancer Center, NYU Langone Health",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10016",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Bronson/Rachel Krull/Kim",
+              "role": "CONTACT",
+              "phone": "212-731-6267",
+              "email": "#NeuroCCU@nyulangone.org"
+            },
+            { "name": "Erik Sulman, MD, PhD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Icahn School of Medicine at Mount Sinai",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10029",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Suzette Days-Mays",
+              "role": "CONTACT",
+              "phone": "646-531-4350",
+              "email": "suzette.dayes-mays@mountsinai.org"
+            },
+            { "name": "Lyndon Kim, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Columbia University Medical Center",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10032",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Denisse Torres",
+              "role": "CONTACT",
+              "phone": "212-304-6329",
+              "email": "dt2684@cumc.columbia.edu"
+            },
+            { "role": "CONTACT", "email": "dt2684@cumc.columbia.edu" },
+            { "name": "Andrew Lassman, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Cancer Center",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lindsey Myers",
+              "role": "CONTACT",
+              "phone": "917-453-2968",
+              "email": "MyersL1@mskcc.org"
+            },
+            { "name": "Ingo Mellinghoff, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.71427, "lon": -74.00597 }
+        },
+        {
+          "facility": "Duke University Medical Center",
+          "status": "RECRUITING",
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Erin K Bell",
+              "role": "CONTACT",
+              "phone": "919-668-6230",
+              "email": "erin.k.bell@duke.edu"
+            },
+            {
+              "name": "Katherine Peters, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 35.99403, "lon": -78.89862 }
+        },
+        {
+          "facility": "Comprehensive Cancer Center of Wake Forest",
+          "status": "RECRUITING",
+          "city": "Winston-Salem",
+          "state": "North Carolina",
+          "zip": "272157",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Ashley Fansler",
+              "role": "CONTACT",
+              "phone": "336-713-3551",
+              "email": "arcarroll@advocatehealth.org"
+            },
+            {
+              "name": "James Morgan",
+              "role": "CONTACT",
+              "phone": "336-712-4491",
+              "email": "jwmorgan@advocatehealth.org"
+            },
+            { "name": "Glenn Lesser, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 36.09986, "lon": -80.24422 }
+        },
+        {
+          "facility": "University Hospitals Cleveland Medical Center",
+          "status": "RECRUITING",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44106",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Melissa Brately",
+              "role": "CONTACT",
+              "email": "melissa.brately@UHhospitals.org"
+            },
+            {
+              "name": "Carmen Gray",
+              "role": "CONTACT",
+              "email": "carmen.gray@UHhospitals.org"
+            },
+            { "name": "Herbert Newton, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.4995, "lon": -81.69541 }
+        },
+        {
+          "facility": "Cleveland Clinic",
+          "status": "RECRUITING",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Herbert Newton, MD",
+              "role": "CONTACT",
+              "phone": "216-444-8923",
+              "email": "robinsk2@ccf.org"
+            },
+            { "name": "Mina Lobbous, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.4995, "lon": -81.69541 }
+        },
+        {
+          "facility": "Ohio State University Cancer Center",
+          "status": "RECRUITING",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43210",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Nasir Muhammad",
+              "role": "CONTACT",
+              "phone": "614-293-4448",
+              "email": "Muhammad.Nasir@osumc.edu"
+            },
+            { "name": "Pierre Giglio, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.96118, "lon": -82.99879 }
+        },
+        {
+          "facility": "University of Pennsylvania - Perelman Center for Advanced Medicine",
+          "status": "RECRUITING",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Emily McCoy",
+              "role": "CONTACT",
+              "phone": "609-741-0009",
+              "email": "Emily.Mccoy@Pennmedicine.upenn.edu"
+            },
+            { "name": "Arati Desai, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+        },
+        {
+          "facility": "Allegheny General Hospital",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15212",
+          "country": "United States",
+          "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+        },
+        {
+          "facility": "University of Pittsburgh Medical Center - Hillman Cancer Center",
+          "status": "RECRUITING",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15232",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Tyler Boyce",
+              "role": "CONTACT",
+              "phone": "(412) 623-3962",
+              "email": "boycet@upmc.edu"
+            },
+            { "name": "Jan Drappatz, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.44062, "lon": -79.99589 }
+        },
+        {
+          "facility": "Medical University of South Carolina - Hollings Cancer Center",
+          "status": "RECRUITING",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29425",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jennifer Kinsey",
+              "role": "CONTACT",
+              "phone": "843-792-1484",
+              "email": "kinsejen@musc.edu"
+            },
+            { "name": "Scott Lindhorst, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.77632, "lon": -79.93275 }
+        },
+        {
+          "facility": "Texas Oncology - Austin",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Austin",
+          "state": "Texas",
+          "zip": "78705",
+          "country": "United States",
+          "geoPoint": { "lat": 30.26715, "lon": -97.74306 }
+        },
+        {
+          "facility": "University of Texas Southwestern Medical Center",
+          "status": "RECRUITING",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75390",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Tammy Ricklefs",
+              "role": "CONTACT",
+              "phone": "(214) 645-1853",
+              "email": "tammy.ricklefs@utsouthwestern.edu"
+            },
+            { "name": "Michael Youssef, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.78306, "lon": -96.80667 }
+        },
+        {
+          "facility": "University of Texas - MD Anderson Cancer Center",
+          "status": "RECRUITING",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Evguenia Gachimova, RN",
+              "role": "CONTACT",
+              "phone": "(832)266-3519",
+              "email": "EGachimova@mdanderson.org"
+            },
+            {
+              "name": "Shiao-Pei Weathers, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 29.76328, "lon": -95.36327 }
+        },
+        {
+          "facility": "University of Utah - Huntsman Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "zip": "84112",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Rachel Kingsford",
+              "role": "CONTACT",
+              "phone": "801-585-0550",
+              "email": "rachel.kingsford@hci.utah.edu"
+            },
+            {
+              "name": "Yuri Kida",
+              "role": "CONTACT",
+              "phone": "801-646-4397",
+              "email": "yuri.kida@hci.utah.edu"
+            },
+            {
+              "name": "Howard Colman, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 40.76078, "lon": -111.89105 }
+        },
+        {
+          "facility": "University of Virginia Health",
+          "status": "RECRUITING",
+          "city": "Charlottesville",
+          "state": "Virginia",
+          "zip": "22908",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "CJ Woodburn",
+              "role": "CONTACT",
+              "phone": "434-243-9900",
+              "email": "cjw4v@virginia.edu"
+            },
+            { "name": "David Schiff, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 38.02931, "lon": -78.47668 }
+        },
+        {
+          "facility": "University of Washington Medical Center",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98101",
+          "country": "United States",
+          "geoPoint": { "lat": 47.60621, "lon": -122.33207 }
+        },
+        {
+          "facility": "Froedtert Hospital/Medical College of Wisconsin",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Milwaukee",
+          "state": "Wisconsin",
+          "zip": "53226",
+          "country": "United States",
+          "geoPoint": { "lat": 43.0389, "lon": -87.90647 }
+        },
+        {
+          "facility": "Northern Sydney Cancer Centre/Royal North Shore Hospital",
+          "status": "RECRUITING",
+          "city": "St Leonards",
+          "state": "New South Wales",
+          "zip": "2065",
+          "country": "Australia",
+          "contacts": [
+            {
+              "name": "Daisy Yu",
+              "role": "CONTACT",
+              "phone": "(02) 9463 1217",
+              "email": "wenqiong.yu@health.nsw.gov.au"
+            },
+            { "name": "Helen Wheeler, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": -33.82344, "lon": 151.19836 }
+        },
+        {
+          "facility": "Calvary Mater Newcastle",
+          "status": "RECRUITING",
+          "city": "Waratah",
+          "state": "New South Wales",
+          "zip": "2298",
+          "country": "Australia",
+          "contacts": [
+            {
+              "name": "Kim Adler",
+              "role": "CONTACT",
+              "phone": "+61 (0)2 40143282",
+              "email": "kim.adler@calvarymater.org.au"
+            },
+            { "name": "James Lynam, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": -32.90667, "lon": 151.72647 }
+        },
+        {
+          "facility": "Royal Brisbane and Women's Hospital",
+          "status": "RECRUITING",
+          "city": "Herston",
+          "state": "Queensland",
+          "zip": "4029",
+          "country": "Australia",
+          "contacts": [
+            {
+              "name": "Jade Allan",
+              "role": "CONTACT",
+              "phone": "+61 7 3647 0782",
+              "email": "jade.allan@health.qld.gov.au"
+            },
+            { "name": "Zarnie Lwin, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": -27.44453, "lon": 153.01852 }
+        },
+        {
+          "facility": "Flinders Medical Centre",
+          "status": "RECRUITING",
+          "city": "Bedford Park",
+          "state": "South Australia",
+          "zip": "5042",
+          "country": "Australia",
+          "contacts": [
+            {
+              "name": "Monique Swan",
+              "role": "CONTACT",
+              "phone": "(08) 8404 2702",
+              "email": "Health.FMCCancerResearchNurse@sa.gov.au"
+            },
+            {
+              "name": "Ganessan Kichenadasse, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": -35.02204, "lon": 138.56815 }
+        },
+        {
+          "facility": "Austin Health",
+          "status": "RECRUITING",
+          "city": "Heidelberg",
+          "state": "Victoria",
+          "zip": "3084",
+          "country": "Australia",
+          "contacts": [
+            {
+              "name": "Samantha Chakar",
+              "role": "CONTACT",
+              "phone": "(03) 9496 3088",
+              "email": "samantha.chakar@austin.org.au"
+            },
+            {
+              "name": "Hui Gan, MBBS, FRACP, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": -37.75, "lon": 145.06667 }
+        },
+        {
+          "facility": "Peter MacCallum Cancer Centre",
+          "status": "RECRUITING",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "contacts": [
+            {
+              "name": "Richelle Linklater",
+              "role": "CONTACT",
+              "email": "Richelle.Linklater@petermac.org"
+            },
+            {
+              "name": "Mark Rosenthal, Prof.",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            { "name": "Jim Whittle, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": -37.814, "lon": 144.96332 }
+        },
+        {
+          "facility": "Sunnybrook Health Sciences Centre",
+          "status": "RECRUITING",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M4N 3M5",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Delareese Mackenzie",
+              "role": "CONTACT",
+              "phone": "416-480-5000",
+              "phoneExt": "7362",
+              "email": "delareese.mackenzie@sunnybrook.ca"
+            },
+            {
+              "name": "James Perry, MD, FRCPC",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+        },
+        {
+          "facility": "Princess Margaret Cancer Centre",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 2C1",
+          "country": "Canada",
+          "geoPoint": { "lat": 43.70643, "lon": -79.39864 }
+        },
+        {
+          "facility": "Montreal Neurological Institute and Hospital, McGill University",
+          "status": "RECRUITING",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H3A 2B4",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Gabriele Riva",
+              "role": "CONTACT",
+              "phone": "514-398-6907",
+              "email": "gabriele.riva@mcgill.ca"
+            },
+            { "name": "Scott Owen, MD", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.50884, "lon": -73.58781 }
+        },
+        {
+          "facility": "Université de Sherbrooke",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Sherbrooke",
+          "state": "Quebec",
+          "zip": "J1H 5H3",
+          "country": "Canada",
+          "geoPoint": { "lat": 45.40008, "lon": -71.89908 }
+        },
+        {
+          "facility": "Centre Hospitalier Lyon Sud / Hôpital Neurologique P. Wertheimer",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Bron",
+          "zip": "69677",
+          "country": "France",
+          "geoPoint": { "lat": 45.73865, "lon": 4.91303 }
+        },
+        {
+          "facility": "Hopital de la Timone",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Marseille",
+          "zip": "13005",
+          "country": "France",
+          "geoPoint": { "lat": 43.29695, "lon": 5.38107 }
+        },
+        {
+          "facility": "Hopital Piti-Salpetriere",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Paris",
+          "zip": "75013",
+          "country": "France",
+          "geoPoint": { "lat": 48.85341, "lon": 2.3488 }
+        },
+        {
+          "facility": "Uniklinik Koeln - Zentrum fuer Neurologie und Psychiatrie",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Cologne",
+          "zip": "50937",
+          "country": "Germany",
+          "geoPoint": { "lat": 50.93333, "lon": 6.95 }
+        },
+        {
+          "facility": "Dr. Senckenbergisches Institut für Neuroonkologie",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Frankfurt",
+          "zip": "60528",
+          "country": "Germany",
+          "geoPoint": { "lat": 49.68333, "lon": 10.53333 }
+        },
+        {
+          "facility": "Universitätsklinik Heidelberg",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Heidelberg",
+          "zip": "69120",
+          "country": "Germany",
+          "geoPoint": { "lat": 49.40768, "lon": 8.69079 }
+        },
+        {
+          "facility": "Universitätsklinikum Regensburg",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Regensburg",
+          "zip": "93053",
+          "country": "Germany",
+          "geoPoint": { "lat": 49.01513, "lon": 12.10161 }
+        },
+        {
+          "facility": "Universitätsklinikum Tübingen",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Tübingen",
+          "zip": "72076",
+          "country": "Germany",
+          "geoPoint": { "lat": 48.52266, "lon": 9.05222 }
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire Vaudois Lausanne",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Lausanne",
+          "state": "Canton of Vaud",
+          "zip": "1011",
+          "country": "Switzerland",
+          "geoPoint": { "lat": 46.516, "lon": 6.63282 }
+        },
+        {
+          "facility": "University Hospital Zurich",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Zurich",
+          "country": "Switzerland",
+          "geoPoint": { "lat": 47.36667, "lon": 8.55 }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38773224",
+          "type": "DERIVED",
+          "citation": "Chen JJ, Vincent MY, Shepard D, Peereboom D, Mahalingam D, Battiste J, Patel MR, Juric D, Wen PY, Bullock A, Selfridge JE, Pant S, Liu J, Li W, Fyfe S, Wang S, Zota V, Mahoney J, Watnick RS, Cieslewicz M, Watnick J. Phase 1 dose expansion and biomarker study assessing first-in-class tumor microenvironment modulator VT1021 in patients with advanced solid tumors. Commun Med (Lond). 2024 May 21;4(1):95. doi: 10.1038/s43856-024-00520-z."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Global Coalition for Adaptive Research Website",
+          "url": "http://gcaresearch.org"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED",
+      "description": "Global Coalition for Adaptive Research (GCAR) is in the planning stages at this time."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": { "versionHolder": "2025-11-04" },
+    "conditionBrowseModule": {
+      "meshes": [
+        { "id": "D005909", "term": "Glioblastoma" },
+        { "id": "D012008", "term": "Recurrence" }
+      ],
+      "ancestors": [
+        { "id": "D001254", "term": "Astrocytoma" },
+        { "id": "D005910", "term": "Glioma" },
+        { "id": "D018302", "term": "Neoplasms, Neuroepithelial" },
+        { "id": "D017599", "term": "Neuroectodermal Tumors" },
+        { "id": "D009373", "term": "Neoplasms, Germ Cell and Embryonal" },
+        { "id": "D009370", "term": "Neoplasms by Histologic Type" },
+        { "id": "D009369", "term": "Neoplasms" },
+        { "id": "D009375", "term": "Neoplasms, Glandular and Epithelial" },
+        { "id": "D009380", "term": "Neoplasms, Nerve Tissue" },
+        { "id": "D020969", "term": "Disease Attributes" },
+        { "id": "D010335", "term": "Pathologic Processes" },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        { "id": "D000077204", "term": "Temozolomide" },
+        { "id": "D008130", "term": "Lomustine" },
+        { "id": "C559147", "term": "regorafenib" },
+        { "id": "D011827", "term": "Radiation" },
+        { "id": "C000630586", "term": "GDC-0084" },
+        { "id": "D003961", "term": "Dianhydrogalactitol" },
+        { "id": "C512527", "term": "ADI PEG20" },
+        { "id": "C000729307", "term": "AZD1390" }
+      ],
+      "ancestors": [
+        { "id": "D003606", "term": "Dacarbazine" },
+        { "id": "D014226", "term": "Triazenes" },
+        { "id": "D009930", "term": "Organic Chemicals" },
+        { "id": "D007093", "term": "Imidazoles" },
+        { "id": "D001393", "term": "Azoles" },
+        { "id": "D006573", "term": "Heterocyclic Compounds, 1-Ring" },
+        { "id": "D006571", "term": "Heterocyclic Compounds" },
+        { "id": "D009607", "term": "Nitrosourea Compounds" },
+        { "id": "D014508", "term": "Urea" },
+        { "id": "D000577", "term": "Amides" },
+        { "id": "D009603", "term": "Nitroso Compounds" },
+        { "id": "D055585", "term": "Physical Phenomena" },
+        { "id": "D004376", "term": "Galactitol" },
+        { "id": "D013402", "term": "Sugar Alcohols" },
+        { "id": "D000438", "term": "Alcohols" },
+        { "id": "D002241", "term": "Carbohydrates" }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "base_cancer": "Oral Cavity Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "High-Risk, Post-Resection, Extracapsular Nodal Extension, Positive Margins, Stage III, Stage IV",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Oropharyngeal Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "p16-Negative",
+    "clinical_state_descriptors": "High-Risk, Post-Resection, Extracapsular Nodal Extension, Positive Margins, Stage III, Stage IV",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Laryngeal Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "High-Risk, Post-Resection, Extracapsular Nodal Extension, Positive Margins, Stage III, Stage IV",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Hypopharyngeal Cancer",
+    "subtype_histology": "Squamous Cell Carcinoma",
+    "biomarkers": "N/A",
+    "clinical_state_descriptors": "High-Risk, Post-Resection, Extracapsular Nodal Extension, Positive Margins, Stage III, Stage IV",
+    "stage_category": "Non-Metastatic"
+  }
+]

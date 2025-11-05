@@ -1,0 +1,1452 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05721755",
+      "orgStudyIdInfo": { "id": "EA3211" },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2022-10141",
+          "type": "REGISTRY",
+          "domain": "CTRP (Clinical Trial Reporting Program)"
+        },
+        {
+          "id": "EA3211",
+          "type": "OTHER",
+          "domain": "ECOG-ACRIN Cancer Research Group"
+        },
+        { "id": "EA3211", "type": "OTHER", "domain": "CTEP" },
+        {
+          "id": "U10CA180820",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/U10CA180820"
+        }
+      ],
+      "organization": {
+        "fullName": "Eastern Cooperative Oncology Group",
+        "class": "NETWORK"
+      },
+      "briefTitle": "Combining Radiation Therapy With Immunotherapy for the Treatment of Metastatic Squamous Cell Carcinoma of the Head and Neck",
+      "officialTitle": "Phase III Randomized Trial of Immunotherapy With or Without Consolidative Radiotherapy for Oligometastatic Head and Neck Squamous Cell Carcinoma"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": { "hasExpandedAccess": false },
+      "startDateStruct": { "date": "2023-06-08", "type": "ACTUAL" },
+      "primaryCompletionDateStruct": {
+        "date": "2029-03-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": { "date": "2030-03-31", "type": "ESTIMATED" },
+      "studyFirstSubmitDate": "2023-01-18",
+      "studyFirstSubmitQcDate": "2023-01-31",
+      "studyFirstPostDateStruct": { "date": "2023-02-10", "type": "ACTUAL" },
+      "lastUpdateSubmitDate": "2025-10-15",
+      "lastUpdatePostDateStruct": { "date": "2025-10-17", "type": "ESTIMATED" }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": { "type": "SPONSOR" },
+      "leadSponsor": {
+        "name": "ECOG-ACRIN Cancer Research Group",
+        "class": "NETWORK"
+      },
+      "collaborators": [
+        { "name": "National Cancer Institute (NCI)", "class": "NIH" }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This phase III trial compares pembrolizumab with radiation therapy to pembrolizumab without radiation therapy (standard therapy) given after pembrolizumab plus chemotherapy for the treatment of patients with squamous cell carcinoma of the head and neck that has spread from where it first started (primary site) to other places in the body (metastatic). Pembrolizumab is a type of immunotherapy that stimulates the body's immune system to fight cancer cells. Pembrolizumab targets and blocks a protein called PD-1 on the surface of certain immune cells called T-cells. Blocking PD-1 triggers the T-cells to find and kill cancer cells. Radiation therapy uses high-powered rays to kill cancer cells. Giving radiation with pembrolizumab may be more effective at treating patients with metastatic head and neck cancer than the standard therapy of giving pembrolizumab alone.",
+      "detailedDescription": "PRIMARY OBJECTIVE:\n\nI. To compare overall survival (OS) between immunotherapy plus consolidative radiotherapy (CoRT) and immunotherapy alone following non-progression with systemic chemoimmunotherapy.\n\nSECONDARY OBJECTIVES:\n\nI. To compare progression-free survival (PFS) between the two arms. II. To compare time-to-treatment failure (TTF) between the two arms. III. To determine the risk of non-hematologic high-grade (3 or higher) toxicity with the addition of CoRT.\n\nIV. To establish the prognostic value of quantitative positron emission tomography (PET) biomarkers at baseline (standardized uptake value maximum \\[SUVmax\\], metabolic tumor volume \\[MTV\\], total lesion glycolysis \\[TLG\\]) for overall survival in both arms.\n\nV. To establish the predictive value of (a) structured qualitative read (Hopkins Criteria) and (b) quantitative analysis for assessment of the post-radiotherapy or chemotherapy restaging PET/computed tomography (CT) to evaluate its association with overall survival in both arms.\n\nHEALTH-RELATED QUALITY-OF-LIFE (HRQL) OBJECTIVES:\n\nI. To compare the time-to-definitive-deterioration (TTDD) between the two arms. (PRIMARY) II. To compare the mean early change in the Functional Assessment of Cancer Therapy - Head \\& Neck (FACT-HN) trial outcome index (TOI) between the arms, defined as the difference between the cycle 7 time point and randomization. (SECONDARY) III. To compare the time-to-deterioration (TTD) between the arms (first deterioration). (SECONDARY) IV. To compare the nadir of the Functional Assessment of Cancer Therapy-Immune Checkpoint Modulator (FACT-ICM) score over the course of study participation between the arms. (EXPLORATORY) V. To compare quality-adjusted survival between the arms. (EXPLORATORY)\n\nEXPLORATORY OBJECTIVES:\n\nI. To identify differences in patterns-of-failure with respect to local regional and distant recurrences following CoRT versus immunotherapy alone.\n\nII. To evaluate the risk of tracheostomy and/or gastrostomy in patients treated with CoRT versus immunotherapy alone.\n\nOUTLINE:\n\nSTEP 1: Patients who have not completed initial systemic therapy prior to enrollment are assigned to Arm T and patients who have completed initial systemic therapy prior to enrollment are assigned to Arm S.\n\nARM T: Patients receive pembrolizumab intravenously (IV) with carboplatin IV and paclitaxel IV, or with cisplatin IV and fluorouracil IV, or with carboplatin IV and fluorouracil IV on study.\n\nARM S: Patients proceed directly to Step II.\n\nSTEP II: Patients are randomized to 1 of 2 arms.\n\nARM A: Patients receive one cycle of pembrolizumab IV with carboplatin IV and paclitaxel IV, or with cisplatin IV and fluorouracil IV, or with carboplatin IV, and fluorouracil IV on study and then receive pembrolizumab IV with radiation therapy on study. Patients also undergo CT, PET/CT, and/or magnetic resonance imaging (MRI) throughout the trial.\n\nARM B: Patients receive one cycle of pembrolizumab IV with carboplatin IV and paclitaxel IV, or with cisplatin IV and fluorouracil IV, or with carboplatin IV, and fluorouracil IV on study and then receive pembrolizumab IV monotherapy on study. Patients also undergo CT, PET/CT, and/or MRI throughout the trial."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Clinical Stage IV HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8",
+        "Metastatic Head and Neck Squamous Cell Carcinoma",
+        "Metastatic Hypopharyngeal Squamous Cell Carcinoma",
+        "Metastatic Laryngeal Squamous Cell Carcinoma",
+        "Metastatic Oral Cavity Squamous Cell Carcinoma",
+        "Metastatic Oropharyngeal Squamous Cell Carcinoma",
+        "Stage IV Cutaneous Squamous Cell Carcinoma of the Head and Neck AJCC v8",
+        "Stage IV Hypopharyngeal Carcinoma AJCC v8",
+        "Stage IV Laryngeal Cancer AJCC v8",
+        "Stage IV Lip and Oral Cavity Cancer AJCC v8",
+        "Stage IV Oropharyngeal (p16-Negative) Carcinoma AJCC v8"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": ["PHASE3"],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": { "masking": "NONE" }
+      },
+      "enrollmentInfo": { "count": 290, "type": "ESTIMATED" }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Arm A (pembrolizumab and radiation)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients receive one cycle of pembrolizumab IV with carboplatin IV and paclitaxel IV, or with cisplatin IV and fluorouracil IV, or with carboplatin IV, and fluorouracil IV on study and then receive pembrolizumab IV with radiation therapy on study. Patients also undergo CT, PET/CT, and/or MRI throughout the trial.",
+          "interventionNames": [
+            "Drug: Carboplatin",
+            "Drug: Cisplatin",
+            "Procedure: Computed Tomography",
+            "Drug: Fluorouracil",
+            "Procedure: Magnetic Resonance Imaging",
+            "Drug: Paclitaxel",
+            "Biological: Pembrolizumab",
+            "Procedure: Positron Emission Tomography",
+            "Other: Quality-of-Life Assessment",
+            "Radiation: Radiation Therapy"
+          ]
+        },
+        {
+          "label": "Arm B (pembrolizumab monotherapy)",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Patients receive one cycle of pembrolizumab IV with carboplatin IV and paclitaxel IV, or with cisplatin IV and fluorouracil IV, or with carboplatin IV, and fluorouracil IV on study and then receive pembrolizumab IV monotherapy on study. Patients also undergo CT, PET/CT, and/or MRI throughout the trial.",
+          "interventionNames": [
+            "Drug: Carboplatin",
+            "Drug: Cisplatin",
+            "Procedure: Computed Tomography",
+            "Drug: Fluorouracil",
+            "Procedure: Magnetic Resonance Imaging",
+            "Drug: Paclitaxel",
+            "Biological: Pembrolizumab",
+            "Procedure: Positron Emission Tomography",
+            "Other: Quality-of-Life Assessment"
+          ]
+        },
+        {
+          "label": "Arm S (no intervention)",
+          "type": "NO_INTERVENTION",
+          "description": "Patients proceed directly to Step II."
+        },
+        {
+          "label": "Arm T (pembrolizumab, chemotherapy)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients receive pembrolizumab IV with carboplatin IV and paclitaxel IV, or with cisplatin IV and fluorouracil IV, or with carboplatin IV and fluorouracil IV on study.",
+          "interventionNames": [
+            "Drug: Carboplatin",
+            "Drug: Cisplatin",
+            "Drug: Fluorouracil",
+            "Drug: Paclitaxel",
+            "Biological: Pembrolizumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Carboplatin",
+          "description": "Given IV",
+          "armGroupLabels": [
+            "Arm A (pembrolizumab and radiation)",
+            "Arm B (pembrolizumab monotherapy)",
+            "Arm T (pembrolizumab, chemotherapy)"
+          ],
+          "otherNames": [
+            "Blastocarb",
+            "Carboplat",
+            "Carboplatin Hexal",
+            "Carboplatino",
+            "Carboplatinum",
+            "Carbosin",
+            "Carbosol",
+            "Carbotec",
+            "CBDCA",
+            "Displata",
+            "Ercar",
+            "JM-8",
+            "Nealorin",
+            "Novoplatinum",
+            "Paraplatin",
+            "Paraplatin AQ",
+            "Paraplatine",
+            "Platinwas",
+            "Ribocarbo"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Cisplatin",
+          "description": "Given IV",
+          "armGroupLabels": [
+            "Arm A (pembrolizumab and radiation)",
+            "Arm B (pembrolizumab monotherapy)",
+            "Arm T (pembrolizumab, chemotherapy)"
+          ],
+          "otherNames": [
+            "Abiplatin",
+            "Blastolem",
+            "Briplatin",
+            "CDDP",
+            "Cis-diammine-dichloroplatinum",
+            "Cis-diamminedichloridoplatinum",
+            "Cis-diamminedichloro Platinum (II)",
+            "Cis-diamminedichloroplatinum",
+            "Cis-dichloroammine Platinum (II)",
+            "Cis-platinous Diamine Dichloride",
+            "Cis-platinum",
+            "Cis-platinum II",
+            "Cis-platinum II Diamine Dichloride",
+            "Cismaplat",
+            "Cisplatina",
+            "Cisplatinum",
+            "Cisplatyl",
+            "Citoplatino",
+            "Citosin",
+            "Cysplatyna",
+            "DDP",
+            "Lederplatin",
+            "Metaplatin",
+            "Neoplatin",
+            "Peyrone's Chloride",
+            "Peyrone's Salt",
+            "Placis",
+            "Plastistil",
+            "Platamine",
+            "Platiblastin",
+            "Platiblastin-S",
+            "Platinex",
+            "Platinol",
+            "Platinol- AQ",
+            "Platinol-AQ",
+            "Platinol-AQ VHA Plus",
+            "Platinoxan",
+            "Platinum",
+            "Platinum Diamminodichloride",
+            "Platiran",
+            "Platistin",
+            "Platosin"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Computed Tomography",
+          "description": "Undergo CT and/or PET/CT",
+          "armGroupLabels": [
+            "Arm A (pembrolizumab and radiation)",
+            "Arm B (pembrolizumab monotherapy)"
+          ],
+          "otherNames": [
+            "CAT",
+            "CAT Scan",
+            "Computed Axial Tomography",
+            "Computerized Axial Tomography",
+            "Computerized Tomography",
+            "CT",
+            "CT Scan",
+            "tomography"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Fluorouracil",
+          "description": "Given IV",
+          "armGroupLabels": [
+            "Arm A (pembrolizumab and radiation)",
+            "Arm B (pembrolizumab monotherapy)",
+            "Arm T (pembrolizumab, chemotherapy)"
+          ],
+          "otherNames": [
+            "5 Fluorouracil",
+            "5 Fluorouracilum",
+            "5 FU",
+            "5-Fluoro-2,4(1H, 3H)-pyrimidinedione",
+            "5-Fluorouracil",
+            "5-Fluracil",
+            "5-Fu",
+            "5FU",
+            "AccuSite",
+            "Carac",
+            "Fluoro Uracil",
+            "Fluouracil",
+            "Flurablastin",
+            "Fluracedyl",
+            "Fluracil",
+            "Fluril",
+            "Fluroblastin",
+            "Ribofluor",
+            "Ro 2-9757",
+            "Ro-2-9757"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Magnetic Resonance Imaging",
+          "description": "Undergo MRI",
+          "armGroupLabels": [
+            "Arm A (pembrolizumab and radiation)",
+            "Arm B (pembrolizumab monotherapy)"
+          ],
+          "otherNames": [
+            "Magnetic Resonance",
+            "Magnetic Resonance Imaging Scan",
+            "Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance",
+            "MR",
+            "MR Imaging",
+            "MRI",
+            "MRI Scan",
+            "NMR Imaging",
+            "NMRI",
+            "Nuclear Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Paclitaxel",
+          "description": "Given IV",
+          "armGroupLabels": [
+            "Arm A (pembrolizumab and radiation)",
+            "Arm B (pembrolizumab monotherapy)",
+            "Arm T (pembrolizumab, chemotherapy)"
+          ],
+          "otherNames": [
+            "Anzatax",
+            "Asotax",
+            "Bristaxol",
+            "Praxel",
+            "Taxol",
+            "Taxol Konzentrat"
+          ]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Pembrolizumab",
+          "description": "Given IV",
+          "armGroupLabels": [
+            "Arm A (pembrolizumab and radiation)",
+            "Arm B (pembrolizumab monotherapy)",
+            "Arm T (pembrolizumab, chemotherapy)"
+          ],
+          "otherNames": ["Keytruda", "Lambrolizumab", "MK-3475", "SCH 900475"]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Positron Emission Tomography",
+          "description": "Undergo PET/CT",
+          "armGroupLabels": [
+            "Arm A (pembrolizumab and radiation)",
+            "Arm B (pembrolizumab monotherapy)"
+          ],
+          "otherNames": [
+            "Medical Imaging, Positron Emission Tomography",
+            "PET",
+            "PET Scan",
+            "Positron Emission Tomography Scan",
+            "Positron-Emission Tomography",
+            "proton magnetic resonance spectroscopic imaging",
+            "PT"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Quality-of-Life Assessment",
+          "description": "Ancillary studies",
+          "armGroupLabels": [
+            "Arm A (pembrolizumab and radiation)",
+            "Arm B (pembrolizumab monotherapy)"
+          ],
+          "otherNames": ["Quality of Life Assessment"]
+        },
+        {
+          "type": "RADIATION",
+          "name": "Radiation Therapy",
+          "description": "Undergo radiation therapy",
+          "armGroupLabels": ["Arm A (pembrolizumab and radiation)"],
+          "otherNames": [
+            "Cancer Radiotherapy",
+            "ENERGY_TYPE",
+            "Irradiate",
+            "Irradiated",
+            "Irradiation",
+            "Radiation",
+            "Radiation Therapy, NOS",
+            "Radiotherapeutics",
+            "Radiotherapy",
+            "RT",
+            "Therapy, Radiation"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Overall survival",
+          "timeFrame": "Time from step 2 randomization to death from any cause, assessed up to 3 years"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Progression-free survival",
+          "description": "Progression will be evaluated based on international criteria proposed by the revised Response Evaluation Criteria in Solid Tumors guideline.",
+          "timeFrame": "Time from step 2 randomization to disease progression or death, assessed up to 3 years"
+        },
+        {
+          "measure": "Time to treatment failure",
+          "timeFrame": "Time from step 2 randomization to the cessation of immunotherapy due to progression, treatment-related toxicity, or death, assessed up to 3 years"
+        },
+        {
+          "measure": "Incidence of adverse events (AE)",
+          "description": "Patients will be monitored for adverse events using the National Cancer Institute's (NCI) Common Terminology Criteria for Adverse Events (CTCAE). All treatment-emergent and baseline adverse events and hematological/biochemical toxicities based on laboratory measurements, as well as drug related AE's, will be summarized by treatment arm and NCI CTCAE worst grade for step 1 and step 2. Non-hematologic AEs of grade 3 or higher will be assessed by treatment arm.",
+          "timeFrame": "Up to 3 years"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Patterns-of-failure with respect to local, regional and distant recurrences",
+          "description": "Local, regional and distant recurrences will be assessed and compared between the two arms.",
+          "timeFrame": "Up to 3 years"
+        },
+        {
+          "measure": "Incidence of tracheostomy and/or gastrostomy",
+          "description": "Will be assessed and compared between the arms.",
+          "timeFrame": "At any point during treatment, assessed up to 3 years"
+        },
+        {
+          "measure": "Time-to-definitive-deterioration",
+          "description": "Defined by the time point at which the Functional Assessment of Cancer Therapy-Head \\& Neck (FACT-HN) trial outcome index (TOI) score is lower than the baseline score by at least 6 points, without a subsequent 6 point increase.",
+          "timeFrame": "At 60 weeks post-baseline"
+        },
+        {
+          "measure": "Early change in the FACT-HN TOI",
+          "description": "Defined as the difference between the mean FACT-HN TOI at 21 weeks after randomization versus the baseline score at randomization.",
+          "timeFrame": "From randomization up to 21 weeks of treatment"
+        },
+        {
+          "measure": "Time-to-deterioration (first)",
+          "description": "Defined by the time point at which the FACT-HN TOI score is lower than the baseline score by at least 6 points.",
+          "timeFrame": "Up to 3 years"
+        },
+        {
+          "measure": "Nadir of the Functional Assessment of Cancer Therapy-Immune Checkpoint Modulator score",
+          "description": "Defined as the lowest score on the immune checkpoint modulator subscale.",
+          "timeFrame": "At week 0 after baseline assessments of Step 2 randomization"
+        },
+        {
+          "measure": "Quality-adjusted survival",
+          "description": "Defined by the summation of the average utility score for a given time interval multiplied by that time interval. The average utility score for a time interval is defined by the utility value at the beginning of the interval plus the utility value of the end of the interval divided by two.",
+          "timeFrame": "From randomization until death, assessed up to 3 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* STEP 1 REGISTRATION:\n* Patient must be \\>= 18 years of age\n* Patient must have biopsy-proven metastatic squamous cell carcinoma, originating in the oral cavity, larynx, oropharynx, or hypopharynx, with active disease present in both the head and neck and distant sites\n\n  * NOTE: The tumor from an oropharynx primary site must have known p16 status; p16 positive cancer of unknown primary is allowed as well, provided the disease presentation in consistent with a head and neck primary\n* Patient can have prior surgical resection of a primary cancer in the head and neck at any previous time, however, residual/recurrent disease in the head and neck must be present on baseline imaging\n* Any effects from prior cancer therapy for other diseases must be fully resolved and not pose a problem for giving the treatment on this trial\n* Patient must have 4 or fewer metastatic sites prior to starting any treatment, with thoracic nodal disease considered a single site if encompassable in a tolerable radiotherapy hypofractionated field (i.e.,15 fractions or less)\n\n  * NOTE: Contiguous/adjacent metastases treatable in a single stereotactic field may be considered a single site\n  * NOTE: Patients with additional indeterminate findings such that the total number of metastatic sites would be more than 4 may be enrolled if a non-malignant etiology to these findings is a reasonable consideration\n* Patient must have Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Patient must have the ability to understand and the willingness to sign a written informed consent document. Patients with impaired decision-making capacity (IDMC) who have a legally authorized representative (LAR) or caregiver and/or family member available will also be considered eligible\n* Patients must have measurable disease as follows:\n\n  * For patients who have not started any initial systemic therapy (with pembrolizumab + chemotherapy) must have measurable disease documented by CT of the neck and chest, and abdomen obtained within 28 days prior to Step 1 registration\n  * For patients who have started or completed their 3 cycles of initial systemic therapy (with pembrolizumab + chemotherapy) must have measurable disease documented by CT of the neck, chest and abdomen obtained within 28 days prior to the start of their initial systemic therapy\n* Leukocytes \\>= 3,000/mcL (obtained =\\< 28 days prior to Step 1 registration or prior to the start of any chemotherapy if on Arm T)\n* Absolute neutrophil count (ANC) \\>= 1,500/mcL (obtained =\\< 28 days prior to Step 1 registration or prior to the start of any chemotherapy if on Arm T)\n* Platelets \\>= 100,000/mcL (obtained =\\< 28 days prior to Step 1 registration or prior to the start of any chemotherapy if on Arm T)\n* Total bilirubin =\\< institutional upper limit of normal (ULN). Patients with a total bilirubin \\> 1.5 x ULN, that is attributed to confirmed Gilbert's syndrome, are allowed after consultation and approval from their treating physician (obtained =\\< 28 days prior to Step 1 registration or prior to the start of any chemotherapy if on Arm T)\n* Aspartate aminotransferase (AST)(serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT)(serum glutamic pyruvic transaminase \\[SGPT\\]) =\\< 3.0 x institutional ULN (obtained =\\< 28 days prior to Step 1 registration or prior to the start of any chemotherapy if on Arm T)\n* Creatinine clearance: Glomerular filtration rate (GFR) \\>= 50 mL/min/1.73m\\^2 (for patients receiving carboplatin-based regimens, GFR \\> 30 mL/min/1.73m\\^2) (obtained =\\< 28 days prior to Step 1 registration or prior to the start of any chemotherapy if on Arm T)\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months of Step 1 registration are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated\n* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n* Patients with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function using the New York Heart Association Functional Classification. To be eligible for this trial, patients should be class 2B or better\n* Patients on Arm S must have received chemoimmunotherapy\n* Patients will be enrolled in the quality of life (QOL) study if the patient can read and understand English, Spanish, French or Chinese (simplified or traditional characters)\n\n  * NOTE: Sites cannot translate the associated QOL forms\n* Patients of childbearing potential and/or sexually active patients must not expect to conceive or father children by using an accepted and effective method(s) of contraception or by abstaining from sexual intercourse for the duration of their participation in the study. Patients of childbearing potential must continue contraceptive measures for 4 months after the last dose of protocol treatment and must not breastfeed while on study treatment through 4 months after the last dose of protocol treatment\n* STEP 2 RANDOMIZATION:\n* Patient must have ECOG performance status 0-2\n* Patient must have completed 3 cycles of initial systemic chemotherapy\n* For patients registered to Arm S on Step 1, patients must have at least stable disease after completing 3 cycles of pembrolizumab + chemotherapy\n* Patient must have no signs of progression (complete response \\[CR\\]/partial response \\[PR\\] or stable disease \\[SD\\]) on restaging imaging (consisting of neck, chest, and abdomen CT). Restaging imaging must have been done after completion of initial systemic chemotherapy with pembrolizumab + chemotherapy on Step 1 and within 7 days prior to step 2 randomization. Patients with stable or responding radiologic response are eligible for Step 2\n\nExclusion Criteria:\n\n* Patients must not have prior head and neck radiotherapy\n* Patient must not have an active autoimmune disease (i.e., inflammatory bowel disease, systemic lupus erythematosus, rheumatoid arthritis, etc.) that has required systemic treatment (i.e., disease modifying agents, corticosteroids, or immunosuppressive drugs) in past 2 years. Replacement therapy (i.e., thyroxine, insulin, physiologic corticosteroid replacement) is not considered a form of systemic treatment and is allowed\n* Patient must not be pregnant or breast-feeding due to the potential harm to an unborn fetus and possible risk for adverse events in nursing infants with the treatment regimens being used. All patients of childbearing potential must have a blood test or urine study within 14 days prior to Step 1 registration to rule out pregnancy. A patient of childbearing potential is defined as anyone, regardless of sexual orientation or whether they have undergone tubal ligation, who meets the following criteria: 1) has achieved menarche at some point, 2) has not undergone a hysterectomy or bilateral oophorectomy; or 3) has not been naturally postmenopausal (amenorrhea following cancer therapy does not rule out childbearing potential) for at least 24 consecutive months (i.e., has had menses at any time in the preceding 24 consecutive months)\n* Patient must not have received any live vaccine within 30 days prior to Step 1 registration and while participating in the study. Live vaccines include, but are not limited to, the following: measles, mumps, rubella, chicken pox, yellow fever, rabies, bacillus Calmette Guerin (BCG), and typhoid (oral) vaccine. Patients are permitted to receive inactivated vaccines and any non-live vaccines including those for the seasonal influenza and coronavirus disease 2019 (COVID-19) (Note: intranasal influenza vaccines, such as Flu-Mist trademark are live attenuated vaccines and are not allowed). If possible, it is recommended to separate study drug administration from vaccine administration by about a week (primarily, in order to minimize an overlap of adverse events",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": ["ADULT", "OLDER_ADULT"]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "David J Sher",
+          "affiliation": "ECOG-ACRIN Cancer Research Group",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Moffitt Cancer Center-International Plaza",
+          "status": "RECRUITING",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33607",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-679-0775",
+              "email": "ClinicalTrials@moffitt.org"
+            },
+            { "name": "Jimmy J. Caudell", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 27.94752, "lon": -82.45843 }
+        },
+        {
+          "facility": "Moffitt Cancer Center - McKinley Campus",
+          "status": "RECRUITING",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33612",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-679-0775",
+              "email": "ClinicalTrials@moffitt.org"
+            },
+            { "name": "Jimmy J. Caudell", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 27.94752, "lon": -82.45843 }
+        },
+        {
+          "facility": "Moffitt Cancer Center",
+          "status": "RECRUITING",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33612",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-679-0775",
+              "email": "ClinicalTrials@moffitt.org"
+            },
+            { "name": "Jimmy J. Caudell", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 27.94752, "lon": -82.45843 }
+        },
+        {
+          "facility": "Emory University Hospital Midtown",
+          "status": "RECRUITING",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30308",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "888-946-7447"
+            },
+            { "name": "Soumon Rudra", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+        },
+        {
+          "facility": "Saint Luke's Cancer Institute - Boise",
+          "status": "RECRUITING",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83712",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "208-381-2774",
+              "email": "eslinget@slhs.org"
+            },
+            { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.6135, "lon": -116.20345 }
+        },
+        {
+          "facility": "Saint Luke's Cancer Institute - Fruitland",
+          "status": "RECRUITING",
+          "city": "Fruitland",
+          "state": "Idaho",
+          "zip": "83619",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "208-381-2774",
+              "email": "eslinget@slhs.org"
+            },
+            { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 44.00766, "lon": -116.91655 }
+        },
+        {
+          "facility": "Saint Luke's Cancer Institute - Meridian",
+          "status": "RECRUITING",
+          "city": "Meridian",
+          "state": "Idaho",
+          "zip": "83642",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "208-381-2774",
+              "email": "eslinget@slhs.org"
+            },
+            { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.61211, "lon": -116.39151 }
+        },
+        {
+          "facility": "Saint Luke's Cancer Institute - Nampa",
+          "status": "RECRUITING",
+          "city": "Nampa",
+          "state": "Idaho",
+          "zip": "83686",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "208-381-2774",
+              "email": "eslinget@slhs.org"
+            },
+            { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.54072, "lon": -116.56346 }
+        },
+        {
+          "facility": "Saint Luke's Cancer Institute - Twin Falls",
+          "status": "RECRUITING",
+          "city": "Twin Falls",
+          "state": "Idaho",
+          "zip": "83301",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "208-381-2774",
+              "email": "eslinget@slhs.org"
+            },
+            { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.56297, "lon": -114.46087 }
+        },
+        {
+          "facility": "University of Illinois",
+          "status": "RECRUITING",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60612",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "312-355-3046"
+            },
+            { "name": "Ameen Salahudeen", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+        },
+        {
+          "facility": "Carle at The Riverfront",
+          "status": "RECRUITING",
+          "city": "Danville",
+          "state": "Illinois",
+          "zip": "61832",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-446-5532",
+              "email": "Research@Carle.com"
+            },
+            { "name": "Daniel H. Barnett", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.12448, "lon": -87.63002 }
+        },
+        {
+          "facility": "Carle Physician Group-Effingham",
+          "status": "RECRUITING",
+          "city": "Effingham",
+          "state": "Illinois",
+          "zip": "62401",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-446-5532",
+              "email": "Research@carle.com"
+            },
+            { "name": "Daniel H. Barnett", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.12004, "lon": -88.54338 }
+        },
+        {
+          "facility": "Carle Physician Group-Mattoon/Charleston",
+          "status": "RECRUITING",
+          "city": "Mattoon",
+          "state": "Illinois",
+          "zip": "61938",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-446-5532",
+              "email": "Research@carle.com"
+            },
+            { "name": "Daniel H. Barnett", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.48309, "lon": -88.37283 }
+        },
+        {
+          "facility": "Carle Cancer Center",
+          "status": "RECRUITING",
+          "city": "Urbana",
+          "state": "Illinois",
+          "zip": "61801",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-446-5532",
+              "email": "Research@carle.com"
+            },
+            { "name": "Daniel H. Barnett", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.11059, "lon": -88.20727 }
+        },
+        {
+          "facility": "Mission Cancer and Blood - Ankeny",
+          "status": "RECRUITING",
+          "city": "Ankeny",
+          "state": "Iowa",
+          "zip": "50023",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "515-282-2921"
+            },
+            {
+              "name": "Seema Harichand-Herdt",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 41.72971, "lon": -93.60577 }
+        },
+        {
+          "facility": "Mercy Hospital",
+          "status": "RECRUITING",
+          "city": "Cedar Rapids",
+          "state": "Iowa",
+          "zip": "52403",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "319-365-4673"
+            },
+            { "name": "Deborah W. Wilbur", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.00833, "lon": -91.64407 }
+        },
+        {
+          "facility": "Oncology Associates at Mercy Medical Center",
+          "status": "RECRUITING",
+          "city": "Cedar Rapids",
+          "state": "Iowa",
+          "zip": "52403",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "319-363-2690"
+            },
+            { "name": "Deborah W. Wilbur", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.00833, "lon": -91.64407 }
+        },
+        {
+          "facility": "Iowa Methodist Medical Center",
+          "status": "RECRUITING",
+          "city": "Des Moines",
+          "state": "Iowa",
+          "zip": "50309",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "515-241-6727"
+            },
+            {
+              "name": "Seema Harichand-Herdt",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 41.60054, "lon": -93.60911 }
+        },
+        {
+          "facility": "Mission Cancer and Blood - Des Moines",
+          "status": "RECRUITING",
+          "city": "Des Moines",
+          "state": "Iowa",
+          "zip": "50309",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "515-241-3305"
+            },
+            {
+              "name": "Seema Harichand-Herdt",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": { "lat": 41.60054, "lon": -93.60911 }
+        },
+        {
+          "facility": "Sanford Joe Lueken Cancer Center",
+          "status": "RECRUITING",
+          "city": "Bemidji",
+          "state": "Minnesota",
+          "zip": "56601",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "218-333-5000",
+              "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 47.47356, "lon": -94.88028 }
+        },
+        {
+          "facility": "Freeman Health System",
+          "status": "RECRUITING",
+          "city": "Joplin",
+          "state": "Missouri",
+          "zip": "64804",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "417-347-4030",
+              "email": "LJCrockett@freemanhealth.com"
+            },
+            { "name": "Jay W. Carlson", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.08423, "lon": -94.51328 }
+        },
+        {
+          "facility": "Sands Cancer Center",
+          "status": "RECRUITING",
+          "city": "Canandiaqua",
+          "state": "New York",
+          "zip": "14424",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "585-396-6161"
+            },
+            { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+          ]
+        },
+        {
+          "facility": "Wilmot Cancer Institute Radiation Oncology at Greece",
+          "status": "RECRUITING",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14606",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "585-758-7877"
+            },
+            { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.15478, "lon": -77.61556 }
+        },
+        {
+          "facility": "Highland Hospital",
+          "status": "RECRUITING",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14620",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "585-341-8113"
+            },
+            { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.15478, "lon": -77.61556 }
+        },
+        {
+          "facility": "University of Rochester",
+          "status": "RECRUITING",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14642",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "585-275-5830"
+            },
+            { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.15478, "lon": -77.61556 }
+        },
+        {
+          "facility": "Stony Brook University Medical Center",
+          "status": "RECRUITING",
+          "city": "Stony Brook",
+          "state": "New York",
+          "zip": "11794",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-862-2215"
+            },
+            { "name": "Mark Ashamalla", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 40.92565, "lon": -73.14094 }
+        },
+        {
+          "facility": "Wilmot Cancer Institute at Webster",
+          "status": "RECRUITING",
+          "city": "Webster",
+          "state": "New York",
+          "zip": "14580",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "email": "WCICTOresearch@urmc.rochester.edu"
+            },
+            { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.21229, "lon": -77.42999 }
+        },
+        {
+          "facility": "Sanford Bismarck Medical Center",
+          "status": "RECRUITING",
+          "city": "Bismarck",
+          "state": "North Dakota",
+          "zip": "58501",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "701-323-5760",
+              "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 46.80833, "lon": -100.78374 }
+        },
+        {
+          "facility": "Sanford Broadway Medical Center",
+          "status": "RECRUITING",
+          "city": "Fargo",
+          "state": "North Dakota",
+          "zip": "58122",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "701-323-5760",
+              "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 46.87719, "lon": -96.7898 }
+        },
+        {
+          "facility": "Sanford Roger Maris Cancer Center",
+          "status": "RECRUITING",
+          "city": "Fargo",
+          "state": "North Dakota",
+          "zip": "58122",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "701-234-6161",
+              "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 46.87719, "lon": -96.7898 }
+        },
+        {
+          "facility": "UH Seidman Cancer Center at UH Avon Health Center",
+          "status": "RECRUITING",
+          "city": "Avon",
+          "state": "Ohio",
+          "zip": "44011",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-641-2422"
+            },
+            { "name": "Jennifer A. Dorth", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.45171, "lon": -82.03542 }
+        },
+        {
+          "facility": "Case Western Reserve University",
+          "status": "RECRUITING",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44106",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-641-2422",
+              "email": "CTUReferral@UHhospitals.org"
+            },
+            { "name": "Jennifer A. Dorth", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.4995, "lon": -81.69541 }
+        },
+        {
+          "facility": "UH Seidman Cancer Center at Lake Health Mentor Campus",
+          "status": "RECRUITING",
+          "city": "Mentor",
+          "state": "Ohio",
+          "zip": "44060",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "800-641-2422",
+              "email": "CTUReferral@UHhospitals.org"
+            },
+            { "name": "Jennifer A. Dorth", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 41.66616, "lon": -81.33955 }
+        },
+        {
+          "facility": "University of Oklahoma Health Sciences Center",
+          "status": "RECRUITING",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "405-271-8777",
+              "email": "ou-clinical-trials@ouhsc.edu"
+            },
+            { "name": "Christina Henson", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 35.46756, "lon": -97.51643 }
+        },
+        {
+          "facility": "Providence Newberg Medical Center",
+          "status": "RECRUITING",
+          "city": "Newberg",
+          "state": "Oregon",
+          "zip": "97132",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "503-215-2614",
+              "email": "CanRsrchStudies@providence.org"
+            },
+            { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.30012, "lon": -122.97316 }
+        },
+        {
+          "facility": "Providence Saint Vincent Medical Center",
+          "status": "RECRUITING",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97225",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "503-215-2614",
+              "email": "CanRsrchStudies@providence.org"
+            },
+            { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.52345, "lon": -122.67621 }
+        },
+        {
+          "facility": "Fox Chase Cancer Center",
+          "status": "RECRUITING",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19111",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "215-728-4790"
+            },
+            { "name": "Jessica R. Bauman", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+        },
+        {
+          "facility": "Medical University of South Carolina",
+          "status": "RECRUITING",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29425",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "843-792-9321",
+              "email": "hcc-clinical-trials@musc.edu"
+            },
+            { "name": "Bhishamjit S. Chera", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 32.77632, "lon": -79.93275 }
+        },
+        {
+          "facility": "Sanford Cancer Center Oncology Clinic",
+          "status": "RECRUITING",
+          "city": "Sioux Falls",
+          "state": "South Dakota",
+          "zip": "57104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "605-312-3320",
+              "email": "OncologyClinicTrialsSF@sanfordhealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.54369, "lon": -96.72796 }
+        },
+        {
+          "facility": "Sanford USD Medical Center - Sioux Falls",
+          "status": "RECRUITING",
+          "city": "Sioux Falls",
+          "state": "South Dakota",
+          "zip": "57117-5134",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "605-312-3320",
+              "email": "OncologyClinicalTrialsSF@SanfordHealth.org"
+            },
+            { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.54369, "lon": -96.72796 }
+        },
+        {
+          "facility": "VCU Massey Cancer Center at Stony Point",
+          "status": "RECRUITING",
+          "city": "Richmond",
+          "state": "Virginia",
+          "zip": "23235",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "email": "ctoclinops@vcu.edu"
+            },
+            { "name": "Erin R. Alesi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.55376, "lon": -77.46026 }
+        },
+        {
+          "facility": "Virginia Commonwealth University/Massey Cancer Center",
+          "status": "RECRUITING",
+          "city": "Richmond",
+          "state": "Virginia",
+          "zip": "23298",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "email": "CTOclinops@vcu.edu"
+            },
+            { "name": "Erin R. Alesi", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 37.55376, "lon": -77.46026 }
+        },
+        {
+          "facility": "Langlade Hospital and Cancer Center",
+          "status": "RECRUITING",
+          "city": "Antigo",
+          "state": "Wisconsin",
+          "zip": "54409",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "715-623-9869",
+              "email": "Juli.Alford@aspirus.org"
+            },
+            { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.14025, "lon": -89.15234 }
+        },
+        {
+          "facility": "Gundersen Lutheran Medical Center",
+          "status": "RECRUITING",
+          "city": "La Crosse",
+          "state": "Wisconsin",
+          "zip": "54601",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "608-775-2385",
+              "email": "cancerctr@gundersenhealth.org"
+            },
+            { "name": "Kurt Oettel", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.80136, "lon": -91.23958 }
+        },
+        {
+          "facility": "ProHealth D N Greenwald Center",
+          "status": "RECRUITING",
+          "city": "Mukwonago",
+          "state": "Wisconsin",
+          "zip": "53149",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "email": "research.institute@phci.org"
+            },
+            { "name": "Timothy R. Wassenaar", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 42.86668, "lon": -88.33343 }
+        },
+        {
+          "facility": "ProHealth Oconomowoc Memorial Hospital",
+          "status": "RECRUITING",
+          "city": "Oconomowoc",
+          "state": "Wisconsin",
+          "zip": "53066",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "262-928-7878"
+            },
+            { "name": "Timothy R. Wassenaar", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.11167, "lon": -88.49927 }
+        },
+        {
+          "facility": "Ascension Saint Mary's Hospital",
+          "status": "RECRUITING",
+          "city": "Rhinelander",
+          "state": "Wisconsin",
+          "zip": "54501",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "715-847-2353",
+              "email": "Beth.Knetter@aspirus.org"
+            },
+            { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 45.63662, "lon": -89.41208 }
+        },
+        {
+          "facility": "Ascension Saint Michael's Hospital",
+          "status": "RECRUITING",
+          "city": "Stevens Point",
+          "state": "Wisconsin",
+          "zip": "54481",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "715-847-2353",
+              "email": "Beth.Knetter@aspirus.org"
+            },
+            { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 44.52358, "lon": -89.57456 }
+        },
+        {
+          "facility": "UW Cancer Center at ProHealth Care",
+          "status": "RECRUITING",
+          "city": "Waukesha",
+          "state": "Wisconsin",
+          "zip": "53188",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "262-928-5539",
+              "email": "Chanda.miller@phci.org"
+            },
+            { "name": "Timothy R. Wassenaar", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 43.01168, "lon": -88.23148 }
+        },
+        {
+          "facility": "Aspirus Regional Cancer Center",
+          "status": "RECRUITING",
+          "city": "Wausau",
+          "state": "Wisconsin",
+          "zip": "54401",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "877-405-6866"
+            },
+            { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 44.95914, "lon": -89.63012 }
+        },
+        {
+          "facility": "Aspirus Cancer Care - Wisconsin Rapids",
+          "status": "RECRUITING",
+          "city": "Wisconsin Rapids",
+          "state": "Wisconsin",
+          "zip": "54494",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Site Public Contact",
+              "role": "CONTACT",
+              "phone": "715-422-7718"
+            },
+            { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+          ],
+          "geoPoint": { "lat": 44.38358, "lon": -89.81735 }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": { "versionHolder": "2025-11-04" },
+    "conditionBrowseModule": {
+      "meshes": [
+        { "id": "D009959", "term": "Oropharyngeal Neoplasms" },
+        {
+          "id": "D000077195",
+          "term": "Squamous Cell Carcinoma of Head and Neck"
+        },
+        { "id": "D007012", "term": "Hypopharyngeal Neoplasms" },
+        { "id": "D007822", "term": "Laryngeal Neoplasms" },
+        { "id": "D009062", "term": "Mouth Neoplasms" },
+        { "id": "D002277", "term": "Carcinoma" }
+      ],
+      "ancestors": [
+        { "id": "D010610", "term": "Pharyngeal Neoplasms" },
+        { "id": "D010039", "term": "Otorhinolaryngologic Neoplasms" },
+        { "id": "D006258", "term": "Head and Neck Neoplasms" },
+        { "id": "D009371", "term": "Neoplasms by Site" },
+        { "id": "D009369", "term": "Neoplasms" },
+        { "id": "D010608", "term": "Pharyngeal Diseases" },
+        { "id": "D009057", "term": "Stomatognathic Diseases" },
+        { "id": "D010038", "term": "Otorhinolaryngologic Diseases" },
+        { "id": "D002294", "term": "Carcinoma, Squamous Cell" },
+        { "id": "D009375", "term": "Neoplasms, Glandular and Epithelial" },
+        { "id": "D009370", "term": "Neoplasms by Histologic Type" },
+        { "id": "D007818", "term": "Laryngeal Diseases" },
+        { "id": "D012140", "term": "Respiratory Tract Diseases" },
+        { "id": "D012142", "term": "Respiratory Tract Neoplasms" },
+        { "id": "D009059", "term": "Mouth Diseases" }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        { "id": "D016190", "term": "Carboplatin" },
+        { "id": "D002945", "term": "Cisplatin" },
+        {
+          "id": "C044245",
+          "term": "1,2-diaminocyclohexaneplatinum II citrate"
+        },
+        { "id": "D010984", "term": "Platinum" },
+        { "id": "D005472", "term": "Fluorouracil" },
+        { "id": "C029917", "term": "dehydroftorafur" },
+        { "id": "D009682", "term": "Magnetic Resonance Spectroscopy" },
+        { "id": "D017239", "term": "Paclitaxel" },
+        { "id": "D013660", "term": "Taxes" },
+        { "id": "C582435", "term": "pembrolizumab" },
+        { "id": "D011878", "term": "Radiotherapy" },
+        { "id": "D011827", "term": "Radiation" }
+      ],
+      "ancestors": [
+        { "id": "D056831", "term": "Coordination Complexes" },
+        { "id": "D009930", "term": "Organic Chemicals" },
+        { "id": "D017606", "term": "Chlorine Compounds" },
+        { "id": "D007287", "term": "Inorganic Chemicals" },
+        { "id": "D017672", "term": "Nitrogen Compounds" },
+        { "id": "D017671", "term": "Platinum Compounds" },
+        { "id": "D019216", "term": "Metals, Heavy" },
+        { "id": "D004602", "term": "Elements" },
+        { "id": "D028561", "term": "Transition Elements" },
+        { "id": "D008670", "term": "Metals" },
+        { "id": "D014498", "term": "Uracil" },
+        { "id": "D011744", "term": "Pyrimidinones" },
+        { "id": "D011743", "term": "Pyrimidines" },
+        { "id": "D006573", "term": "Heterocyclic Compounds, 1-Ring" },
+        { "id": "D006571", "term": "Heterocyclic Compounds" },
+        { "id": "D013057", "term": "Spectrum Analysis" },
+        { "id": "D002623", "term": "Chemistry Techniques, Analytical" },
+        { "id": "D008919", "term": "Investigative Techniques" },
+        { "id": "D043823", "term": "Taxoids" },
+        { "id": "D043822", "term": "Cyclodecanes" },
+        { "id": "D003516", "term": "Cycloparaffins" },
+        { "id": "D006840", "term": "Hydrocarbons, Alicyclic" },
+        { "id": "D006844", "term": "Hydrocarbons, Cyclic" },
+        { "id": "D006838", "term": "Hydrocarbons" },
+        { "id": "D004224", "term": "Diterpenes" },
+        { "id": "D013729", "term": "Terpenes" },
+        { "id": "D004467", "term": "Economics" },
+        { "id": "D004472", "term": "Health Care Economics and Organizations" },
+        { "id": "D013812", "term": "Therapeutics" },
+        { "id": "D055585", "term": "Physical Phenomena" }
+      ]
+    }
+  },
+  "hasResults": false
+}

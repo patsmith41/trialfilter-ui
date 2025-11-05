@@ -1,0 +1,16 @@
+[
+  {
+    "base_cancer": "Glioblastoma",
+    "subtype_histology": "Grade IV",
+    "biomarkers": "IDH Wildtype",
+    "clinical_state_descriptors": "Newly Diagnosed",
+    "stage_category": "Non-Metastatic"
+  },
+  {
+    "base_cancer": "Glioblastoma",
+    "subtype_histology": "Grade IV",
+    "biomarkers": "IDH Wildtype",
+    "clinical_state_descriptors": "First or Second Recurrence",
+    "stage_category": "Recurrent"
+  }
+]

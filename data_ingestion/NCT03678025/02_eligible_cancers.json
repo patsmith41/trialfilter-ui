@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Prostate Cancer",
+    "subtype_histology": "Adenocarcinoma",
+    "biomarkers": "Testosterone < 50 ng/dL",
+    "clinical_state_descriptors": "Intact Prostate, Stage IV, Stage IVA, Stage IVB",
+    "stage_category": "Metastatic"
+  }
+]

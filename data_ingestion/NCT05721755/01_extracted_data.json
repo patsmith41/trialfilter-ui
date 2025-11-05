@@ -1,0 +1,958 @@
+{
+  "nct_id": "NCT05721755",
+  "official_title": "Phase III Randomized Trial of Immunotherapy With or Without Consolidative Radiotherapy for Oligometastatic Head and Neck Squamous Cell Carcinoma",
+  "brief_title": "Combining Radiation Therapy With Immunotherapy for the Treatment of Metastatic Squamous Cell Carcinoma of the Head and Neck",
+  "cancer_type_display": "A study for patients with metastatic squamous cell carcinoma of the head and neck that has four or fewer metastatic sites (oligometastatic).",
+  "cancer_tags": [
+    "Clinical Stage IV HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8",
+    "Metastatic Head and Neck Squamous Cell Carcinoma",
+    "Metastatic Hypopharyngeal Squamous Cell Carcinoma",
+    "Metastatic Laryngeal Squamous Cell Carcinoma",
+    "Metastatic Oral Cavity Squamous Cell Carcinoma",
+    "Metastatic Oropharyngeal Squamous Cell Carcinoma",
+    "Stage IV Cutaneous Squamous Cell Carcinoma of the Head and Neck AJCC v8",
+    "Stage IV Hypopharyngeal Carcinoma AJCC v8",
+    "Stage IV Laryngeal Cancer AJCC v8",
+    "Stage IV Lip and Oral Cavity Cancer AJCC v8",
+    "Stage IV Oropharyngeal (p16-Negative) Carcinoma AJCC v8"
+  ],
+  "link_to_trial": "https://clinicaltrials.gov/study/NCT05721755",
+  "phase": "Phase 3",
+  "recruitment_status": "RECRUITING",
+  "last_update_date": "2025-10-17",
+  "enrollment": 290,
+  "min_age": 18,
+  "max_age": null,
+  "sex": "ALL",
+  "is_metastatic_allowed": true,
+  "performance_status_scale": "ECOG",
+  "performance_status_values": [0, 1, 2],
+  "min_prior_lines": 0,
+  "max_prior_lines": 0,
+  "prior_treatments_required": null,
+  "prior_treatments_excluded": ["Prior head and neck radiotherapy"],
+  "principal_investigator": "David J Sher",
+  "site_name": null,
+  "contact_email": null,
+  "contact_phone": null,
+  "locations": [
+    {
+      "facility": "Moffitt Cancer Center-International Plaza",
+      "status": "RECRUITING",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "33607",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-679-0775",
+          "email": "ClinicalTrials@moffitt.org"
+        },
+        { "name": "Jimmy J. Caudell", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 27.94752, "lon": -82.45843 }
+    },
+    {
+      "facility": "Moffitt Cancer Center - McKinley Campus",
+      "status": "RECRUITING",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "33612",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-679-0775",
+          "email": "ClinicalTrials@moffitt.org"
+        },
+        { "name": "Jimmy J. Caudell", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 27.94752, "lon": -82.45843 }
+    },
+    {
+      "facility": "Moffitt Cancer Center",
+      "status": "RECRUITING",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "33612",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-679-0775",
+          "email": "ClinicalTrials@moffitt.org"
+        },
+        { "name": "Jimmy J. Caudell", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 27.94752, "lon": -82.45843 }
+    },
+    {
+      "facility": "Emory University Hospital Midtown",
+      "status": "RECRUITING",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "888-946-7447"
+        },
+        { "name": "Soumon Rudra", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 33.749, "lon": -84.38798 }
+    },
+    {
+      "facility": "Saint Luke's Cancer Institute - Boise",
+      "status": "RECRUITING",
+      "city": "Boise",
+      "state": "Idaho",
+      "zip": "83712",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "208-381-2774",
+          "email": "eslinget@slhs.org"
+        },
+        { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.6135, "lon": -116.20345 }
+    },
+    {
+      "facility": "Saint Luke's Cancer Institute - Fruitland",
+      "status": "RECRUITING",
+      "city": "Fruitland",
+      "state": "Idaho",
+      "zip": "83619",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "208-381-2774",
+          "email": "eslinget@slhs.org"
+        },
+        { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 44.00766, "lon": -116.91655 }
+    },
+    {
+      "facility": "Saint Luke's Cancer Institute - Meridian",
+      "status": "RECRUITING",
+      "city": "Meridian",
+      "state": "Idaho",
+      "zip": "83642",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "208-381-2774",
+          "email": "eslinget@slhs.org"
+        },
+        { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.61211, "lon": -116.39151 }
+    },
+    {
+      "facility": "Saint Luke's Cancer Institute - Nampa",
+      "status": "RECRUITING",
+      "city": "Nampa",
+      "state": "Idaho",
+      "zip": "83686",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "208-381-2774",
+          "email": "eslinget@slhs.org"
+        },
+        { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.54072, "lon": -116.56346 }
+    },
+    {
+      "facility": "Saint Luke's Cancer Institute - Twin Falls",
+      "status": "RECRUITING",
+      "city": "Twin Falls",
+      "state": "Idaho",
+      "zip": "83301",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "208-381-2774",
+          "email": "eslinget@slhs.org"
+        },
+        { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 42.56297, "lon": -114.46087 }
+    },
+    {
+      "facility": "University of Illinois",
+      "status": "RECRUITING",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60612",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "312-355-3046"
+        },
+        { "name": "Ameen Salahudeen", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 41.85003, "lon": -87.65005 }
+    },
+    {
+      "facility": "Carle at The Riverfront",
+      "status": "RECRUITING",
+      "city": "Danville",
+      "state": "Illinois",
+      "zip": "61832",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-446-5532",
+          "email": "Research@Carle.com"
+        },
+        { "name": "Daniel H. Barnett", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.12448, "lon": -87.63002 }
+    },
+    {
+      "facility": "Carle Physician Group-Effingham",
+      "status": "RECRUITING",
+      "city": "Effingham",
+      "state": "Illinois",
+      "zip": "62401",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-446-5532",
+          "email": "Research@carle.com"
+        },
+        { "name": "Daniel H. Barnett", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.12004, "lon": -88.54338 }
+    },
+    {
+      "facility": "Carle Physician Group-Mattoon/Charleston",
+      "status": "RECRUITING",
+      "city": "Mattoon",
+      "state": "Illinois",
+      "zip": "61938",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-446-5532",
+          "email": "Research@carle.com"
+        },
+        { "name": "Daniel H. Barnett", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.48309, "lon": -88.37283 }
+    },
+    {
+      "facility": "Carle Cancer Center",
+      "status": "RECRUITING",
+      "city": "Urbana",
+      "state": "Illinois",
+      "zip": "61801",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-446-5532",
+          "email": "Research@carle.com"
+        },
+        { "name": "Daniel H. Barnett", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.11059, "lon": -88.20727 }
+    },
+    {
+      "facility": "Mission Cancer and Blood - Ankeny",
+      "status": "RECRUITING",
+      "city": "Ankeny",
+      "state": "Iowa",
+      "zip": "50023",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "515-282-2921"
+        },
+        {
+          "name": "Seema Harichand-Herdt",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 41.72971, "lon": -93.60577 }
+    },
+    {
+      "facility": "Mercy Hospital",
+      "status": "RECRUITING",
+      "city": "Cedar Rapids",
+      "state": "Iowa",
+      "zip": "52403",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "319-365-4673"
+        },
+        { "name": "Deborah W. Wilbur", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 42.00833, "lon": -91.64407 }
+    },
+    {
+      "facility": "Oncology Associates at Mercy Medical Center",
+      "status": "RECRUITING",
+      "city": "Cedar Rapids",
+      "state": "Iowa",
+      "zip": "52403",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "319-363-2690"
+        },
+        { "name": "Deborah W. Wilbur", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 42.00833, "lon": -91.64407 }
+    },
+    {
+      "facility": "Iowa Methodist Medical Center",
+      "status": "RECRUITING",
+      "city": "Des Moines",
+      "state": "Iowa",
+      "zip": "50309",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "515-241-6727"
+        },
+        {
+          "name": "Seema Harichand-Herdt",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 41.60054, "lon": -93.60911 }
+    },
+    {
+      "facility": "Mission Cancer and Blood - Des Moines",
+      "status": "RECRUITING",
+      "city": "Des Moines",
+      "state": "Iowa",
+      "zip": "50309",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "515-241-3305"
+        },
+        {
+          "name": "Seema Harichand-Herdt",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "geoPoint": { "lat": 41.60054, "lon": -93.60911 }
+    },
+    {
+      "facility": "Sanford Joe Lueken Cancer Center",
+      "status": "RECRUITING",
+      "city": "Bemidji",
+      "state": "Minnesota",
+      "zip": "56601",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "218-333-5000",
+          "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+        },
+        { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 47.47356, "lon": -94.88028 }
+    },
+    {
+      "facility": "Freeman Health System",
+      "status": "RECRUITING",
+      "city": "Joplin",
+      "state": "Missouri",
+      "zip": "64804",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "417-347-4030",
+          "email": "LJCrockett@freemanhealth.com"
+        },
+        { "name": "Jay W. Carlson", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 37.08423, "lon": -94.51328 }
+    },
+    {
+      "facility": "Sands Cancer Center",
+      "status": "RECRUITING",
+      "city": "Canandiaqua",
+      "state": "New York",
+      "zip": "14424",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "585-396-6161"
+        },
+        { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+      ]
+    },
+    {
+      "facility": "Wilmot Cancer Institute Radiation Oncology at Greece",
+      "status": "RECRUITING",
+      "city": "Rochester",
+      "state": "New York",
+      "zip": "14606",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "585-758-7877"
+        },
+        { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.15478, "lon": -77.61556 }
+    },
+    {
+      "facility": "Highland Hospital",
+      "status": "RECRUITING",
+      "city": "Rochester",
+      "state": "New York",
+      "zip": "14620",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "585-341-8113"
+        },
+        { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.15478, "lon": -77.61556 }
+    },
+    {
+      "facility": "University of Rochester",
+      "status": "RECRUITING",
+      "city": "Rochester",
+      "state": "New York",
+      "zip": "14642",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "585-275-5830"
+        },
+        { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.15478, "lon": -77.61556 }
+    },
+    {
+      "facility": "Stony Brook University Medical Center",
+      "status": "RECRUITING",
+      "city": "Stony Brook",
+      "state": "New York",
+      "zip": "11794",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-862-2215"
+        },
+        { "name": "Mark Ashamalla", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 40.92565, "lon": -73.14094 }
+    },
+    {
+      "facility": "Wilmot Cancer Institute at Webster",
+      "status": "RECRUITING",
+      "city": "Webster",
+      "state": "New York",
+      "zip": "14580",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "email": "WCICTOresearch@urmc.rochester.edu"
+        },
+        { "name": "Yuhchyau Chen", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.21229, "lon": -77.42999 }
+    },
+    {
+      "facility": "Sanford Bismarck Medical Center",
+      "status": "RECRUITING",
+      "city": "Bismarck",
+      "state": "North Dakota",
+      "zip": "58501",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "701-323-5760",
+          "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+        },
+        { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 46.80833, "lon": -100.78374 }
+    },
+    {
+      "facility": "Sanford Broadway Medical Center",
+      "status": "RECRUITING",
+      "city": "Fargo",
+      "state": "North Dakota",
+      "zip": "58122",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "701-323-5760",
+          "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+        },
+        { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 46.87719, "lon": -96.7898 }
+    },
+    {
+      "facility": "Sanford Roger Maris Cancer Center",
+      "status": "RECRUITING",
+      "city": "Fargo",
+      "state": "North Dakota",
+      "zip": "58122",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "701-234-6161",
+          "email": "OncologyClinicalTrialsFargo@sanfordhealth.org"
+        },
+        { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 46.87719, "lon": -96.7898 }
+    },
+    {
+      "facility": "UH Seidman Cancer Center at UH Avon Health Center",
+      "status": "RECRUITING",
+      "city": "Avon",
+      "state": "Ohio",
+      "zip": "44011",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-641-2422"
+        },
+        { "name": "Jennifer A. Dorth", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 41.45171, "lon": -82.03542 }
+    },
+    {
+      "facility": "Case Western Reserve University",
+      "status": "RECRUITING",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "zip": "44106",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-641-2422",
+          "email": "CTUReferral@UHhospitals.org"
+        },
+        { "name": "Jennifer A. Dorth", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 41.4995, "lon": -81.69541 }
+    },
+    {
+      "facility": "UH Seidman Cancer Center at Lake Health Mentor Campus",
+      "status": "RECRUITING",
+      "city": "Mentor",
+      "state": "Ohio",
+      "zip": "44060",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "800-641-2422",
+          "email": "CTUReferral@UHhospitals.org"
+        },
+        { "name": "Jennifer A. Dorth", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 41.66616, "lon": -81.33955 }
+    },
+    {
+      "facility": "University of Oklahoma Health Sciences Center",
+      "status": "RECRUITING",
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "zip": "73104",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "405-271-8777",
+          "email": "ou-clinical-trials@ouhsc.edu"
+        },
+        { "name": "Christina Henson", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 35.46756, "lon": -97.51643 }
+    },
+    {
+      "facility": "Providence Newberg Medical Center",
+      "status": "RECRUITING",
+      "city": "Newberg",
+      "state": "Oregon",
+      "zip": "97132",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "503-215-2614",
+          "email": "CanRsrchStudies@providence.org"
+        },
+        { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 45.30012, "lon": -122.97316 }
+    },
+    {
+      "facility": "Providence Saint Vincent Medical Center",
+      "status": "RECRUITING",
+      "city": "Portland",
+      "state": "Oregon",
+      "zip": "97225",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "503-215-2614",
+          "email": "CanRsrchStudies@providence.org"
+        },
+        { "name": "Alison K. Conlin", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 45.52345, "lon": -122.67621 }
+    },
+    {
+      "facility": "Fox Chase Cancer Center",
+      "status": "RECRUITING",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19111",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "215-728-4790"
+        },
+        { "name": "Jessica R. Bauman", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 39.95238, "lon": -75.16362 }
+    },
+    {
+      "facility": "Medical University of South Carolina",
+      "status": "RECRUITING",
+      "city": "Charleston",
+      "state": "South Carolina",
+      "zip": "29425",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "843-792-9321",
+          "email": "hcc-clinical-trials@musc.edu"
+        },
+        { "name": "Bhishamjit S. Chera", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 32.77632, "lon": -79.93275 }
+    },
+    {
+      "facility": "Sanford Cancer Center Oncology Clinic",
+      "status": "RECRUITING",
+      "city": "Sioux Falls",
+      "state": "South Dakota",
+      "zip": "57104",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "605-312-3320",
+          "email": "OncologyClinicTrialsSF@sanfordhealth.org"
+        },
+        { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.54369, "lon": -96.72796 }
+    },
+    {
+      "facility": "Sanford USD Medical Center - Sioux Falls",
+      "status": "RECRUITING",
+      "city": "Sioux Falls",
+      "state": "South Dakota",
+      "zip": "57117-5134",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "605-312-3320",
+          "email": "OncologyClinicalTrialsSF@SanfordHealth.org"
+        },
+        { "name": "Daniel Almquist", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.54369, "lon": -96.72796 }
+    },
+    {
+      "facility": "VCU Massey Cancer Center at Stony Point",
+      "status": "RECRUITING",
+      "city": "Richmond",
+      "state": "Virginia",
+      "zip": "23235",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "email": "ctoclinops@vcu.edu"
+        },
+        { "name": "Erin R. Alesi", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 37.55376, "lon": -77.46026 }
+    },
+    {
+      "facility": "Virginia Commonwealth University/Massey Cancer Center",
+      "status": "RECRUITING",
+      "city": "Richmond",
+      "state": "Virginia",
+      "zip": "23298",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "email": "CTOclinops@vcu.edu"
+        },
+        { "name": "Erin R. Alesi", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 37.55376, "lon": -77.46026 }
+    },
+    {
+      "facility": "Langlade Hospital and Cancer Center",
+      "status": "RECRUITING",
+      "city": "Antigo",
+      "state": "Wisconsin",
+      "zip": "54409",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "715-623-9869",
+          "email": "Juli.Alford@aspirus.org"
+        },
+        { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 45.14025, "lon": -89.15234 }
+    },
+    {
+      "facility": "Gundersen Lutheran Medical Center",
+      "status": "RECRUITING",
+      "city": "La Crosse",
+      "state": "Wisconsin",
+      "zip": "54601",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "608-775-2385",
+          "email": "cancerctr@gundersenhealth.org"
+        },
+        { "name": "Kurt Oettel", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.80136, "lon": -91.23958 }
+    },
+    {
+      "facility": "ProHealth D N Greenwald Center",
+      "status": "RECRUITING",
+      "city": "Mukwonago",
+      "state": "Wisconsin",
+      "zip": "53149",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "email": "research.institute@phci.org"
+        },
+        { "name": "Timothy R. Wassenaar", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 42.86668, "lon": -88.33343 }
+    },
+    {
+      "facility": "ProHealth Oconomowoc Memorial Hospital",
+      "status": "RECRUITING",
+      "city": "Oconomowoc",
+      "state": "Wisconsin",
+      "zip": "53066",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "262-928-7878"
+        },
+        { "name": "Timothy R. Wassenaar", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.11167, "lon": -88.49927 }
+    },
+    {
+      "facility": "Ascension Saint Mary's Hospital",
+      "status": "RECRUITING",
+      "city": "Rhinelander",
+      "state": "Wisconsin",
+      "zip": "54501",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "715-847-2353",
+          "email": "Beth.Knetter@aspirus.org"
+        },
+        { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 45.63662, "lon": -89.41208 }
+    },
+    {
+      "facility": "Ascension Saint Michael's Hospital",
+      "status": "RECRUITING",
+      "city": "Stevens Point",
+      "state": "Wisconsin",
+      "zip": "54481",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "715-847-2353",
+          "email": "Beth.Knetter@aspirus.org"
+        },
+        { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 44.52358, "lon": -89.57456 }
+    },
+    {
+      "facility": "UW Cancer Center at ProHealth Care",
+      "status": "RECRUITING",
+      "city": "Waukesha",
+      "state": "Wisconsin",
+      "zip": "53188",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "262-928-5539",
+          "email": "Chanda.miller@phci.org"
+        },
+        { "name": "Timothy R. Wassenaar", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 43.01168, "lon": -88.23148 }
+    },
+    {
+      "facility": "Aspirus Regional Cancer Center",
+      "status": "RECRUITING",
+      "city": "Wausau",
+      "state": "Wisconsin",
+      "zip": "54401",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "877-405-6866"
+        },
+        { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 44.95914, "lon": -89.63012 }
+    },
+    {
+      "facility": "Aspirus Cancer Care - Wisconsin Rapids",
+      "status": "RECRUITING",
+      "city": "Wisconsin Rapids",
+      "state": "Wisconsin",
+      "zip": "54494",
+      "country": "United States",
+      "contacts": [
+        {
+          "name": "Site Public Contact",
+          "role": "CONTACT",
+          "phone": "715-422-7718"
+        },
+        { "name": "Andrew J. Huang", "role": "PRINCIPAL_INVESTIGATOR" }
+      ],
+      "geoPoint": { "lat": 44.38358, "lon": -89.81735 }
+    }
+  ],
+  "key_inclusion_summary": [
+    "Must have biopsy-proven metastatic squamous cell carcinoma of the head and neck.",
+    "Patient must have 4 or fewer metastatic sites.",
+    "Eastern Cooperative Oncology Group (ECOG) performance status 0-1 at initial registration.",
+    "Must have measurable disease.",
+    "Adequate organ and marrow function."
+  ],
+  "key_exclusion_summary": [
+    "Patient must not have prior head and neck radiotherapy.",
+    "Patient must not have an active autoimmune disease that has required systemic treatment in the past 2 years.",
+    "Patient must not be pregnant or breast-feeding.",
+    "Patient must not have received any live vaccine within 30 days prior to registration."
+  ]
+}

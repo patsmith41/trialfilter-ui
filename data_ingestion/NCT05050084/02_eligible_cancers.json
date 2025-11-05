@@ -1,0 +1,9 @@
+[
+  {
+    "base_cancer": "Prostate Cancer",
+    "subtype_histology": "Adenocarcinoma",
+    "biomarkers": "Non-castrate testosterone > 50 ng/dL",
+    "clinical_state_descriptors": "Unfavorable Intermediate Risk",
+    "stage_category": "Non-Metastatic"
+  }
+]
